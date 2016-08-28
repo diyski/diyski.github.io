@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歳空港(札幌)" to="Niseko">
+  <outbound>
+    <transportation name="White Line Niseko行" type="other" available="2016/12/12~2017/03/26">
+      <info>
+      </info>
+      <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港(札幌)" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="Hirafu Welcome Center"   tag="" gps="" >
+            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+          </stop>
+          <stop name="The Green Leaf Niseko Village"   tag="" gps="" >
+            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+          </stop>
+          <stop name="Hilton Niseko Village Hotel"   tag="" gps="" >
+            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+          </stop>
+          <stop name="Niseko Northern resort Annupuri"   tag="" gps="" >
+            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+          </stop>
+          <stop name="Hotel Kanronomori"   tag="" gps="" >
+            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>12:00</time>
+          <time>12:20</time>
+          <time>12:30</time>
+          <time>12:45</time>
+          <time>12:55</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>13:00</time>
+          <time>13:20</time>
+          <time>13:30</time>
+          <time>13:45</time>
+          <time>13:55</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>14:00</time>
+          <time>14:20</time>
+          <time>14:30</time>
+          <time>14:45</time>
+          <time>14:55</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="White Line 新千歲機場行" type="other" available="2016/12/12~2017/03/26">
+      <info>
+      </info>
+      <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
+      <timetable>
+        <route>
+          <stop name="Hotel Kanronomori"   tag="" gps="" >
+          </stop>
+          <stop name="Niseko Northern resort Annupuri"   tag="" gps="" >
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+          </stop>
+          <stop name="The Green Leaf Niseko Village"   tag="" gps="" >
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
+          </stop>
+          <stop name="Hilton Niseko Village Hotel"   tag="" gps="" >
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+          </stop>
+          <stop name="Hirafu Welcome Center"   tag="" gps="" >
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港(札幌)" yahoo="true"  tag="" gps="" >
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:50</time>
+          <time>07:00</time>
+          <time>07:15</time>
+          <time>07:25</time>
+          <time>07:45</time>
+          <time>10:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

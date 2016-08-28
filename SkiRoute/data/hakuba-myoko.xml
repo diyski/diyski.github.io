@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="妙高" to="白馬">
+  <outbound>
+  </outbound>
+  <inbound>
+    <transportation name="Nagano snow shuttle 白馬" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
+      <timetable>
+        <route>
+          <stop name="白馬八方"   tag="" gps="" >
+          </stop>
+          <stop name="JR神城站"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+          </stop>
+          <stop name="野澤溫泉 中央車站"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+          </stop>
+          <stop name="志賀高原 住宿地點"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+            <interval from="野澤溫泉 中央車站" fare="0" km="0" />
+          </stop>
+          <stop name="妙高" yahoo="true"  tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+            <interval from="野澤溫泉 中央車站" fare="0" km="0" />
+            <interval from="志賀高原 住宿地點" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>07:45</time>
+          <time>09:15</time>
+          <time>09:40</time>
+          <time>09:15</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:45</time>
+          <time>12:30</time>
+          <time>12:45</time>
+          <time>12:30</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>15:45</time>
+          <time>17:30</time>
+          <time>17:45</time>
+          <time>17:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

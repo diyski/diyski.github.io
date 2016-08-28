@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="飯山" to="野澤溫泉">
+  <outbound>
+    <transportation name="野澤溫泉交通巴士・野澤溫泉行" type="bus" available="">
+      <info>
+      </info>
+      <source>http://www.vill.nozawaonsen.nagano.jp/about/%EF%BC%A8%EF%BC%92%EF%BC%98%E3%83%90%E3%82%B9%E6%99%82%E5%88%BB%E8%A1%A8%EF%BC%AA%EF%BC%B2%E5%85%A5.pdf</source>
+      <timetable>
+        <route>
+          <stop name="飯山" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="野澤溫泉"   tag="" gps="" >
+            <interval from="飯山" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:45</time>
+          <time>09:10</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:25</time>
+        </run>
+        <run >
+          <time>10:50</time>
+          <time>11:15</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:55</time>
+        </run>
+        <run >
+          <time>14:25</time>
+          <time>14:50</time>
+        </run>
+        <run >
+          <time>16:25</time>
+          <time>16:50</time>
+        </run>
+        <run >
+          <time>18:55</time>
+          <time>19:20</time>
+        </run>
+        <run >
+          <time>20:15</time>
+          <time>20:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="野澤溫泉交通巴士・飯山行" type="bus" available="">
+      <info>
+      </info>
+      <source>http://www.vill.nozawaonsen.nagano.jp/about/%EF%BC%A8%EF%BC%92%EF%BC%98%E3%83%90%E3%82%B9%E6%99%82%E5%88%BB%E8%A1%A8%EF%BC%AA%EF%BC%B2%E5%85%A5.pdf</source>
+      <timetable>
+        <route>
+          <stop name="野澤溫泉"   tag="" gps="" >
+          </stop>
+          <stop name="飯山" yahoo="true"  tag="" gps="" >
+            <interval from="野澤溫泉" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:45</time>
+          <time>09:10</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:25</time>
+        </run>
+        <run >
+          <time>10:50</time>
+          <time>11:15</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:55</time>
+        </run>
+        <run >
+          <time>14:25</time>
+          <time>14:50</time>
+        </run>
+        <run >
+          <time>16:25</time>
+          <time>16:50</time>
+        </run>
+        <run >
+          <time>18:55</time>
+          <time>19:20</time>
+        </run>
+        <run >
+          <time>20:15</time>
+          <time>20:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

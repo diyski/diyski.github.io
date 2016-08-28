@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="越後湯澤" to="苗場">
+  <outbound>
+    <transportation name="南越後觀光巴士・苗場、浅貝、西武 行" type="bus" available="">
+      <info>
+      </info>
+      <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
+      <timetable>
+        <route>
+          <stop name="越後湯澤" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="八木沢"   tag="" gps="" >
+            <interval from="越後湯澤" fare="0" km="0" />
+          </stop>
+          <stop name="三俣中央"   tag="" gps="" >
+            <interval from="越後湯澤" fare="0" km="0" />
+            <interval from="八木沢" fare="0" km="0" />
+          </stop>
+          <stop name="二居田代スキー場前"   tag="" gps="" >
+            <interval from="越後湯澤" fare="0" km="0" />
+            <interval from="八木沢" fare="0" km="0" />
+            <interval from="三俣中央" fare="0" km="0" />
+          </stop>
+          <stop name="苗場プリンスホテル"   tag="" gps="36.791938,138.784672" >
+            <interval from="越後湯澤" fare="0" km="0" />
+            <interval from="八木沢" fare="0" km="0" />
+            <interval from="三俣中央" fare="0" km="0" />
+            <interval from="二居田代スキー場前" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:10</time>
+          <time>06:26</time>
+          <time>06:28</time>
+          <time>06:38</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>08:20</time>
+          <time>08:36</time>
+          <time>08:38</time>
+          <time>08:48</time>
+          <time>08:57</time>
+        </run>
+        <run >
+          <time>09:15</time>
+          <time>09:31</time>
+          <time>09:33</time>
+          <time>09:43</time>
+          <time>09:52</time>
+        </run>
+        <run available="67h" >
+          <time>10:10</time>
+          <time>10:26</time>
+          <time>10:28</time>
+          <time>10:38</time>
+          <time>10:47</time>
+        </run>
+        <run >
+          <time>11:40</time>
+          <time>11:56</time>
+          <time>11:58</time>
+          <time>12:08</time>
+          <time>12:17</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="南越後觀光巴士・湯沢駅前 行" type="bus" available="">
+      <info>
+      </info>
+      <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
+      <timetable>
+        <route>
+          <stop name="苗場プリンスホテル"   tag="" gps="36.791938,138.784672" >
+          </stop>
+          <stop name="二居田代スキー場前"   tag="" gps="" >
+            <interval from="苗場プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="三俣中央"   tag="" gps="" >
+            <interval from="苗場プリンスホテル" fare="0" km="0" />
+            <interval from="二居田代スキー場前" fare="0" km="0" />
+          </stop>
+          <stop name="八木沢"   tag="" gps="" >
+            <interval from="苗場プリンスホテル" fare="0" km="0" />
+            <interval from="二居田代スキー場前" fare="0" km="0" />
+            <interval from="三俣中央" fare="0" km="0" />
+          </stop>
+          <stop name="越後湯澤" yahoo="true"  tag="" gps="" >
+            <interval from="苗場プリンスホテル" fare="0" km="0" />
+            <interval from="二居田代スキー場前" fare="0" km="0" />
+            <interval from="三俣中央" fare="0" km="0" />
+            <interval from="八木沢" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:10</time>
+          <time>07:26</time>
+          <time>07:28</time>
+          <time>07:38</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>08:20</time>
+          <time>08:36</time>
+          <time>08:38</time>
+          <time>08:48</time>
+          <time>08:57</time>
+        </run>
+        <run >
+          <time>09:15</time>
+          <time>09:31</time>
+          <time>09:33</time>
+          <time>09:43</time>
+          <time>09:52</time>
+        </run>
+        <run available="67h" >
+          <time>10:10</time>
+          <time>10:26</time>
+          <time>10:28</time>
+          <time>10:38</time>
+          <time>10:47</time>
+        </run>
+        <run >
+          <time>11:40</time>
+          <time>11:56</time>
+          <time>11:58</time>
+          <time>12:08</time>
+          <time>12:17</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="大阪" to="白馬">
+  <outbound>
+    <transportation name="未命名的交通方式" type="other" available="">
+      <info>
+      </info>
+      <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>
+      <timetable>
+        <route>
+          <stop name="大阪" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="京都二条城駐車場"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+          </stop>
+          <stop name="ドライブインくろべ路(大町温泉)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="アーリアホテルロビー(大町温泉)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬さのさか"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+          </stop>
+          <stop name="旧五竜バスターミナル"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+          </stop>
+          <stop name="白馬パークホテルロビー(五竜)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="五竜エスカルプラザ内"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬サンバレーホテルロビー(五竜)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+          </stop>
+          <stop name="HAKUBA47"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+          </stop>
+          <stop name="エクセ白馬前(白馬みそらの)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+          </stop>
+          <stop name="白馬樅の木ホテル・ビジターセンター(白馬みそらの)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ハイランドホテルロビー(白馬駅)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ロイヤルホテルロビー(白馬駅)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+          </stop>
+          <stop name="八方インフォメーションセンター"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+          </stop>
+          <stop name="和田野ビジターセンター(八方)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+          </stop>
+          <stop name="新田バスセンター(岩岳)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+          </stop>
+          <stop name="ゴンドラ山麓駅前ロータリー(岩岳)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル ラ・フォーレ白馬ロビー(栂池)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルサニーバレー前(栂池)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="栂池中央バスインフォメーション名(栂池)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="旅の宿　峰月ロビー(栂池)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬アルプルホテルロビー(乗鞍)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="里見バスセンター前(乗鞍)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+            <interval from="白馬アルプルホテルロビー(乗鞍)" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルグリーンプラザ白馬ロビー(白馬コルチナ)"   tag="" gps="" >
+            <interval from="大阪" fare="0" km="0" />
+            <interval from="京都二条城駐車場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路(大町温泉)" fare="0" km="0" />
+            <interval from="アーリアホテルロビー(大町温泉)" fare="0" km="0" />
+            <interval from="白馬さのさか" fare="0" km="0" />
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬サンバレーホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="HAKUBA47" fare="0" km="0" />
+            <interval from="エクセ白馬前(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+            <interval from="白馬アルプルホテルロビー(乗鞍)" fare="0" km="0" />
+            <interval from="里見バスセンター前(乗鞍)" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>22:30</time>
+          <time>23:30</time>
+          <time>05:20</time>
+          <time>05:25</time>
+          <time>06:00</time>
+          <time>06:03</time>
+          <time>06:05</time>
+          <time>06:10</time>
+          <time>06:15</time>
+          <time>06:20</time>
+          <time>06:30</time>
+          <time>06:35</time>
+          <time>06:50</time>
+          <time>06:55</time>
+          <time>07:00</time>
+          <time>07:10</time>
+          <time>07:20</time>
+          <time>07:25</time>
+          <time>07:40</time>
+          <time>07:45</time>
+          <time>07:55</time>
+          <time>08:00</time>
+          <time>08:10</time>
+          <time>08:15</time>
+          <time>08:25</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="未命名的交通方式" type="other" available="">
+      <info>
+      </info>
+      <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>
+      <timetable>
+        <route>
+          <stop name="旧五竜バスターミナル"   tag="" gps="" >
+          </stop>
+          <stop name="白馬パークホテルロビー(五竜)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="白馬パークホテルロビー(五竜)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+          </stop>
+          <stop name="五竜エスカルプラザ内"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬樅の木ホテル・ビジターセンター(白馬みそらの)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ハイランドホテルロビー(白馬駅)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+          </stop>
+          <stop name="八方インフォメーションセンター"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+          </stop>
+          <stop name="和田野ビジターセンター(八方)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+          </stop>
+          <stop name="新田バスセンター(岩岳)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+          </stop>
+          <stop name="ゴンドラ山麓駅前ロータリー(岩岳)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル ラ・フォーレ白馬ロビー(栂池)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルサニーバレー前(栂池)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="栂池中央バスインフォメーション名(栂池)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="旅の宿　峰月ロビー(栂池)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬アルプルホテルロビー(乗鞍)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+          </stop>
+          <stop name="里見バスセンター前(乗鞍)"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+            <interval from="白馬アルプルホテルロビー(乗鞍)" fare="0" km="0" />
+          </stop>
+          <stop name="JR京都駅八条口周辺"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+            <interval from="白馬アルプルホテルロビー(乗鞍)" fare="0" km="0" />
+            <interval from="里見バスセンター前(乗鞍)" fare="0" km="0" />
+          </stop>
+          <stop name="JR大阪駅周辺"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+            <interval from="白馬アルプルホテルロビー(乗鞍)" fare="0" km="0" />
+            <interval from="里見バスセンター前(乗鞍)" fare="0" km="0" />
+            <interval from="JR京都駅八条口周辺" fare="0" km="0" />
+          </stop>
+          <stop name="近鉄なんば駅周辺"   tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+            <interval from="白馬アルプルホテルロビー(乗鞍)" fare="0" km="0" />
+            <interval from="里見バスセンター前(乗鞍)" fare="0" km="0" />
+            <interval from="JR京都駅八条口周辺" fare="0" km="0" />
+            <interval from="JR大阪駅周辺" fare="0" km="0" />
+          </stop>
+          <stop name="大阪" yahoo="true"  tag="" gps="" >
+            <interval from="旧五竜バスターミナル" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="白馬パークホテルロビー(五竜)" fare="0" km="0" />
+            <interval from="五竜エスカルプラザ内" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル・ビジターセンター(白馬みそらの)" fare="0" km="0" />
+            <interval from="白馬ハイランドホテルロビー(白馬駅)" fare="0" km="0" />
+            <interval from="八方インフォメーションセンター" fare="0" km="0" />
+            <interval from="和田野ビジターセンター(八方)" fare="0" km="0" />
+            <interval from="新田バスセンター(岩岳)" fare="0" km="0" />
+            <interval from="ゴンドラ山麓駅前ロータリー(岩岳)" fare="0" km="0" />
+            <interval from="ホテル ラ・フォーレ白馬ロビー(栂池)" fare="0" km="0" />
+            <interval from="ホテルサニーバレー前(栂池)" fare="0" km="0" />
+            <interval from="栂池中央バスインフォメーション名(栂池)" fare="0" km="0" />
+            <interval from="旅の宿　峰月ロビー(栂池)" fare="0" km="0" />
+            <interval from="白馬アルプルホテルロビー(乗鞍)" fare="0" km="0" />
+            <interval from="里見バスセンター前(乗鞍)" fare="0" km="0" />
+            <interval from="JR京都駅八条口周辺" fare="0" km="0" />
+            <interval from="JR大阪駅周辺" fare="0" km="0" />
+            <interval from="近鉄なんば駅周辺" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>12:30</time>
+          <time>12:35</time>
+          <time>12:40</time>
+          <time>12:45</time>
+          <time>12:45</time>
+          <time>12:50</time>
+          <time>13:00</time>
+          <time>13:10</time>
+          <time>13:20</time>
+          <time>13:25</time>
+          <time>13:40</time>
+          <time>13:45</time>
+          <time>13:55</time>
+          <time>14:00</time>
+          <time>14:10</time>
+          <time>14:15</time>
+          <time>22:00</time>
+          <time>23:00</time>
+          <time>23:15</time>
+          <time>23:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

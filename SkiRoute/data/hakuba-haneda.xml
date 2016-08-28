@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="羽田機場" to="白馬">
+  <outbound>
+    <transportation name="Nagano snow shuttle 白馬行" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Haneda.aspx</source>
+      <timetable>
+        <route>
+          <stop name="羽田機場" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="JR神城站"   tag="" gps="" >
+            <interval from="羽田機場" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方"   tag="" gps="" >
+            <interval from="羽田機場" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>14:30</time>
+          <time>14:45</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="Nagano snow shuttle 羽田機場行" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
+      <timetable>
+        <route>
+          <stop name="白馬八方"   tag="" gps="" >
+          </stop>
+          <stop name="JR神城站"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+          </stop>
+          <stop name="JR新宿站"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+          </stop>
+          <stop name="羽田機場" yahoo="true"  tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+            <interval from="JR新宿站" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>12:30</time>
+          <time>12:45</time>
+          <time>17:15</time>
+          <time>18:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

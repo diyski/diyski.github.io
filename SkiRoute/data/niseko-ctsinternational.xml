@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歳空港・国際線ターミナル" to="Niseko">
+  <outbound>
+  </outbound>
+  <inbound>
+  </inbound>
+</accesspoint>

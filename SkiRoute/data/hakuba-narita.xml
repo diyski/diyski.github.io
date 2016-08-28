@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="成田機場" to="白馬">
+  <outbound>
+    <transportation name="未命名的交通方式" type="other" available="2016/12/17~2017/03/05">
+      <info>アルピコ交通
+</info>
+      <source>http://www.alpico.co.jp/traffic/express/narita_hakuba/en/</source>
+      <timetable>
+        <route>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="成田機場 二航"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+          </stop>
+          <stop name="成田機場 一航"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="成田機場 二航" fare="0" km="0" />
+          </stop>
+          <stop name="五龍"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="成田機場 二航" fare="0" km="0" />
+            <interval from="成田機場 一航" fare="0" km="0" />
+          </stop>
+          <stop name="JR白馬站"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="成田機場 二航" fare="0" km="0" />
+            <interval from="成田機場 一航" fare="0" km="0" />
+            <interval from="五龍" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="成田機場 二航" fare="0" km="0" />
+            <interval from="成田機場 一航" fare="0" km="0" />
+            <interval from="五龍" fare="0" km="0" />
+            <interval from="JR白馬站" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>10:55</time>
+          <time>11:00</time>
+          <time>11:05</time>
+          <time>16:45</time>
+          <time>16:50</time>
+          <time>16:55</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Nagano snow shuttle 白馬行" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
+      <timetable>
+        <route>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="JR神城站"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:00</time>
+          <time>14:30</time>
+          <time>14:45</time>
+        </run>
+        <run >
+          <time>12:00</time>
+          <time>17:30</time>
+          <time>17:45</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>21:00</time>
+          <time>21:15</time>
+        </run>
+        <run >
+          <time>20:30</time>
+          <time>
+          </time>
+          <time>01:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="未命名的交通方式" type="other" available="2016/12/17~2017/03/05">
+      <info>アルピコ交通
+</info>
+      <source>http://www.alpico.co.jp/traffic/express/narita_hakuba/en/</source>
+      <timetable>
+        <route>
+          <stop name="白馬八方"   tag="" gps="" >
+          </stop>
+          <stop name="JR白馬站"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+          </stop>
+          <stop name="五龍"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR白馬站" fare="0" km="0" />
+          </stop>
+          <stop name="成田機場 二航"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR白馬站" fare="0" km="0" />
+            <interval from="五龍" fare="0" km="0" />
+          </stop>
+          <stop name="成田機場 一航"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR白馬站" fare="0" km="0" />
+            <interval from="五龍" fare="0" km="0" />
+            <interval from="成田機場 二航" fare="0" km="0" />
+          </stop>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR白馬站" fare="0" km="0" />
+            <interval from="五龍" fare="0" km="0" />
+            <interval from="成田機場 二航" fare="0" km="0" />
+            <interval from="成田機場 一航" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>10:15</time>
+          <time>10:20</time>
+          <time>10:25</time>
+          <time>16:05</time>
+          <time>16:10</time>
+          <time>16:15</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Nagano snow shuttle 成田機場行" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
+      <timetable>
+        <route>
+          <stop name="白馬八方"   tag="" gps="" >
+          </stop>
+          <stop name="JR神城站"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+          </stop>
+          <stop name="JR新宿站"   tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+          </stop>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+            <interval from="白馬八方" fare="0" km="0" />
+            <interval from="JR神城站" fare="0" km="0" />
+            <interval from="JR新宿站" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:30</time>
+          <time>08:45</time>
+          <time>13:15</time>
+          <time>14:30</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:45</time>
+          <time>15:15</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>15:45</time>
+          <time>20:15</time>
+          <time>21:30</time>
+        </run>
+        <run >
+          <time>17:30</time>
+          <time>17:45</time>
+          <time>22:15</time>
+          <time>23:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

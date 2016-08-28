@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="成田空港(東京)" to="航班">
+  <outbound>
+    <transportation name="香草航空 JW101" type="other" available="">
+      <info> NRT 09:00 to TPE 12:15 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="JW101"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:00</time>
+          <time>12:15</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草航空 JW103" type="other" available="">
+      <info>NRT 12:50 to TPE 16:05 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="JW103"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>12:50</time>
+          <time>14:05</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草航空 JW105" type="other" available="">
+      <info>NRT 18:00 to TPE 21:15 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="JW105"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>18:00</time>
+          <time>21:15</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草航空 JW107" type="other" available="">
+      <info>NRT 22:00 to TPE 01:15 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          </stop>
+          <stop name="JW107"   tag="" gps="" >
+            <interval from="成田空港(東京)" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>22:00</time>
+          <time>01:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="香草航空 JW100" type="other" available="">
+      <info>TPE 02:05 to NRT 06:05 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="JW100"   tag="" gps="" >
+          </stop>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+            <interval from="JW100" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>02:05</time>
+          <time>07:05</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草航空 JW102" type="other" available="">
+      <info>TPE 07:30 to NRT 11:35 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="JW102"   tag="" gps="" >
+          </stop>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+            <interval from="JW102" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>12:35</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草航空 JW104" type="other" available="">
+      <info>TPE 13:05 to NRT 17:10 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="JW104"   tag="" gps="" >
+          </stop>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+            <interval from="JW104" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>13:05</time>
+          <time>18:10</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草航空 JW108" type="other" available="">
+      <info>TPE 16:55 to NRT 21:00 票價：2,838 TWD
+(機票價格僅供參考，不含托運行李、機場稅。)</info>
+      <source>
+      </source>
+      <timetable>
+        <route>
+          <stop name="JW108"   tag="" gps="" >
+          </stop>
+          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+            <interval from="JW108" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>16:55</time>
+          <time>22:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>
