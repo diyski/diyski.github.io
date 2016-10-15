@@ -6,10 +6,10 @@
       <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/naeba.html</source>
       <timetable>
         <route>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="苗場プリンスホテル"   tag="" gps="" >
-            <interval from="新宿高速バスターミナル" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -23,10 +23,10 @@
       <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/naeba.html</source>
       <timetable>
         <route>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="苗場プリンスホテル"   tag="" gps="" >
-            <interval from="新宿高速バスターミナル" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -44,7 +44,7 @@
         <route>
           <stop name="苗場プリンスホテル"   tag="" gps="" >
           </stop>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="苗場プリンスホテル" fare="0" km="0" />
           </stop>
         </route>
@@ -61,7 +61,7 @@
         <route>
           <stop name="苗場プリンスホテル"   tag="" gps="" >
           </stop>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="苗場プリンスホテル" fare="0" km="0" />
           </stop>
         </route>

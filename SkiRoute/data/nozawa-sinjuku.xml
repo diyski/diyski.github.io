@@ -6,10 +6,10 @@
       <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/nozawa.html</source>
       <timetable>
         <route>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="野澤溫泉"   tag="" gps="" >
-            <interval from="新宿高速バスターミナル" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -23,10 +23,10 @@
       <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/nozawa.html</source>
       <timetable>
         <route>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="野澤溫泉"   tag="" gps="" >
-            <interval from="新宿高速バスターミナル" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -44,7 +44,7 @@
         <route>
           <stop name="野澤溫泉"   tag="" gps="" >
           </stop>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="野澤溫泉" fare="0" km="0" />
           </stop>
         </route>
@@ -61,7 +61,7 @@
         <route>
           <stop name="野澤溫泉"   tag="" gps="" >
           </stop>
-          <stop name="新宿高速バスターミナル" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="野澤溫泉" fare="0" km="0" />
           </stop>
         </route>

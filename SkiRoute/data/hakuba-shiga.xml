@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="妙高" to="白馬">
+<accesspoint name="志賀" to="白馬">
   <outbound>
-    <transportation name="Nagano snow shuttle 妙高→白馬" type="other" available="2016/12/17~2017/03/12">
+    <transportation name="Nagano snow shuttle 志賀→白馬" type="other" available="2016/12/17~2017/03/12">
       <info>JHN 旅行社</info>
-      <source>https://naganosnowshuttle.com/C_Route_Myoko.aspx</source>
+      <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
       <timetable>
         <route>
-          <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
+          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
           </stop>
           <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="" >
-            <interval from="赤倉巴士站" fare="5900" km="0" />
+            <interval from="志賀高原住宿點" fare="6400" km="0" />
           </stop>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
-            <interval from="赤倉巴士站" fare="5900" km="0" />
-            <interval from="JR神城駅" fare="5900" km="0" />
+            <interval from="志賀高原住宿點" fare="6400" km="0" />
+            <interval from="JR神城駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
-          <time>10:45</time>
+          <time>10:30</time>
           <time>12:30</time>
           <time>12:45</time>
         </run>
         <run >
-          <time>15:45</time>
+          <time>15:30</time>
           <time>17:30</time>
           <time>17:45</time>
         </run>
@@ -30,7 +30,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 白馬→妙高" type="other" available="2016/12/17~2017/03/12">
+    <transportation name="Nagano snow shuttle 白馬→志賀" type="other" available="2016/12/17~2017/03/12">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
       <timetable>
@@ -40,25 +40,25 @@
           <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
-          <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
-            <interval from="八方info" fare="5900" km="0" />
-            <interval from="JR神城駅" fare="5900" km="0" />
+          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+            <interval from="八方info" fare="6400" km="0" />
+            <interval from="JR神城駅" fare="6400" km="0" />
           </stop>
         </route>
         <run >
-          <time>07:30</time>
-          <time>07:45</time>
-          <time>09:15</time>
+          <time>7:30</time>
+          <time>7:45</time>
+          <time>09:40</time>
         </run>
         <run >
           <time>10:30</time>
           <time>10:45</time>
-          <time>12:30</time>
+          <time>12:45</time>
         </run>
         <run >
           <time>15:30</time>
           <time>15:45</time>
-          <time>17:30</time>
+          <time>17:45</time>
         </run>
       </timetable>
     </transportation>

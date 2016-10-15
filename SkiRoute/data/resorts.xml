@@ -9,6 +9,8 @@
   <resort name="Niseko">
     <accessPoint name="新千歳空港(札幌)" filename="niseko-ctsdomestic.xml">
     </accessPoint>
+    <accessPoint name="新千歳空港・国際線ターミナル" filename="niseko-ctsinternational.xml">
+    </accessPoint>
   </resort>
   <resort name="野澤溫泉">
     <accessPoint name="新宿高速バスターミナル" filename="nozawa-sinjuku.xml">
@@ -16,6 +18,12 @@
     <accessPoint name="飯山" filename="nozawa-iiyama.xml">
     </accessPoint>
     <accessPoint name="妙高" filename="nozawa-myoko.xml">
+    </accessPoint>
+    <accessPoint name="成田機場" filename="nazawa-narita.xml">
+    </accessPoint>
+    <accessPoint name="羽田機場" filename="nozawa-haneda.xml">
+    </accessPoint>
+    <accessPoint name="志賀" filename="nozawa-shiga.xml">
     </accessPoint>
   </resort>
   <resort name="航班">
@@ -31,13 +39,29 @@
     </accessPoint>
     <accessPoint name="大阪" filename="hakuba-osaka.xml">
     </accessPoint>
+    <accessPoint name="野澤" filename="hakuba-nozawa.xml">
+    </accessPoint>
+    <accessPoint name="志賀" filename="hakuba-shiga.xml">
+    </accessPoint>
+    <accessPoint name="新宿" filename="hakuba-shinjuku.xml">
+    </accessPoint>
   </resort>
   <resort name="妙高">
-    <accessPoint name="白馬" filename="myoko-hakuba.xml">
+    <accessPoint name="成田機場" filename="myoko-narita.xml">
+    </accessPoint>
+    <accessPoint name="羽田機場" filename="myoko-haneda.xml">
     </accessPoint>
   </resort>
   <resort name="志賀">
-    <accessPoint name="白馬" filename="shiga-hakuba.xml">
+    <accessPoint name="成田機場" filename="shiga-narita.xml">
+    </accessPoint>
+    <accessPoint name="羽田機場" filename="shiga-haneda.xml">
+    </accessPoint>
+    <accessPoint name="妙高" filename="shiga-myoko.xml">
+    </accessPoint>
+    <accessPoint name="飯山" filename="shiga-iiyama.xml">
+    </accessPoint>
+    <accessPoint name="長野" filename="shiga-nagano.xml">
     </accessPoint>
   </resort>
 </skiResorts>

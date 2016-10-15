@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="成田機場" to="白馬">
   <outbound>
-    <transportation name="未命名的交通方式" type="other" available="2016/12/17~2017/03/05">
+    <transportation name="アルピコ交通 成田→白馬" type="other" available="2016/12/17~2017/03/05">
       <info>アルピコ交通
 </info>
       <source>http://www.alpico.co.jp/traffic/express/narita_hakuba/en/</source>
       <timetable>
         <route>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="成田空港" yahoo="true"  tag="機場>成田三航" gps="35.777154, 140.382641" >
           </stop>
-          <stop name="成田機場 二航"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
+          <stop name="成田空港" yahoo="true"  tag="機場>成田二航" gps="35.772737, 140.387756" >
+            <interval from="成田空港" fare="0" km="0" />
           </stop>
-          <stop name="成田機場 一航"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
-            <interval from="成田機場 二航" fare="0" km="0" />
+          <stop name="成田空港" yahoo="true"  tag="機場>成田一航" gps="35.764392, 140.384870" >
+            <interval from="成田空港" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
           </stop>
-          <stop name="五龍"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
-            <interval from="成田機場 二航" fare="0" km="0" />
-            <interval from="成田機場 一航" fare="0" km="0" />
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="36.657743, 137.848211" >
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="成田空港" fare="9500" km="0" />
           </stop>
-          <stop name="JR白馬站"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
-            <interval from="成田機場 二航" fare="0" km="0" />
-            <interval from="成田機場 一航" fare="0" km="0" />
-            <interval from="五龍" fare="0" km="0" />
+          <stop name="JR白馬駅" yahoo="true"  tag="白馬>白馬駅" gps="36.695598, 137.863203" >
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="JR神城駅" fare="0" km="0" />
           </stop>
-          <stop name="白馬八方"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
-            <interval from="成田機場 二航" fare="0" km="0" />
-            <interval from="成田機場 一航" fare="0" km="0" />
-            <interval from="五龍" fare="0" km="0" />
-            <interval from="JR白馬站" fare="0" km="0" />
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="成田空港" fare="9500" km="0" />
+            <interval from="JR神城駅" fare="0" km="0" />
+            <interval from="JR白馬駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -45,19 +45,19 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="Nagano snow shuttle 白馬行" type="other" available="2016/12/17~2017/03/12">
+    <transportation name="Nagano snow shuttle 成田→白馬" type="other" available="2016/12/17~2017/03/12">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
       <timetable>
         <route>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="成田空港" yahoo="true"  tag="機場>成田二航" gps="35.773962, 140.387273" >
           </stop>
-          <stop name="JR神城站"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="" >
+            <interval from="成田空港" fare="9200" km="0" />
           </stop>
-          <stop name="白馬八方"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
-            <interval from="JR神城站" fare="0" km="0" />
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="成田空港" fare="9200" km="0" />
+            <interval from="JR神城駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -85,38 +85,38 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="未命名的交通方式" type="other" available="2016/12/17~2017/03/05">
+    <transportation name="アルピコ交通 白馬→成田" type="other" available="2016/12/17~2017/03/05">
       <info>アルピコ交通
 </info>
       <source>http://www.alpico.co.jp/traffic/express/narita_hakuba/en/</source>
       <timetable>
         <route>
-          <stop name="白馬八方"   tag="" gps="" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
           </stop>
-          <stop name="JR白馬站"   tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
+          <stop name="JR白馬駅" yahoo="true"  tag="白馬>白馬駅" gps="36.695598, 137.863203" >
+            <interval from="八方info" fare="0" km="0" />
           </stop>
-          <stop name="五龍"   tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
-            <interval from="JR白馬站" fare="0" km="0" />
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="36.657743, 137.848211" >
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="JR白馬駅" fare="0" km="0" />
           </stop>
-          <stop name="成田機場 二航"   tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
-            <interval from="JR白馬站" fare="0" km="0" />
-            <interval from="五龍" fare="0" km="0" />
+          <stop name="成田空港" yahoo="true"  tag="機場>成田二航" gps="35.772737, 140.387756" >
+            <interval from="八方info" fare="9500" km="0" />
+            <interval from="JR白馬駅" fare="9500" km="0" />
+            <interval from="JR神城駅" fare="9500" km="0" />
           </stop>
-          <stop name="成田機場 一航"   tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
-            <interval from="JR白馬站" fare="0" km="0" />
-            <interval from="五龍" fare="0" km="0" />
-            <interval from="成田機場 二航" fare="0" km="0" />
+          <stop name="成田空港" yahoo="true"  tag="機場>成田一航" gps="35.764392, 140.384870" >
+            <interval from="八方info" fare="9500" km="0" />
+            <interval from="JR白馬駅" fare="9500" km="0" />
+            <interval from="JR神城駅" fare="9500" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
           </stop>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
-            <interval from="JR白馬站" fare="0" km="0" />
-            <interval from="五龍" fare="0" km="0" />
-            <interval from="成田機場 二航" fare="0" km="0" />
-            <interval from="成田機場 一航" fare="0" km="0" />
+          <stop name="成田空港" yahoo="true"  tag="機場>成田三航" gps="35.777154, 140.382641" >
+            <interval from="八方info" fare="9500" km="0" />
+            <interval from="JR白馬駅" fare="9500" km="0" />
+            <interval from="JR神城駅" fare="9500" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -129,24 +129,24 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="Nagano snow shuttle 成田機場行" type="other" available="2016/12/17~2017/03/12">
+    <transportation name="Nagano snow shuttle 白馬→成田" type="other" available="2016/12/17~2017/03/12">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
       <timetable>
         <route>
-          <stop name="白馬八方"   tag="" gps="" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
           </stop>
-          <stop name="JR神城站"   tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="" >
+            <interval from="八方info" fare="0" km="0" />
           </stop>
-          <stop name="JR新宿站"   tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
-            <interval from="JR神城站" fare="0" km="0" />
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="" >
+            <interval from="八方info" fare="9200" km="0" />
+            <interval from="JR神城駅" fare="9200" km="0" />
           </stop>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
-            <interval from="白馬八方" fare="0" km="0" />
-            <interval from="JR神城站" fare="0" km="0" />
-            <interval from="JR新宿站" fare="0" km="0" />
+          <stop name="成田空港" yahoo="true"  tag="機場>成田二航" gps="35.773962, 140.387273" >
+            <interval from="八方info" fare="9200" km="0" />
+            <interval from="JR神城駅" fare="9200" km="0" />
+            <interval from="JR新宿駅" fare="0" km="0" />
           </stop>
         </route>
         <run >

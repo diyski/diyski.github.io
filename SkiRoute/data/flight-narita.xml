@@ -8,10 +8,10 @@
       </source>
       <timetable>
         <route>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="JW101"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -27,10 +27,10 @@
       </source>
       <timetable>
         <route>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="JW103"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -46,10 +46,10 @@
       </source>
       <timetable>
         <route>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="JW105"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -65,10 +65,10 @@
       </source>
       <timetable>
         <route>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="JW107"   tag="" gps="" >
-            <interval from="成田空港(東京)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -88,13 +88,13 @@
         <route>
           <stop name="JW100"   tag="" gps="" >
           </stop>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="JW100" fare="0" km="0" />
           </stop>
         </route>
         <run >
           <time>02:05</time>
-          <time>07:05</time>
+          <time>06:05</time>
         </run>
       </timetable>
     </transportation>
@@ -107,7 +107,7 @@
         <route>
           <stop name="JW102"   tag="" gps="" >
           </stop>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="JW102" fare="0" km="0" />
           </stop>
         </route>
@@ -126,7 +126,7 @@
         <route>
           <stop name="JW104"   tag="" gps="" >
           </stop>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="JW104" fare="0" km="0" />
           </stop>
         </route>
@@ -145,7 +145,7 @@
         <route>
           <stop name="JW108"   tag="" gps="" >
           </stop>
-          <stop name="成田空港(東京)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="JW108" fare="0" km="0" />
           </stop>
         </route>

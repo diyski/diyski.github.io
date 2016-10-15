@@ -7,22 +7,22 @@
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
       <timetable>
         <route>
-          <stop name="越後湯澤" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="八木沢"   tag="" gps="" >
-            <interval from="越後湯澤" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
           <stop name="三俣中央"   tag="" gps="" >
-            <interval from="越後湯澤" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
             <interval from="八木沢" fare="0" km="0" />
           </stop>
           <stop name="二居田代スキー場前"   tag="" gps="" >
-            <interval from="越後湯澤" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
             <interval from="八木沢" fare="0" km="0" />
             <interval from="三俣中央" fare="0" km="0" />
           </stop>
           <stop name="苗場プリンスホテル"   tag="" gps="36.791938,138.784672" >
-            <interval from="越後湯澤" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
             <interval from="八木沢" fare="0" km="0" />
             <interval from="三俣中央" fare="0" km="0" />
             <interval from="二居田代スキー場前" fare="0" km="0" />
@@ -88,7 +88,7 @@
             <interval from="二居田代スキー場前" fare="0" km="0" />
             <interval from="三俣中央" fare="0" km="0" />
           </stop>
-          <stop name="越後湯澤" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="苗場プリンスホテル" fare="0" km="0" />
             <interval from="二居田代スキー場前" fare="0" km="0" />
             <interval from="三俣中央" fare="0" km="0" />

@@ -7,28 +7,28 @@
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="新千歳空港(札幌)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
           </stop>
           <stop name="Hirafu Welcome Center"   tag="" gps="" >
-            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
           </stop>
           <stop name="The Green Leaf Niseko Village"   tag="" gps="" >
-            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
           </stop>
           <stop name="Hilton Niseko Village Hotel"   tag="" gps="" >
-            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
           </stop>
           <stop name="Niseko Northern resort Annupuri"   tag="" gps="" >
-            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
           </stop>
           <stop name="Hotel Kanronomori"   tag="" gps="" >
-            <interval from="新千歳空港(札幌)" fare="0" km="0" />
+            <interval from="@ap" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
@@ -89,7 +89,7 @@
             <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港(札幌)" yahoo="true"  tag="" gps="" >
+          <stop name="@ap"   tag="" gps="" >
             <interval from="Hotel Kanronomori" fare="0" km="0" />
             <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
             <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
