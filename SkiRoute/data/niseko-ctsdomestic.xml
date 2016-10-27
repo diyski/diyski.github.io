@@ -7,32 +7,32 @@
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="@ap"   tag="" gps="" >
+          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
           </stop>
-          <stop name="Hirafu Welcome Center"   tag="" gps="" >
-            <interval from="@ap" fare="0" km="0" />
+          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
+            <interval from="新千歲空港國內" fare="4000" km="0" />
           </stop>
-          <stop name="The Green Leaf Niseko Village"   tag="" gps="" >
-            <interval from="@ap" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
+            <interval from="新千歲空港國內" fare="4000" km="0" />
+            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
           </stop>
-          <stop name="Hilton Niseko Village Hotel"   tag="" gps="" >
-            <interval from="@ap" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
+            <interval from="新千歲空港國內" fare="4000" km="0" />
+            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
           </stop>
-          <stop name="Niseko Northern resort Annupuri"   tag="" gps="" >
-            <interval from="@ap" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
+            <interval from="新千歲空港國內" fare="4000" km="0" />
+            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
+            <interval from="Hilton Niseko Village" fare="4000" km="0" />
           </stop>
-          <stop name="Hotel Kanronomori"   tag="" gps="" >
-            <interval from="@ap" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
-            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
+          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
+            <interval from="新千歲空港國內" fare="4000" km="0" />
+            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
+            <interval from="Hilton Niseko Village" fare="4000" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
           </stop>
         </route>
         <run >
@@ -59,6 +59,38 @@
           <time>14:45</time>
           <time>14:55</time>
         </run>
+        <run >
+          <time>13:00</time>
+          <time>15:30</time>
+          <time>15:50</time>
+          <time>16:00</time>
+          <time>16:15</time>
+          <time>16:25</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>16:30</time>
+          <time>16:50</time>
+          <time>17:00</time>
+          <time>17:15</time>
+          <time>17:25</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>18:00</time>
+          <time>18:20</time>
+          <time>18:30</time>
+          <time>18:45</time>
+          <time>18:55</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>19:00</time>
+          <time>19:20</time>
+          <time>19:30</time>
+          <time>19:45</time>
+          <time>19:55</time>
+        </run>
       </timetable>
     </transportation>
   </outbound>
@@ -69,41 +101,104 @@
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="Hotel Kanronomori"   tag="" gps="" >
+          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
           </stop>
-          <stop name="Niseko Northern resort Annupuri"   tag="" gps="" >
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
+          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
+            <interval from="Hotel Kanronomori" fare="4000" km="0" />
           </stop>
-          <stop name="The Green Leaf Niseko Village"   tag="" gps="" >
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
+          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
+            <interval from="Hotel Kanronomori" fare="4000" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
           </stop>
-          <stop name="Hilton Niseko Village Hotel"   tag="" gps="" >
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
-            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
+            <interval from="Hotel Kanronomori" fare="4000" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
           </stop>
-          <stop name="Hirafu Welcome Center"   tag="" gps="" >
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
-            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
+            <interval from="Hotel Kanronomori" fare="4000" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
+            <interval from="Hilton Niseko Village" fare="4000" km="0" />
           </stop>
-          <stop name="@ap"   tag="" gps="" >
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern resort Annupuri" fare="0" km="0" />
-            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
+            <interval from="Hotel Kanronomori" fare="4000" km="110" />
+            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="110" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="110" />
+            <interval from="Hilton Niseko Village" fare="4000" km="110" />
+            <interval from="Hirafu Welcome Center" fare="4000" km="110" />
+          </stop>
+          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲國際" gps="" >
+            <interval from="Hotel Kanronomori" fare="4000" km="110" />
+            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="110" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="110" />
+            <interval from="Hilton Niseko Village" fare="4000" km="110" />
+            <interval from="Hirafu Welcome Center" fare="4000" km="110" />
+            <interval from="新千歲空港國內" fare="4000" km="110" />
           </stop>
         </route>
         <run >
-          <time>06:50</time>
+          <time>06:35</time>
+          <time>06:45</time>
           <time>07:00</time>
-          <time>07:15</time>
-          <time>07:25</time>
+          <time>07:10</time>
+          <time>07:30</time>
+          <time>10:00</time>
+          <time>10:10</time>
+        </run>
+        <run >
+          <time>07:35</time>
           <time>07:45</time>
-          <time>10:15</time>
+          <time>08:00</time>
+          <time>08:10</time>
+          <time>08:30</time>
+          <time>11:00</time>
+          <time>11:10</time>
+        </run>
+        <run >
+          <time>08:35</time>
+          <time>08:45</time>
+          <time>09:00</time>
+          <time>09:10</time>
+          <time>09:30</time>
+          <time>12:00</time>
+          <time>12:10</time>
+        </run>
+        <run >
+          <time>09:35</time>
+          <time>09:45</time>
+          <time>10:00</time>
+          <time>10:10</time>
+          <time>10:30</time>
+          <time>13:00</time>
+          <time>13:10</time>
+        </run>
+        <run >
+          <time>10:35</time>
+          <time>10:45</time>
+          <time>11:00</time>
+          <time>11:10</time>
+          <time>11:30</time>
+          <time>14:00</time>
+          <time>14:10</time>
+        </run>
+        <run >
+          <time>13:05</time>
+          <time>13:15</time>
+          <time>13:30</time>
+          <time>13:40</time>
+          <time>14:00</time>
+          <time>16:30</time>
+          <time>16:40</time>
+        </run>
+        <run >
+          <time>14:05</time>
+          <time>14:15</time>
+          <time>14:30</time>
+          <time>14:40</time>
+          <time>15:00</time>
+          <time>17:30</time>
+          <time>17:40</time>
         </run>
       </timetable>
     </transportation>

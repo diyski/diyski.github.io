@@ -9,7 +9,9 @@
   <resort name="Niseko">
     <accessPoint name="新千歳空港(札幌)" filename="niseko-ctsdomestic.xml">
     </accessPoint>
-    <accessPoint name="新千歳空港・国際線ターミナル" filename="niseko-ctsinternational.xml">
+    <accessPoint name="新千歲空港(tokyotravelpal)" filename="niseko-ctstokyotravelpal.xml">
+    </accessPoint>
+    <accessPoint name="札幌市(travelpal)" filename="niseko-sapporo.xml">
     </accessPoint>
   </resort>
   <resort name="野澤溫泉">
@@ -62,6 +64,18 @@
     <accessPoint name="飯山" filename="shiga-iiyama.xml">
     </accessPoint>
     <accessPoint name="長野" filename="shiga-nagano.xml">
+    </accessPoint>
+  </resort>
+  <resort name="富良野">
+    <accessPoint name="旭川機場" filename="Furano_Aka.xml">
+    </accessPoint>
+    <accessPoint name="札幌市區" filename="Furano_sapporo.xml">
+    </accessPoint>
+  </resort>
+  <resort name="留壽都">
+    <accessPoint name="新千歲(access)" filename="Rusutsu-CTS.xml">
+    </accessPoint>
+    <accessPoint name="札幌" filename="Rusutsu-sapporo.xml">
     </accessPoint>
   </resort>
 </skiResorts>

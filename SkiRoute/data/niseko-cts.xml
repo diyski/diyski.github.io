@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歲空港(二世古)" to="Niseko">
+  <outbound>
+    <transportation name="未命名的交通方式" type="other" available="">
+      <info>
+      </info>
+      <source>未填寫</source>
+      <timetable>
+        <route>
+          <stop name="新千歲空港(二世古)"   tag="" gps="" >
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+  </inbound>
+</accesspoint>
