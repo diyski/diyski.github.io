@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="東京市區" to="藏王">
+  <outbound>
+    <transportation name="東京市區往藏王溫泉高速巴士" type="other" available="">
+      <info>10:30車資6000
+23:30車子7500
+</info>
+      <source>http://tw.japan-guide.com/advertorial/willer-reserve</source>
+      <timetable>
+        <route>
+          <stop name="新宿車站南口" yahoo="true"  tag="市區>東京" gps="" >
+          </stop>
+          <stop name="山形車站西口" yahoo="true"  tag="市區>山形" gps="" >
+            <interval from="新宿車站南口" fare="7500" km="400" />
+          </stop>
+        </route>
+        <run >
+          <time>10:30</time>
+          <time>17:15</time>
+        </run>
+        <run >
+          <time>23:30</time>
+          <time>06:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="藏王溫泉往東京高速巴士" type="other" available="">
+      <info>10:30車資6000
+23:30車子7500
+</info>
+      <source>http://tw.japan-guide.com/advertorial/willer-reserve</source>
+      <timetable>
+        <route>
+          <stop name="山形車站西口" yahoo="true"  tag="市區>山形" gps="" >
+          </stop>
+          <stop name="新宿車站南口" yahoo="true"  tag="市區>東京" gps="" >
+            <interval from="山形車站西口" fare="7500" km="400" />
+          </stop>
+        </route>
+        <run >
+          <time>09:20</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>23:40</time>
+          <time>06:20</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

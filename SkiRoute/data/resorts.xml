@@ -5,6 +5,10 @@
     </accessPoint>
     <accessPoint name="新宿高速バスターミナル" filename="naeba-sinjuku.xml">
     </accessPoint>
+    <accessPoint name="王子飯店免費巴士" filename="yuzawa-naebaph.xml">
+    </accessPoint>
+    <accessPoint name="苗場疾行巴士" filename="yuzawa-naebapaybus.xml">
+    </accessPoint>
   </resort>
   <resort name="Niseko">
     <accessPoint name="新千歳空港(札幌)" filename="niseko-ctsdomestic.xml">
@@ -76,6 +80,18 @@
     <accessPoint name="新千歲(access)" filename="Rusutsu-CTS.xml">
     </accessPoint>
     <accessPoint name="札幌" filename="Rusutsu-sapporo.xml">
+    </accessPoint>
+  </resort>
+  <resort name="藏王">
+    <accessPoint name="山形車站" filename="Zao-yamagata.xml">
+    </accessPoint>
+    <accessPoint name="仙台機場" filename="Zao-SDJ.xml">
+    </accessPoint>
+    <accessPoint name="東京市區" filename="Zao-tokoyo.xml">
+    </accessPoint>
+  </resort>
+  <resort name="安比">
+    <accessPoint name="盛岡" filename="Appi-Morioka.xml">
     </accessPoint>
   </resort>
 </skiResorts>
