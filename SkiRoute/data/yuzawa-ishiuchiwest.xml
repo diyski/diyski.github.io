@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="石打丸(石口)" to="湯澤(Gala)">
+  <outbound>
+    <transportation name="石打丸山スキー場ハツカ石口行き" type="other" available="">
+      <info>免費巴士</info>
+      <source>http://www.ishiuchi.or.jp/bus/index.html</source>
+      <timetable>
+        <route>
+          <stop name="石口"   tag="湯澤>石打丸" gps="" >
+          </stop>
+          <stop name="越後湯澤東口" yahoo="true"  tag="湯澤>越後湯澤東口" gps="" >
+            <interval from="石口" fare="0" km="5" />
+          </stop>
+        </route>
+        <run >
+          <time>13:00</time>
+          <time>13:10</time>
+        </run>
+        <run >
+          <time>14:20</time>
+          <time>14:30</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>15:10</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:50</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>16:40</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>17:10</time>
+        </run>
+        <run >
+          <time>17:30</time>
+          <time>17:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="石打丸山スキー場ハツカ石口行き" type="other" available="">
+      <info>免費巴士</info>
+      <source>http://www.ishiuchi.or.jp/bus/index.html</source>
+      <timetable>
+        <route>
+          <stop name="越後湯澤東口" yahoo="true"  tag="湯澤>越後湯澤東口" gps="" >
+          </stop>
+          <stop name="石口"   tag="湯澤>石打丸" gps="" >
+            <interval from="越後湯澤東口" fare="0" km="5" />
+          </stop>
+        </route>
+        <run >
+          <time>08:15</time>
+          <time>08:25</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>08:40</time>
+        </run>
+        <run available="67h" >
+          <time>09:00</time>
+          <time>09:10</time>
+        </run>
+        <run >
+          <time>09:25</time>
+          <time>09:35</time>
+        </run>
+        <run available="67h" >
+          <time>09:45</time>
+          <time>09:55</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:10</time>
+        </run>
+        <run >
+          <time>10:40</time>
+          <time>10:50</time>
+        </run>
+        <run >
+          <time>11:15</time>
+          <time>11:25</time>
+        </run>
+        <run >
+          <time>11:55</time>
+          <time>12:05</time>
+        </run>
+        <run >
+          <time>12:40</time>
+          <time>12:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

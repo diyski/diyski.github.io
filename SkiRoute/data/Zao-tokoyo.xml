@@ -8,7 +8,7 @@
       <source>http://tw.japan-guide.com/advertorial/willer-reserve</source>
       <timetable>
         <route>
-          <stop name="新宿車站南口" yahoo="true"  tag="市區>東京" gps="" >
+          <stop name="新宿車站南口" yahoo="true"  tag="市區>新宿" gps="" >
           </stop>
           <stop name="山形車站西口" yahoo="true"  tag="市區>山形" gps="" >
             <interval from="新宿車站南口" fare="7500" km="400" />
@@ -35,7 +35,7 @@
         <route>
           <stop name="山形車站西口" yahoo="true"  tag="市區>山形" gps="" >
           </stop>
-          <stop name="新宿車站南口" yahoo="true"  tag="市區>東京" gps="" >
+          <stop name="新宿車站南口" yahoo="true"  tag="市區>新宿" gps="" >
             <interval from="山形車站西口" fare="7500" km="400" />
           </stop>
         </route>

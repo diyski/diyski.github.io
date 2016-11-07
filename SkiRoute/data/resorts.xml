@@ -73,6 +73,8 @@
   <resort name="富良野">
     <accessPoint name="旭川機場" filename="Furano_Aka.xml">
     </accessPoint>
+    <accessPoint name="" filename="Furano-sapporo.xml">
+    </accessPoint>
     <accessPoint name="札幌市區" filename="Furano_sapporo.xml">
     </accessPoint>
   </resort>
@@ -92,6 +94,20 @@
   </resort>
   <resort name="安比">
     <accessPoint name="盛岡" filename="Appi-Morioka.xml">
+    </accessPoint>
+  </resort>
+  <resort name="湯澤(Gala)">
+    <accessPoint name="湯澤中里" filename="yuzawa-nakazato.xml">
+    </accessPoint>
+    <accessPoint name="石打丸" filename="yazawa-ishiuchi.xml">
+    </accessPoint>
+    <accessPoint name="石打丸(石口)" filename="yuzawa-ishiuchiwest.xml">
+    </accessPoint>
+    <accessPoint name="石打丸(付費巴士)" filename="yuzawa-ishiuchipay.xml">
+    </accessPoint>
+    <accessPoint name="Gala" filename="gala-ishiuchi.xml">
+    </accessPoint>
+    <accessPoint name="舞子高原" filename="yuzawa-maiko.xml">
     </accessPoint>
   </resort>
 </skiResorts>
