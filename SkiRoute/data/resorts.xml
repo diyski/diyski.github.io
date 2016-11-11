@@ -9,6 +9,8 @@
     </accessPoint>
     <accessPoint name="苗場疾行巴士" filename="yuzawa-naebapaybus.xml">
     </accessPoint>
+    <accessPoint name="西武巴士" filename="seibubus.xml">
+    </accessPoint>
   </resort>
   <resort name="Niseko">
     <accessPoint name="新千歳空港(札幌)" filename="niseko-ctsdomestic.xml">
@@ -34,6 +36,10 @@
   </resort>
   <resort name="航班">
     <accessPoint name="成田空港(東京)" filename="flight-narita.xml">
+    </accessPoint>
+    <accessPoint name="香草航空" filename="Taipei-NRT.xml">
+    </accessPoint>
+    <accessPoint name="酷航" filename="taipei-scoot.xml">
     </accessPoint>
   </resort>
   <resort name="白馬">
