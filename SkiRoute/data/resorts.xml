@@ -41,6 +41,14 @@
     </accessPoint>
     <accessPoint name="酷航" filename="taipei-scoot.xml">
     </accessPoint>
+    <accessPoint name="樂桃" filename="Taipei-peach.xml">
+    </accessPoint>
+    <accessPoint name="捷星" filename="taipei-jetstar.xml">
+    </accessPoint>
+    <accessPoint name="虎航" filename="taipei-tiger.xml">
+    </accessPoint>
+    <accessPoint name="復興航空" filename="taipei-tna.xml">
+    </accessPoint>
   </resort>
   <resort name="白馬">
     <accessPoint name="成田機場" filename="hakuba-narita.xml">
