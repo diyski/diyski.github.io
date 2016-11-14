@@ -12,7 +12,7 @@
           <stop name="成田空港" yahoo="true"  tag="機場>成田" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
           </stop>
-          <stop name="新千歲空港國際" yahoo="true"  tag="幾場>新千歲" gps="" >
+          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
           </stop>
@@ -179,7 +179,7 @@
             <interval from="關西空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
           </stop>
-          <stop name="新千歲空港國際" yahoo="true"  tag="幾場>新千歲" gps="" >
+          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲" gps="" >
             <interval from="函館機場" fare="0" km="0" />
             <interval from="關西空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
