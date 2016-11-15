@@ -11,7 +11,7 @@
           <stop name="小港機場"   tag="台灣>高雄" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
           </stop>
-          <stop name="成田空港" yahoo="true"  tag="機場>成田" gps="" >
+          <stop name="成田空港" yahoo="true"  tag="機場>成田空港" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />
           </stop>
@@ -20,7 +20,7 @@
             <interval from="小港機場" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
           </stop>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>大阪" gps="" >
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
@@ -66,12 +66,12 @@
       <source>http://www.flyscoot.com/zhtw/</source>
       <timetable>
         <route>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>大阪" gps="" >
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="関西国際空港" fare="0" km="0" />
           </stop>
-          <stop name="成田空港" yahoo="true"  tag="機場>成田" gps="" >
+          <stop name="成田空港" yahoo="true"  tag="機場>成田空港" gps="" >
             <interval from="関西国際空港" fare="0" km="0" />
             <interval from="新千歳空港国際線" fare="0" km="0" />
           </stop>

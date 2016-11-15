@@ -15,7 +15,7 @@
             <interval from="觀光口" fare="0" km="0" />
             <interval from="中央口" fare="0" km="0" />
           </stop>
-          <stop name="越後湯澤東口" yahoo="true"  tag="湯澤>越後湯澤東口" gps="" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="" >
             <interval from="觀光口" fare="220" km="6.8" />
             <interval from="中央口" fare="220" km="6.8" />
             <interval from="石口" fare="170" km="6" />
@@ -90,17 +90,17 @@
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>
         <route>
-          <stop name="越後湯澤東口" yahoo="true"  tag="湯澤>越後湯澤東口" gps="" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="" >
           </stop>
           <stop name="石口"   tag="湯澤>石打丸" gps="" >
-            <interval from="越後湯澤東口" fare="170" km="6" />
+            <interval from="越後湯沢東口" fare="170" km="6" />
           </stop>
           <stop name="中央口"   tag="湯澤>石打丸" gps="" >
-            <interval from="越後湯澤東口" fare="220" km="6.8" />
+            <interval from="越後湯沢東口" fare="220" km="6.8" />
             <interval from="石口" fare="0" km="0" />
           </stop>
           <stop name="觀光口"   tag="湯澤>石打丸" gps="" >
-            <interval from="越後湯澤東口" fare="220" km="6.8" />
+            <interval from="越後湯沢東口" fare="220" km="6.8" />
             <interval from="石口" fare="0" km="0" />
             <interval from="中央口" fare="0" km="0" />
           </stop>

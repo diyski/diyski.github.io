@@ -8,7 +8,7 @@
         <route>
           <stop name="仙台空港" yahoo="true"  tag="機場>仙台" gps="" >
           </stop>
-          <stop name="藏王溫泉站"   tag="藏王>藏王中央區" gps="" >
+          <stop name="蔵王温泉站"   tag="藏王>藏王中央區" gps="" >
             <interval from="仙台空港" fare="1800" km="90" />
           </stop>
         </route>
@@ -33,10 +33,10 @@
       <source>http://www.zao-spa.or.jp/taiwan/access.html</source>
       <timetable>
         <route>
-          <stop name="藏王溫泉站"   tag="藏王>藏王中央區" gps="" >
+          <stop name="蔵王温泉站"   tag="藏王>藏王中央區" gps="" >
           </stop>
           <stop name="仙台空港" yahoo="true"  tag="機場>仙台" gps="" >
-            <interval from="藏王溫泉站" fare="1800" km="90" />
+            <interval from="蔵王温泉站" fare="1800" km="90" />
           </stop>
         </route>
         <run >

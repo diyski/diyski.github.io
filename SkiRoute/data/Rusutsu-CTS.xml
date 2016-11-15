@@ -55,7 +55,7 @@
       <source>http://en.rusutsu.co.jp/zh-tw/bigruns-bus-new-chitose-airport-rusutsu-resort-2016-17-winter/</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港千歲" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
           <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="新千歳空港国際線" fare="0" km="0" />

@@ -143,7 +143,7 @@
             <interval from="八方info" fare="9200" km="0" />
             <interval from="JR神城駅" fare="9200" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル空港" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
             <interval from="八方info" fare="9200" km="0" />
             <interval from="JR神城駅" fare="9200" km="0" />
             <interval from="JR新宿駅" fare="0" km="0" />
