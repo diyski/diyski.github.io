@@ -7,9 +7,9 @@
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
           </stop>
-          <stop name="四號館"   tag="苗場>王子飯店" gps="" >
+          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
             <interval from="越後湯沢東口" fare="0" km="22" />
           </stop>
         </route>
@@ -67,10 +67,10 @@
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
-          <stop name="四號館"   tag="苗場>王子飯店" gps="" >
+          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
           </stop>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="" >
-            <interval from="四號館" fare="0" km="22" />
+          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
+            <interval from="王子飯店四號館" fare="0" km="22" />
           </stop>
         </route>
         <run >

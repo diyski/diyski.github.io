@@ -6,34 +6,34 @@
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
-          <stop name="Hotel Clubby Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Hotel Clubby Sapporo"   tag="北海道市區>札幌" gps="" >
           </stop>
-          <stop name="Hotel Monterey Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Hotel Monterey Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="JR Tower Hotel Nikko Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="JR Tower Hotel Nikko Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="HOTEL MYSTAYS Sapporo Aspen"   tag="市區>札幌" gps="" >
+          <stop name="HOTEL MYSTAYS Sapporo Aspen"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Century Royal Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Century Royal Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
             <interval from="HOTEL MYSTAYS Sapporo Aspen" fare="0" km="0" />
           </stop>
-          <stop name="Keio Plaza Hotel Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Keio Plaza Hotel Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
             <interval from="HOTEL MYSTAYS Sapporo Aspen" fare="0" km="0" />
             <interval from="Century Royal Hotel" fare="0" km="0" />
           </stop>
-          <stop name="ANA Holiday Inn Sapporo Susukino"   tag="市區>札幌" gps="" >
+          <stop name="ANA Holiday Inn Sapporo Susukino"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -41,7 +41,7 @@
             <interval from="Century Royal Hotel" fare="0" km="0" />
             <interval from="Keio Plaza Hotel Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Tobu Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Tobu Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -50,7 +50,7 @@
             <interval from="Keio Plaza Hotel Sapporo" fare="0" km="0" />
             <interval from="ANA Holiday Inn Sapporo Susukino" fare="0" km="0" />
           </stop>
-          <stop name="ANA Hotel Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="ANA Hotel Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -60,7 +60,7 @@
             <interval from="ANA Holiday Inn Sapporo Susukino" fare="0" km="0" />
             <interval from="Sapporo Tobu Hotel" fare="0" km="0" />
           </stop>
-          <stop name="New Otani Inn Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="New Otani Inn Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -71,7 +71,7 @@
             <interval from="Sapporo Tobu Hotel" fare="0" km="0" />
             <interval from="ANA Hotel Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Grand Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Grand Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -83,7 +83,7 @@
             <interval from="ANA Hotel Sapporo" fare="0" km="0" />
             <interval from="New Otani Inn Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Royton Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Royton Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -96,7 +96,7 @@
             <interval from="New Otani Inn Sapporo" fare="0" km="0" />
             <interval from="Sapporo Grand Hotel" fare="0" km="0" />
           </stop>
-          <stop name="HOTEL MYSTAYS PREMIER Sapporo Park"   tag="市區>札幌" gps="" >
+          <stop name="HOTEL MYSTAYS PREMIER Sapporo Park"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -110,7 +110,7 @@
             <interval from="Sapporo Grand Hotel" fare="0" km="0" />
             <interval from="Royton Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Excel Hotel Tokyu"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Excel Hotel Tokyu"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -125,7 +125,7 @@
             <interval from="Royton Sapporo" fare="0" km="0" />
             <interval from="HOTEL MYSTAYS PREMIER Sapporo Park" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Tokyu REI Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Tokyu REI Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -141,7 +141,7 @@
             <interval from="HOTEL MYSTAYS PREMIER Sapporo Park" fare="0" km="0" />
             <interval from="Sapporo Excel Hotel Tokyu" fare="0" km="0" />
           </stop>
-          <stop name="Hotel Sunroute New Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Hotel Sunroute New Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -158,7 +158,7 @@
             <interval from="Sapporo Excel Hotel Tokyu" fare="0" km="0" />
             <interval from="Sapporo Tokyu REI Hotel" fare="0" km="0" />
           </stop>
-          <stop name="Tokyo Dome Hotel Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Tokyo Dome Hotel Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -176,7 +176,7 @@
             <interval from="Sapporo Tokyu REI Hotel" fare="0" km="0" />
             <interval from="Hotel Sunroute New Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Prince Hotel Tower"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Prince Hotel Tower"   tag="北海道市區>札幌" gps="" >
             <interval from="Hotel Clubby Sapporo" fare="0" km="0" />
             <interval from="Hotel Monterey Sapporo" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
@@ -518,7 +518,7 @@
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Prince Hotel Tower"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Prince Hotel Tower"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="4000" km="0" />
             <interval from="Niseko Grand Hotel" fare="4000" km="0" />
             <interval from="Hotel Kanronomori" fare="4000" km="0" />
@@ -527,7 +527,7 @@
             <interval from="Hilton Niseko Village" fare="4000" km="0" />
             <interval from="Hirafu Welcome Center" fare="4000" km="0" />
           </stop>
-          <stop name="Tokyo Dome Hotel Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Tokyo Dome Hotel Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -537,7 +537,7 @@
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Sapporo Prince Hotel Tower" fare="0" km="0" />
           </stop>
-          <stop name="Hotel Sunroute New Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Hotel Sunroute New Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -548,7 +548,7 @@
             <interval from="Sapporo Prince Hotel Tower" fare="0" km="0" />
             <interval from="Tokyo Dome Hotel Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Tokyu REI Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Tokyu REI Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -560,7 +560,7 @@
             <interval from="Tokyo Dome Hotel Sapporo" fare="0" km="0" />
             <interval from="Hotel Sunroute New Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Excel Hotel Tokyu"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Excel Hotel Tokyu"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -573,7 +573,7 @@
             <interval from="Hotel Sunroute New Sapporo" fare="0" km="0" />
             <interval from="Sapporo Tokyu REI Hotel" fare="0" km="0" />
           </stop>
-          <stop name="HOTEL MYSTAYS PREMIER Sapporo Park"   tag="市區>札幌" gps="" >
+          <stop name="HOTEL MYSTAYS PREMIER Sapporo Park"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -587,7 +587,7 @@
             <interval from="Sapporo Tokyu REI Hotel" fare="0" km="0" />
             <interval from="Sapporo Excel Hotel Tokyu" fare="0" km="0" />
           </stop>
-          <stop name="Royton Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Royton Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -602,7 +602,7 @@
             <interval from="Sapporo Excel Hotel Tokyu" fare="0" km="0" />
             <interval from="HOTEL MYSTAYS PREMIER Sapporo Park" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Grand Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Grand Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -618,7 +618,7 @@
             <interval from="HOTEL MYSTAYS PREMIER Sapporo Park" fare="0" km="0" />
             <interval from="Royton Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="New Otani Inn Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="New Otani Inn Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -635,7 +635,7 @@
             <interval from="Royton Sapporo" fare="0" km="0" />
             <interval from="Sapporo Grand Hotel" fare="0" km="0" />
           </stop>
-          <stop name="ANA Hotel Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="ANA Hotel Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -653,7 +653,7 @@
             <interval from="Sapporo Grand Hotel" fare="0" km="0" />
             <interval from="New Otani Inn Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Tobu Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Sapporo Tobu Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -672,7 +672,7 @@
             <interval from="New Otani Inn Sapporo" fare="0" km="0" />
             <interval from="ANA Hotel Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="ANA Holiday Inn Sapporo Susukino"   tag="市區>札幌" gps="" >
+          <stop name="ANA Holiday Inn Sapporo Susukino"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -692,7 +692,7 @@
             <interval from="ANA Hotel Sapporo" fare="0" km="0" />
             <interval from="Sapporo Tobu Hotel" fare="0" km="0" />
           </stop>
-          <stop name="Keio Plaza Hotel Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Keio Plaza Hotel Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -713,7 +713,7 @@
             <interval from="Sapporo Tobu Hotel" fare="0" km="0" />
             <interval from="ANA Holiday Inn Sapporo Susukino" fare="0" km="0" />
           </stop>
-          <stop name="Century Royal Hotel"   tag="市區>札幌" gps="" >
+          <stop name="Century Royal Hotel"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -735,7 +735,7 @@
             <interval from="ANA Holiday Inn Sapporo Susukino" fare="0" km="0" />
             <interval from="Keio Plaza Hotel Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="HOTEL MYSTAYS Sapporo Aspen"   tag="市區>札幌" gps="" >
+          <stop name="HOTEL MYSTAYS Sapporo Aspen"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -758,7 +758,7 @@
             <interval from="Keio Plaza Hotel Sapporo" fare="0" km="0" />
             <interval from="Century Royal Hotel" fare="0" km="0" />
           </stop>
-          <stop name="JR Tower Hotel Nikko Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="JR Tower Hotel Nikko Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -782,7 +782,7 @@
             <interval from="Century Royal Hotel" fare="0" km="0" />
             <interval from="HOTEL MYSTAYS Sapporo Aspen" fare="0" km="0" />
           </stop>
-          <stop name="Hotel Monterey Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Hotel Monterey Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
@@ -807,7 +807,7 @@
             <interval from="HOTEL MYSTAYS Sapporo Aspen" fare="0" km="0" />
             <interval from="JR Tower Hotel Nikko Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Hotel Clubby Sapporo"   tag="市區>札幌" gps="" >
+          <stop name="Hotel Clubby Sapporo"   tag="北海道市區>札幌" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />

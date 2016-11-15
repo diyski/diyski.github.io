@@ -6,18 +6,18 @@
       <source>http://en.rusutsu.co.jp/zh-tw/bigruns-bus-new-chitose-airport-rusutsu-resort-2016-17-winter/</source>
       <timetable>
         <route>
-          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲國際" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
-          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
-            <interval from="新千歲空港國際" fare="0" km="0" />
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
           </stop>
           <stop name="南北館酒店"   tag="留壽都>南北館" gps="" >
-            <interval from="新千歲空港國際" fare="3000" km="85" />
-            <interval from="新千歲空港國內" fare="3000" km="85" />
+            <interval from="新千歳空港国際線" fare="3000" km="85" />
+            <interval from="新千歳空港国内線" fare="3000" km="85" />
           </stop>
           <stop name="留壽都威斯汀度假酒店"   tag="留壽都>留壽都威斯汀" gps="" >
-            <interval from="新千歲空港國際" fare="3000" km="85" />
-            <interval from="新千歲空港國內" fare="3000" km="85" />
+            <interval from="新千歳空港国際線" fare="3000" km="85" />
+            <interval from="新千歳空港国内線" fare="3000" km="85" />
             <interval from="南北館酒店" fare="0" km="0" />
           </stop>
         </route>
@@ -55,18 +55,18 @@
       <source>http://en.rusutsu.co.jp/zh-tw/bigruns-bus-new-chitose-airport-rusutsu-resort-2016-17-winter/</source>
       <timetable>
         <route>
-          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲國際" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港千歲" gps="" >
           </stop>
-          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
-            <interval from="新千歲空港國際" fare="0" km="0" />
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
           </stop>
           <stop name="南北館酒店"   tag="留壽都>南北館" gps="" >
-            <interval from="新千歲空港國際" fare="3000" km="85" />
-            <interval from="新千歲空港國內" fare="3000" km="85" />
+            <interval from="新千歳空港国際線" fare="3000" km="85" />
+            <interval from="新千歳空港国内線" fare="3000" km="85" />
           </stop>
           <stop name="留壽都威斯汀度假酒店"   tag="留壽都>留壽都威斯汀" gps="" >
-            <interval from="新千歲空港國際" fare="3000" km="85" />
-            <interval from="新千歲空港國內" fare="3000" km="85" />
+            <interval from="新千歳空港国際線" fare="3000" km="85" />
+            <interval from="新千歳空港国内線" fare="3000" km="85" />
             <interval from="南北館酒店" fare="0" km="0" />
           </stop>
         </route>
@@ -130,14 +130,14 @@
           <stop name="南北館酒店"   tag="留壽都>南北館" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="0" km="0" />
           </stop>
-          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="3000" km="85" />
             <interval from="南北館酒店" fare="3000" km="85" />
           </stop>
-          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲國際" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="3000" km="85" />
             <interval from="南北館酒店" fare="3000" km="85" />
-            <interval from="新千歲空港國內" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -191,14 +191,14 @@
           <stop name="南北館酒店"   tag="留壽都>南北館" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="0" km="0" />
           </stop>
-          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="3000" km="85" />
             <interval from="南北館酒店" fare="3000" km="85" />
           </stop>
-          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲國際" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="3000" km="85" />
             <interval from="南北館酒店" fare="3000" km="85" />
-            <interval from="新千歲空港國內" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
         </route>
         <run >

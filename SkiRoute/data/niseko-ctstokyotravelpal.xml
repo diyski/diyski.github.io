@@ -7,44 +7,44 @@
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
-          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
-          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲國際" gps="" >
-            <interval from="新千歲空港國內" fare="0" km="0" />
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
           <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
-            <interval from="新千歲空港國內" fare="4000" km="110" />
-            <interval from="新千歲空港國際" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="110" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
           </stop>
           <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
-            <interval from="新千歲空港國內" fare="4000" km="110" />
-            <interval from="新千歲空港國際" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="110" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
           </stop>
           <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
-            <interval from="新千歲空港國內" fare="4000" km="110" />
-            <interval from="新千歲空港國際" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="110" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
           </stop>
           <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
-            <interval from="新千歲空港國內" fare="4000" km="110" />
-            <interval from="新千歲空港國際" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="110" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
           </stop>
           <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
-            <interval from="新千歲空港國內" fare="4000" km="110" />
-            <interval from="新千歲空港國際" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="110" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
             <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
           </stop>
           <stop name="Niseko Grand Hotel"   tag="二世古>Grand Hotel" gps="" >
-            <interval from="新千歲空港國內" fare="4000" km="110" />
-            <interval from="新千歲空港國際" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="110" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
@@ -52,8 +52,8 @@
             <interval from="Hotel Kanronomori" fare="0" km="0" />
           </stop>
           <stop name="Tsuruga Besso Moku no sho"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
-            <interval from="新千歲空港國內" fare="4000" km="110" />
-            <interval from="新千歲空港國際" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="110" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
@@ -187,43 +187,43 @@
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
-          <stop name="NisTsuruga Besso Moku no shoeko"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
+          <stop name="Tsuruga Besso Moku no sho"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
           </stop>
           <stop name="Niseko Grand Hotel"   tag="二世古>Grand Hotel" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="0" km="0" />
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
           </stop>
           <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="0" km="0" />
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
           </stop>
           <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="0" km="0" />
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
           </stop>
           <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="0" km="0" />
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
             <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
           </stop>
           <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="0" km="0" />
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
             <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
           </stop>
           <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="0" km="0" />
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
             <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
           </stop>
-          <stop name="新千歲空港國內" yahoo="true"  tag="機場>新千歲國內" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="4000" km="110" />
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="4000" km="110" />
             <interval from="Niseko Grand Hotel" fare="4000" km="110" />
             <interval from="Hotel Kanronomori" fare="4000" km="110" />
             <interval from="Niseko Northern Resort Annupuri" fare="4000" km="110" />
@@ -231,15 +231,15 @@
             <interval from="Hilton Niseko Village" fare="4000" km="110" />
             <interval from="Hirafu Welcome Center" fare="4000" km="110" />
           </stop>
-          <stop name="新千歲空港國際" yahoo="true"  tag="機場>新千歲國際" gps="" >
-            <interval from="NisTsuruga Besso Moku no shoeko" fare="4000" km="110" />
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="4000" km="110" />
             <interval from="Niseko Grand Hotel" fare="4000" km="110" />
             <interval from="Hotel Kanronomori" fare="4000" km="110" />
             <interval from="Niseko Northern Resort Annupuri" fare="4000" km="110" />
             <interval from="Green Leaf Niseko Village" fare="4000" km="110" />
             <interval from="Hilton Niseko Village" fare="4000" km="110" />
             <interval from="Hirafu Welcome Center" fare="4000" km="110" />
-            <interval from="新千歲空港國內" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
         </route>
         <run >

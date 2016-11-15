@@ -8,12 +8,12 @@
         <route>
           <stop name="留壽都度假札幌辦事處"   tag="市區>札幌" gps="" >
           </stop>
-          <stop name="北館和南館酒店"   tag="留壽都>南北館" gps="" >
+          <stop name="南北館酒店"   tag="留壽都>南北館" gps="" >
             <interval from="留壽都度假札幌辦事處" fare="0" km="72" />
           </stop>
           <stop name="留壽都威斯汀度假酒店"   tag="留壽都>威斯汀" gps="" >
             <interval from="留壽都度假札幌辦事處" fare="0" km="72" />
-            <interval from="北館和南館酒店" fare="0" km="0" />
+            <interval from="南北館酒店" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -32,12 +32,12 @@
         <route>
           <stop name="留壽都威斯汀度假酒店"   tag="留壽都>威斯汀" gps="" >
           </stop>
-          <stop name="北館和南館酒店"   tag="留壽都>南北館" gps="" >
+          <stop name="南北館酒店"   tag="留壽都>南北館" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="0" km="0" />
           </stop>
           <stop name="留壽都度假札幌辦事處"   tag="市區>札幌" gps="" >
             <interval from="留壽都威斯汀度假酒店" fare="0" km="72" />
-            <interval from="北館和南館酒店" fare="0" km="72" />
+            <interval from="南北館酒店" fare="0" km="72" />
           </stop>
         </route>
         <run >

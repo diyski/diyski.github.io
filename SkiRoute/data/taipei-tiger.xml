@@ -21,7 +21,7 @@
             <interval from="小港機場" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
           </stop>
-          <stop name="關西機場" yahoo="true"  tag="機場>大阪" gps="" >
+          <stop name="関西国際空港" yahoo="true"  tag="機場>大阪" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
@@ -32,14 +32,14 @@
             <interval from="小港機場" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
             <interval from="羽田空港" fare="0" km="0" />
-            <interval from="關西機場" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
           </stop>
-          <stop name="函館機場" yahoo="true"  tag="機場>涵館" gps="" >
+          <stop name="函館空港" yahoo="true"  tag="機場>涵館" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
             <interval from="羽田空港" fare="0" km="0" />
-            <interval from="關西機場" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
           </stop>
         </route>
@@ -179,37 +179,37 @@
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="函館機場" yahoo="true"  tag="機場>涵館" gps="" >
+          <stop name="函館空港" yahoo="true"  tag="機場>涵館" gps="" >
           </stop>
           <stop name="仙台空港" yahoo="true"  tag="機場>仙台" gps="" >
-            <interval from="函館機場" fare="0" km="0" />
+            <interval from="函館空港" fare="0" km="0" />
           </stop>
-          <stop name="關西機場" yahoo="true"  tag="機場>大阪" gps="" >
-            <interval from="函館機場" fare="0" km="0" />
+          <stop name="関西国際空港" yahoo="true"  tag="機場>大阪" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
           </stop>
           <stop name="羽田空港" yahoo="true"  tag="機場>羽田" gps="" >
-            <interval from="函館機場" fare="0" km="0" />
+            <interval from="函館空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
-            <interval from="關西機場" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
           </stop>
           <stop name="成田空港" yahoo="true"  tag="機場>成田" gps="" >
-            <interval from="函館機場" fare="0" km="0" />
+            <interval from="函館空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
-            <interval from="關西機場" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
             <interval from="羽田空港" fare="0" km="0" />
           </stop>
           <stop name="小港機場"   tag="台灣>高雄" gps="" >
-            <interval from="函館機場" fare="0" km="0" />
+            <interval from="函館空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
-            <interval from="關西機場" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
             <interval from="羽田空港" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
           </stop>
           <stop name="桃園機場"   tag="台灣>桃園" gps="" >
-            <interval from="函館機場" fare="0" km="0" />
+            <interval from="函館空港" fare="0" km="0" />
             <interval from="仙台空港" fare="0" km="0" />
-            <interval from="關西機場" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
             <interval from="羽田空港" fare="0" km="0" />
             <interval from="成田空港" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />

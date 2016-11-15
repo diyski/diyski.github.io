@@ -7,10 +7,10 @@
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>
       <timetable>
         <route>
-          <stop name="札幌車站"   tag="市區>札幌" gps="" >
+          <stop name="札幌駅" yahoo="true"  tag="北海道市區>札幌" gps="" >
           </stop>
-          <stop name="富良野駅前"   tag="富良野>富良野車站" gps="" >
-            <interval from="札幌車站" fare="2260" km="116" />
+          <stop name="富良野駅前" yahoo="true"  tag="富良野>富良野駅" gps="" >
+            <interval from="札幌駅" fare="2260" km="116" />
           </stop>
         </route>
         <run >
@@ -63,9 +63,9 @@
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>
       <timetable>
         <route>
-          <stop name="富良野駅前"   tag="富良野>富良野車站" gps="" >
+          <stop name="富良野駅前" yahoo="true"  tag="富良野>富良野駅" gps="" >
           </stop>
-          <stop name="札幌車站"   tag="市區>札幌" gps="" >
+          <stop name="札幌駅" yahoo="true"  tag="北海道市區>札幌" gps="" >
             <interval from="富良野駅前" fare="2260" km="116" />
           </stop>
         </route>
