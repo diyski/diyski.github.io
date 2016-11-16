@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="盛岡" to="安比">
   <outbound>
-    <transportation name="盛岡往安比雪場巴士" type="other" available="">
+    <transportation name="盛岡往安比雪場巴士" type="other" available="" apply-to="">
       <info>2150和2240巴士費用1340僅週五晚上有開車</info>
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
       <timetable>

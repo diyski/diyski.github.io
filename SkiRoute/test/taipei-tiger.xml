@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="虎航" to="航班">
   <outbound>
-    <transportation name="台灣虎航" type="other" available="">
+    <transportation name="台灣虎航" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -173,7 +173,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="台灣虎航" type="other" available="">
+    <transportation name="台灣虎航" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>

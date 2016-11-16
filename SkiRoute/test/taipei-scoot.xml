@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="酷航" to="航班">
   <outbound>
-    <transportation name="酷航" type="other" available="">
+    <transportation name="酷航" type="other" available="" apply-to="">
       <info>高雄飛大阪每周二四六</info>
       <source>http://www.flyscoot.com/zhtw/</source>
       <timetable>
@@ -61,7 +61,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="酷航" type="other" available="">
+    <transportation name="酷航" type="other" available="" apply-to="">
       <info>高雄飛大阪每周二四六</info>
       <source>http://www.flyscoot.com/zhtw/</source>
       <timetable>

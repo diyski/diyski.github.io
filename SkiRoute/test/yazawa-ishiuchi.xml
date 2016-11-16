@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="石打丸" to="湯澤(Gala)">
   <outbound>
-    <transportation name="石打丸山スキー場中央口行き" type="other" available="">
+    <transportation name="石打丸山スキー場中央口行き" type="other" available="" apply-to="">
       <info>Free shuttle bus</info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>
@@ -44,7 +44,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="石打丸山スキー場中央口行き" type="other" available="">
+    <transportation name="石打丸山スキー場中央口行き" type="other" available="" apply-to="">
       <info>Free shuttle bus</info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>

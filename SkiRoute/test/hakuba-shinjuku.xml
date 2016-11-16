@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新宿" to="白馬">
   <outbound>
-    <transportation name="Alpico 新宿→白馬" type="other" available="">
+    <transportation name="Alpico 新宿→白馬" type="other" available="" apply-to="">
       <info>Alpico
 </info>
       <source>http://www.alpico.co.jp/access/express/hakuba_shinjuku/</source>
@@ -18,7 +18,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Alpico 白馬→新宿" type="other" available="">
+    <transportation name="Alpico 白馬→新宿" type="other" available="" apply-to="">
       <info>Alpico</info>
       <source>http://www.alpico.co.jp/access/express/hakuba_shinjuku/</source>
       <timetable>

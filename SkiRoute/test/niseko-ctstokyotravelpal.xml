@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲空港(tokyotravelpal)" to="Niseko">
   <outbound>
-    <transportation name="Travelpal bus" type="other" available="">
+    <transportation name="Travelpal bus" type="other" available="" apply-to="二世谷">
       <info>
       </info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
@@ -181,7 +181,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Travelpal bus" type="other" available="">
+    <transportation name="Travelpal bus" type="other" available="" apply-to="二世谷">
       <info>
       </info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>

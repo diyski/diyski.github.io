@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歳空港(札幌)" to="Niseko">
   <outbound>
-    <transportation name="White Line Niseko行" type="other" available="2016/12/12~2017/03/26">
+    <transportation name="White Line Niseko行" type="other" available="2016/12/12~2017/03/26" apply-to="二世谷">
       <info>
       </info>
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
@@ -95,7 +95,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="White Line 新千歲機場行" type="other" available="2016/12/12~2017/03/26">
+    <transportation name="White Line 新千歲機場行" type="other" available="2016/12/12~2017/03/26" apply-to="二世谷">
       <info>
       </info>
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>

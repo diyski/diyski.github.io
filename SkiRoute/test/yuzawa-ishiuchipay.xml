@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="石打丸(付費巴士)" to="湯澤(Gala)">
   <outbound>
-    <transportation name="南越後観光巴士" type="other" available="">
+    <transportation name="南越後観光巴士" type="other" available="" apply-to="">
       <info>越後湯沢駅発 → 石打丸山スキー場方面tel025-773-2573</info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>
@@ -85,7 +85,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="南越後観光巴士" type="other" available="">
+    <transportation name="南越後観光巴士" type="other" available="" apply-to="">
       <info>越後湯沢駅発 → 石打丸山スキー場方面tel025-773-2573</info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>

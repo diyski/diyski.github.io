@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="苗場疾行巴士" to="苗場">
   <outbound>
-    <transportation name="神樂苗場巴士" type="other" available="2016/12/10~2017/04/02">
+    <transportation name="神樂苗場巴士" type="other" available="2016/12/10~2017/04/02" apply-to="苗場">
       <info>大型行李或雪具一件+100日幣運費，有全山共通票免費</info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
           </stop>
           <stop name="Mitsumata"   tag="苗場>神樂" gps="" >
             <interval from="越後湯沢東口" fare="380" km="8" />
@@ -97,7 +97,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="神樂苗場巴士" type="other" available="2016/12/10~2017/04/02">
+    <transportation name="神樂苗場巴士" type="other" available="2016/12/10~2017/04/02" apply-to="苗場">
       <info>大型行李或雪具一件+100日幣運費，有全山共通票免費</info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
@@ -116,7 +116,7 @@
             <interval from="王子飯店六號館" fare="0" km="0" />
             <interval from="Tashiro" fare="0" km="6" />
           </stop>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
             <interval from="王子飯店四號館" fare="670" km="22" />
             <interval from="王子飯店六號館" fare="660" km="21.5" />
             <interval from="Tashiro" fare="530" km="14" />

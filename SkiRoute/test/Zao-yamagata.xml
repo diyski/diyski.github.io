@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="山形車站" to="藏王">
   <outbound>
-    <transportation name="山形往藏王區間巴士" type="other" available="">
+    <transportation name="山形往藏王區間巴士" type="other" available="" apply-to="">
       <info>20:00班次六日及國定假日12/29〜1/3は運休</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>
@@ -72,7 +72,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="藏王往山形區間巴士" type="other" available="">
+    <transportation name="藏王往山形區間巴士" type="other" available="" apply-to="">
       <info>20:00班次六日及國定假日12/29〜1/3は運休</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>

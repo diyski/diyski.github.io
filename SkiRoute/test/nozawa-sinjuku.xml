@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新宿高速バスターミナル" to="野澤溫泉">
   <outbound>
-    <transportation name="高速夜行巴士・野澤溫泉行" type="nightbus" available="">
+    <transportation name="高速夜行巴士・野澤溫泉行" type="nightbus" available="" apply-to="">
       <info>巴士公司：オリオン。</info>
       <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/nozawa.html</source>
       <timetable>
@@ -18,7 +18,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="高速夜行巴士・野澤溫泉行" type="nightbus" available="">
+    <transportation name="高速夜行巴士・野澤溫泉行" type="nightbus" available="" apply-to="">
       <info>巴士公司：サミー(GoGo!Bus)。</info>
       <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/nozawa.html</source>
       <timetable>
@@ -37,7 +37,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="高速夜行巴士・新宿、東京行" type="nightbus" available="">
+    <transportation name="高速夜行巴士・新宿、東京行" type="nightbus" available="" apply-to="">
       <info>巴士公司：オリオン。</info>
       <source>http://www.bus-channel.com/Taiwan/ski/to_kanto/nozawa2.html</source>
       <timetable>
@@ -54,7 +54,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="高速巴士・新宿、東京行" type="highwaybus" available="">
+    <transportation name="高速巴士・新宿、東京行" type="highwaybus" available="" apply-to="">
       <info>巴士公司：オリオン。</info>
       <source>http://www.bus-channel.com/Taiwan/ski/to_kanto/nozawa2.html</source>
       <timetable>

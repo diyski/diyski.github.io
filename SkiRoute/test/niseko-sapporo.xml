@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市(travelpal)" to="Niseko">
   <outbound>
-    <transportation name="Sapporo to Niseko bus" type="other" available="">
+    <transportation name="Sapporo to Niseko bus" type="other" available="" apply-to="二世谷">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
@@ -478,7 +478,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko to Sapporo bus" type="other" available="">
+    <transportation name="Niseko to Sapporo bus" type="other" available="" apply-to="二世谷">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>

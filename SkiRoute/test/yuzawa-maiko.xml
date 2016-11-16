@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="舞子高原" to="湯澤(Gala)">
   <outbound>
-    <transportation name="越後湯沢駅発⇆　舞子高原ホテル" type="other" available="2016/12/26~2017/03/20">
+    <transportation name="越後湯沢駅発⇆　舞子高原ホテル" type="other" available="2016/12/26~2017/03/20" apply-to="">
       <info>2100和2200班次限定舞子高原飯店住宿者預約舞子スノーリゾート　025-783-4100
 舞子高原ホテル　025-783-3511
 

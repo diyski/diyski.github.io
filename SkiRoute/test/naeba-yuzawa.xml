@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯澤" to="苗場">
   <outbound>
-    <transportation name="南越後觀光巴士・苗場、浅貝、西武 行" type="bus" available="">
+    <transportation name="南越後觀光巴士・苗場、浅貝、西武 行" type="bus" available="" apply-to="苗場">
       <info>民宿區至西武口下車</info>
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
       <timetable>
         <route>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
           </stop>
           <stop name="三俣中央"   tag="苗場>神樂" gps="" >
             <interval from="越後湯沢東口" fare="380" km="8" />
@@ -87,7 +87,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="南越後觀光巴士・湯沢駅前 行" type="bus" available="">
+    <transportation name="南越後觀光巴士・湯沢駅前 行" type="bus" available="" apply-to="苗場">
       <info>
       </info>
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
@@ -102,7 +102,7 @@
             <interval from="王子飯店四號館" fare="460" km="14" />
             <interval from="二居田代スキー場前" fare="0" km="0" />
           </stop>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
             <interval from="王子飯店四號館" fare="660" km="22" />
             <interval from="二居田代スキー場前" fare="0" km="0" />
             <interval from="三俣中央" fare="0" km="0" />

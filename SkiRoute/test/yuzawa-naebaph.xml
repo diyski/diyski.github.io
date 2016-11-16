@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="王子飯店免費巴士" to="苗場">
   <outbound>
-    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01">
+    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01" apply-to="苗場">
       <info>住宿者專用；0820和1520只開周六及日本年假
 </info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
           </stop>
           <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
             <interval from="越後湯沢東口" fare="0" km="22" />
@@ -61,7 +61,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01">
+    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01" apply-to="苗場">
       <info>住宿者專用；0820和1520只開周六及日本年假
 </info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
@@ -69,7 +69,7 @@
         <route>
           <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
           </stop>
-          <stop name="越後湯沢東口" yahoo="true"  tag="市區>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
             <interval from="王子飯店四號館" fare="0" km="22" />
           </stop>
         </route>

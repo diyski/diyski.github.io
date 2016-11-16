@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="東京市區" to="藏王">
   <outbound>
-    <transportation name="東京市區往藏王溫泉高速巴士" type="other" available="">
+    <transportation name="東京市區往藏王溫泉高速巴士" type="other" available="" apply-to="">
       <info>10:30車資6000
 23:30車子7500
 </info>
@@ -26,7 +26,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="藏王溫泉往東京高速巴士" type="other" available="">
+    <transportation name="藏王溫泉往東京高速巴士" type="other" available="" apply-to="">
       <info>10:30車資6000
 23:30車子7500
 </info>

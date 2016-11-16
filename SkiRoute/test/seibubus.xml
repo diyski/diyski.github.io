@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="西武巴士" to="苗場">
   <outbound>
-    <transportation name="西武巴士長野線" type="other" available="">
+    <transportation name="西武巴士長野線" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
@@ -41,7 +41,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="西武巴士長野線" type="other" available="">
+    <transportation name="西武巴士長野線" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
