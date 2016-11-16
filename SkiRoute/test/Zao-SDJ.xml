@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="仙台機場" to="藏王">
+  <outbound>
+    <transportation name="仙台機場往藏王預約巴士" type="other" available="">
+      <info>需預約 0223-23-4737 日文</info>
+      <source>http://www.zao-spa.or.jp/taiwan/access.html</source>
+      <timetable>
+        <route>
+          <stop name="仙台空港" yahoo="true"  tag="機場>仙台" gps="" >
+          </stop>
+          <stop name="蔵王温泉站"   tag="藏王>藏王中央區" gps="" >
+            <interval from="仙台空港" fare="1800" km="90" />
+          </stop>
+        </route>
+        <run >
+          <time>10:00</time>
+          <time>11:50</time>
+        </run>
+        <run >
+          <time>11:45</time>
+          <time>13:35</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>14:20</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="往仙台機場預約巴士" type="other" available="">
+      <info>需預約 0223-23-4737 日文</info>
+      <source>http://www.zao-spa.or.jp/taiwan/access.html</source>
+      <timetable>
+        <route>
+          <stop name="蔵王温泉站"   tag="藏王>藏王中央區" gps="" >
+          </stop>
+          <stop name="仙台空港" yahoo="true"  tag="機場>仙台" gps="" >
+            <interval from="蔵王温泉站" fare="1800" km="90" />
+          </stop>
+        </route>
+        <run >
+          <time>13:10</time>
+          <time>15:00</time>
+        </run>
+        <run >
+          <time>14:40</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>18:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新宿高速バスターミナル" to="野澤溫泉">
+  <outbound>
+    <transportation name="高速夜行巴士・野澤溫泉行" type="nightbus" available="">
+      <info>巴士公司：オリオン。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/nozawa.html</source>
+      <timetable>
+        <route>
+          <stop name="@ap"   tag="" gps="" >
+          </stop>
+          <stop name="野澤溫泉"   tag="" gps="" >
+            <interval from="@ap" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>22:00</time>
+          <time>07:55</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="高速夜行巴士・野澤溫泉行" type="nightbus" available="">
+      <info>巴士公司：サミー(GoGo!Bus)。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/nozawa.html</source>
+      <timetable>
+        <route>
+          <stop name="@ap"   tag="" gps="" >
+          </stop>
+          <stop name="野澤溫泉"   tag="" gps="" >
+            <interval from="@ap" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>22:10</time>
+          <time>06:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="高速夜行巴士・新宿、東京行" type="nightbus" available="">
+      <info>巴士公司：オリオン。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/to_kanto/nozawa2.html</source>
+      <timetable>
+        <route>
+          <stop name="野澤溫泉"   tag="" gps="" >
+          </stop>
+          <stop name="@ap"   tag="" gps="" >
+            <interval from="野澤溫泉" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>19:20</time>
+          <time>05:40</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="高速巴士・新宿、東京行" type="highwaybus" available="">
+      <info>巴士公司：オリオン。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/to_kanto/nozawa2.html</source>
+      <timetable>
+        <route>
+          <stop name="野澤溫泉"   tag="" gps="" >
+          </stop>
+          <stop name="@ap"   tag="" gps="" >
+            <interval from="野澤溫泉" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>15:00</time>
+          <time>21:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

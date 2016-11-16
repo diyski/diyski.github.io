@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="成田機場" to="妙高">
+  <outbound>
+    <transportation name="Nagano snow shuttle 成田→妙高" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
+      <timetable>
+        <route>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+          </stop>
+          <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
+            <interval from="成田空港第2ターミナル" fare="11500" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:00</time>
+          <time>14:30</time>
+        </run>
+        <run >
+          <time>12:00</time>
+          <time>15:30</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>21:00</time>
+        </run>
+        <run >
+          <time>20:30</time>
+          <time>01:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="Nagano snow shuttle 妙高→成田" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>未填寫</source>
+      <timetable>
+        <route>
+          <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
+          </stop>
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="" >
+            <interval from="赤倉巴士站" fare="11500" km="0" />
+          </stop>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+            <interval from="赤倉巴士站" fare="11500" km="0" />
+            <interval from="JR新宿駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:45</time>
+          <time>13:15</time>
+          <time>14:30</time>
+        </run>
+        <run >
+          <time>10:45</time>
+          <time>15:15</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>15:45</time>
+          <time>20:15</time>
+          <time>21:30</time>
+        </run>
+        <run >
+          <time>17:45</time>
+          <time>22:15</time>
+          <time>23:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

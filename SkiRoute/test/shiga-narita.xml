@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="成田機場" to="志賀">
+  <outbound>
+    <transportation name="Nagano snow shuttle 成田→志賀" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
+      <timetable>
+        <route>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+          </stop>
+          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+            <interval from="成田空港第2ターミナル" fare="12700" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:00</time>
+          <time>14:45</time>
+        </run>
+        <run >
+          <time>20:30</time>
+          <time>01:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="Nagano snow shuttle 志賀→成田" type="other" available="2016/12/17~2017/03/12">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
+      <timetable>
+        <route>
+          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+          </stop>
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="" >
+            <interval from="志賀高原住宿點" fare="12700" km="0" />
+          </stop>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+            <interval from="志賀高原住宿點" fare="127000" km="0" />
+            <interval from="JR新宿駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>10:30</time>
+          <time>15:15</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>20:15</time>
+          <time>21:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

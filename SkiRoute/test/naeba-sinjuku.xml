@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新宿高速バスターミナル" to="苗場">
+  <outbound>
+    <transportation name="高速巴士・苗場滑雪場行" type="highwaybus" available="">
+      <info>巴士公司：オリオン。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/naeba.html</source>
+      <timetable>
+        <route>
+          <stop name="@ap"   tag="" gps="" >
+          </stop>
+          <stop name="苗場プリンスホテル"   tag="" gps="" >
+            <interval from="@ap" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>10:50</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="高速夜行巴士・苗場滑雪場行" type="nightbus" available="">
+      <info>巴士公司：サミー(GoGo!Bus)。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/from_kanto/naeba.html</source>
+      <timetable>
+        <route>
+          <stop name="@ap"   tag="" gps="" >
+          </stop>
+          <stop name="苗場プリンスホテル"   tag="" gps="" >
+            <interval from="@ap" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>22:00</time>
+          <time>05:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="高速巴士・新宿、東京行" type="highwaybus" available="">
+      <info>巴士公司：オリオン。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/to_kanto/naeba2.html</source>
+      <timetable>
+        <route>
+          <stop name="苗場プリンスホテル"   tag="" gps="" >
+          </stop>
+          <stop name="@ap"   tag="" gps="" >
+            <interval from="苗場プリンスホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>17:30</time>
+          <time>21:30</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="高速巴士・新宿、東京行" type="highwaybus" available="">
+      <info>巴士公司：サミー(GoGo!Bus)。</info>
+      <source>http://www.bus-channel.com/Taiwan/ski/to_kanto/naeba2.html</source>
+      <timetable>
+        <route>
+          <stop name="苗場プリンスホテル"   tag="" gps="" >
+          </stop>
+          <stop name="@ap"   tag="" gps="" >
+            <interval from="苗場プリンスホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>17:50</time>
+          <time>21:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

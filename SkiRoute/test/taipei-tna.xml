@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="復興航空" to="航班">
+  <outbound>
+    <transportation name="復興航空" type="other" available="">
+      <info>
+      </info>
+      <source>http://www.tna.com.tw/tw/</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="成田空港" yahoo="true"  tag="機場>成田空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
+          </stop>
+          <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+          </stop>
+          <stop name="仙台空港" yahoo="true"  tag="機場>仙台" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="旭川空港" fare="0" km="0" />
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="旭川空港" fare="0" km="0" />
+            <interval from="仙台空港" fare="0" km="0" />
+          </stop>
+          <stop name="函館空港" yahoo="true"  tag="機場>涵館" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="旭川空港" fare="0" km="0" />
+            <interval from="仙台空港" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:50</time>
+          <time>12:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>19:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>07:00</time>
+          <time>
+          </time>
+          <time>12:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>07:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="12345" >
+          <time>06:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>10:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>08:10</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>11:40</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>20:00</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>07:20</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>11:45</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="復興航空" type="other" available="">
+      <info>
+      </info>
+      <source>http://www.tna.com.tw/tw/</source>
+      <timetable>
+        <route>
+          <stop name="函館空港" yahoo="true"  tag="機場>涵館" gps="" >
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
+          </stop>
+          <stop name="仙台空港" yahoo="true"  tag="機場>仙台" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+          <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
+            <interval from="仙台空港" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
+            <interval from="仙台空港" fare="0" km="0" />
+            <interval from="旭川空港" fare="0" km="0" />
+          </stop>
+          <stop name="成田空港" yahoo="true"  tag="機場>成田空港" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
+            <interval from="仙台空港" fare="0" km="0" />
+            <interval from="旭川空港" fare="0" km="0" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
+            <interval from="関西国際空港" fare="0" km="0" />
+            <interval from="仙台空港" fare="0" km="0" />
+            <interval from="旭川空港" fare="0" km="0" />
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="成田空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>13:00</time>
+          <time>15:50</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>20:30</time>
+          <time>23:30</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>13:00</time>
+          <time>
+          </time>
+          <time>16:40</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>13:10</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>17:20</time>
+        </run>
+        <run available="12345" >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>10:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>14:10</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>12:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>14:50</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>21:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>23:10</time>
+        </run>
+        <run >
+          <time>13:15</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>17:05</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

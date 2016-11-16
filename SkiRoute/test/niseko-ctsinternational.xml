@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歳空港・国際線ターミナル" to="Niseko">
+  <outbound>
+    <transportation name="未命名的交通方式" type="other" available="">
+      <info>
+      </info>
+      <source>未填寫</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港・国際線ターミナル" yahoo="true"  tag="機場>新千歲" gps="" >
+          </stop>
+          <stop name="Hirafu Welcome Center"   tag="新雪谷>Hirafu" gps="" >
+            <interval from="新千歳空港・国際線ターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="The Green Leaf Niseko Village"   tag="" gps="" >
+            <interval from="新千歳空港・国際線ターミナル" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+          </stop>
+          <stop name="Hilton Niseko Village Hotel"   tag="" gps="" >
+            <interval from="新千歳空港・国際線ターミナル" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+          </stop>
+          <stop name=" Niseko Northern resort Annupuri"   tag="" gps="" >
+            <interval from="新千歳空港・国際線ターミナル" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+          </stop>
+          <stop name=" Hotel Kanronomori"   tag="" gps="" >
+            <interval from="新千歳空港・国際線ターミナル" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="The Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village Hotel" fare="0" km="0" />
+            <interval from=" Niseko Northern resort Annupuri" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>12:00</time>
+          <time>12:20</time>
+          <time>12:30</time>
+          <time>12:45</time>
+          <time>12:55</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>13:00</time>
+          <time>13:20</time>
+          <time>13:30</time>
+          <time>13:45</time>
+          <time>13:55</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+  </inbound>
+</accesspoint>
