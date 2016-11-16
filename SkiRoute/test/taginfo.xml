@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tag-list>
-  <group name="台灣">
+  <group name="出發地">
     <tag name="台灣" info-url="" img-url="" />
-  </group>
-  <group name="機場">
     <tag name="機場" info-url="" img-url="" />
-  </group>
-  <group name="東京">
     <tag name="東京" info-url="" img-url="" />
   </group>
   <group name="北海道">
