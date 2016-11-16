@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="羽田機場" to="志賀">
   <outbound>
-    <transportation name="Nagano snow shuttle 羽田→志賀" type="other" available="2016/12/17~2017/03/12" apply-to="">
+    <transportation name="Nagano snow shuttle 羽田→志賀" type="other" available="2016/12/17~2017/03/12" apply-to="志賀">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Haneda.aspx</source>
       <timetable>
         <route>
-          <stop name="羽田空港" yahoo="true"  tag="機場>羽田國際線" gps="35.544312, 139.767589" >
+          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
           </stop>
           <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
-            <interval from="羽田空港" fare="12700" km="0" />
+            <interval from="羽田國際線" fare="12700" km="0" />
           </stop>
         </route>
         <run >
@@ -20,14 +20,14 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 志賀→羽田" type="other" available="2016/12/17~2017/03/12" apply-to="">
+    <transportation name="Nagano snow shuttle 志賀→羽田" type="other" available="2016/12/17~2017/03/12" apply-to="志賀">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
       <timetable>
         <route>
           <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
           </stop>
-          <stop name="羽田空港" yahoo="true"  tag="機場>羽田國際線" gps="35.544312, 139.767589" >
+          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
             <interval from="志賀高原住宿點" fare="12700" km="0" />
           </stop>
         </route>

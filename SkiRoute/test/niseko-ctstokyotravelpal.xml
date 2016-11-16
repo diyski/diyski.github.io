@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲空港(tokyotravelpal)" to="Niseko">
   <outbound>
-    <transportation name="Travelpal bus" type="other" available="" apply-to="二世谷">
+    <transportation name="[複製]Travelpal bus" type="other" available="" apply-to="二世谷">
       <info>
       </info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
@@ -9,34 +9,26 @@
         <route>
           <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="新千歳空港国内線" fare="0" km="0" />
-          </stop>
           <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
             <interval from="新千歳空港国内線" fare="4000" km="110" />
-            <interval from="新千歳空港国際線" fare="0" km="0" />
           </stop>
           <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
             <interval from="新千歳空港国内線" fare="4000" km="110" />
-            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
           </stop>
           <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
             <interval from="新千歳空港国内線" fare="4000" km="110" />
-            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
           </stop>
           <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
             <interval from="新千歳空港国内線" fare="4000" km="110" />
-            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
           </stop>
           <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
             <interval from="新千歳空港国内線" fare="4000" km="110" />
-            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
@@ -44,7 +36,6 @@
           </stop>
           <stop name="Niseko Grand Hotel"   tag="二世古>Grand Hotel" gps="" >
             <interval from="新千歳空港国内線" fare="4000" km="110" />
-            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
@@ -53,7 +44,6 @@
           </stop>
           <stop name="Tsuruga Besso Moku no sho"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
             <interval from="新千歳空港国内線" fare="4000" km="110" />
-            <interval from="新千歳空港国際線" fare="0" km="0" />
             <interval from="Hirafu Welcome Center" fare="0" km="0" />
             <interval from="Green Leaf Niseko Village" fare="0" km="0" />
             <interval from="Hilton Niseko Village" fare="0" km="0" />
@@ -64,6 +54,158 @@
         </route>
         <run >
           <time>09:30</time>
+          <time>12:10</time>
+          <time>12:30</time>
+          <time>12:35</time>
+          <time>12:50</time>
+          <time>13:00</time>
+          <time>13:05</time>
+          <time>13:10</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>13:10</time>
+          <time>13:30</time>
+          <time>13:35</time>
+          <time>13:50</time>
+          <time>14:00</time>
+          <time>14:05</time>
+          <time>14:10</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>14:10</time>
+          <time>14:30</time>
+          <time>14:35</time>
+          <time>14:50</time>
+          <time>15:00</time>
+          <time>15:05</time>
+          <time>15:10</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>15:20</time>
+          <time>15:40</time>
+          <time>15:45</time>
+          <time>16:00</time>
+          <time>16:10</time>
+          <time>16:15</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>16:50</time>
+          <time>17:10</time>
+          <time>17:15</time>
+          <time>17:30</time>
+          <time>17:40</time>
+          <time>17:45</time>
+          <time>17:50</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>17:50</time>
+          <time>18:10</time>
+          <time>18:15</time>
+          <time>18:30</time>
+          <time>18:40</time>
+          <time>18:45</time>
+          <time>18:50</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>19:20</time>
+          <time>19:40</time>
+          <time>19:45</time>
+          <time>20:00</time>
+          <time>20:10</time>
+          <time>20:15</time>
+          <time>20:20</time>
+        </run>
+        <run >
+          <time>18:00</time>
+          <time>20:40</time>
+          <time>21:00</time>
+          <time>21:05</time>
+          <time>21:20</time>
+          <time>21:30</time>
+          <time>21:35</time>
+          <time>21:40</time>
+        </run>
+        <run >
+          <time>19:30</time>
+          <time>22:00</time>
+          <time>22:20</time>
+          <time>22:25</time>
+          <time>22:40</time>
+          <time>22:50</time>
+          <time>22:55</time>
+          <time>23:00</time>
+        </run>
+        <run >
+          <time>21:30</time>
+          <time>00:00</time>
+          <time>00:20</time>
+          <time>00:25</time>
+          <time>00:40</time>
+          <time>00:50</time>
+          <time>00:55</time>
+          <time>01:00</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Travelpal bus" type="other" available="" apply-to="二世谷">
+      <info>
+      </info>
+      <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          </stop>
+          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+          </stop>
+          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+          </stop>
+          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+          </stop>
+          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village" fare="0" km="0" />
+          </stop>
+          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village" fare="0" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+          </stop>
+          <stop name="Niseko Grand Hotel"   tag="二世古>Grand Hotel" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village" fare="0" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+          </stop>
+          <stop name="Tsuruga Besso Moku no sho"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village" fare="0" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
           <time>
           </time>
           <time>12:10</time>
@@ -75,7 +217,6 @@
           <time>13:10</time>
         </run>
         <run >
-          <time>10:30</time>
           <time>
           </time>
           <time>13:10</time>
@@ -87,7 +228,6 @@
           <time>14:10</time>
         </run>
         <run >
-          <time>11:30</time>
           <time>
           </time>
           <time>14:10</time>
@@ -99,7 +239,6 @@
           <time>15:10</time>
         </run>
         <run >
-          <time>12:30</time>
           <time>12:40</time>
           <time>15:20</time>
           <time>15:40</time>
@@ -110,7 +249,6 @@
           <time>16:20</time>
         </run>
         <run >
-          <time>14:00</time>
           <time>14:10</time>
           <time>16:50</time>
           <time>17:10</time>
@@ -121,7 +259,6 @@
           <time>17:50</time>
         </run>
         <run >
-          <time>15:00</time>
           <time>15:10</time>
           <time>17:50</time>
           <time>18:10</time>
@@ -132,7 +269,6 @@
           <time>18:50</time>
         </run>
         <run >
-          <time>16:30</time>
           <time>16:40</time>
           <time>19:20</time>
           <time>19:40</time>
@@ -143,7 +279,6 @@
           <time>20:20</time>
         </run>
         <run >
-          <time>18:00</time>
           <time>18:10</time>
           <time>20:40</time>
           <time>21:00</time>
@@ -154,7 +289,6 @@
           <time>21:40</time>
         </run>
         <run >
-          <time>19:30</time>
           <time>
           </time>
           <time>22:00</time>
@@ -166,7 +300,6 @@
           <time>23:00</time>
         </run>
         <run >
-          <time>21:30</time>
           <time>
           </time>
           <time>00:00</time>
@@ -181,7 +314,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Travelpal bus" type="other" available="" apply-to="二世谷">
+    <transportation name="[複製]Travelpal bus" type="other" available="" apply-to="二世谷">
       <info>
       </info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
@@ -231,16 +364,6 @@
             <interval from="Hilton Niseko Village" fare="4000" km="110" />
             <interval from="Hirafu Welcome Center" fare="4000" km="110" />
           </stop>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="4000" km="110" />
-            <interval from="Niseko Grand Hotel" fare="4000" km="110" />
-            <interval from="Hotel Kanronomori" fare="4000" km="110" />
-            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="110" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="110" />
-            <interval from="Hilton Niseko Village" fare="4000" km="110" />
-            <interval from="Hirafu Welcome Center" fare="4000" km="110" />
-            <interval from="新千歳空港国内線" fare="0" km="0" />
-          </stop>
         </route>
         <run >
           <time>06:50</time>
@@ -251,7 +374,6 @@
           <time>07:30</time>
           <time>07:50</time>
           <time>10:40</time>
-          <time>10:45</time>
         </run>
         <run >
           <time>08:00</time>
@@ -262,7 +384,6 @@
           <time>08:40</time>
           <time>09:00</time>
           <time>11:50</time>
-          <time>11:55</time>
         </run>
         <run >
           <time>09:40</time>
@@ -273,7 +394,6 @@
           <time>10:20</time>
           <time>10:40</time>
           <time>13:30</time>
-          <time>13:35</time>
         </run>
         <run >
           <time>11:10</time>
@@ -284,7 +404,6 @@
           <time>11:50</time>
           <time>12:10</time>
           <time>15:00</time>
-          <time>15:05</time>
         </run>
         <run >
           <time>12:40</time>
@@ -295,7 +414,6 @@
           <time>13:20</time>
           <time>13:40</time>
           <time>16:30</time>
-          <time>16:35</time>
         </run>
         <run >
           <time>13:40</time>
@@ -306,7 +424,6 @@
           <time>14:20</time>
           <time>14:40</time>
           <time>17:30</time>
-          <time>17:35</time>
         </run>
         <run >
           <time>14:40</time>
@@ -317,7 +434,6 @@
           <time>15:20</time>
           <time>15:40</time>
           <time>18:30</time>
-          <time>18:35</time>
         </run>
         <run >
           <time>15:40</time>
@@ -328,6 +444,138 @@
           <time>16:20</time>
           <time>16:40</time>
           <time>19:30</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Travelpal bus" type="other" available="" apply-to="二世谷">
+      <info>
+      </info>
+      <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
+      <timetable>
+        <route>
+          <stop name="Tsuruga Besso Moku no sho"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
+          </stop>
+          <stop name="Niseko Grand Hotel"   tag="二世古>Grand Hotel" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
+          </stop>
+          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
+            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+          </stop>
+          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
+            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+          </stop>
+          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
+            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+          </stop>
+          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
+            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+          </stop>
+          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
+            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="Hilton Niseko Village" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="Tsuruga Besso Moku no sho" fare="4000" km="110" />
+            <interval from="Niseko Grand Hotel" fare="4000" km="110" />
+            <interval from="Hotel Kanronomori" fare="4000" km="110" />
+            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="110" />
+            <interval from="Green Leaf Niseko Village" fare="4000" km="110" />
+            <interval from="Hilton Niseko Village" fare="4000" km="110" />
+            <interval from="Hirafu Welcome Center" fare="4000" km="110" />
+          </stop>
+        </route>
+        <run >
+          <time>06:50</time>
+          <time>06:55</time>
+          <time>07:00</time>
+          <time>07:10</time>
+          <time>07:25</time>
+          <time>07:30</time>
+          <time>07:50</time>
+          <time>10:45</time>
+        </run>
+        <run >
+          <time>08:00</time>
+          <time>08:05</time>
+          <time>08:10</time>
+          <time>08:20</time>
+          <time>08:35</time>
+          <time>08:40</time>
+          <time>09:00</time>
+          <time>11:55</time>
+        </run>
+        <run >
+          <time>09:40</time>
+          <time>09:45</time>
+          <time>09:50</time>
+          <time>10:00</time>
+          <time>10:15</time>
+          <time>10:20</time>
+          <time>10:40</time>
+          <time>13:35</time>
+        </run>
+        <run >
+          <time>11:10</time>
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>11:30</time>
+          <time>11:45</time>
+          <time>11:50</time>
+          <time>12:10</time>
+          <time>15:05</time>
+        </run>
+        <run >
+          <time>12:40</time>
+          <time>12:45</time>
+          <time>12:50</time>
+          <time>13:00</time>
+          <time>13:15</time>
+          <time>13:20</time>
+          <time>13:40</time>
+          <time>16:35</time>
+        </run>
+        <run >
+          <time>13:40</time>
+          <time>13:45</time>
+          <time>13:50</time>
+          <time>14:00</time>
+          <time>14:15</time>
+          <time>14:20</time>
+          <time>14:40</time>
+          <time>17:35</time>
+        </run>
+        <run >
+          <time>14:40</time>
+          <time>14:45</time>
+          <time>14:50</time>
+          <time>15:00</time>
+          <time>15:15</time>
+          <time>15:20</time>
+          <time>15:40</time>
+          <time>18:35</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:45</time>
+          <time>15:50</time>
+          <time>16:00</time>
+          <time>16:15</time>
+          <time>16:20</time>
+          <time>16:40</time>
           <time>19:35</time>
         </run>
       </timetable>

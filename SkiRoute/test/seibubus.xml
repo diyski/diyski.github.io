@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="西武巴士" to="苗場">
   <outbound>
-    <transportation name="西武巴士長野線" type="other" available="" apply-to="">
+    <transportation name="西武巴士長野線" type="other" available="" apply-to="白馬,野澤,妙高,志賀">
       <info>
       </info>
       <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
       <timetable>
         <route>
-          <stop name="池袋站東口" yahoo="true"  tag="市區>池袋" gps="" >
+          <stop name="池袋站東口" yahoo="true"  tag="東京>池袋" gps="" >
           </stop>
-          <stop name="長野站前" yahoo="true"  tag="市區>長野" gps="" >
+          <stop name="長野駅" yahoo="true"  tag="長野市區>長野" gps="" >
             <interval from="池袋站東口" fare="2100" km="234" />
           </stop>
         </route>
@@ -41,16 +41,16 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="西武巴士長野線" type="other" available="" apply-to="">
+    <transportation name="西武巴士長野線" type="other" available="" apply-to="白馬,野澤,妙高,志賀">
       <info>
       </info>
       <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
       <timetable>
         <route>
-          <stop name="長野站前" yahoo="true"  tag="市區>長野" gps="" >
+          <stop name="長野駅" yahoo="true"  tag="長野市區>長野" gps="" >
           </stop>
-          <stop name="池袋站東口" yahoo="true"  tag="市區>池袋" gps="" >
-            <interval from="長野站前" fare="2100" km="234" />
+          <stop name="池袋站東口" yahoo="true"  tag="東京>池袋" gps="" >
+            <interval from="長野駅" fare="2100" km="234" />
           </stop>
         </route>
         <run >

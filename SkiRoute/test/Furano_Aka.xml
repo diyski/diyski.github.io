@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="旭川機場" to="富良野">
   <outbound>
-    <transportation name="巴士往富良野" type="other" available="" apply-to="">
+    <transportation name="巴士往富良野" type="other" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.furanobus.jp/lavender/</source>
@@ -88,7 +88,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="巴士往旭川機場" type="other" available="" apply-to="">
+    <transportation name="巴士往旭川機場" type="other" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.furanobus.jp/lavender/</source>

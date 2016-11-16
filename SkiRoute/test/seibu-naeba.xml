@@ -4,12 +4,12 @@
     <transportation name="西武巴士" type="other" available="" apply-to="苗場,輕井澤">
       <info>
       </info>
-      <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
+      <source>https://www.kkday.com/zh-tw/product/10220</source>
       <timetable>
         <route>
-          <stop name="品川王子飯店東塔入口"   tag="市區>品川" gps="" >
+          <stop name="品川王子飯店東塔入口"   tag="東京>品川" gps="" >
           </stop>
-          <stop name="池袋站東口高速巴士乘車處" yahoo="true"  tag="市區>池袋" gps="" >
+          <stop name="池袋站東口高速巴士乘車處" yahoo="true"  tag="東京>池袋" gps="" >
             <interval from="品川王子飯店東塔入口" fare="0" km="0" />
           </stop>
           <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
@@ -107,7 +107,7 @@
     <transportation name="西武巴士" type="other" available="" apply-to="苗場,輕井澤">
       <info>
       </info>
-      <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
+      <source>https://www.kkday.com/zh-tw/product/10220</source>
       <timetable>
         <route>
           <stop name="站前北口3號乘車處" yahoo="true"  tag="輕井澤>輕井澤站" gps="" >
@@ -119,12 +119,12 @@
             <interval from="站前北口3號乘車處" fare="0" km="0" />
             <interval from="西館" fare="0" km="0" />
           </stop>
-          <stop name="池袋站東口高速巴士乘車處" yahoo="true"  tag="市區>池袋" gps="" >
+          <stop name="池袋站東口高速巴士乘車處" yahoo="true"  tag="東京>池袋" gps="" >
             <interval from="站前北口3號乘車處" fare="3000" km="0" />
             <interval from="西館" fare="3000" km="0" />
             <interval from="王子飯店四號館" fare="3500" km="0" />
           </stop>
-          <stop name="品川王子飯店東塔入口"   tag="市區>品川" gps="" >
+          <stop name="品川王子飯店東塔入口"   tag="東京>品川" gps="" >
             <interval from="站前北口3號乘車處" fare="0" km="0" />
             <interval from="西館" fare="0" km="0" />
             <interval from="王子飯店四號館" fare="3500" km="0" />

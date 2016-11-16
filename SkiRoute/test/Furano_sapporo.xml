@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市區" to="富良野">
   <outbound>
-    <transportation name="中央巴士往富良野車站" type="other" available="" apply-to="">
+    <transportation name="中央巴士往富良野車站" type="other" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>
@@ -57,7 +57,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="中央巴士往札幌車站" type="other" available="" apply-to="">
+    <transportation name="中央巴士往札幌車站" type="other" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>

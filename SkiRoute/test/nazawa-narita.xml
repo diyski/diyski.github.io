@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="成田機場" to="野澤溫泉">
   <outbound>
-    <transportation name="Nagano snow shuttle 成田→野澤" type="other" available="2016/12/17~2017/03/12" apply-to="">
+    <transportation name="Nagano snow shuttle 成田→野澤" type="other" available="2016/12/17~2017/03/12" apply-to="野澤">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
       <timetable>
@@ -32,14 +32,14 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 野澤→成田" type="other" available="2016/12/17~2017/03/12" apply-to="">
+    <transportation name="Nagano snow shuttle 野澤→成田" type="other" available="2016/12/17~2017/03/12" apply-to="野澤">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Nozawa.aspx</source>
       <timetable>
         <route>
           <stop name="中央巴士站"   tag="野澤>巴士站" gps="36.922445, 138.446199" >
           </stop>
-          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="" >
+          <stop name="JR新宿駅"   tag="東京>新宿" gps="" >
             <interval from="中央巴士站" fare="10500" km="0" />
           </stop>
           <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >

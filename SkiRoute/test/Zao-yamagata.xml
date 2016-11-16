@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="山形車站" to="藏王">
   <outbound>
-    <transportation name="山形往藏王區間巴士" type="other" available="" apply-to="">
-      <info>20:00班次六日及國定假日12/29〜1/3は運休</info>
+    <transportation name="山形往藏王區間巴士" type="other" available="" apply-to="藏王">
+      <info>20:00班次 六日及國定假日12/29〜1/3は運休</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>
         <route>
-          <stop name="山形駅" yahoo="true"  tag="市區>山形" gps="" >
+          <stop name="山形駅" yahoo="true"  tag="東北市區>山形" gps="" >
           </stop>
           <stop name="蔵王温泉站"   tag="藏王>藏王中央區" gps="" >
             <interval from="山形駅" fare="1000" km="17" />
@@ -72,14 +72,14 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="藏王往山形區間巴士" type="other" available="" apply-to="">
-      <info>20:00班次六日及國定假日12/29〜1/3は運休</info>
+    <transportation name="藏王往山形區間巴士" type="other" available="" apply-to="藏王">
+      <info>07:00班次 六日及國定假日12/29〜1/3は運休</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>
         <route>
           <stop name="蔵王温泉站"   tag="藏王>藏王中央區" gps="" >
           </stop>
-          <stop name="山形駅" yahoo="true"  tag="市區>山形" gps="" >
+          <stop name="山形駅" yahoo="true"  tag="東北市區>山形" gps="" >
             <interval from="蔵王温泉站" fare="1000" km="17" />
           </stop>
         </route>

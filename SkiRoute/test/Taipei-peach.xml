@@ -11,14 +11,14 @@
           <stop name="小港機場"   tag="台灣>高雄" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
           </stop>
-          <stop name="羽田空港" yahoo="true"  tag="機場>羽田空港" gps="" >
+          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
             <interval from="桃園機場" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />
           </stop>
           <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
             <interval from="桃園機場" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />
-            <interval from="羽田空港" fare="0" km="0" />
+            <interval from="羽田國際線" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -64,16 +64,16 @@
         <route>
           <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
           </stop>
-          <stop name="羽田空港" yahoo="true"  tag="機場>羽田空港" gps="" >
+          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
             <interval from="関西国際空港" fare="0" km="0" />
           </stop>
           <stop name="小港機場"   tag="台灣>高雄" gps="" >
             <interval from="関西国際空港" fare="0" km="0" />
-            <interval from="羽田空港" fare="0" km="0" />
+            <interval from="羽田國際線" fare="0" km="0" />
           </stop>
           <stop name="桃園機場"   tag="台灣>桃園" gps="" >
             <interval from="関西国際空港" fare="0" km="0" />
-            <interval from="羽田空港" fare="0" km="0" />
+            <interval from="羽田國際線" fare="0" km="0" />
             <interval from="小港機場" fare="0" km="0" />
           </stop>
         </route>
