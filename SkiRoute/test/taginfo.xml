@@ -18,6 +18,7 @@
   <group name="東北">
     <tag name="安比" info-url="https://diy.ski/appi" img-url="https://diy.ski/photos/appi/appi.jpg" />
     <tag name="藏王" info-url="https://diy.ski/zao" img-url="https://diy.ski/photos/zao/zao.jpg" />
+    <tag name="東北市區" info-url="" img-url="" />
   </group>
   <group name="長野縣">
     <tag name="白馬" info-url="https://diy.ski/hakuba" img-url="https://diy.ski/photos/hakuba/hakuba.jpg" />
