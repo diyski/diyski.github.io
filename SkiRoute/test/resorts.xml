@@ -117,5 +117,7 @@
   <resort name="東京">
     <accessPoint name="西武巴士" filename="seibubus.xml">
     </accessPoint>
+    <accessPoint name="AccessNarita" filename="Narita-tokyo.xml">
+    </accessPoint>
   </resort>
 </skiResorts>
