@@ -2,35 +2,35 @@
 <accesspoint name="AccessNarita" to="東京">
   <outbound>
     <transportation name="AccessNarita巴士" type="other" available="" apply-to="苗場,湯澤,野澤,白馬,妙高,藏王,輕井澤,安比">
-      <info>成田空港第二航廈在2號及19號巴士處搭乘</info>
+      <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
         <route>
-          <stop name="成田空港第3ターミナル2番 発" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="35.777683, 140.383215" >
           </stop>
-          <stop name="成田空港第2ターミナル2番 発" yahoo="true"  tag="機場>成田空港" gps="" >
-            <interval from="成田空港第3ターミナル2番 発" fare="0" km="0" />
+          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.777683, 140.383215" >
+            <interval from="成田空港第3ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル19番 発" yahoo="true"  tag="機場>成田空港" gps="" >
-            <interval from="成田空港第3ターミナル2番 発" fare="0" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="0" km="0" />
+          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.771988, 140.388480" >
+            <interval from="成田空港第3ターミナル" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第1ターミナル31番 発" yahoo="true"  tag="機場>成田空港" gps="" >
-            <interval from="成田空港第3ターミナル2番 発" fare="0" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="0" km="0" />
-            <interval from="成田空港第2ターミナル19番 発" fare="0" km="0" />
+          <stop name="成田空港第1ターミナル"   tag="機場>成田空港" gps="35.764069, 140.387233" >
+            <interval from="成田空港第3ターミナル" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
           <stop name="東京駅" yahoo="true"  tag="東京>東京駅" gps="" >
-            <interval from="成田空港第3ターミナル2番 発" fare="1000" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="1000" km="0" />
-            <interval from="成田空港第2ターミナル19番 発" fare="1000" km="0" />
-            <interval from="成田空港第1ターミナル31番 発" fare="1000" km="0" />
+            <interval from="成田空港第3ターミナル" fare="1000" km="0" />
+            <interval from="成田空港第2ターミナル" fare="1000" km="0" />
+            <interval from="成田空港第2ターミナル" fare="1000" km="0" />
+            <interval from="成田空港第1ターミナル" fare="1000" km="0" />
           </stop>
           <stop name="銀座駅" yahoo="true"  tag="東京>銀座" gps="" >
-            <interval from="成田空港第3ターミナル2番 発" fare="1000" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="1000" km="0" />
-            <interval from="成田空港第2ターミナル19番 発" fare="1000" km="0" />
-            <interval from="成田空港第1ターミナル31番 発" fare="1000" km="0" />
+            <interval from="成田空港第3ターミナル" fare="1000" km="0" />
+            <interval from="成田空港第2ターミナル" fare="1000" km="0" />
+            <interval from="成田空港第2ターミナル" fare="1000" km="0" />
+            <interval from="成田空港第1ターミナル" fare="1000" km="0" />
             <interval from="東京駅" fare="0" km="0" />
           </stop>
         </route>
@@ -625,30 +625,29 @@
   </outbound>
   <inbound>
     <transportation name="AccessNarita深夜巴士" type="other" available="" apply-to="苗場,湯澤,野澤,白馬,妙高,藏王,輕井澤,安比">
-      <info>
-      </info>
+      <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
         <route>
-          <stop name="銀座駅" yahoo="true"  tag="東京>銀座" gps="" >
+          <stop name="銀座駅" yahoo="true"  tag="東京>銀座" gps="35.673062, 139.763723" >
           </stop>
-          <stop name="東京駅" yahoo="true"  tag="東京>東京" gps="" >
+          <stop name="東京駅" yahoo="true"  tag="東京>東京駅" gps="35.679431, 139.767925" >
             <interval from="銀座駅" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第3ターミナル" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="銀座駅" fare="2000" km="0" />
             <interval from="東京駅" fare="2000" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル2番 発" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="銀座駅" fare="2000" km="0" />
             <interval from="東京駅" fare="2000" km="0" />
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル19番 発" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="銀座駅" fare="2000" km="0" />
             <interval from="東京駅" fare="2000" km="0" />
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -675,36 +674,36 @@
       </timetable>
     </transportation>
     <transportation name="AccessNarita巴士" type="other" available="" apply-to="苗場,湯澤,野澤,白馬,妙高,藏王,輕井澤,安比">
-      <info>成田空港第二航廈在2號及19號巴士處搭乘</info>
+      <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
         <route>
-          <stop name="銀座駅" yahoo="true"  tag="東京>銀座" gps="" >
+          <stop name="銀座駅" yahoo="true"  tag="東京>銀座" gps="35.673062, 139.763723" >
           </stop>
-          <stop name="東京駅" yahoo="true"  tag="東京>東京駅" gps="" >
+          <stop name="東京駅" yahoo="true"  tag="東京>東京駅" gps="35.679431, 139.767925" >
             <interval from="銀座駅" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル2番 発" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル17番 発" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第1ターミナル15番 発" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第1ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="0" km="0" />
-            <interval from="成田空港第2ターミナル17番 発" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第3ターミナル" yahoo="true"  tag="機場>成田空港" gps="" >
+          <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
-            <interval from="成田空港第2ターミナル2番 発" fare="0" km="0" />
-            <interval from="成田空港第2ターミナル17番 発" fare="0" km="0" />
-            <interval from="成田空港第1ターミナル15番 発" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+            <interval from="成田空港第1ターミナル" fare="0" km="0" />
           </stop>
         </route>
         <run >
