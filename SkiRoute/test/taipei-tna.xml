@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="復興航空" to="航班">
-  <outbound>
+<accesspoint name="日本(復興航空)" to="台灣">
+  <inbound>
     <transportation name="復興航空" type="other" available="" apply-to="">
       <info>
       </info>
@@ -157,8 +157,8 @@
         </run>
       </timetable>
     </transportation>
-  </outbound>
-  <inbound>
+  </inbound>
+  <outbound>
     <transportation name="復興航空" type="other" available="" apply-to="">
       <info>
       </info>
@@ -315,5 +315,5 @@
         </run>
       </timetable>
     </transportation>
-  </inbound>
+  </outbound>
 </accesspoint>

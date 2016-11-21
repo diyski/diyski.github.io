@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="捷星" to="航班">
-  <outbound>
+<accesspoint name="日本(捷星)" to="台灣">
+  <inbound>
     <transportation name="捷星航空" type="other" available="" apply-to="">
       <info>僅列直飛航班</info>
       <source>http://www.jetstar.com/tw/zh/home</source>
@@ -42,8 +42,8 @@
         </run>
       </timetable>
     </transportation>
-  </outbound>
-  <inbound>
+  </inbound>
+  <outbound>
     <transportation name="捷星航空" type="other" available="" apply-to="">
       <info>僅列直飛航班</info>
       <source>http://www.jetstar.com/tw/zh/home</source>
@@ -79,5 +79,5 @@
         </run>
       </timetable>
     </transportation>
-  </inbound>
+  </outbound>
 </accesspoint>

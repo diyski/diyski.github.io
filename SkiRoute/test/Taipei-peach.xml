@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="樂桃" to="航班">
-  <outbound>
+<accesspoint name="日本(樂桃)" to="台灣">
+  <inbound>
     <transportation name="樂桃航空" type="other" available="" apply-to="">
       <info>帶雪具不適合搭乘</info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -55,8 +55,8 @@
         </run>
       </timetable>
     </transportation>
-  </outbound>
-  <inbound>
+  </inbound>
+  <outbound>
     <transportation name="樂桃航空" type="other" available="" apply-to="">
       <info>帶雪具不適合搭乘</info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -119,5 +119,5 @@
         </run>
       </timetable>
     </transportation>
-  </inbound>
+  </outbound>
 </accesspoint>

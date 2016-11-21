@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="虎航" to="航班">
-  <outbound>
+<accesspoint name="日本(虎航)" to="台灣">
+  <inbound>
     <transportation name="台灣虎航" type="other" available="" apply-to="">
       <info>
       </info>
@@ -171,8 +171,8 @@
         </run>
       </timetable>
     </transportation>
-  </outbound>
-  <inbound>
+  </inbound>
+  <outbound>
     <transportation name="台灣虎航" type="other" available="" apply-to="">
       <info>
       </info>
@@ -343,5 +343,5 @@
         </run>
       </timetable>
     </transportation>
-  </inbound>
+  </outbound>
 </accesspoint>

@@ -30,18 +30,18 @@
     <accessPoint name="志賀" filename="nozawa-shiga.xml">
     </accessPoint>
   </resort>
-  <resort name="航班">
-    <accessPoint name="香草航空" filename="Taipei-NRT.xml">
+  <resort name="台灣">
+    <accessPoint name="日本(香草航空)" filename="Taipei-NRT.xml">
     </accessPoint>
-    <accessPoint name="酷航" filename="taipei-scoot.xml">
+    <accessPoint name="日本(酷航)" filename="taipei-scoot.xml">
     </accessPoint>
-    <accessPoint name="樂桃" filename="Taipei-peach.xml">
+    <accessPoint name="日本(樂桃)" filename="Taipei-peach.xml">
     </accessPoint>
-    <accessPoint name="捷星" filename="taipei-jetstar.xml">
+    <accessPoint name="日本(捷星)" filename="taipei-jetstar.xml">
     </accessPoint>
-    <accessPoint name="虎航" filename="taipei-tiger.xml">
+    <accessPoint name="日本(虎航)" filename="taipei-tiger.xml">
     </accessPoint>
-    <accessPoint name="復興航空" filename="taipei-tna.xml">
+    <accessPoint name="日本(復興航空)" filename="taipei-tna.xml">
     </accessPoint>
   </resort>
   <resort name="白馬">

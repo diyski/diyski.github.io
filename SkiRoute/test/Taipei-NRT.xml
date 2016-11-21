@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="香草航空" to="航班">
+<accesspoint name="日本(香草航空)" to="台灣">
   <outbound>
     <transportation name="香草航空" type="other" available="" apply-to="">
       <info>
@@ -7,15 +7,15 @@
       <source>https://www.vanilla-air.com/tw/</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
-          </stop>
           <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
-          <time>22:45</time>
-          <time>02:15</time>
+          <time>03:15</time>
+          <time>05:20</time>
         </run>
       </timetable>
     </transportation>
@@ -75,15 +75,15 @@
       <source>https://www.vanilla-air.com/tw/</source>
       <timetable>
         <route>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
-          </stop>
           <stop name="桃園機場"   tag="台灣>桃園" gps="" >
-            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
           </stop>
         </route>
         <run >
-          <time>03:15</time>
-          <time>05:20</time>
+          <time>22:45</time>
+          <time>02:15</time>
         </run>
       </timetable>
     </transportation>
