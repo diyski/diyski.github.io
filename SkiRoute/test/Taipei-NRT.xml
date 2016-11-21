@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="日本(香草航空)" to="台灣">
   <outbound>
-    <transportation name="香草航空" type="other" available="" apply-to="">
-      <info>
-      </info>
-      <source>https://www.vanilla-air.com/tw/</source>
-      <timetable>
-        <route>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
-          </stop>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
-            <interval from="関西国際空港" fare="0" km="0" />
-          </stop>
-        </route>
-        <run >
-          <time>03:15</time>
-          <time>05:20</time>
-        </run>
-      </timetable>
-    </transportation>
-    <transportation name="香草航空" type="other" available="" apply-to="">
+    <transportation name="香草 成田→台灣" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
       <info>
       </info>
       <source>https://www.vanilla-air.com/tw/</source>
@@ -67,27 +49,27 @@
         </run>
       </timetable>
     </transportation>
-  </outbound>
-  <inbound>
-    <transportation name="香草航空" type="other" available="" apply-to="">
+    <transportation name="香草 關西→桃園" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
       <info>
       </info>
       <source>https://www.vanilla-air.com/tw/</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
-          </stop>
           <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
-          <time>22:45</time>
-          <time>02:15</time>
+          <time>03:15</time>
+          <time>05:20</time>
         </run>
       </timetable>
     </transportation>
-    <transportation name="香草航空" type="other" available="" apply-to="">
+  </outbound>
+  <inbound>
+    <transportation name="香草 台灣→成田" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
       <info>
       </info>
       <source>https://www.vanilla-air.com/tw/</source>
@@ -132,6 +114,24 @@
           </time>
           <time>06:50</time>
           <time>11:15</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草 桃園→關西" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
+      <info>
+      </info>
+      <source>https://www.vanilla-air.com/tw/</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>22:45</time>
+          <time>02:15</time>
         </run>
       </timetable>
     </transportation>

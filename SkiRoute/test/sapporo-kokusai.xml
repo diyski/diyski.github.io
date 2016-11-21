@@ -1,48 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市區" to="札幌國際">
   <outbound>
-    <transportation name="未命名的交通方式" type="other" available="" apply-to="undefined">
-      <info>
-      </info>
-      <source>未填寫</source>
+    <transportation name="新札幌→福住 每日" type="other" available="2016/12/17~2017/01/13" apply-to="札幌國際">
+      <info>12/10-3/26 六、日、假日運行
+12/17-1/13 每日運行</info>
+      <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
       <timetable>
         <route>
-          <stop name="新札幌駅"   tag="札幌>JR" gps="" >
+          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
           </stop>
-          <stop name="未命名"   tag="" gps="" >
+          <stop name="大谷地駅" yahoo="true"  tag="札幌>地鐵" gps="43.026978, 141.452151" >
             <interval from="新札幌駅" fare="0" km="0" />
           </stop>
-          <stop name="未命名"   tag="" gps="" >
+          <stop name="南郷１８丁目駅" yahoo="true"  tag="札幌>地鐵" gps="43.030408, 141.435724" >
             <interval from="新札幌駅" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
           </stop>
-          <stop name="未命名"   tag="" gps="" >
+          <stop name="福住駅" yahoo="true"  tag="札幌>地鐵" gps="43.020166, 141.402961" >
             <interval from="新札幌駅" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
           </stop>
-          <stop name="未命名"   tag="" gps="" >
+          <stop name="札大正門"   tag="札幌>其他" gps="" >
             <interval from="新札幌駅" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+          </stop>
+          <stop name="西岡３条９丁目"   tag="札幌>其他" gps="" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+          </stop>
+          <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
           </stop>
         </route>
         <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
+          <time>07:20</time>
+          <time>07:29</time>
+          <time>07:36</time>
+          <time>07:51</time>
+          <time>07:58</time>
+          <time>08:01</time>
+          <time>09:16</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="新札幌→福住 假日" type="other" available="2016/12/10~2017/03/26" apply-to="札幌國際">
+      <info>12/10-3/26 六、日、假日運行
+12/17-1/13 每日運行</info>
+      <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
+      <timetable>
+        <route>
+          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
+          </stop>
+          <stop name="大谷地駅" yahoo="true"  tag="札幌>地鐵" gps="43.026978, 141.452151" >
+            <interval from="新札幌駅" fare="0" km="0" />
+          </stop>
+          <stop name="南郷１８丁目駅" yahoo="true"  tag="札幌>地鐵" gps="43.030408, 141.435724" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+          </stop>
+          <stop name="福住駅" yahoo="true"  tag="札幌>地鐵" gps="43.020166, 141.402961" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+          </stop>
+          <stop name="札大正門"   tag="札幌>其他" gps="" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+          </stop>
+          <stop name="西岡３条９丁目"   tag="札幌>其他" gps="" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+          </stop>
+          <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+          </stop>
+        </route>
+        <run available="67h" >
+          <time>07:20</time>
+          <time>07:29</time>
+          <time>07:36</time>
+          <time>07:51</time>
+          <time>07:58</time>
+          <time>08:01</time>
+          <time>09:16</time>
         </run>
       </timetable>
     </transportation>
   </outbound>
   <inbound>
+    <transportation name="→新札幌 每日" type="other" available="2016/12/17~2017/01/13" apply-to="札幌國際">
+      <info>12/10-3/26 六、日、假日運行
+12/17-1/13 每日運行</info>
+      <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
+      <timetable>
+        <route>
+          <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
+          </stop>
+          <stop name="西岡３条９丁目"   tag="札幌>其他" gps="" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="札大正門"   tag="札幌>其他" gps="" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+          </stop>
+          <stop name="福住駅" yahoo="true"  tag="札幌>地鐵" gps="43.020166, 141.402961" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+          </stop>
+          <stop name="南郷１８丁目駅" yahoo="true"  tag="札幌>地鐵" gps="43.030408, 141.435724" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+          </stop>
+          <stop name="大谷地駅" yahoo="true"  tag="札幌>地鐵" gps="43.026978, 141.452151" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+          </stop>
+          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>16:10</time>
+          <time>17:20</time>
+          <time>17:23</time>
+          <time>17:30</time>
+          <time>17:45</time>
+          <time>17:52</time>
+          <time>18:01</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="福住→新札幌 假日" type="other" available="2016/12/10~2017/03/26" apply-to="札幌國際">
+      <info>12/10-3/26 六、日、假日運行
+12/17-1/13 每日運行</info>
+      <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
+      <timetable>
+        <route>
+          <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
+          </stop>
+          <stop name="西岡３条９丁目"   tag="札幌>其他" gps="" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="札大正門"   tag="札幌>其他" gps="" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+          </stop>
+          <stop name="福住駅" yahoo="true"  tag="札幌>地鐵" gps="43.020166, 141.402961" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+          </stop>
+          <stop name="南郷１８丁目駅" yahoo="true"  tag="札幌>地鐵" gps="43.030408, 141.435724" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+          </stop>
+          <stop name="大谷地駅" yahoo="true"  tag="札幌>地鐵" gps="43.026978, 141.452151" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+          </stop>
+          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="西岡３条９丁目" fare="0" km="0" />
+            <interval from="札大正門" fare="0" km="0" />
+            <interval from="福住駅" fare="0" km="0" />
+            <interval from="南郷１８丁目駅" fare="0" km="0" />
+            <interval from="大谷地駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run available="67h" >
+          <time>16:10</time>
+          <time>17:20</time>
+          <time>17:23</time>
+          <time>17:30</time>
+          <time>17:45</time>
+          <time>17:52</time>
+          <time>18:01</time>
+        </run>
+      </timetable>
+    </transportation>
   </inbound>
 </accesspoint>
