@@ -81,6 +81,12 @@
     </accessPoint>
     <accessPoint name="札幌市區" filename="Furano_sapporo.xml">
     </accessPoint>
+    <accessPoint name="千歲機場直達巴士" filename="CTS-furano.xml">
+    </accessPoint>
+    <accessPoint name="旭川機場(Access-n巴士)" filename="Access-n.xml">
+    </accessPoint>
+    <accessPoint name="富良野市區巴士" filename="furanotourism.xml">
+    </accessPoint>
   </resort>
   <resort name="留壽都">
     <accessPoint name="新千歲(access)" filename="Rusutsu-CTS.xml">
@@ -118,6 +124,18 @@
     <accessPoint name="西武巴士" filename="seibubus.xml">
     </accessPoint>
     <accessPoint name="AccessNarita" filename="Narita-tokyo.xml">
+    </accessPoint>
+  </resort>
+  <resort name="北海道市區">
+    <accessPoint name="北海道市區(中央巴士)" filename="Sapporo-CTS.xml">
+    </accessPoint>
+  </resort>
+  <resort name="盤溪">
+    <accessPoint name="札幌市區" filename="sapporo-bankei.xml">
+    </accessPoint>
+  </resort>
+  <resort name="札幌國際">
+    <accessPoint name="札幌市區" filename="sapporo-kokusai.xml">
     </accessPoint>
   </resort>
 </skiResorts>

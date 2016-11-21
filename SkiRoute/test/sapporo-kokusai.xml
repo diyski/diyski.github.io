@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="札幌市區" to="札幌國際">
+  <outbound>
+    <transportation name="未命名的交通方式" type="other" available="" apply-to="undefined">
+      <info>
+      </info>
+      <source>未填寫</source>
+      <timetable>
+        <route>
+          <stop name="新札幌駅"   tag="北海道市區>札幌" gps="" >
+          </stop>
+          <stop name="未命名"   tag="" gps="" >
+            <interval from="新札幌駅" fare="0" km="0" />
+          </stop>
+          <stop name="未命名"   tag="" gps="" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+          </stop>
+          <stop name="未命名"   tag="" gps="" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+          </stop>
+          <stop name="未命名"   tag="" gps="" >
+            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+  </inbound>
+</accesspoint>

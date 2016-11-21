@@ -7,7 +7,7 @@
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>
       <timetable>
         <route>
-          <stop name="札幌駅" yahoo="true"  tag="北海道市區>札幌" gps="43.067555, 141.352264" >
+          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067555, 141.352264" >
           </stop>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="43.346798, 142.391012" >
             <interval from="札幌駅" fare="2260" km="116" />
@@ -65,7 +65,7 @@
         <route>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="43.346798, 142.391012" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="北海道市區>札幌" gps="43.067555, 141.352264" >
+          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067555, 141.352264" >
             <interval from="富良野駅" fare="2260" km="116" />
           </stop>
         </route>
