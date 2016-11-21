@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tag-list>
-  <tag name="台灣" info-url="" img-url="" />
-  <tag name="機場" info-url="" img-url="" />
-  <tag name="東京" info-url="" img-url="" />
-  <tag name="二世古" info-url="https://diy.ski/niseko" img-url="https://diy.ski/photos/niseko/niseko.jpg" />
-  <tag name="留壽都" info-url="https://diy.ski/rusutsu" img-url="https://diy.ski/photos/rusutsu/rusutsu.jpg" />
-  <tag name="富良野" info-url="https://diy.ski/furano" img-url="https://diy.ski/photos/furano/furano.jpg" />
-  <tag name="盤溪" info-url="http://www.bankei.co.jp/" img-url="" />
-  <tag name="札幌國際" info-url="http://www.sapporo-kokusai.jp/" img-url="" />
-  <tag name="札幌" info-url="" img-url="" />
-  <tag name="安比" info-url="https://diy.ski/appi" img-url="https://diy.ski/photos/appi/appi.jpg" />
-  <tag name="藏王" info-url="https://diy.ski/zao" img-url="https://diy.ski/photos/zao/zao.jpg" />
-  <tag name="東北市區" info-url="" img-url="" />
-  <tag name="白馬" info-url="https://diy.ski/hakuba" img-url="https://diy.ski/photos/hakuba/hakuba.jpg" />
-  <tag name="野澤" info-url="https://diy.ski/nozawa" img-url="https://diy.ski/photos/nozawa/nozawa.jpg" />
-  <tag name="志賀" info-url="https://diy.ski/shiga" img-url="https://diy.ski/photos/shiga/shiga.jpg" />
-  <tag name="妙高" info-url="https://diy.ski/myoko" img-url="https://diy.ski/photos/myoko/myoko.jpg" />
-  <tag name="輕井澤" info-url="https://diy.ski/karuizawa" img-url="https://diy.ski/photos/karuizawa/karuizawa.jpg" />
-  <tag name="長野市區" info-url="" img-url="" />
-  <tag name="苗場" info-url="https://diy.ski/naeba" img-url="https://diy.ski/photos/naeba/naeba.jpg" />
-  <tag name="湯澤" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
+  <group name="出發地">
+    <tag name="台灣" info-url="" img-url="" />
+    <tag name="機場" info-url="" img-url="" />
+    <tag name="東京" info-url="" img-url="" />
+  </group>
+  <group name="北海道">
+    <tag name="二世古" info-url="https://diy.ski/niseko" img-url="https://diy.ski/photos/niseko/niseko.jpg" />
+    <tag name="留壽都" info-url="https://diy.ski/rusutsu" img-url="https://diy.ski/photos/rusutsu/rusutsu.jpg" />
+    <tag name="富良野" info-url="https://diy.ski/furano" img-url="https://diy.ski/photos/furano/furano.jpg" />
+    <tag name="盤溪" info-url="http://www.bankei.co.jp/" img-url="" />
+    <tag name="札幌國際" info-url="http://www.sapporo-kokusai.jp/" img-url="" />
+    <tag name="札幌" info-url="" img-url="" />
+  </group>
+  <group name="東北">
+    <tag name="安比" info-url="https://diy.ski/appi" img-url="https://diy.ski/photos/appi/appi.jpg" />
+    <tag name="藏王" info-url="https://diy.ski/zao" img-url="https://diy.ski/photos/zao/zao.jpg" />
+    <tag name="東北市區" info-url="" img-url="" />
+  </group>
+  <group name="長野縣">
+    <tag name="白馬" info-url="https://diy.ski/hakuba" img-url="https://diy.ski/photos/hakuba/hakuba.jpg" />
+    <tag name="野澤" info-url="https://diy.ski/nozawa" img-url="https://diy.ski/photos/nozawa/nozawa.jpg" />
+    <tag name="志賀" info-url="https://diy.ski/shiga" img-url="https://diy.ski/photos/shiga/shiga.jpg" />
+    <tag name="妙高" info-url="https://diy.ski/myoko" img-url="https://diy.ski/photos/myoko/myoko.jpg" />
+    <tag name="輕井澤" info-url="https://diy.ski/karuizawa" img-url="https://diy.ski/photos/karuizawa/karuizawa.jpg" />
+    <tag name="長野市區" info-url="" img-url="" />
+  </group>
+  <group name="新瀉縣">
+    <tag name="苗場" info-url="https://diy.ski/naeba" img-url="https://diy.ski/photos/naeba/naeba.jpg" />
+    <tag name="湯澤" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
+  </group>
 </tag-list>
