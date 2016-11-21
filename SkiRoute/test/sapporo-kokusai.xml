@@ -7,7 +7,7 @@
       <source>未填寫</source>
       <timetable>
         <route>
-          <stop name="新札幌駅"   tag="北海道市區>札幌" gps="" >
+          <stop name="新札幌駅"   tag="札幌>JR" gps="" >
           </stop>
           <stop name="未命名"   tag="" gps="" >
             <interval from="新札幌駅" fare="0" km="0" />

@@ -548,7 +548,7 @@
             <interval from="Sapporo Prince Hotel Tower" fare="0" km="0" />
             <interval from="Tokyo Dome Hotel Sapporo" fare="0" km="0" />
           </stop>
-          <stop name="Sapporo Tokyu REI Hotel"   tag="北海道市區>札幌" gps="" >
+          <stop name="Sapporo Tokyu REI Hotel"   tag="札幌>飯店" gps="" >
             <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
             <interval from="Niseko Grand Hotel" fare="0" km="0" />
             <interval from="Hotel Kanronomori" fare="0" km="0" />
