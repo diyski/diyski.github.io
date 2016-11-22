@@ -10,7 +10,8 @@
     <tag name="留壽都" info-url="https://diy.ski/rusutsu" img-url="https://diy.ski/photos/rusutsu/rusutsu.jpg" />
     <tag name="富良野" info-url="https://diy.ski/furano" img-url="https://diy.ski/photos/furano/furano.jpg" />
     <tag name="盤溪" info-url="http://www.bankei.co.jp/" img-url="" />
-    <tag name="札幌國際" info-url="http://www.sapporo-kokusai.jp/" img-url="" />
+    <tag name="札幌国際" info-url="http://www.sapporo-kokusai.jp/" img-url="" />
+    <tag name="朝里川" info-url="http://asari-ski.com/" img-url="" />
     <tag name="札幌" info-url="" img-url="" />
   </group>
   <group name="東北">

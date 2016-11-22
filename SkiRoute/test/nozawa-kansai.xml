@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="關西" to="關西市區">
+  <outbound>
+    <transportation name="關西" type="other" available="2016/12/22~2017/03/24" apply-to="野澤">
+      <info>
+      </info>
+      <source>https://skiski.jp/bus/kansai_nozawa.html</source>
+      <timetable>
+        <route>
+          <stop name="OCATビル1階"   tag="關西>難波" gps="" >
+          </stop>
+          <stop name="京都駅八条口" yahoo="true"  tag="關西>京都" gps="" >
+            <interval from="OCATビル1階" fare="0" km="0" />
+          </stop>
+          <stop name="野沢中尾"   tag="野澤>野沢中尾" gps="36.914035, 138.436709" >
+            <interval from="OCATビル1階" fare="8000" km="0" />
+            <interval from="京都駅八条口" fare="8000" km="0" />
+          </stop>
+          <stop name="野沢中央"   tag="野澤>野沢中央" gps="36.922422, 138.446024" >
+            <interval from="OCATビル1階" fare="8000" km="0" />
+            <interval from="京都駅八条口" fare="8000" km="0" />
+            <interval from="野沢中尾" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>21:40</time>
+          <time>23:00</time>
+          <time>07:05</time>
+          <time>07:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="關西往野澤夜巴" type="other" available="2016/12/22~2017/03/24" apply-to="野澤">
+      <info>
+      </info>
+      <source>https://skiski.jp/bus/kansai_nozawa.html</source>
+      <timetable>
+        <route>
+          <stop name="野沢中央"   tag="野澤>野沢中央" gps="36.922422, 138.446024" >
+          </stop>
+          <stop name="野沢中尾"   tag="野澤>野沢中尾" gps="36.914035, 138.436709" >
+            <interval from="野沢中央" fare="0" km="0" />
+          </stop>
+          <stop name="京都駅八条口" yahoo="true"  tag="關西>京都" gps="" >
+            <interval from="野沢中央" fare="8000" km="0" />
+            <interval from="野沢中尾" fare="8000" km="0" />
+          </stop>
+          <stop name="大阪駅" yahoo="true"  tag="關西>大阪駅" gps="" >
+            <interval from="野沢中央" fare="8000" km="0" />
+            <interval from="野沢中尾" fare="8000" km="0" />
+            <interval from="京都駅八条口" fare="0" km="0" />
+          </stop>
+          <stop name="近鉄なんば駅" yahoo="true"  tag="關西>近鉄なんば駅" gps="" >
+            <interval from="野沢中央" fare="8000" km="0" />
+            <interval from="野沢中尾" fare="8000" km="0" />
+            <interval from="京都駅八条口" fare="0" km="0" />
+            <interval from="大阪駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>19:20</time>
+          <time>19:30</time>
+          <time>05:00</time>
+          <time>05:45</time>
+          <time>06:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>
