@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="AccessNarita" to="東京">
-  <outbound>
+  <inbound>
     <transportation name="AccessNarita巴士" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢">
       <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
@@ -622,8 +622,8 @@
         </run>
       </timetable>
     </transportation>
-  </outbound>
-  <inbound>
+  </inbound>
+  <outbound>
     <transportation name="AccessNarita深夜巴士" type="other" available="" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
       <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
@@ -1163,5 +1163,5 @@
         </run>
       </timetable>
     </transportation>
-  </inbound>
+  </outbound>
 </accesspoint>
