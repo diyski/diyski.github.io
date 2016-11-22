@@ -9,13 +9,13 @@
       <source>http://www.maiko-resort.com/winter/access/bus.php</source>
       <timetable>
         <route>
-          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
           </stop>
           <stop name="舞子高原飯店"   tag="湯澤>舞子高原" gps="" >
-            <interval from="越後湯沢東口" fare="0" km="9.4" />
+            <interval from="JR越後湯沢駅" fare="0" km="9.4" />
           </stop>
-          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="" >
-            <interval from="越後湯沢東口" fare="0" km="0" />
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
             <interval from="舞子高原飯店" fare="0" km="9.4" />
           </stop>
         </route>

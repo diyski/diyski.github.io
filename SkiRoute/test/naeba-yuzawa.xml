@@ -6,19 +6,19 @@
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
       <timetable>
         <route>
-          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="36.936324, 138.810523" >
           </stop>
-          <stop name="三俣中央"   tag="苗場>神樂" gps="" >
-            <interval from="越後湯沢東口" fare="380" km="8" />
+          <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
+            <interval from="JR越後湯沢駅" fare="380" km="8" />
           </stop>
-          <stop name="二居田代スキー場前"   tag="苗場>田代" gps="" >
-            <interval from="越後湯沢東口" fare="530" km="14" />
-            <interval from="三俣中央" fare="0" km="0" />
+          <stop name="田代スキー場"   tag="苗場>田代" gps="" >
+            <interval from="JR越後湯沢駅" fare="530" km="14" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
           </stop>
           <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
-            <interval from="越後湯沢東口" fare="660" km="22" />
-            <interval from="三俣中央" fare="0" km="0" />
-            <interval from="二居田代スキー場前" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="660" km="22" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -95,17 +95,17 @@
         <route>
           <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
           </stop>
-          <stop name="二居田代スキー場前"   tag="苗場>田代" gps="" >
+          <stop name="田代スキー場"   tag="苗場>田代" gps="" >
             <interval from="王子飯店四號館" fare="290" km="8" />
           </stop>
-          <stop name="三俣中央"   tag="苗場>神樂" gps="" >
+          <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
             <interval from="王子飯店四號館" fare="460" km="14" />
-            <interval from="二居田代スキー場前" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
           </stop>
-          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="36.936324, 138.810523" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="36.936324, 138.810523" >
             <interval from="王子飯店四號館" fare="660" km="22" />
-            <interval from="二居田代スキー場前" fare="0" km="0" />
-            <interval from="三俣中央" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
           </stop>
         </route>
         <run >

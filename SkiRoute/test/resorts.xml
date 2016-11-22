@@ -33,6 +33,8 @@
     </accessPoint>
     <accessPoint name="關西" filename="nozawa-kansai.xml">
     </accessPoint>
+    <accessPoint name="溫泉街" filename="nozawa-access.xml">
+    </accessPoint>
   </resort>
   <resort name="台灣">
     <accessPoint name="日本(香草航空)" filename="Taipei-NRT.xml">

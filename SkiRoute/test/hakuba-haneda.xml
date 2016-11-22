@@ -8,7 +8,7 @@
         <route>
           <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
           </stop>
-          <stop name="JR神城駅"   tag="白馬>神城駅" gps="" >
+          <stop name="JR神城駅"   tag="白馬>JR" gps="" >
             <interval from="羽田國際線" fare="9200" km="0" />
           </stop>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
@@ -32,7 +32,7 @@
         <route>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
           </stop>
-          <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="" >
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="JR新宿駅"   tag="東京>新宿" gps="" >

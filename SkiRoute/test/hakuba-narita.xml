@@ -16,12 +16,12 @@
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="JR神城駅"   tag="白馬>神城駅" gps="36.657743, 137.848211" >
+          <stop name="JR神城駅"   tag="白馬>JR" gps="36.657743, 137.848211" >
             <interval from="成田空港第3ターミナル" fare="9500" km="0" />
             <interval from="成田空港第2ターミナル" fare="9500" km="0" />
             <interval from="成田空港第1ターミナル" fare="9500" km="0" />
           </stop>
-          <stop name="JR白馬駅"   tag="白馬>白馬駅" gps="36.695598, 137.863203" >
+          <stop name="JR白馬駅"   tag="白馬>JR" gps="36.695598, 137.863203" >
             <interval from="成田空港第3ターミナル" fare="9500" km="0" />
             <interval from="成田空港第2ターミナル" fare="9500" km="0" />
             <interval from="成田空港第1ターミナル" fare="9500" km="0" />
@@ -52,7 +52,7 @@
         <route>
           <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
           </stop>
-          <stop name="JR神城駅"   tag="白馬>神城駅" gps="" >
+          <stop name="JR神城駅"   tag="白馬>JR" gps="" >
             <interval from="成田空港第2ターミナル" fare="9200" km="0" />
           </stop>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
@@ -96,7 +96,7 @@
           <stop name="JR白馬駅" yahoo="true"  tag="白馬>白馬駅" gps="36.695598, 137.863203" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
-          <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="36.657743, 137.848211" >
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="36.657743, 137.848211" >
             <interval from="八方info" fare="0" km="0" />
             <interval from="JR白馬駅" fare="0" km="0" />
           </stop>
@@ -136,7 +136,7 @@
         <route>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
           </stop>
-          <stop name="JR神城駅" yahoo="true"  tag="白馬>神城駅" gps="" >
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="" >

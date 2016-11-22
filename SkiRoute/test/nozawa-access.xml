@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="溫泉街" to="野澤溫泉">
+  <outbound>
+    <transportation name="野澤溫泉街巴士" type="other" available="" apply-to="野沢温泉">
+      <info>
+      </info>
+      <source>http://www.nozawaski.com/winter/access/bus.php</source>
+      <timetable>
+        <route>
+          <stop name="溫泉街"   tag="野沢温泉>免費巴士" gps="36.919754, 138.451885" >
+          </stop>
+          <stop name="未命名"   tag="野沢温泉>免費巴士" gps="" >
+            <interval from="溫泉街" fare="0" km="0" />
+          </stop>
+          <stop name="未命名"   tag="野沢温泉>免費巴士" gps="36.918521, 138.447602" >
+            <interval from="溫泉街" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+          </stop>
+          <stop name="第3駐車場"   tag="野沢温泉>免費巴士" gps="36.916319, 138.444033" >
+            <interval from="溫泉街" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+          </stop>
+          <stop name="中尾駐車場"   tag="野沢温泉>免費巴士" gps="36.914474, 138.437534" >
+            <interval from="溫泉街" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="中尾バス停"   tag="野沢温泉>免費巴士" gps="36.917320, 138.441969" >
+            <interval from="溫泉街" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="新田バス停"   tag="野沢温泉>免費巴士" gps="36.920868, 138.444766" >
+            <interval from="溫泉街" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+          </stop>
+          <stop name="中央ターミナル"   tag="野沢温泉>免費巴士" gps="36.922444, 138.446171" >
+            <interval from="溫泉街" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>08:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>08:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>09:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>09:10</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>09:20</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>09:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>09:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>09:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>10:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>10:15</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>10:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>10:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>11:15</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>11:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>12:05</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>12:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>13:10</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>13:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>13:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>14:15</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>14:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>15:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>15:20</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>15:35</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>15:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>16:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>16:10</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>16:20</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>16:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>16:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>17:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+  </inbound>
+</accesspoint>

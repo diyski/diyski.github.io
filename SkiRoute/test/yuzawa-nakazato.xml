@@ -6,10 +6,10 @@
       <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
       <timetable>
         <route>
-          <stop name="越後のお宿いなもと" yahoo="true"  tag="湯澤>越後湯沢西口" gps="" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="36.936467, 138.807793" >
           </stop>
           <stop name="湯沢中里スキー場"   tag="湯澤>湯澤中里" gps="" >
-            <interval from="越後のお宿いなもと" fare="0" km="6.5" />
+            <interval from="JR越後湯沢駅" fare="0" km="6.5" />
           </stop>
         </route>
         <run >
@@ -44,7 +44,7 @@
         <route>
           <stop name="湯沢中里スキー場"   tag="湯澤>湯澤中里" gps="" >
           </stop>
-          <stop name="越後のお宿いなもと" yahoo="true"  tag="湯澤>越後湯沢西口" gps="" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
             <interval from="湯沢中里スキー場" fare="0" km="6.5" />
           </stop>
         </route>

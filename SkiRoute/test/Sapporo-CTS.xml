@@ -227,17 +227,17 @@ http://teikan.chuo-bus.co.jp/tw/
       <source>http://www.new-chitose-airport.jp/tw/access/bus/timebusc/</source>
       <timetable>
         <route>
-          <stop name="京王プラザホテル"   tag="札幌>飯店" gps="43.066558, 141.344302" >
+          <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066558, 141.344302" >
           </stop>
           <stop name="札幌駅前" yahoo="true"  tag="札幌>JR" gps="43.067664, 141.352763" >
-            <interval from="京王プラザホテル" fare="0" km="0" />
+            <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060775, 141.353589" >
-            <interval from="京王プラザホテル" fare="0" km="0" />
+            <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="札幌駅前" fare="0" km="0" />
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="京王プラザホテル" fare="1030" km="0" />
+            <interval from="京王プラザホテル札幌" fare="1030" km="0" />
             <interval from="札幌駅前" fare="1030" km="0" />
             <interval from="大通公園" fare="1030" km="0" />
           </stop>

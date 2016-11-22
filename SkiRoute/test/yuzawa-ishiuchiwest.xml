@@ -8,7 +8,7 @@
         <route>
           <stop name="石口"   tag="湯澤>石打丸" gps="" >
           </stop>
-          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
             <interval from="石口" fare="0" km="5" />
           </stop>
         </route>
@@ -49,10 +49,10 @@
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>
         <route>
-          <stop name="越後湯沢東口" yahoo="true"  tag="湯澤>越後湯澤" gps="" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
           </stop>
           <stop name="石口"   tag="湯澤>石打丸" gps="" >
-            <interval from="越後湯沢東口" fare="0" km="5" />
+            <interval from="JR越後湯沢駅" fare="0" km="5" />
           </stop>
         </route>
         <run >
