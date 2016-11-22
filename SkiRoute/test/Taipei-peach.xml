@@ -56,10 +56,10 @@
       <source>http://www.flypeach.com/pc/tw</source>
       <timetable>
         <route>
-          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
           </stop>
           <stop name="桃園機場"   tag="台灣>桃園" gps="" >
-            <interval from="羽田國際線" fare="0" km="0" />
+            <interval from="羽田国際線" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -114,7 +114,7 @@
         <route>
           <stop name="桃園機場"   tag="台灣>桃園" gps="" >
           </stop>
-          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
             <interval from="桃園機場" fare="0" km="0" />
           </stop>
         </route>

@@ -6,10 +6,10 @@
       <source>https://naganosnowshuttle.com/C_Route_Haneda.aspx</source>
       <timetable>
         <route>
-          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
           </stop>
           <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
-            <interval from="羽田國際線" fare="12700" km="0" />
+            <interval from="羽田国際線" fare="12700" km="0" />
           </stop>
         </route>
         <run >
@@ -27,7 +27,7 @@
         <route>
           <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
           </stop>
-          <stop name="羽田國際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
             <interval from="志賀高原住宿點" fare="12700" km="0" />
           </stop>
         </route>

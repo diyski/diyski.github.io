@@ -8,10 +8,10 @@
       <source>http://tw.japan-guide.com/advertorial/willer-reserve</source>
       <timetable>
         <route>
-          <stop name="新宿駅" yahoo="true"  tag="東京>新宿" gps="35.688579, 139.700974" >
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="35.688579, 139.700974" >
           </stop>
-          <stop name="山形駅" yahoo="true"  tag="東北市區>山形" gps="38.249675,140.326025" >
-            <interval from="新宿駅" fare="7500" km="400" />
+          <stop name="JR山形駅" yahoo="true"  tag="東北市區>山形" gps="38.249675,140.326025" >
+            <interval from="JR新宿駅" fare="7500" km="400" />
           </stop>
         </route>
         <run >
@@ -33,10 +33,10 @@
       <source>http://tw.japan-guide.com/advertorial/willer-reserve</source>
       <timetable>
         <route>
-          <stop name="山形駅" yahoo="true"  tag="東北市區>山形" gps="38.249675,140.326025" >
+          <stop name="JR山形駅" yahoo="true"  tag="東北市區>山形" gps="38.249675,140.326025" >
           </stop>
-          <stop name="新宿駅" yahoo="true"  tag="東京>新宿" gps="35.688579, 139.700974" >
-            <interval from="山形駅" fare="7500" km="400" />
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="35.688579, 139.700974" >
+            <interval from="JR山形駅" fare="7500" km="400" />
           </stop>
         </route>
         <run >

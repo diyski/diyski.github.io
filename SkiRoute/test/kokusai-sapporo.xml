@@ -9,34 +9,34 @@
         <route>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066622, 141.344446" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="北2条西1丁目"   tag="札幌>其他" gps="43.064347, 141.354502" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060791, 141.355387" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
           </stop>
           <stop name="中央バス 札幌ターミナル"   tag="札幌>其他" gps="43.062245, 141.357477" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="43.057066, 141.358422" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
           </stop>
           <stop name="ホテルライフォート札幌"   tag="札幌>飯店" gps="43.047326, 141.356595" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -44,7 +44,7 @@
           </stop>
           <stop name="幌平橋駅" yahoo="true"  tag="札幌>地鐵" gps="43.040722, 141.356317" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -53,7 +53,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="43.055202, 141.351039" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -63,7 +63,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="43.049724, 141.352172" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -74,7 +74,7 @@
           </stop>
           <stop name="南21条西11丁目"   tag="札幌>其他" gps="43.029785, 141.345101" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -86,7 +86,7 @@
           </stop>
           <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991347, 141.357222" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -99,7 +99,7 @@
           </stop>
           <stop name="石山中央"   tag="札幌>其他" gps="42.969225, 141.336567" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -113,7 +113,7 @@
           </stop>
           <stop name="十五島公園"   tag="札幌>其他" gps="42.961577, 141.296337" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -128,7 +128,7 @@
           </stop>
           <stop name="小金湯温泉"   tag="札幌>其他" gps="42.966317, 141.217740" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -144,7 +144,7 @@
           </stop>
           <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -161,7 +161,7 @@
           </stop>
           <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -179,7 +179,7 @@
           </stop>
           <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -198,7 +198,7 @@
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
             <interval from="京王プラザホテル札幌" fare="1250" km="0" />
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北2条西1丁目" fare="1250" km="0" />
             <interval from="大通公園" fare="1250" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="1250" km="0" />
@@ -251,34 +251,34 @@
         <route>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066622, 141.344446" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="北2条西1丁目"   tag="札幌>其他" gps="43.064347, 141.354502" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060791, 141.355387" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
           </stop>
           <stop name="中央バス 札幌ターミナル"   tag="札幌>其他" gps="43.062245, 141.357477" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="43.057066, 141.358422" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
           </stop>
           <stop name="ホテルライフォート札幌"   tag="札幌>飯店" gps="43.047326, 141.356595" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -286,7 +286,7 @@
           </stop>
           <stop name="幌平橋駅" yahoo="true"  tag="札幌>地鐵" gps="43.040722, 141.356317" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -295,7 +295,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="43.055202, 141.351039" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -305,7 +305,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="43.049724, 141.352172" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -316,7 +316,7 @@
           </stop>
           <stop name="南21条西11丁目"   tag="札幌>其他" gps="43.029785, 141.345101" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -328,7 +328,7 @@
           </stop>
           <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991347, 141.357222" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -341,7 +341,7 @@
           </stop>
           <stop name="石山中央"   tag="札幌>其他" gps="42.969225, 141.336567" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -355,7 +355,7 @@
           </stop>
           <stop name="十五島公園"   tag="札幌>其他" gps="42.961577, 141.296337" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -370,7 +370,7 @@
           </stop>
           <stop name="小金湯温泉"   tag="札幌>其他" gps="42.966317, 141.217740" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -386,7 +386,7 @@
           </stop>
           <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -403,7 +403,7 @@
           </stop>
           <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -421,7 +421,7 @@
           </stop>
           <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -440,7 +440,7 @@
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
             <interval from="京王プラザホテル札幌" fare="1250" km="0" />
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北2条西1丁目" fare="1250" km="0" />
             <interval from="大通公園" fare="1250" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="1250" km="0" />
@@ -497,34 +497,34 @@
         <route>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066622, 141.344446" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="北2条西1丁目"   tag="札幌>其他" gps="43.064347, 141.354502" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060791, 141.355387" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
           </stop>
           <stop name="中央バス 札幌ターミナル"   tag="札幌>其他" gps="43.062245, 141.357477" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="43.057066, 141.358422" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
           </stop>
           <stop name="ホテルライフォート札幌"   tag="札幌>飯店" gps="43.047326, 141.356595" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -532,7 +532,7 @@
           </stop>
           <stop name="幌平橋駅" yahoo="true"  tag="札幌>地鐵" gps="43.040722, 141.356317" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -541,7 +541,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="43.055202, 141.351039" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -551,7 +551,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="43.049724, 141.352172" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -562,7 +562,7 @@
           </stop>
           <stop name="南21条西11丁目"   tag="札幌>其他" gps="43.029785, 141.345101" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -574,7 +574,7 @@
           </stop>
           <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991347, 141.357222" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -587,7 +587,7 @@
           </stop>
           <stop name="石山中央"   tag="札幌>其他" gps="42.969225, 141.336567" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -601,7 +601,7 @@
           </stop>
           <stop name="十五島公園"   tag="札幌>其他" gps="42.961577, 141.296337" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -616,7 +616,7 @@
           </stop>
           <stop name="小金湯温泉"   tag="札幌>其他" gps="42.966317, 141.217740" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -632,7 +632,7 @@
           </stop>
           <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -649,7 +649,7 @@
           </stop>
           <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -667,7 +667,7 @@
           </stop>
           <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -686,7 +686,7 @@
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
             <interval from="京王プラザホテル札幌" fare="1250" km="0" />
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北2条西1丁目" fare="1250" km="0" />
             <interval from="大通公園" fare="1250" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="1250" km="0" />
@@ -874,34 +874,34 @@
         <route>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066622, 141.344446" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="北2条西1丁目"   tag="札幌>其他" gps="43.064347, 141.354502" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060791, 141.355387" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
           </stop>
           <stop name="中央バス 札幌ターミナル"   tag="札幌>其他" gps="43.062245, 141.357477" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="43.057066, 141.358422" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
           </stop>
           <stop name="ホテルライフォート札幌"   tag="札幌>飯店" gps="43.047326, 141.356595" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -909,7 +909,7 @@
           </stop>
           <stop name="幌平橋駅" yahoo="true"  tag="札幌>地鐵" gps="43.040722, 141.356317" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -918,7 +918,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="43.055202, 141.351039" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -928,7 +928,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="43.049724, 141.352172" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -939,7 +939,7 @@
           </stop>
           <stop name="南21条西11丁目"   tag="札幌>其他" gps="43.029785, 141.345101" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -951,7 +951,7 @@
           </stop>
           <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991347, 141.357222" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -964,7 +964,7 @@
           </stop>
           <stop name="石山中央"   tag="札幌>其他" gps="42.969225, 141.336567" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -978,7 +978,7 @@
           </stop>
           <stop name="十五島公園"   tag="札幌>其他" gps="42.961577, 141.296337" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -993,7 +993,7 @@
           </stop>
           <stop name="小金湯温泉"   tag="札幌>其他" gps="42.966317, 141.217740" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1009,7 +1009,7 @@
           </stop>
           <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1026,7 +1026,7 @@
           </stop>
           <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1044,7 +1044,7 @@
           </stop>
           <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1063,7 +1063,7 @@
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
             <interval from="京王プラザホテル札幌" fare="1250" km="0" />
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北2条西1丁目" fare="1250" km="0" />
             <interval from="大通公園" fare="1250" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="1250" km="0" />
@@ -1145,34 +1145,34 @@
         <route>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066622, 141.344446" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="北2条西1丁目"   tag="札幌>其他" gps="43.064347, 141.354502" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060791, 141.355387" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
           </stop>
           <stop name="中央バス 札幌ターミナル"   tag="札幌>其他" gps="43.062245, 141.357477" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="43.057066, 141.358422" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
           </stop>
           <stop name="ホテルライフォート札幌"   tag="札幌>飯店" gps="43.047326, 141.356595" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1180,7 +1180,7 @@
           </stop>
           <stop name="幌平橋駅" yahoo="true"  tag="札幌>地鐵" gps="43.040722, 141.356317" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1189,7 +1189,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="43.055202, 141.351039" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1199,7 +1199,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="43.049724, 141.352172" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1210,7 +1210,7 @@
           </stop>
           <stop name="南21条西11丁目"   tag="札幌>其他" gps="43.029785, 141.345101" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1222,7 +1222,7 @@
           </stop>
           <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991347, 141.357222" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1235,7 +1235,7 @@
           </stop>
           <stop name="石山中央"   tag="札幌>其他" gps="42.969225, 141.336567" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1249,7 +1249,7 @@
           </stop>
           <stop name="十五島公園"   tag="札幌>其他" gps="42.961577, 141.296337" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1264,7 +1264,7 @@
           </stop>
           <stop name="小金湯温泉"   tag="札幌>其他" gps="42.966317, 141.217740" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1280,7 +1280,7 @@
           </stop>
           <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1297,7 +1297,7 @@
           </stop>
           <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1315,7 +1315,7 @@
           </stop>
           <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1334,7 +1334,7 @@
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
             <interval from="京王プラザホテル札幌" fare="1250" km="0" />
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北2条西1丁目" fare="1250" km="0" />
             <interval from="大通公園" fare="1250" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="1250" km="0" />
@@ -1416,34 +1416,34 @@
         <route>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066622, 141.344446" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="北2条西1丁目"   tag="札幌>其他" gps="43.064347, 141.354502" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060791, 141.355387" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
           </stop>
           <stop name="中央バス 札幌ターミナル"   tag="札幌>其他" gps="43.062245, 141.357477" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="43.057066, 141.358422" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
           </stop>
           <stop name="ホテルライフォート札幌"   tag="札幌>飯店" gps="43.047326, 141.356595" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1451,7 +1451,7 @@
           </stop>
           <stop name="幌平橋駅" yahoo="true"  tag="札幌>地鐵" gps="43.040722, 141.356317" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1460,7 +1460,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="43.055202, 141.351039" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1470,7 +1470,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="43.049724, 141.352172" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1481,7 +1481,7 @@
           </stop>
           <stop name="南21条西11丁目"   tag="札幌>其他" gps="43.029785, 141.345101" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1493,7 +1493,7 @@
           </stop>
           <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991347, 141.357222" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1506,7 +1506,7 @@
           </stop>
           <stop name="石山中央"   tag="札幌>其他" gps="42.969225, 141.336567" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1520,7 +1520,7 @@
           </stop>
           <stop name="十五島公園"   tag="札幌>其他" gps="42.961577, 141.296337" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1535,7 +1535,7 @@
           </stop>
           <stop name="小金湯温泉"   tag="札幌>其他" gps="42.966317, 141.217740" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1551,7 +1551,7 @@
           </stop>
           <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1568,7 +1568,7 @@
           </stop>
           <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1586,7 +1586,7 @@
           </stop>
           <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1605,7 +1605,7 @@
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
             <interval from="京王プラザホテル札幌" fare="1250" km="0" />
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北2条西1丁目" fare="1250" km="0" />
             <interval from="大通公園" fare="1250" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="1250" km="0" />
@@ -1666,34 +1666,34 @@
         <route>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066622, 141.344446" >
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="北2条西1丁目"   tag="札幌>其他" gps="43.064347, 141.354502" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="大通公園"   tag="札幌>其他" gps="43.060791, 141.355387" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
           </stop>
           <stop name="中央バス 札幌ターミナル"   tag="札幌>其他" gps="43.062245, 141.357477" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="43.057066, 141.358422" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
           </stop>
           <stop name="ホテルライフォート札幌"   tag="札幌>飯店" gps="43.047326, 141.356595" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1701,7 +1701,7 @@
           </stop>
           <stop name="幌平橋駅" yahoo="true"  tag="札幌>地鐵" gps="43.040722, 141.356317" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1710,7 +1710,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="43.055202, 141.351039" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1720,7 +1720,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="43.049724, 141.352172" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1731,7 +1731,7 @@
           </stop>
           <stop name="南21条西11丁目"   tag="札幌>其他" gps="43.029785, 141.345101" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1743,7 +1743,7 @@
           </stop>
           <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991347, 141.357222" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1756,7 +1756,7 @@
           </stop>
           <stop name="石山中央"   tag="札幌>其他" gps="42.969225, 141.336567" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1770,7 +1770,7 @@
           </stop>
           <stop name="十五島公園"   tag="札幌>其他" gps="42.961577, 141.296337" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1785,7 +1785,7 @@
           </stop>
           <stop name="小金湯温泉"   tag="札幌>其他" gps="42.966317, 141.217740" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1801,7 +1801,7 @@
           </stop>
           <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1818,7 +1818,7 @@
           </stop>
           <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1836,7 +1836,7 @@
           </stop>
           <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
@@ -1855,7 +1855,7 @@
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
             <interval from="京王プラザホテル札幌" fare="1250" km="0" />
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北2条西1丁目" fare="1250" km="0" />
             <interval from="大通公園" fare="1250" km="0" />
             <interval from="中央バス 札幌ターミナル" fare="1250" km="0" />
@@ -1914,35 +1914,35 @@
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
       <timetable>
         <route>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
           </stop>
           <stop name="北24条西5丁目"   tag="札幌>其他" gps="43.090478, 141.342745" >
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="麻生駅" yahoo="true"  tag="札幌>地鐵" gps="43.105487, 141.339203" >
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北24条西5丁目" fare="0" km="0" />
           </stop>
           <stop name="宮の沢駅" yahoo="true"  tag="札幌>地鐵" gps="43.089505, 141.276201" >
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北24条西5丁目" fare="0" km="0" />
             <interval from="麻生駅" fare="0" km="0" />
           </stop>
           <stop name="小樽朝里クラッセホテル"   tag="朝里川>朝里川温泉スキー場" gps="43.143510, 141.036749" >
-            <interval from="札幌駅" fare="820" km="0" />
+            <interval from="JR札幌駅" fare="820" km="0" />
             <interval from="北24条西5丁目" fare="820" km="0" />
             <interval from="麻生駅" fare="820" km="0" />
             <interval from="宮の沢駅" fare="820" km="0" />
           </stop>
           <stop name="朝里川温泉スキー場"   tag="朝里川>朝里川温泉スキー場" gps="43.145373, 141.040901" >
-            <interval from="札幌駅" fare="820" km="0" />
+            <interval from="JR札幌駅" fare="820" km="0" />
             <interval from="北24条西5丁目" fare="820" km="0" />
             <interval from="麻生駅" fare="820" km="0" />
             <interval from="宮の沢駅" fare="820" km="0" />
             <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北24条西5丁目" fare="1250" km="0" />
             <interval from="麻生駅" fare="1250" km="0" />
             <interval from="宮の沢駅" fare="1250" km="0" />
@@ -1967,35 +1967,35 @@
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
       <timetable>
         <route>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
           </stop>
           <stop name="北24条西5丁目"   tag="札幌>其他" gps="43.090478, 141.342745" >
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
           <stop name="麻生駅" yahoo="true"  tag="札幌>地鐵" gps="43.105487, 141.339203" >
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北24条西5丁目" fare="0" km="0" />
           </stop>
           <stop name="宮の沢駅" yahoo="true"  tag="札幌>地鐵" gps="43.089505, 141.276201" >
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北24条西5丁目" fare="0" km="0" />
             <interval from="麻生駅" fare="0" km="0" />
           </stop>
           <stop name="小樽朝里クラッセホテル"   tag="朝里川>朝里川温泉スキー場" gps="43.143510, 141.036749" >
-            <interval from="札幌駅" fare="820" km="0" />
+            <interval from="JR札幌駅" fare="820" km="0" />
             <interval from="北24条西5丁目" fare="820" km="0" />
             <interval from="麻生駅" fare="820" km="0" />
             <interval from="宮の沢駅" fare="820" km="0" />
           </stop>
           <stop name="朝里川温泉スキー場"   tag="朝里川>朝里川温泉スキー場" gps="43.145373, 141.040901" >
-            <interval from="札幌駅" fare="820" km="0" />
+            <interval from="JR札幌駅" fare="820" km="0" />
             <interval from="北24条西5丁目" fare="820" km="0" />
             <interval from="麻生駅" fare="820" km="0" />
             <interval from="宮の沢駅" fare="820" km="0" />
             <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
-            <interval from="札幌駅" fare="1250" km="0" />
+            <interval from="JR札幌駅" fare="1250" km="0" />
             <interval from="北24条西5丁目" fare="1250" km="0" />
             <interval from="麻生駅" fare="1250" km="0" />
             <interval from="宮の沢駅" fare="1250" km="0" />
@@ -2192,35 +2192,35 @@
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
       <timetable>
         <route>
-          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
+          <stop name="JR新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
           </stop>
           <stop name="大谷地駅" yahoo="true"  tag="札幌>地鐵" gps="43.026978, 141.452151" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
           </stop>
           <stop name="南郷18丁目駅" yahoo="true"  tag="札幌>地鐵" gps="43.030408, 141.435724" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
           </stop>
           <stop name="福住駅" yahoo="true"  tag="札幌>地鐵" gps="43.020166, 141.402961" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
           </stop>
           <stop name="札大正門"   tag="札幌>其他" gps="" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
             <interval from="福住駅" fare="0" km="0" />
           </stop>
           <stop name="西岡3条9丁目"   tag="札幌>其他" gps="" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
             <interval from="福住駅" fare="0" km="0" />
             <interval from="札大正門" fare="0" km="0" />
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
-            <interval from="新札幌駅" fare="1250" km="0" />
+            <interval from="JR新札幌駅" fare="1250" km="0" />
             <interval from="大谷地駅" fare="1250" km="0" />
             <interval from="南郷18丁目駅" fare="1250" km="0" />
             <interval from="福住駅" fare="1250" km="0" />
@@ -2245,35 +2245,35 @@
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
       <timetable>
         <route>
-          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
+          <stop name="JR新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
           </stop>
           <stop name="大谷地駅" yahoo="true"  tag="札幌>地鐵" gps="43.026978, 141.452151" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
           </stop>
           <stop name="南郷18丁目駅" yahoo="true"  tag="札幌>地鐵" gps="43.030408, 141.435724" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
           </stop>
           <stop name="福住駅" yahoo="true"  tag="札幌>地鐵" gps="43.020166, 141.402961" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
           </stop>
           <stop name="札大正門"   tag="札幌>其他" gps="" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
             <interval from="福住駅" fare="0" km="0" />
           </stop>
           <stop name="西岡3条9丁目"   tag="札幌>其他" gps="" >
-            <interval from="新札幌駅" fare="0" km="0" />
+            <interval from="JR新札幌駅" fare="0" km="0" />
             <interval from="大谷地駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
             <interval from="福住駅" fare="0" km="0" />
             <interval from="札大正門" fare="0" km="0" />
           </stop>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
-            <interval from="新札幌駅" fare="1250" km="0" />
+            <interval from="JR新札幌駅" fare="1250" km="0" />
             <interval from="大谷地駅" fare="1250" km="0" />
             <interval from="南郷18丁目駅" fare="1250" km="0" />
             <interval from="福住駅" fare="1250" km="0" />
@@ -2470,7 +2470,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -2507,7 +2507,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -2713,7 +2713,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -2750,7 +2750,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -2959,7 +2959,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -2996,7 +2996,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -3336,7 +3336,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -3373,7 +3373,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
         </route>
         <run available="67h" >
@@ -3607,7 +3607,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -3644,7 +3644,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
         </route>
         <run available="67h" >
@@ -3878,7 +3878,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -3915,7 +3915,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
         </route>
         <run available="12345" >
@@ -4128,7 +4128,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067601, 141.352340" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -4165,7 +4165,7 @@
             <interval from="中央バス 札幌ターミナル" fare="0" km="0" />
             <interval from="大通公園" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
-            <interval from="札幌駅" fare="0" km="0" />
+            <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
         </route>
         <run available="12345" >
@@ -4235,7 +4235,7 @@
             <interval from="宮の沢駅" fare="0" km="0" />
             <interval from="麻生駅" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="朝里川温泉スキー場" fare="820" km="0" />
             <interval from="小樽朝里クラッセホテル" fare="820" km="0" />
@@ -4288,7 +4288,7 @@
             <interval from="宮の沢駅" fare="0" km="0" />
             <interval from="麻生駅" fare="0" km="0" />
           </stop>
-          <stop name="札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
+          <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067703, 141.352128" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="朝里川温泉スキー場" fare="820" km="0" />
             <interval from="小樽朝里クラッセホテル" fare="820" km="0" />
@@ -4513,7 +4513,7 @@
             <interval from="福住駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
           </stop>
-          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
+          <stop name="JR新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="西岡3条9丁目" fare="0" km="0" />
             <interval from="札大正門" fare="0" km="0" />
@@ -4566,7 +4566,7 @@
             <interval from="福住駅" fare="0" km="0" />
             <interval from="南郷18丁目駅" fare="0" km="0" />
           </stop>
-          <stop name="新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
+          <stop name="JR新札幌駅" yahoo="true"  tag="札幌>JR" gps="43.038486, 141.472436" >
             <interval from="札幌国際スキー場" fare="1250" km="0" />
             <interval from="西岡3条9丁目" fare="0" km="0" />
             <interval from="札大正門" fare="0" km="0" />

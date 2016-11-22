@@ -21,14 +21,19 @@
   </group>
   <group name="長野縣">
     <tag name="白馬" info-url="https://diy.ski/hakuba" img-url="https://diy.ski/photos/hakuba/hakuba.jpg" />
-    <tag name="野澤" info-url="https://diy.ski/nozawa" img-url="https://diy.ski/photos/nozawa/nozawa.jpg" />
+    <tag name="野沢温泉" info-url="https://diy.ski/nozawa" img-url="https://diy.ski/photos/nozawa/nozawa.jpg" />
     <tag name="志賀" info-url="https://diy.ski/shiga" img-url="https://diy.ski/photos/shiga/shiga.jpg" />
     <tag name="妙高" info-url="https://diy.ski/myoko" img-url="https://diy.ski/photos/myoko/myoko.jpg" />
-    <tag name="輕井澤" info-url="https://diy.ski/karuizawa" img-url="https://diy.ski/photos/karuizawa/karuizawa.jpg" />
-    <tag name="長野市區" info-url="" img-url="" />
+    <tag name="軽井沢" info-url="https://diy.ski/karuizawa" img-url="https://diy.ski/photos/karuizawa/karuizawa.jpg" />
+    <tag name="長野" info-url="" img-url="" />
   </group>
   <group name="新瀉縣">
     <tag name="苗場" info-url="https://diy.ski/naeba" img-url="https://diy.ski/photos/naeba/naeba.jpg" />
     <tag name="湯澤" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
+  </group>
+  <group name="關西">
+    <tag name="大阪" info-url="" img-url="" />
+    <tag name="京都" info-url="" img-url="" />
+    <tag name="名古屋" info-url="" img-url="" />
   </group>
 </tag-list>

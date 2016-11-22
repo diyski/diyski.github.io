@@ -7,45 +7,45 @@
       <source>http://www.nozawaski.com/winter/access/bus.php</source>
       <timetable>
         <route>
-          <stop name="溫泉街"   tag="野沢温泉>免費巴士" gps="36.919754, 138.451885" >
+          <stop name="シヤトル長坂バスターミナル"   tag="野沢温泉>免費巴士" gps="36.919754, 138.451885" >
           </stop>
-          <stop name="未命名"   tag="野沢温泉>免費巴士" gps="" >
-            <interval from="溫泉街" fare="0" km="0" />
+          <stop name="スバリーナ上"   tag="野沢温泉>免費巴士" gps="" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
           </stop>
-          <stop name="未命名"   tag="野沢温泉>免費巴士" gps="36.918521, 138.447602" >
-            <interval from="溫泉街" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+          <stop name="柄沢ゲレンデ"   tag="野沢温泉>免費巴士" gps="36.918521, 138.447602" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
           </stop>
           <stop name="第3駐車場"   tag="野沢温泉>免費巴士" gps="36.916319, 138.444033" >
-            <interval from="溫泉街" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="中尾駐車場"   tag="野沢温泉>免費巴士" gps="36.914474, 138.437534" >
-            <interval from="溫泉街" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
             <interval from="第3駐車場" fare="0" km="0" />
           </stop>
           <stop name="中尾バス停"   tag="野沢温泉>免費巴士" gps="36.917320, 138.441969" >
-            <interval from="溫泉街" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
             <interval from="第3駐車場" fare="0" km="0" />
             <interval from="中尾駐車場" fare="0" km="0" />
           </stop>
           <stop name="新田バス停"   tag="野沢温泉>免費巴士" gps="36.920868, 138.444766" >
-            <interval from="溫泉街" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
             <interval from="第3駐車場" fare="0" km="0" />
             <interval from="中尾駐車場" fare="0" km="0" />
             <interval from="中尾バス停" fare="0" km="0" />
           </stop>
           <stop name="中央ターミナル"   tag="野沢温泉>免費巴士" gps="36.922444, 138.446171" >
-            <interval from="溫泉街" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
-            <interval from="未命名" fare="0" km="0" />
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
             <interval from="第3駐車場" fare="0" km="0" />
             <interval from="中尾駐車場" fare="0" km="0" />
             <interval from="中尾バス停" fare="0" km="0" />

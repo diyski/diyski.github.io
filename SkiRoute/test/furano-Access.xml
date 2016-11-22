@@ -9,12 +9,12 @@
         <route>
           <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="43.671163, 142.453831" >
           </stop>
-          <stop name="富良野王子大飯店"   tag="富良野>富良野王子大飯店" gps="43.340498, 142.358721" >
+          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
             <interval from="旭川空港" fare="2500" km="0" />
           </stop>
-          <stop name="新富良野王子大飯店"   tag="富良野>新富良野王子大飯店" gps="43.323282, 142.355309" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
             <interval from="旭川空港" fare="2500" km="0" />
-            <interval from="富良野王子大飯店" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -53,14 +53,14 @@
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_7.html#000044</source>
       <timetable>
         <route>
-          <stop name="新富良野王子大飯店"   tag="富良野>新富良野王子大飯店" gps="43.323282, 142.355309" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
           </stop>
-          <stop name="富良野王子大飯店"   tag="富良野>富良野王子大飯店" gps="43.340498, 142.358721" >
-            <interval from="新富良野王子大飯店" fare="0" km="0" />
+          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="43.671163, 142.453831" >
-            <interval from="新富良野王子大飯店" fare="2500" km="0" />
-            <interval from="富良野王子大飯店" fare="2500" km="0" />
+            <interval from="新富良野プリンスホテル" fare="2500" km="0" />
+            <interval from="富良野プリンスホテル" fare="2500" km="0" />
           </stop>
         </route>
         <run >

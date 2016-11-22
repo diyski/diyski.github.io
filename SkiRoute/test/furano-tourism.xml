@@ -7,18 +7,18 @@
       <source>http://www.furanotourism.com/cn/spot/spot_D.php?id=510&amp;kid1=5&amp;kid2=15&amp;kid3=69</source>
       <timetable>
         <route>
-          <stop name="新富良野王子大飯店"   tag="富良野>新富良野王子大飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
           </stop>
-          <stop name="富良野王子大飯店"   tag="富良野>富良野王子大飯店" gps="43.340518, 142.358168" >
-            <interval from="新富良野王子大飯店" fare="300" km="0" />
+          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+            <interval from="新富良野プリンスホテル" fare="300" km="0" />
           </stop>
           <stop name="民宿區kisen"   tag="富良野>民宿區kisen" gps="43.342531, 142.361022" >
-            <interval from="新富良野王子大飯店" fare="300" km="0" />
-            <interval from="富良野王子大飯店" fare="0" km="0" />
+            <interval from="新富良野プリンスホテル" fare="300" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="43.347091, 142.391741" >
-            <interval from="新富良野王子大飯店" fare="300" km="0" />
-            <interval from="富良野王子大飯店" fare="300" km="0" />
+            <interval from="新富良野プリンスホテル" fare="300" km="0" />
+            <interval from="富良野プリンスホテル" fare="300" km="0" />
             <interval from="民宿區kisen" fare="300" km="0" />
           </stop>
         </route>
@@ -49,14 +49,14 @@
           <stop name="民宿區kisen"   tag="富良野>民宿區kisen" gps="43.342531, 142.361022" >
             <interval from="富良野駅" fare="300" km="0" />
           </stop>
-          <stop name="富良野王子大飯店"   tag="富良野>富良野王子大飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
             <interval from="富良野駅" fare="300" km="0" />
             <interval from="民宿區kisen" fare="0" km="0" />
           </stop>
-          <stop name="新富良野王子大飯店"   tag="富良野>新富良野王子大飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
             <interval from="富良野駅" fare="300" km="0" />
             <interval from="民宿區kisen" fare="300" km="0" />
-            <interval from="富良野王子大飯店" fare="300" km="0" />
+            <interval from="富良野プリンスホテル" fare="300" km="0" />
           </stop>
         </route>
         <run >

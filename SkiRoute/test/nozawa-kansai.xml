@@ -6,19 +6,19 @@
       <source>https://skiski.jp/bus/kansai_nozawa.html</source>
       <timetable>
         <route>
-          <stop name="難波駅" yahoo="true"  tag="大阪>JR" gps="34.666436, 135.495362" >
+          <stop name="JR難波駅" yahoo="true"  tag="大阪>JR" gps="34.666436, 135.495362" >
           </stop>
-          <stop name="京都駅" yahoo="true"  tag="京都>JR" gps="34.983784, 135.760204" >
-            <interval from="難波駅" fare="0" km="0" />
+          <stop name="JR京都駅" yahoo="true"  tag="京都>JR" gps="34.983784, 135.760204" >
+            <interval from="JR難波駅" fare="0" km="0" />
           </stop>
-          <stop name="野沢中尾"   tag="野沢温泉>巴士站" gps="36.914035, 138.436709" >
-            <interval from="難波駅" fare="8000" km="0" />
-            <interval from="京都駅" fare="8000" km="0" />
+          <stop name="中尾駐車場"   tag="野沢温泉>巴士站" gps="36.914035, 138.436709" >
+            <interval from="JR難波駅" fare="8000" km="0" />
+            <interval from="JR京都駅" fare="8000" km="0" />
           </stop>
-          <stop name="野沢中央"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
-            <interval from="難波駅" fare="8000" km="0" />
-            <interval from="京都駅" fare="8000" km="0" />
-            <interval from="野沢中尾" fare="0" km="0" />
+          <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
+            <interval from="JR難波駅" fare="8000" km="0" />
+            <interval from="JR京都駅" fare="8000" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -36,25 +36,25 @@
       <source>https://skiski.jp/bus/kansai_nozawa.html</source>
       <timetable>
         <route>
-          <stop name="野沢中央"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
+          <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
           </stop>
-          <stop name="野沢中尾"   tag="野沢温泉>巴士站" gps="36.914035, 138.436709" >
-            <interval from="野沢中央" fare="0" km="0" />
+          <stop name="中尾駐車場"   tag="野沢温泉>巴士站" gps="36.914035, 138.436709" >
+            <interval from="中央ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="京都駅" yahoo="true"  tag="京都>JR" gps="34.983784, 135.760204" >
-            <interval from="野沢中央" fare="8000" km="0" />
-            <interval from="野沢中尾" fare="8000" km="0" />
+          <stop name="JR京都駅" yahoo="true"  tag="京都>JR" gps="34.983784, 135.760204" >
+            <interval from="中央ターミナル" fare="8000" km="0" />
+            <interval from="中尾駐車場" fare="8000" km="0" />
           </stop>
-          <stop name="難波駅" yahoo="true"  tag="大阪>JR" gps="34.666436, 135.495362" >
-            <interval from="野沢中央" fare="8000" km="0" />
-            <interval from="野沢中尾" fare="8000" km="0" />
-            <interval from="京都駅" fare="0" km="0" />
+          <stop name="JR難波駅" yahoo="true"  tag="大阪>JR" gps="34.666436, 135.495362" >
+            <interval from="中央ターミナル" fare="8000" km="0" />
+            <interval from="中尾駐車場" fare="8000" km="0" />
+            <interval from="JR京都駅" fare="0" km="0" />
           </stop>
           <stop name="近鉄なんば駅" yahoo="true"  tag="大阪>近鉄" gps="" >
-            <interval from="野沢中央" fare="8000" km="0" />
-            <interval from="野沢中尾" fare="8000" km="0" />
-            <interval from="京都駅" fare="0" km="0" />
-            <interval from="難波駅" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="8000" km="0" />
+            <interval from="中尾駐車場" fare="8000" km="0" />
+            <interval from="JR京都駅" fare="0" km="0" />
+            <interval from="JR難波駅" fare="0" km="0" />
           </stop>
         </route>
         <run >

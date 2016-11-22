@@ -545,7 +545,7 @@
             <interval from="旅の宿　峰月ロビー" fare="0" km="0" />
             <interval from="白馬アルプルホテルロビー" fare="0" km="0" />
           </stop>
-          <stop name="JR京都駅八条口"   tag="關西>京都" gps="" >
+          <stop name="JR京都駅"   tag="京都>JR" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
@@ -580,7 +580,7 @@
             <interval from="旅の宿　峰月ロビー" fare="12700" km="0" />
             <interval from="白馬アルプルホテルロビー" fare="12700" km="0" />
             <interval from="里見バスセンター前" fare="12700" km="0" />
-            <interval from="JR京都駅八条口" fare="0" km="0" />
+            <interval from="JR京都駅" fare="0" km="0" />
           </stop>
           <stop name="近鉄なんば駅"   tag="關西>大阪" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
@@ -599,7 +599,7 @@
             <interval from="旅の宿　峰月ロビー" fare="12700" km="0" />
             <interval from="白馬アルプルホテルロビー" fare="12700" km="0" />
             <interval from="里見バスセンター前" fare="12700" km="0" />
-            <interval from="JR京都駅八条口" fare="0" km="0" />
+            <interval from="JR京都駅" fare="0" km="0" />
             <interval from="JR大阪駅周辺" fare="0" km="0" />
           </stop>
           <stop name="JR天王寺駅"   tag="關西>大阪" gps="" >
@@ -619,7 +619,7 @@
             <interval from="旅の宿　峰月ロビー" fare="12700" km="0" />
             <interval from="白馬アルプルホテルロビー" fare="12700" km="0" />
             <interval from="里見バスセンター前" fare="12700" km="0" />
-            <interval from="JR京都駅八条口" fare="0" km="0" />
+            <interval from="JR京都駅" fare="0" km="0" />
             <interval from="JR大阪駅周辺" fare="0" km="0" />
             <interval from="近鉄なんば駅" fare="0" km="0" />
           </stop>
