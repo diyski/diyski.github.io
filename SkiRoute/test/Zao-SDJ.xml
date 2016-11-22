@@ -28,7 +28,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="往仙台機場預約巴士" type="other" available="" apply-to="藏王">
+    <transportation name="往仙台機場預約巴士" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
       <info>需預約 0223-23-4737 日文</info>
       <source>http://www.zao-spa.or.jp/taiwan/access.html</source>
       <timetable>

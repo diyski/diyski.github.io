@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="日本(樂桃)" to="台灣">
   <outbound>
-    <transportation name="樂桃 關西→台灣" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
+    <transportation name="樂桃 關西→台灣" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -50,7 +50,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="樂桃 羽田→桃園" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
+    <transportation name="樂桃 羽田→桃園" type="other" available="" apply-to="">
       <info>
 </info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -70,7 +70,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="樂桃 台灣→關西" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
+    <transportation name="樂桃 台灣→關西" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉">
       <info>
       </info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -106,7 +106,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="樂桃 桃園→羽田" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
+    <transportation name="樂桃 桃園→羽田" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢">
       <info>
 </info>
       <source>http://www.flypeach.com/pc/tw</source>

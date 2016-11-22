@@ -57,7 +57,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="中央巴士往札幌車站" type="other" available="" apply-to="富良野">
+    <transportation name="中央巴士往札幌車站" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,盤溪,札幌国際,朝里川">
       <info>
       </info>
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>

@@ -88,7 +88,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="巴士往旭川機場" type="other" available="" apply-to="富良野">
+    <transportation name="巴士往旭川機場" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
       <info>
       </info>
       <source>http://www.furanobus.jp/lavender/</source>

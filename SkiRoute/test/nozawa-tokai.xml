@@ -34,7 +34,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="野澤→名古屋 夜巴" type="other" available="" apply-to="野沢温泉">
+    <transportation name="野澤→名古屋 夜巴" type="other" available="" apply-to="">
       <info>名古屋発
 12/25-26、1/6-7、2/17-28
 スキー場発

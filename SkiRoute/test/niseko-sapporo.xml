@@ -478,7 +478,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko to Sapporo bus" type="other" available="" apply-to="二世谷">
+    <transportation name="Niseko to Sapporo bus" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>

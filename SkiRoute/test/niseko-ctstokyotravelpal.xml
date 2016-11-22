@@ -314,7 +314,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="[複製]Travelpal bus" type="other" available="" apply-to="二世谷">
+    <transportation name="[複製]Travelpal bus" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
       <info>
       </info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
@@ -447,7 +447,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="Travelpal bus" type="other" available="" apply-to="二世谷">
+    <transportation name="Travelpal bus" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
       <info>
       </info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>

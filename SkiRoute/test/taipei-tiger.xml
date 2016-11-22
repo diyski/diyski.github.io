@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="日本(虎航)" to="台灣">
   <outbound>
-    <transportation name="虎航 關西→台灣" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
+    <transportation name="虎航 關西→台灣" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -37,7 +37,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 函館→桃園" type="other" available="" apply-to="二世谷,留壽都,富良野,盤溪,札幌國際">
+    <transportation name="虎航 函館→桃園" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -55,7 +55,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 東北→桃園" type="other" available="" apply-to="藏王,安比">
+    <transportation name="虎航 東北→桃園" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -73,7 +73,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 東京→台灣" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
+    <transportation name="虎航 東京→台灣" type="other" available="" apply-to="">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -130,7 +130,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="虎航 台灣→關西" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
+    <transportation name="虎航 台灣→關西" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -166,7 +166,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 桃園→函館" type="other" available="" apply-to="二世谷,留壽都,富良野,盤溪,札幌國際">
+    <transportation name="虎航 桃園→函館" type="other" available="" apply-to="二世谷,留壽都,盤溪,札幌国際,朝里川">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -202,7 +202,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 台灣→東京" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
+    <transportation name="虎航 台灣→東京" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>

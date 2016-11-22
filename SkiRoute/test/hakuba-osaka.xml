@@ -388,7 +388,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Travex 白馬→大阪" type="other" available="" apply-to="白馬">
+    <transportation name="Travex 白馬→大阪" type="other" available="" apply-to="">
       <info>Travex tour</info>
       <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>
       <timetable>

@@ -72,7 +72,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="藏王往山形區間巴士" type="other" available="" apply-to="藏王">
+    <transportation name="藏王往山形區間巴士" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
       <info>07:00班次 六日及國定假日12/29〜1/3は運休</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>

@@ -31,7 +31,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="野澤→關西 夜巴" type="other" available="" apply-to="野沢温泉">
+    <transportation name="野澤→關西 夜巴" type="other" available="" apply-to="">
       <info>發車日及預訂請參考網站</info>
       <source>https://skiski.jp/bus/kansai_nozawa.html</source>
       <timetable>

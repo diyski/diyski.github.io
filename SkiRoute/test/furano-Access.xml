@@ -47,7 +47,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Access-n旭川機場巴士" type="other" available="2016/12/03~2017/04/02" apply-to="富良野">
+    <transportation name="Access-n旭川機場巴士" type="other" available="2016/12/03~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_7.html#000044</source>

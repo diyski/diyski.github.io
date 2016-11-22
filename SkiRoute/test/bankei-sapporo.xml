@@ -245,7 +245,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="盤溪→札幌" type="other" available="2016/12/20~2017/03/31" apply-to="盤溪">
+    <transportation name="盤溪→札幌" type="other" available="2016/12/20~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,札幌国際,朝里川">
       <info>
       </info>
       <source>http://www.bankei.co.jp/winter/bus/routebus/</source>

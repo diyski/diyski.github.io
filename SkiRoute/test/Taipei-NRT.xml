@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="日本(香草航空)" to="台灣">
   <outbound>
-    <transportation name="香草 成田→台灣" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
+    <transportation name="香草 成田→台灣" type="other" available="" apply-to="">
       <info>
       </info>
       <source>https://www.vanilla-air.com/tw/</source>
@@ -49,7 +49,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="香草 關西→桃園" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
+    <transportation name="香草 關西→桃園" type="other" available="" apply-to="">
       <info>
       </info>
       <source>https://www.vanilla-air.com/tw/</source>
@@ -69,7 +69,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="香草 台灣→成田" type="other" available="" apply-to="白馬,妙高,志賀,野澤,湯澤,苗場,輕井澤,安比,藏王">
+    <transportation name="香草 台灣→成田" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢">
       <info>
       </info>
       <source>https://www.vanilla-air.com/tw/</source>
@@ -117,7 +117,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="香草 桃園→關西" type="other" available="" apply-to="白馬,妙高,志賀,野澤">
+    <transportation name="香草 桃園→關西" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉">
       <info>
       </info>
       <source>https://www.vanilla-air.com/tw/</source>
