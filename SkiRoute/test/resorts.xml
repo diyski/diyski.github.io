@@ -146,4 +146,10 @@
     <accessPoint name="新千歲機場" filename="kokusai-chitose.xml">
     </accessPoint>
   </resort>
+  <resort name="キロロ">
+    <accessPoint name="札幌" filename="kiroro-sapporo.xml">
+    </accessPoint>
+    <accessPoint name="新千歲" filename="kiroro-CTS.xml">
+    </accessPoint>
+  </resort>
 </skiResorts>

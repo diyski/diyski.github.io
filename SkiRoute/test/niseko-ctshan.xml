@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲(HAN)" to="Niseko">
   <outbound>
-    <transportation name="新千歲→留壽都→二世谷" type="other" available="2016/12/01~2017/03/31" apply-to="">
-      <info>
-      </info>
+    <transportation name="新千歲→留壽都→二世谷" type="other" available="2016/12/01~2017/03/31" apply-to="二世谷,留壽都">
+      <info>國內線集合地點在JAL到着口A、B之間，Hokkaido resort liner櫃台      </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
       <timetable>
         <route>
@@ -22,29 +21,29 @@
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
           </stop>
           <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
-            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
           </stop>
           <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
-            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
           </stop>
           <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
-            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
           <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
-            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
@@ -52,8 +51,8 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
           <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
-            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
@@ -62,8 +61,8 @@
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
           <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
-            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
@@ -73,8 +72,8 @@
             <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
           <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
-            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
@@ -224,7 +223,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="二世谷→留壽都→新千歲" type="other" available="2016/12/01~2017/03/31" apply-to="">
+    <transportation name="二世谷→留壽都→新千歲" type="other" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
@@ -285,24 +284,24 @@
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
           </stop>
           <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="鶴雅別荘 杢の抄" fare="3500" km="0" />
-            <interval from="ニセコグランドホテル" fare="3500" km="0" />
-            <interval from="ホテル甘露の森" fare="3500" km="0" />
-            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="3500" km="0" />
-            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="3500" km="0" />
-            <interval from="ヒルトンニセコビレッジ" fare="3500" km="0" />
-            <interval from="ヒラフ第一駐車場" fare="3500" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="4000" km="0" />
+            <interval from="ニセコグランドホテル" fare="4000" km="0" />
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="3500" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="3500" km="0" />
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="鶴雅別荘 杢の抄" fare="3500" km="0" />
-            <interval from="ニセコグランドホテル" fare="3500" km="0" />
-            <interval from="ホテル甘露の森" fare="3500" km="0" />
-            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="3500" km="0" />
-            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="3500" km="0" />
-            <interval from="ヒルトンニセコビレッジ" fare="3500" km="0" />
-            <interval from="ヒラフ第一駐車場" fare="3500" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="4000" km="0" />
+            <interval from="ニセコグランドホテル" fare="4000" km="0" />
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="3500" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="3500" km="0" />
             <interval from="新千歳空港国内線" fare="0" km="0" />
