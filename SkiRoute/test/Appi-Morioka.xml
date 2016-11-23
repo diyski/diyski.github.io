@@ -6,10 +6,10 @@
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
       <timetable>
         <route>
-          <stop name="盛岡駅" yahoo="true"  tag="東北市區>盛岡" gps="" >
+          <stop name="JR盛岡駅" yahoo="true"  tag="東北市區>JR" gps="" >
           </stop>
           <stop name="安比格蘭酒店"   tag="安比>安比高原" gps="" >
-            <interval from="盛岡駅" fare="1130" km="46" />
+            <interval from="JR盛岡駅" fare="1130" km="46" />
           </stop>
         </route>
         <run available="67h" >

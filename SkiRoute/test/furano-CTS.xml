@@ -7,22 +7,22 @@
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html#000042</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国內線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="新千歳空港国內線" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
           <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
           </stop>
           <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="43.347115, 142.391138" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
@@ -92,7 +92,7 @@
             <interval from="富良野駅" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国內線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="富良野駅" fare="4000" km="0" />
             <interval from="富良野プリンスホテル" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="4000" km="0" />
@@ -101,7 +101,7 @@
             <interval from="富良野駅" fare="4000" km="0" />
             <interval from="富良野プリンスホテル" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="4000" km="0" />
-            <interval from="新千歳空港国內線" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
         </route>
         <run >

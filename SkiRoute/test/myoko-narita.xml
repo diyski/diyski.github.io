@@ -39,7 +39,7 @@
         <route>
           <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
           </stop>
-          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="" >
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="" >
             <interval from="赤倉巴士站" fare="11500" km="0" />
           </stop>
           <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >

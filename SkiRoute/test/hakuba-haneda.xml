@@ -35,7 +35,7 @@
           <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
-          <stop name="JR新宿駅"   tag="東京>新宿" gps="" >
+          <stop name="JR新宿駅"   tag="東京>JR" gps="" >
             <interval from="八方info" fare="9200" km="0" />
             <interval from="JR神城駅" fare="9200" km="0" />
           </stop>

@@ -20,18 +20,18 @@
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="JR東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
+          <stop name="東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
             <interval from="成田空港第3ターミナル" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="1000" km="0" />
             <interval from="成田空港第1ターミナル" fare="1000" km="0" />
           </stop>
-          <stop name="JR銀座駅" yahoo="true"  tag="東京>銀座" gps="35.673062, 139.763723" >
+          <stop name="JR銀座駅" yahoo="true"  tag="東京>JR" gps="35.673062, 139.763723" >
             <interval from="成田空港第3ターミナル" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="1000" km="0" />
             <interval from="成田空港第1ターミナル" fare="1000" km="0" />
-            <interval from="JR東京駅" fare="0" km="0" />
+            <interval from="東京駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -629,23 +629,23 @@
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
         <route>
-          <stop name="JR銀座駅" yahoo="true"  tag="東京>銀座" gps="35.673062, 139.763723" >
+          <stop name="JR銀座駅" yahoo="true"  tag="東京>JR" gps="35.673062, 139.763723" >
           </stop>
-          <stop name="JR東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
+          <stop name="東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
             <interval from="JR銀座駅" fare="0" km="0" />
           </stop>
           <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="JR銀座駅" fare="2000" km="0" />
-            <interval from="JR東京駅" fare="2000" km="0" />
+            <interval from="東京駅" fare="2000" km="0" />
           </stop>
           <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="JR銀座駅" fare="2000" km="0" />
-            <interval from="JR東京駅" fare="2000" km="0" />
+            <interval from="東京駅" fare="2000" km="0" />
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
           </stop>
           <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="JR銀座駅" fare="2000" km="0" />
-            <interval from="JR東京駅" fare="2000" km="0" />
+            <interval from="東京駅" fare="2000" km="0" />
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
@@ -678,29 +678,29 @@
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
         <route>
-          <stop name="JR銀座駅" yahoo="true"  tag="東京>銀座" gps="35.673062, 139.763723" >
+          <stop name="JR銀座駅" yahoo="true"  tag="東京>JR" gps="35.673062, 139.763723" >
           </stop>
-          <stop name="JR東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
+          <stop name="東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
             <interval from="JR銀座駅" fare="0" km="0" />
           </stop>
           <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
-            <interval from="JR東京駅" fare="1000" km="0" />
+            <interval from="東京駅" fare="1000" km="0" />
           </stop>
           <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
-            <interval from="JR東京駅" fare="1000" km="0" />
+            <interval from="東京駅" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
           <stop name="成田空港第1ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
-            <interval from="JR東京駅" fare="1000" km="0" />
+            <interval from="東京駅" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
           <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
-            <interval from="JR東京駅" fare="1000" km="0" />
+            <interval from="東京駅" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
             <interval from="成田空港第1ターミナル" fare="0" km="0" />

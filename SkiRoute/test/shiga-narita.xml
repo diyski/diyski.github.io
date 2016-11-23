@@ -31,7 +31,7 @@
         <route>
           <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
           </stop>
-          <stop name="JR新宿駅" yahoo="true"  tag="東京>新宿" gps="" >
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="" >
             <interval from="志賀高原住宿點" fare="12700" km="0" />
           </stop>
           <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
