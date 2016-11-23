@@ -142,7 +142,7 @@
             <interval from="石山中央" fare="0" km="0" />
             <interval from="十五島公園" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -159,7 +159,7 @@
             <interval from="十五島公園" fare="0" km="0" />
             <interval from="小金湯温泉" fare="0" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -177,7 +177,7 @@
             <interval from="小金湯温泉" fare="0" km="0" />
             <interval from="定山渓大橋" fare="0" km="0" />
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -384,7 +384,7 @@
             <interval from="石山中央" fare="0" km="0" />
             <interval from="十五島公園" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -401,7 +401,7 @@
             <interval from="十五島公園" fare="0" km="0" />
             <interval from="小金湯温泉" fare="0" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -419,7 +419,7 @@
             <interval from="小金湯温泉" fare="0" km="0" />
             <interval from="定山渓大橋" fare="0" km="0" />
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -630,7 +630,7 @@
             <interval from="石山中央" fare="0" km="0" />
             <interval from="十五島公園" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -647,7 +647,7 @@
             <interval from="十五島公園" fare="0" km="0" />
             <interval from="小金湯温泉" fare="0" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -665,7 +665,7 @@
             <interval from="小金湯温泉" fare="0" km="0" />
             <interval from="定山渓大橋" fare="0" km="0" />
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1007,7 +1007,7 @@
             <interval from="石山中央" fare="0" km="0" />
             <interval from="十五島公園" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1024,7 +1024,7 @@
             <interval from="十五島公園" fare="0" km="0" />
             <interval from="小金湯温泉" fare="0" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1042,7 +1042,7 @@
             <interval from="小金湯温泉" fare="0" km="0" />
             <interval from="定山渓大橋" fare="0" km="0" />
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1278,7 +1278,7 @@
             <interval from="石山中央" fare="0" km="0" />
             <interval from="十五島公園" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1295,7 +1295,7 @@
             <interval from="十五島公園" fare="0" km="0" />
             <interval from="小金湯温泉" fare="0" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1313,7 +1313,7 @@
             <interval from="小金湯温泉" fare="0" km="0" />
             <interval from="定山渓大橋" fare="0" km="0" />
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1549,7 +1549,7 @@
             <interval from="石山中央" fare="0" km="0" />
             <interval from="十五島公園" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1566,7 +1566,7 @@
             <interval from="十五島公園" fare="0" km="0" />
             <interval from="小金湯温泉" fare="0" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1584,7 +1584,7 @@
             <interval from="小金湯温泉" fare="0" km="0" />
             <interval from="定山渓大橋" fare="0" km="0" />
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1799,7 +1799,7 @@
             <interval from="石山中央" fare="0" km="0" />
             <interval from="十五島公園" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1816,7 +1816,7 @@
             <interval from="十五島公園" fare="0" km="0" />
             <interval from="小金湯温泉" fare="0" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -1834,7 +1834,7 @@
             <interval from="小金湯温泉" fare="0" km="0" />
             <interval from="定山渓大橋" fare="0" km="0" />
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
             <interval from="北2条西1丁目" fare="0" km="0" />
@@ -2302,14 +2302,14 @@
         <route>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -2545,14 +2545,14 @@
         <route>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -2791,14 +2791,14 @@
         <route>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -3168,14 +3168,14 @@
         <route>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -3439,14 +3439,14 @@
         <route>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -3710,14 +3710,14 @@
         <route>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />
@@ -3960,14 +3960,14 @@
         <route>
           <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
           </stop>
-          <stop name="定山渓湯町"   tag="札幌>飯店" gps="42.965929, 141.161310" >
+          <stop name="定山渓湯町"   tag="札幌>定山渓" gps="42.965929, 141.161310" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
           </stop>
-          <stop name="翠山亭"   tag="札幌>飯店" gps="42.967455, 141.162426" >
+          <stop name="翠山亭"   tag="札幌>定山渓" gps="42.967455, 141.162426" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
           </stop>
-          <stop name="定山渓大橋"   tag="札幌>其他" gps="42.970256, 141.164118" >
+          <stop name="定山渓大橋"   tag="札幌>定山渓" gps="42.970256, 141.164118" >
             <interval from="札幌国際スキー場" fare="630" km="0" />
             <interval from="定山渓湯町" fare="0" km="0" />
             <interval from="翠山亭" fare="0" km="0" />

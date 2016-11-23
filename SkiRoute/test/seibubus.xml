@@ -7,10 +7,10 @@
       <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
       <timetable>
         <route>
-          <stop name="池袋站東口" yahoo="true"  tag="東京>池袋" gps="" >
+          <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="35.729595, 139.713420" >
           </stop>
           <stop name="JR長野駅" yahoo="true"  tag="長野>JR" gps="" >
-            <interval from="池袋站東口" fare="2100" km="234" />
+            <interval from="JR池袋駅" fare="2100" km="234" />
           </stop>
         </route>
         <run >
@@ -49,7 +49,7 @@
         <route>
           <stop name="JR長野駅" yahoo="true"  tag="長野>JR" gps="" >
           </stop>
-          <stop name="池袋站東口" yahoo="true"  tag="東京>池袋" gps="" >
+          <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="35.729595, 139.713420" >
             <interval from="JR長野駅" fare="2100" km="234" />
           </stop>
         </route>

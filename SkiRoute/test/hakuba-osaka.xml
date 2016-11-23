@@ -6,9 +6,9 @@
       <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>
       <timetable>
         <route>
-          <stop name="JR新大阪駅" yahoo="true"  tag="關西>大阪" gps="34.732229, 135.499942" >
+          <stop name="JR新大阪駅" yahoo="true"  tag="大阪>JR" gps="34.732229, 135.499942" >
           </stop>
-          <stop name="二条城前" yahoo="true"  tag="關西>京都" gps="35.012270, 135.751264" >
+          <stop name="二条城前" yahoo="true"  tag="京都>地鐵" gps="35.012270, 135.751264" >
             <interval from="JR新大阪駅" fare="0" km="0" />
           </stop>
           <stop name="ドライブインくろべ路"   tag="白馬>大町溫泉" gps="36.527450, 137.812075" >
@@ -563,7 +563,7 @@
             <interval from="白馬アルプルホテルロビー" fare="12700" km="0" />
             <interval from="里見バスセンター前" fare="12700" km="0" />
           </stop>
-          <stop name="JR大阪駅周辺"   tag="關西>大阪" gps="" >
+          <stop name="JR大阪駅周辺"   tag="大阪>JR" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
@@ -582,7 +582,7 @@
             <interval from="里見バスセンター前" fare="12700" km="0" />
             <interval from="JR京都駅" fare="0" km="0" />
           </stop>
-          <stop name="近鉄なんば駅"   tag="關西>大阪" gps="" >
+          <stop name="近鉄なんば駅"   tag="大阪>近鉄" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
@@ -602,7 +602,7 @@
             <interval from="JR京都駅" fare="0" km="0" />
             <interval from="JR大阪駅周辺" fare="0" km="0" />
           </stop>
-          <stop name="JR天王寺駅"   tag="關西>大阪" gps="" >
+          <stop name="JR天王寺駅"   tag="大阪>JR" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />

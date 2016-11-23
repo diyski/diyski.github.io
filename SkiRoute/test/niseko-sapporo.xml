@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市(travelpal)" to="Niseko">
   <outbound>
-    <transportation name="Sapporo to Niseko bus" type="other" available="" apply-to="二世谷">
+    <transportation name="Sapporo to Niseko bus" type="other" available="2016/12/02~2017/04/02" apply-to="二世谷">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
           <stop name="ホテルクラビーサッポロ"   tag="札幌>飯店" gps="" >
           </stop>
-          <stop name="ホテルモントレ"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルモントレ札幌"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
           </stop>
           <stop name="JRタワーホテル日航札幌"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
           </stop>
           <stop name="ホテルマイステイズ札幌アスペン"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
           </stop>
           <stop name="センチュリーロイヤルホテル"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
           </stop>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
           </stop>
           <stop name="ＡＮＡホリデイ・イン札幌すすきの"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -43,7 +43,7 @@
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -52,7 +52,7 @@
           </stop>
           <stop name="札幌全日空ホテル"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -62,7 +62,7 @@
           </stop>
           <stop name="ニューオータニイン札幌"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -73,7 +73,7 @@
           </stop>
           <stop name="札幌グランドホテル"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -85,7 +85,7 @@
           </stop>
           <stop name="ロイトン札幌"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -98,7 +98,7 @@
           </stop>
           <stop name="ホテルマイステイズプレミア札幌パーク"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -112,7 +112,7 @@
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -127,7 +127,7 @@
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -143,7 +143,7 @@
           </stop>
           <stop name="ホテルサンルートニュー札幌"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -160,7 +160,7 @@
           </stop>
           <stop name="東京ドームホテル 札幌"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -178,7 +178,7 @@
           </stop>
           <stop name="札幌プリンスホテル"   tag="札幌>飯店" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -195,9 +195,9 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
           </stop>
-          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
-            <interval from="ホテルモントレ" fare="4000" km="0" />
+            <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="4000" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="4000" km="0" />
@@ -215,9 +215,9 @@
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
           </stop>
-          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -234,11 +234,11 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
           </stop>
-          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -255,12 +255,12 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -277,13 +277,13 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -300,14 +300,14 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
-          <stop name="Niseko Grand Hotel"   tag="二世古>Grand Hotel" gps="" >
+          <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -324,15 +324,15 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
-          <stop name="Tsuruga Besso Moku no sho"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
+          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
@@ -349,12 +349,12 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -478,109 +478,109 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko to Sapporo bus" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川">
+    <transportation name="Niseko to Sapporo bus" type="other" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
-          <stop name="Tsuruga Besso Moku no sho"   tag="二世古>Tsuruga-Besso-Moku-no-sho" gps="" >
+          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
           </stop>
-          <stop name="Niseko Grand Hotel"   tag="二世古>Grand Hotel" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
+          <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
           </stop>
-          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
           </stop>
-          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
-          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
-          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
           <stop name="札幌プリンスホテル"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="4000" km="0" />
-            <interval from="Niseko Grand Hotel" fare="4000" km="0" />
-            <interval from="Hotel Kanronomori" fare="4000" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
-            <interval from="Hilton Niseko Village" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="4000" km="0" />
+            <interval from="ニセコグランドホテル" fare="4000" km="0" />
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
           </stop>
           <stop name="東京ドームホテル 札幌"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="ホテルサンルートニュー札幌"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
           </stop>
           <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
           </stop>
           <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="札幌東急REIホテル" fare="0" km="0" />
           </stop>
           <stop name="ホテルマイステイズプレミア札幌パーク"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -588,13 +588,13 @@
             <interval from="札幌エクセルホテル東急" fare="0" km="0" />
           </stop>
           <stop name="ロイトン札幌"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -603,13 +603,13 @@
             <interval from="ホテルマイステイズプレミア札幌パーク" fare="0" km="0" />
           </stop>
           <stop name="札幌グランドホテル"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -619,13 +619,13 @@
             <interval from="ロイトン札幌" fare="0" km="0" />
           </stop>
           <stop name="ニューオータニイン札幌"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -636,13 +636,13 @@
             <interval from="札幌グランドホテル" fare="0" km="0" />
           </stop>
           <stop name="札幌全日空ホテル"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -654,13 +654,13 @@
             <interval from="ニューオータニイン札幌" fare="0" km="0" />
           </stop>
           <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -673,13 +673,13 @@
             <interval from="札幌全日空ホテル" fare="0" km="0" />
           </stop>
           <stop name="ＡＮＡホリデイ・イン札幌すすきの"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -693,13 +693,13 @@
             <interval from="札幌東武ホテル" fare="0" km="0" />
           </stop>
           <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -714,13 +714,13 @@
             <interval from="ＡＮＡホリデイ・イン札幌すすきの" fare="0" km="0" />
           </stop>
           <stop name="センチュリーロイヤルホテル"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -736,13 +736,13 @@
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
           <stop name="ホテルマイステイズ札幌アスペン"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -759,13 +759,13 @@
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
           </stop>
           <stop name="JRタワーホテル日航札幌"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -782,14 +782,14 @@
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
           </stop>
-          <stop name="ホテルモントレ"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+          <stop name="ホテルモントレ札幌"   tag="札幌>飯店" gps="" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -808,13 +808,13 @@
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
           </stop>
           <stop name="ホテルクラビーサッポロ"   tag="札幌>飯店" gps="" >
-            <interval from="Tsuruga Besso Moku no sho" fare="0" km="0" />
-            <interval from="Niseko Grand Hotel" fare="0" km="0" />
-            <interval from="Hotel Kanronomori" fare="0" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="0" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="0" km="0" />
-            <interval from="Hilton Niseko Village" fare="0" km="0" />
-            <interval from="Hirafu Welcome Center" fare="0" km="0" />
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -831,7 +831,7 @@
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
-            <interval from="ホテルモントレ" fare="0" km="0" />
+            <interval from="ホテルモントレ札幌" fare="0" km="0" />
           </stop>
         </route>
         <run >

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歲機場" to="札幌國際">
+  <outbound>
+    <transportation name="新千歳→札幌國際．朝里川" type="other" available="" apply-to="札幌国際,朝里川">
+      <info>新千歳→札幌國際</info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_18.html</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国内線"   tag="機場>新千歲空港" gps="42.786336, 141.681323" >
+          </stop>
+          <stop name="定山渓ビューホテル"   tag="定山渓>飯店" gps="42.968983, 141.167370" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+          </stop>
+          <stop name="定山渓グランドホテル瑞苑"   tag="定山渓>飯店" gps="42.963494, 141.159413" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+            <interval from="定山渓ビューホテル" fare="0" km="0" />
+          </stop>
+          <stop name="定山渓温泉 花もみじ"   tag="定山渓>飯店" gps="42.966081, 141.161681" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+            <interval from="定山渓ビューホテル" fare="0" km="0" />
+            <interval from="定山渓グランドホテル瑞苑" fare="0" km="0" />
+          </stop>
+          <stop name="定山渓万世閣ホテルミリオーネ"   tag="定山渓>飯店" gps="42.964228, 141.163425" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+            <interval from="定山渓ビューホテル" fare="0" km="0" />
+            <interval from="定山渓グランドホテル瑞苑" fare="0" km="0" />
+            <interval from="定山渓温泉 花もみじ" fare="0" km="0" />
+          </stop>
+          <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+            <interval from="定山渓ビューホテル" fare="0" km="0" />
+            <interval from="定山渓グランドホテル瑞苑" fare="0" km="0" />
+            <interval from="定山渓温泉 花もみじ" fare="0" km="0" />
+            <interval from="定山渓万世閣ホテルミリオーネ" fare="0" km="0" />
+          </stop>
+          <stop name="小樽朝里クラッセホテル"   tag="朝里川>朝里川温泉スキー場" gps="43.143510, 141.036749" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+            <interval from="定山渓ビューホテル" fare="0" km="0" />
+            <interval from="定山渓グランドホテル瑞苑" fare="0" km="0" />
+            <interval from="定山渓温泉 花もみじ" fare="0" km="0" />
+            <interval from="定山渓万世閣ホテルミリオーネ" fare="0" km="0" />
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="朝里川温泉スキー場"   tag="朝里川>朝里川温泉スキー場" gps="43.145373, 141.040901" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+            <interval from="定山渓ビューホテル" fare="0" km="0" />
+            <interval from="定山渓グランドホテル瑞苑" fare="0" km="0" />
+            <interval from="定山渓温泉 花もみじ" fare="0" km="0" />
+            <interval from="定山渓万世閣ホテルミリオーネ" fare="0" km="0" />
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>11:00</time>
+          <time>11:00</time>
+          <time>11:00</time>
+          <time>11:00</time>
+          <time>11:30</time>
+          <time>12:00</time>
+          <time>12:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="札幌國際．朝里川→新千歳" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_18.html</source>
+      <timetable>
+        <route>
+          <stop name="朝里川温泉スキー場"   tag="朝里川>朝里川温泉スキー場" gps="43.145373, 141.040901" >
+          </stop>
+          <stop name="小樽朝里クラッセホテル"   tag="朝里川>朝里川温泉スキー場" gps="43.143510, 141.036749" >
+            <interval from="朝里川温泉スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="札幌国際スキー場"   tag="札幌国際>札幌国際スキー場" gps="43.072241, 141.082825" >
+            <interval from="朝里川温泉スキー場" fare="0" km="0" />
+            <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
+          </stop>
+          <stop name="定山渓万世閣ホテルミリオーネ"   tag="定山渓>飯店" gps="42.964228, 141.163425" >
+            <interval from="朝里川温泉スキー場" fare="0" km="0" />
+            <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="定山渓温泉 花もみじ"   tag="定山渓>飯店" gps="42.966081, 141.161681" >
+            <interval from="朝里川温泉スキー場" fare="0" km="0" />
+            <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="定山渓万世閣ホテルミリオーネ" fare="0" km="0" />
+          </stop>
+          <stop name="定山渓グランドホテル瑞苑"   tag="定山渓>飯店" gps="42.963494, 141.159413" >
+            <interval from="朝里川温泉スキー場" fare="0" km="0" />
+            <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="定山渓万世閣ホテルミリオーネ" fare="0" km="0" />
+            <interval from="定山渓温泉 花もみじ" fare="0" km="0" />
+          </stop>
+          <stop name="定山渓ビューホテル"   tag="定山渓>飯店" gps="42.968983, 141.167370" >
+            <interval from="朝里川温泉スキー場" fare="0" km="0" />
+            <interval from="小樽朝里クラッセホテル" fare="0" km="0" />
+            <interval from="札幌国際スキー場" fare="0" km="0" />
+            <interval from="定山渓万世閣ホテルミリオーネ" fare="0" km="0" />
+            <interval from="定山渓温泉 花もみじ" fare="0" km="0" />
+            <interval from="定山渓グランドホテル瑞苑" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国内線"   tag="機場>新千歲空港" gps="42.786336, 141.681323" >
+            <interval from="朝里川温泉スキー場" fare="3500" km="0" />
+            <interval from="小樽朝里クラッセホテル" fare="3500" km="0" />
+            <interval from="札幌国際スキー場" fare="3500" km="0" />
+            <interval from="定山渓万世閣ホテルミリオーネ" fare="3500" km="0" />
+            <interval from="定山渓温泉 花もみじ" fare="3500" km="0" />
+            <interval from="定山渓グランドホテル瑞苑" fare="3500" km="0" />
+            <interval from="定山渓ビューホテル" fare="3500" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>15:20</time>
+          <time>15:20</time>
+          <time>15:50</time>
+          <time>16:20</time>
+          <time>16:20</time>
+          <time>16:20</time>
+          <time>16:20</time>
+          <time>18:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

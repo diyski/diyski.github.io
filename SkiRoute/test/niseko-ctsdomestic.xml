@@ -9,30 +9,30 @@
         <route>
           <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
-          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
           </stop>
-          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
           </stop>
-          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
           </stop>
-          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
-            <interval from="Hilton Niseko Village" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
           </stop>
-          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
-            <interval from="Hirafu Welcome Center" fare="4000" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
-            <interval from="Hilton Niseko Village" fare="4000" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
           </stop>
         </route>
         <run >
@@ -101,32 +101,32 @@
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="Hotel Kanronomori"   tag="二世古>Kanronomori" gps="" >
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
           </stop>
-          <stop name="Niseko Northern Resort Annupuri"   tag="二世古>Annupuri" gps="" >
-            <interval from="Hotel Kanronomori" fare="4000" km="0" />
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
           </stop>
-          <stop name="Green Leaf Niseko Village"   tag="二世古>Green Leaf" gps="" >
-            <interval from="Hotel Kanronomori" fare="4000" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
           </stop>
-          <stop name="Hilton Niseko Village"   tag="二世古>希爾頓" gps="" >
-            <interval from="Hotel Kanronomori" fare="4000" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
           </stop>
-          <stop name="Hirafu Welcome Center"   tag="二世古>Hirafu" gps="" >
-            <interval from="Hotel Kanronomori" fare="4000" km="0" />
-            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="0" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="0" />
-            <interval from="Hilton Niseko Village" fare="4000" km="0" />
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="Hotel Kanronomori" fare="4000" km="110" />
-            <interval from="Niseko Northern Resort Annupuri" fare="4000" km="110" />
-            <interval from="Green Leaf Niseko Village" fare="4000" km="110" />
-            <interval from="Hilton Niseko Village" fare="4000" km="110" />
-            <interval from="Hirafu Welcome Center" fare="4000" km="110" />
+            <interval from="ホテル甘露の森" fare="4000" km="110" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="110" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="110" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="110" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="110" />
           </stop>
         </route>
         <run >
