@@ -123,6 +123,10 @@
     </accessPoint>
     <accessPoint name="Gala" filename="gala-ishiuchi.xml">
     </accessPoint>
+    <accessPoint name="藍線" filename="gala-blue.xml">
+    </accessPoint>
+    <accessPoint name="黃線" filename="gala-yellow.xml">
+    </accessPoint>
     <accessPoint name="舞子高原" filename="yuzawa-maiko.xml">
     </accessPoint>
   </resort>

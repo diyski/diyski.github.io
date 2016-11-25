@@ -104,7 +104,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="西武巴士" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
+    <transportation name="西武巴士" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ">
       <info>
       </info>
       <source>https://www.kkday.com/zh-tw/product/10220</source>

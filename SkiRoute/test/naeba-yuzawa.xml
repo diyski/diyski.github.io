@@ -87,7 +87,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="南越後觀光巴士・湯沢駅前 行" type="bus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
+    <transportation name="南越後觀光巴士・湯沢駅前 行" type="bus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ">
       <info>
       </info>
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
