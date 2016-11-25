@@ -27,7 +27,7 @@
         <route>
           <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
           </stop>
-          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          <stop name="羽田国際線"   tag="機場>羽田空港" gps="35.544312, 139.767589" >
             <interval from="中央ターミナル" fare="10500" km="0" />
           </stop>
         </route>
