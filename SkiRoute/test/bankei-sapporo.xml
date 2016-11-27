@@ -267,57 +267,6 @@
           </stop>
         </route>
         <run >
-          <time>08:40</time>
-          <time>09:01</time>
-          <time>09:21</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>10:40</time>
-          <time>11:01</time>
-          <time>11:21</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>12:40</time>
-          <time>13:01</time>
-          <time>13:21</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>15:40</time>
-          <time>16:01</time>
-          <time>16:21</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>17:40</time>
-          <time>18:01</time>
-          <time>18:21</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>20:30</time>
-          <time>20:50</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>22:20</time>
-          <time>22:40</time>
-          <time>
-          </time>
-        </run>
-        <run >
           <time>
           </time>
           <time>07:18</time>
@@ -336,18 +285,25 @@
         <run >
           <time>
           </time>
+          <time>08:44</time>
+          <time>
+          </time>
+          <time>08:57</time>
+        </run>
+        <run >
+          <time>
+          </time>
           <time>08:13</time>
           <time>
           </time>
           <time>08:26</time>
         </run>
         <run >
+          <time>08:40</time>
+          <time>09:01</time>
+          <time>09:21</time>
           <time>
           </time>
-          <time>08:44</time>
-          <time>
-          </time>
-          <time>08:57</time>
         </run>
         <run >
           <time>
@@ -382,6 +338,13 @@
           <time>10:57</time>
         </run>
         <run >
+          <time>10:40</time>
+          <time>11:01</time>
+          <time>11:21</time>
+          <time>
+          </time>
+        </run>
+        <run >
           <time>
           </time>
           <time>11:13</time>
@@ -396,6 +359,13 @@
           <time>
           </time>
           <time>12:26</time>
+        </run>
+        <run >
+          <time>12:40</time>
+          <time>13:01</time>
+          <time>13:21</time>
+          <time>
+          </time>
         </run>
         <run >
           <time>
@@ -438,12 +408,11 @@
           <time>15:57</time>
         </run>
         <run >
+          <time>15:40</time>
+          <time>16:01</time>
+          <time>16:21</time>
           <time>
           </time>
-          <time>16:13</time>
-          <time>
-          </time>
-          <time>16:26</time>
         </run>
         <run >
           <time>
@@ -452,6 +421,14 @@
           <time>
           </time>
           <time>16:57</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>16:13</time>
+          <time>
+          </time>
+          <time>16:26</time>
         </run>
         <run >
           <time>
@@ -468,6 +445,13 @@
           <time>
           </time>
           <time>17:57</time>
+        </run>
+        <run >
+          <time>17:40</time>
+          <time>18:01</time>
+          <time>18:21</time>
+          <time>
+          </time>
         </run>
         <run >
           <time>
@@ -488,6 +472,14 @@
         <run >
           <time>
           </time>
+          <time>20:30</time>
+          <time>20:50</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>
+          </time>
           <time>20:42</time>
           <time>
           </time>
@@ -500,6 +492,14 @@
           <time>
           </time>
           <time>21:45</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>22:20</time>
+          <time>22:40</time>
+          <time>
+          </time>
         </run>
         <run >
           <time>

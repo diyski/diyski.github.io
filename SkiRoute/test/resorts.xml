@@ -47,8 +47,6 @@
     </accessPoint>
     <accessPoint name="日本(虎航)" filename="taipei-tiger.xml">
     </accessPoint>
-    <accessPoint name="日本(復興航空)" filename="taipei-tna.xml">
-    </accessPoint>
   </resort>
   <resort name="白馬">
     <accessPoint name="成田機場" filename="hakuba-narita.xml">

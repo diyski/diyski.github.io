@@ -33,15 +33,15 @@
           <time>15:15</time>
         </run>
         <run >
-          <time>16:05</time>
-          <time>17:30</time>
-          <time>17:45</time>
-        </run>
-        <run >
           <time>15:45</time>
           <time>
           </time>
           <time>17:10</time>
+        </run>
+        <run >
+          <time>16:05</time>
+          <time>17:30</time>
+          <time>17:45</time>
         </run>
       </timetable>
     </transportation>

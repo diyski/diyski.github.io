@@ -93,16 +93,16 @@
           <time>13:05</time>
         </run>
         <run >
-          <time>18:55</time>
-          <time>
-          </time>
-          <time>22:30</time>
-        </run>
-        <run >
           <time>
           </time>
           <time>14:15</time>
           <time>17:55</time>
+        </run>
+        <run >
+          <time>18:55</time>
+          <time>
+          </time>
+          <time>22:30</time>
         </run>
       </timetable>
     </transportation>

@@ -92,6 +92,12 @@
           <time>06:05</time>
         </run>
         <run >
+          <time>
+          </time>
+          <time>06:50</time>
+          <time>11:15</time>
+        </run>
+        <run >
           <time>07:30</time>
           <time>
           </time>
@@ -108,12 +114,6 @@
           <time>
           </time>
           <time>21:00</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>06:50</time>
-          <time>11:15</time>
         </run>
       </timetable>
     </transportation>

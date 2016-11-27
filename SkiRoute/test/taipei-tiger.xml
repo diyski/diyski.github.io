@@ -18,6 +18,12 @@
           </stop>
         </route>
         <run >
+          <time>11:25</time>
+          <time>14:15</time>
+          <time>
+          </time>
+        </run>
+        <run >
           <time>11:30</time>
           <time>
           </time>
@@ -28,12 +34,6 @@
           <time>
           </time>
           <time>22:55</time>
-        </run>
-        <run >
-          <time>11:25</time>
-          <time>14:15</time>
-          <time>
-          </time>
         </run>
       </timetable>
     </transportation>
@@ -105,6 +105,14 @@
         <run >
           <time>
           </time>
+          <time>11:25</time>
+          <time>15:00</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>
+          </time>
           <time>13:55</time>
           <time>
           </time>
@@ -117,14 +125,6 @@
           <time>
           </time>
           <time>22:20</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>11:25</time>
-          <time>15:00</time>
-          <time>
-          </time>
         </run>
       </timetable>
     </transportation>
@@ -153,16 +153,16 @@
           <time>10:25</time>
         </run>
         <run >
-          <time>16:20</time>
-          <time>
-          </time>
-          <time>19:45</time>
-        </run>
-        <run >
           <time>
           </time>
           <time>09:15</time>
           <time>12:55</time>
+        </run>
+        <run >
+          <time>16:20</time>
+          <time>
+          </time>
+          <time>19:45</time>
         </run>
       </timetable>
     </transportation>
@@ -232,6 +232,14 @@
           </time>
         </run>
         <run >
+          <time>
+          </time>
+          <time>08:45</time>
+          <time>13:00</time>
+          <time>
+          </time>
+        </run>
+        <run >
           <time>13:30</time>
           <time>
           </time>
@@ -246,14 +254,6 @@
           <time>
           </time>
           <time>04:00</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>08:45</time>
-          <time>13:00</time>
-          <time>
-          </time>
         </run>
       </timetable>
     </transportation>
