@@ -154,4 +154,10 @@
     <accessPoint name="新千歲" filename="kiroro-CTS.xml">
     </accessPoint>
   </resort>
+  <resort name="軽井沢">
+    <accessPoint name="棕線" filename="karuizawa-brown.xml">
+    </accessPoint>
+    <accessPoint name="綠線" filename="karuizawa-green.xml">
+    </accessPoint>
+  </resort>
 </skiResorts>
