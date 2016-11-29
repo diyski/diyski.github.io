@@ -3,9 +3,9 @@
   <resort name="苗場">
     <accessPoint name="越後湯澤" filename="naeba-yuzawa.xml">
     </accessPoint>
-    <accessPoint name="王子飯店免費巴士" filename="naeba-yuzawa-p.xml">
+    <accessPoint name="王子飯店免費巴士" filename="naeba-yuzawa-f.xml">
     </accessPoint>
-    <accessPoint name="苗場疾行巴士" filename="yuzawa-naebapaybus.xml">
+    <accessPoint name="越後湯澤(付)" filename="naeba-yuzawa-p.xml">
     </accessPoint>
     <accessPoint name="西武巴士苗場輕井澤" filename="naeba-seibu.xml">
     </accessPoint>
@@ -110,22 +110,32 @@
     <accessPoint name="盛岡" filename="Appi-Morioka.xml">
     </accessPoint>
   </resort>
-  <resort name="湯澤(Gala)">
-    <accessPoint name="湯澤中里" filename="yuzawa-nakazato.xml">
+  <resort name="Gala">
+    <accessPoint name="越後湯沢駅(藍)" filename="gala-blue.xml">
     </accessPoint>
-    <accessPoint name="石打丸" filename="yazawa-ishiuchi.xml">
+    <accessPoint name="越後湯沢駅(黃)" filename="gala-yellow.xml">
     </accessPoint>
-    <accessPoint name="石打丸(石口)" filename="yuzawa-ishiuchiwest.xml">
+    <accessPoint name="NASPA(紫)" filename="gala-purple.xml">
     </accessPoint>
-    <accessPoint name="石打丸(付費巴士)" filename="yuzawa-ishiuchipay.xml">
+    <accessPoint name="中里地区(紅)" filename="gala-red.xml">
+    </accessPoint>
+  </resort>
+  <resort name="湯澤中里">
+    <accessPoint name="湯澤中里" filename="nakazato-yuzawa.xml">
+    </accessPoint>
+  </resort>
+  <resort name="石打丸">
+    <accessPoint name="石打丸(中央口)" filename="ishiuchi-yuzawa-c.xml">
+    </accessPoint>
+    <accessPoint name="石打丸(石口)" filename="ishiuchi-yuzawa-h.xml">
+    </accessPoint>
+    <accessPoint name="石打丸(三口)" filename="ishiuchi-yuzawa-k.xml">
     </accessPoint>
     <accessPoint name="Gala" filename="gala-ishiuchi.xml">
     </accessPoint>
-    <accessPoint name="藍線" filename="gala-blue.xml">
-    </accessPoint>
-    <accessPoint name="黃線" filename="gala-yellow.xml">
-    </accessPoint>
-    <accessPoint name="舞子高原" filename="yuzawa-maiko.xml">
+  </resort>
+  <resort name="舞子高原">
+    <accessPoint name="舞子高原" filename="maiko-yuzawa.xml">
     </accessPoint>
   </resort>
   <resort name="東京">
@@ -156,6 +166,8 @@
   </resort>
   <resort name="軽井沢">
     <accessPoint name="棕線" filename="karuizawa-brown.xml">
+    </accessPoint>
+    <accessPoint name="羽田空港" filename="karuizawa-haneda.xml">
     </accessPoint>
   </resort>
 </skiResorts>

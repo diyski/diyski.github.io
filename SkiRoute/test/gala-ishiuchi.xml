@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="Gala" to="湯澤(Gala)">
+<accesspoint name="石打丸" to="Gala">
   <outbound>
     <transportation name="石打丸山ハツカ石前→GALA湯沢スキー場行き" type="other" available="2017/01/14~2017/03/20" apply-to="">
       <info>Free GALA shuttle bus，只有單向往Gala</info>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="石打丸(付費巴士)" to="湯澤(Gala)">
+<accesspoint name="石打丸(三口)" to="Gala">
   <outbound>
     <transportation name="南越後観光巴士" type="other" available="" apply-to="">
       <info>越後湯沢駅発 → 石打丸山スキー場方面tel025-773-2573</info>

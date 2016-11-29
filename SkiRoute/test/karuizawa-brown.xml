@@ -4,7 +4,7 @@
     <transportation name="南口→王子飯店 B" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
-      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
       <timetable>
         <route>
           <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.341457, 138.634624" >
@@ -248,7 +248,7 @@
     <transportation name="南口→王子飯店 G" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
-      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
       <timetable>
         <route>
           <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.341457, 138.634624" >
@@ -1035,7 +1035,7 @@
     <transportation name="王子飯店→南口 B" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
-      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
       <timetable>
         <route>
           <stop name="B6G19 ザ・プリンス軽井沢"   tag="軽井沢>循環巴士" gps="36.329401, 138.637645" >
@@ -1841,7 +1841,7 @@
     <transportation name="王子飯店→南口 G" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
-      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
       <timetable>
         <route>
           <stop name="B6G19 ザ・プリンス軽井沢"   tag="軽井沢>循環巴士" gps="36.329401, 138.637645" >

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="湯澤中里" to="湯澤(Gala)">
+<accesspoint name="湯澤中里" to="Gala">
   <outbound>
     <transportation name="湯沢中里スキー場免費巴士" type="other" available="2016/12/17~2017/04/02" apply-to="湯澤">
       <info>越後湯澤西口往右手邊走110公尺才是巴士站</info>

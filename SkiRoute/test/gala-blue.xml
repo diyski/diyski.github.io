@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="藍線" to="Gala">
+<accesspoint name="越後湯沢駅(藍)" to="Gala">
   <outbound>
     <transportation name="BLUE LINE Free Bus" type="other" available="2016/12/22~2017/04/02" apply-to="湯澤">
       <info>

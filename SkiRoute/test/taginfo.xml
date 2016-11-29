@@ -31,7 +31,10 @@
   </group>
   <group name="新瀉縣">
     <tag name="苗場" info-url="https://diy.ski/naeba" img-url="https://diy.ski/photos/naeba/naeba.jpg" />
-    <tag name="湯澤" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
+    <tag name="Gala" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
+    <tag name="石打丸" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
+    <tag name="湯澤中里" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
+    <tag name="舞子高原" info-url="https://diy.ski/gala" img-url="https://diy.ski/photos/gala/gala.jpg" />
   </group>
   <group name="關西">
     <tag name="大阪" info-url="" img-url="" />

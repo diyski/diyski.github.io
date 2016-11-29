@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="石打丸(石口)" to="湯澤(Gala)">
+<accesspoint name="石打丸(石口)" to="Gala">
   <outbound>
     <transportation name="石打丸山スキー場ハツカ石口行き" type="other" available="" apply-to="">
       <info>免費巴士</info>
