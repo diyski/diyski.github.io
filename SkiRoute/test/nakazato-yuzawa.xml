@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="湯澤中里" to="Gala">
+<accesspoint name="越後湯沢駅" to="湯沢中里">
   <outbound>
     <transportation name="湯沢中里スキー場免費巴士" type="other" available="2016/12/17~2017/04/02" apply-to="湯澤">
       <info>越後湯澤西口往右手邊走110公尺才是巴士站</info>
       <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
       <timetable>
         <route>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="36.936467, 138.807793" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936467, 138.807793" >
           </stop>
           <stop name="湯沢中里スキー場"   tag="湯澤>湯澤中里" gps="" >
             <interval from="JR越後湯沢駅" fare="0" km="6.5" />
@@ -44,7 +44,7 @@
         <route>
           <stop name="湯沢中里スキー場"   tag="湯澤>湯澤中里" gps="" >
           </stop>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="" >
             <interval from="湯沢中里スキー場" fare="0" km="6.5" />
           </stop>
         </route>

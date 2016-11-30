@@ -1,55 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="石打丸(中央口)" to="Gala">
+<accesspoint name="越後湯沢駅(中央口)" to="石打丸(中央口)">
   <outbound>
     <transportation name="石打丸山スキー場中央口行き" type="other" available="" apply-to="">
-      <info>Free shuttle bus</info>
+      <info>
+      </info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>
         <route>
-          <stop name="中央口"   tag="湯澤>石打丸" gps="" >
-          </stop>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
-            <interval from="中央口" fare="0" km="6.8" />
-          </stop>
-        </route>
-        <run >
-          <time>13:20</time>
-          <time>13:35</time>
-        </run>
-        <run >
-          <time>14:20</time>
-          <time>14:35</time>
-        </run>
-        <run >
-          <time>15:20</time>
-          <time>15:35</time>
-        </run>
-        <run available="67h" >
-          <time>16:05</time>
-          <time>16:20</time>
-        </run>
-        <run >
-          <time>16:15</time>
-          <time>16:30</time>
-        </run>
-        <run >
-          <time>17:05</time>
-          <time>17:20</time>
-        </run>
-        <run >
-          <time>18:00</time>
-          <time>18:15</time>
-        </run>
-      </timetable>
-    </transportation>
-  </outbound>
-  <inbound>
-    <transportation name="石打丸山スキー場中央口行き" type="other" available="" apply-to="">
-      <info>Free shuttle bus</info>
-      <source>http://www.ishiuchi.or.jp/bus/index.html</source>
-      <timetable>
-        <route>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="" >
           </stop>
           <stop name="中央口"   tag="湯澤>石打丸" gps="" >
             <interval from="JR越後湯沢駅" fare="0" km="6.8" />
@@ -90,6 +48,50 @@
         <run available="67h" >
           <time>12:35</time>
           <time>12:45</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="石打丸山スキー場中央口行き" type="other" available="" apply-to="">
+      <info>
+      </info>
+      <source>http://www.ishiuchi.or.jp/bus/index.html</source>
+      <timetable>
+        <route>
+          <stop name="中央口"   tag="湯澤>石打丸" gps="" >
+          </stop>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="" >
+            <interval from="中央口" fare="0" km="6.8" />
+          </stop>
+        </route>
+        <run >
+          <time>13:20</time>
+          <time>13:35</time>
+        </run>
+        <run >
+          <time>14:20</time>
+          <time>14:35</time>
+        </run>
+        <run >
+          <time>15:20</time>
+          <time>15:35</time>
+        </run>
+        <run available="67h" >
+          <time>16:05</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>16:15</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>17:05</time>
+          <time>17:20</time>
+        </run>
+        <run >
+          <time>18:00</time>
+          <time>18:15</time>
         </run>
       </timetable>
     </transportation>

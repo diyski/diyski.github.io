@@ -1,241 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="中里地区(紅)" to="Gala">
   <outbound>
-    <transportation name="Red Line Free Bus" type="other" available="2016/12/22~2017/04/02" apply-to="湯澤">
+    <transportation name="越後中里→Gala" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
       <timetable>
         <route>
-          <stop name="ホワイトプラザフォーレⅠ,Ⅱ"   tag="湯澤>ホワイトプラザフォーレ" gps="36.917252, 138.839125" >
+          <stop name="R1 ホワイトプラザ湯沢フォーレ"   tag="越後湯沢>其他" gps="36.917252, 138.839125" >
           </stop>
-          <stop name="ホワイトプラザプラージュ"   tag="湯澤>ホワイトプラザプラージュ" gps="36.906885, 138.842173" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
+          <stop name="R2 ホワイトプラザ湯沢Ｖプラージュ"   tag="越後湯沢>其他" gps="36.906885, 138.842173" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
           </stop>
-          <stop name="ホワイトプラザリヴィエール"   tag="湯澤>ホワイトプラザリヴィエール" gps="36.905123, 138.844240" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
+          <stop name="R3 ホワイトプラザ湯沢リヴィエール"   tag="越後湯沢>其他" gps="36.905123, 138.844240" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
           </stop>
-          <stop name="エンゼルグランディア"   tag="湯澤>天使格蘭酒店" gps="36.905203, 138.848793" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
+          <stop name="R4 エンゼルグランディア"   tag="越後湯沢>飯店" gps="36.905203, 138.848793" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
           </stop>
-          <stop name="中里駅角" yahoo="true"  tag="湯澤>中里駅角" gps="36.910419, 138.848671" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
+          <stop name="JR越後中里駅" yahoo="true"  tag="越後湯沢>JR" gps="36.910419, 138.848671" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
           </stop>
-          <stop name="中里郵便局"   tag="湯澤>中里郵便局" gps="36.912853, 138.845847" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
+          <stop name="R6 中里郵便局"   tag="越後湯沢>其他" gps="36.912854, 138.846053" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
           </stop>
-          <stop name="私の家中屋"   tag="湯澤>私の家中屋" gps="36.914591, 138.845884" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
+          <stop name="R7 私の家中屋"   tag="越後湯沢>民宿" gps="36.914565, 138.845700" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
           </stop>
-          <stop name="ウッディーハウスホスタ"   tag="湯澤>ウッディーハウスホスタ" gps="36.919213, 138.849783" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
+          <stop name="R8  ウッディハウス・ホスタ"   tag="越後湯沢>民宿" gps="36.919207, 138.849434" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
           </stop>
-          <stop name="ペンションどん ちん"   tag="湯澤>ペンションどん ちん" gps="36.925979, 138.852192" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
+          <stop name="R9 ペンションどんちん"   tag="越後湯沢>民宿" gps="36.925969, 138.851773" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
           </stop>
-          <stop name="未イズミヤ"   tag="湯澤>イズミヤ" gps="36.926516, 138.850277" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
+          <stop name="R10 ファンタジェン イズミヤ"   tag="越後湯沢>民宿" gps="36.926441, 138.847815" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
           </stop>
-          <stop name="セーナインふじや"   tag="湯澤>セーナインふじや" gps="36.928171, 138.843723" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
+          <stop name="R11 セーナインふじや"   tag="越後湯沢>民宿" gps="36.928147, 138.843454" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
           </stop>
-          <stop name="あらやしき館"   tag="湯澤>あらやしき館" gps="36.929125, 138.842484" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
+          <stop name="R12 あらやしき館"   tag="越後湯沢>民宿" gps="36.929148, 138.842316" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
           </stop>
-          <stop name="ピステ湯沢"   tag="湯澤>ピステ湯沢" gps="36.931282, 138.841411" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
+          <stop name="R13 ピステ湯沢"   tag="越後湯沢>民宿" gps="36.931264, 138.840937" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
           </stop>
-          <stop name="ヴィクトリア タ ワ ー"   tag="湯澤>ヴィクトリア タ ワ ー" gps="36.929906, 138.838081" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
+          <stop name="R14 ヴィクト リアタワー湯沢"   tag="越後湯沢>其他" gps="36.929861, 138.837898" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
           </stop>
-          <stop name="レンタルジャズ"   tag="湯澤>レンタルジャズ" gps="36.930854, 138.840313" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
+          <stop name="R15 レンタルジャズ"   tag="越後湯沢>其他" gps="36.930806, 138.839951" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
           </stop>
-          <stop name="ファミールヴィラ第2"   tag="湯澤>ファミールヴィラ第2" gps="36.929108, 138.841163" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
+          <stop name="R16 ファミールヴィラ第2"   tag="越後湯沢>其他" gps="36.929117, 138.840807" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
           </stop>
-          <stop name="ホテル湯沢湯沢・でんき屋"   tag="湯澤>ホテル湯沢湯沢・でんき屋" gps="36.926234, 138.839283" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
+          <stop name="R17 ホテル湯沢湯沢・でんき屋"   tag="越後湯沢>民宿" gps="36.926154, 138.838850" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
           </stop>
-          <stop name="NASPAスキーガーデン"   tag="湯澤>NASPAスキーガーデン" gps="36.926514, 138.809196" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+          <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
           </stop>
-          <stop name="湯沢高原スキー場 名"   tag="湯澤>湯沢高原スキー場" gps="36.940103, 138.804330" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
+          <stop name="湯沢高原"   tag="湯沢高原>湯沢高原" gps="36.940201, 138.804452" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="NASPA" fare="0" km="0" />
           </stop>
-          <stop name="GALA湯沢スキー場"   tag="湯澤>GALA湯沢スキー場" gps="36.950629, 138.799810" >
-            <interval from="ホワイトプラザフォーレⅠ,Ⅱ" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
+          <stop name="Gala"   tag="Gala>Gala" gps="36.950418, 138.800019" >
+            <interval from="R1 ホワイトプラザ湯沢フォーレ" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -308,364 +308,250 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="[複製]Red Line Free Bus" type="other" available="2016/12/22~2017/04/02" apply-to="湯澤">
+    <transportation name="Gala→越後中里" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
       <timetable>
         <route>
-          <stop name="NASPAスキーガーデン"   tag="湯澤>NASPAスキーガーデン" gps="36.926514, 138.809196" >
+          <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
           </stop>
-          <stop name="湯沢高原スキー場 名"   tag="湯澤>湯沢高原スキー場" gps="36.940103, 138.804330" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
+          <stop name="湯沢高原"   tag="湯沢高原>湯沢高原" gps="36.940201, 138.804452" >
+            <interval from="NASPA" fare="0" km="0" />
           </stop>
-          <stop name="GALA湯沢スキー場"   tag="湯澤>GALA湯沢スキー場" gps="36.950629, 138.799810" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
+          <stop name="Gala"   tag="Gala>Gala" gps="36.950418, 138.800019" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
           </stop>
-          <stop name="ホテル湯沢湯沢・でんき屋"   tag="湯澤>ホテル湯沢湯沢・でんき屋" gps="36.926234, 138.839283" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
+          <stop name="R17 ホテル湯沢湯沢・でんき屋"   tag="越後湯沢>民宿" gps="36.926154, 138.838850" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
           </stop>
-          <stop name="ファミールヴィラ第2"   tag="湯澤>ファミールヴィラ第2" gps="36.929108, 138.841163" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+          <stop name="R16 ファミールヴィラ第2"   tag="越後湯沢>其他" gps="36.929117, 138.840807" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
           </stop>
-          <stop name="レンタルジャズ"   tag="湯澤>レンタルジャズ" gps="36.930854, 138.840313" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
+          <stop name="R15 レンタルジャズ"   tag="越後湯沢>其他" gps="36.930806, 138.839951" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
           </stop>
-          <stop name="ヴィクトリア タ ワ ー"   tag="湯澤>ヴィクトリア タ ワ ー" gps="36.929906, 138.838081" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
+          <stop name="R14 ヴィクト リアタワー湯沢"   tag="越後湯沢>其他" gps="36.929861, 138.837898" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
           </stop>
-          <stop name="ピステ湯沢"   tag="湯澤>ピステ湯沢" gps="36.931282, 138.841411" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
+          <stop name="R13 ピステ湯沢"   tag="越後湯沢>民宿" gps="36.931264, 138.840937" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
           </stop>
-          <stop name="あらやしき館"   tag="湯澤>あらやしき館" gps="36.929125, 138.842484" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
+          <stop name="R12 あらやしき館"   tag="越後湯沢>民宿" gps="36.929148, 138.842316" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
           </stop>
-          <stop name="セーナインふじや"   tag="湯澤>セーナインふじや" gps="36.928171, 138.843723" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
+          <stop name="R11 セーナインふじや"   tag="越後湯沢>民宿" gps="36.928147, 138.843454" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
           </stop>
-          <stop name="未イズミヤ"   tag="湯澤>イズミヤ" gps="36.926516, 138.850277" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
+          <stop name="R10 ファンタジェン イズミヤ"   tag="越後湯沢>民宿" gps="36.926441, 138.847815" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
           </stop>
-          <stop name="ペンションどん ちん"   tag="湯澤>ペンションどん ちん" gps="36.925979, 138.852192" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
+          <stop name="R9 ペンションどんちん"   tag="越後湯沢>民宿" gps="36.925969, 138.851773" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
           </stop>
-          <stop name="ウッディーハウスホスタ"   tag="湯澤>ウッディーハウスホスタ" gps="36.919213, 138.849783" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
+          <stop name="R8  ウッディハウス・ホスタ"   tag="越後湯沢>民宿" gps="36.919207, 138.849434" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
           </stop>
-          <stop name="私の家中屋"   tag="湯澤>私の家中屋" gps="36.914591, 138.845884" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
+          <stop name="R7 私の家中屋"   tag="越後湯沢>民宿" gps="36.914565, 138.845700" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
           </stop>
-          <stop name="中里郵便局"   tag="湯澤>中里郵便局" gps="36.912853, 138.845847" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
+          <stop name="R6 中里郵便局"   tag="越後湯沢>其他" gps="36.912854, 138.846053" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
           </stop>
-          <stop name="中里駅角" yahoo="true"  tag="湯澤>中里駅角" gps="36.910419, 138.848671" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
+          <stop name="JR越後中里駅" yahoo="true"  tag="越後湯沢>JR" gps="36.910419, 138.848671" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
           </stop>
-          <stop name="エンゼルグランディア"   tag="湯澤>天使格蘭酒店" gps="36.905203, 138.848793" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
+          <stop name="R4 エンゼルグランディア"   tag="越後湯沢>飯店" gps="36.905203, 138.848793" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
           </stop>
-          <stop name="ホワイトプラザリヴィエール"   tag="湯澤>ホワイトプラザリヴィエール" gps="36.905123, 138.844240" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
+          <stop name="R3 ホワイトプラザ湯沢リヴィエール"   tag="越後湯沢>其他" gps="36.905123, 138.844240" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
           </stop>
-          <stop name="ホワイトプラザプラージュ"   tag="湯澤>ホワイトプラザプラージュ" gps="36.906885, 138.842173" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
+          <stop name="R2 ホワイトプラザ湯沢Ｖプラージュ"   tag="越後湯沢>其他" gps="36.906885, 138.842173" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
           </stop>
-          <stop name="ホワイトプラザフォーレⅠ,Ⅱ"   tag="湯澤>ホワイトプラザフォーレ" gps="36.917252, 138.839125" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯沢高原スキー場 名" fare="0" km="0" />
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
-            <interval from="ファミールヴィラ第2" fare="0" km="0" />
-            <interval from="レンタルジャズ" fare="0" km="0" />
-            <interval from="ヴィクトリア タ ワ ー" fare="0" km="0" />
-            <interval from="ピステ湯沢" fare="0" km="0" />
-            <interval from="あらやしき館" fare="0" km="0" />
-            <interval from="セーナインふじや" fare="0" km="0" />
-            <interval from="未イズミヤ" fare="0" km="0" />
-            <interval from="ペンションどん ちん" fare="0" km="0" />
-            <interval from="ウッディーハウスホスタ" fare="0" km="0" />
-            <interval from="私の家中屋" fare="0" km="0" />
-            <interval from="中里郵便局" fare="0" km="0" />
-            <interval from="中里駅角" fare="0" km="0" />
-            <interval from="エンゼルグランディア" fare="0" km="0" />
-            <interval from="ホワイトプラザリヴィエール" fare="0" km="0" />
-            <interval from="ホワイトプラザプラージュ" fare="0" km="0" />
+          <stop name="R1 ホワイトプラザ湯沢フォーレ"   tag="越後湯沢>其他" gps="36.917252, 138.839125" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="R17 ホテル湯沢湯沢・でんき屋" fare="0" km="0" />
+            <interval from="R16 ファミールヴィラ第2" fare="0" km="0" />
+            <interval from="R15 レンタルジャズ" fare="0" km="0" />
+            <interval from="R14 ヴィクト リアタワー湯沢" fare="0" km="0" />
+            <interval from="R13 ピステ湯沢" fare="0" km="0" />
+            <interval from="R12 あらやしき館" fare="0" km="0" />
+            <interval from="R11 セーナインふじや" fare="0" km="0" />
+            <interval from="R10 ファンタジェン イズミヤ" fare="0" km="0" />
+            <interval from="R9 ペンションどんちん" fare="0" km="0" />
+            <interval from="R8  ウッディハウス・ホスタ" fare="0" km="0" />
+            <interval from="R7 私の家中屋" fare="0" km="0" />
+            <interval from="R6 中里郵便局" fare="0" km="0" />
+            <interval from="JR越後中里駅" fare="0" km="0" />
+            <interval from="R4 エンゼルグランディア" fare="0" km="0" />
+            <interval from="R3 ホワイトプラザ湯沢リヴィエール" fare="0" km="0" />
+            <interval from="R2 ホワイトプラザ湯沢Ｖプラージュ" fare="0" km="0" />
           </stop>
         </route>
         <run >
-          <time>14:00</time>
-          <time>14:03</time>
-          <time>14:05</time>
           <time>
           </time>
           <time>
           </time>
           <time>
           </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>14:55</time>
-          <time>14:58</time>
-          <time>15:00</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>15:55</time>
-          <time>15:58</time>
-          <time>16:00</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>17:00</time>
-          <time>17:03</time>
-          <time>17:05</time>
           <time>
           </time>
           <time>

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="NASPA(紫)" to="Gala">
   <outbound>
-    <transportation name="Purple Line Free Bus" type="other" available="2016/12/22~2017/04/02" apply-to="湯澤">
+    <transportation name="NASPA→Gala" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
       <timetable>
         <route>
-          <stop name="NASPAスキーガーデン"   tag="湯澤>NASPAスキーガーデン" gps="36.926479, 138.808520" >
+          <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
           </stop>
-          <stop name="湯 沢グランドホテ ル"   tag="湯澤>湯 沢グランドホテ ル" gps="36.935388, 138.807707" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
+          <stop name="湯沢グランドホテル"   tag="越後湯沢>飯店" gps="36.935388, 138.807707" >
+            <interval from="NASPA" fare="0" km="0" />
           </stop>
-          <stop name="湯沢ニューオータニ"   tag="湯澤>湯沢ニューオータニ" gps="36.937872, 138.805450" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯 沢グランドホテ ル" fare="0" km="0" />
+          <stop name="湯沢ニューオータニ"   tag="越後湯沢>飯店" gps="36.937872, 138.805450" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢グランドホテル" fare="0" km="0" />
           </stop>
-          <stop name="東映ホテル"   tag="湯澤>東映ホテル" gps="36.938939, 138.803824" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯 沢グランドホテ ル" fare="0" km="0" />
+          <stop name="東映ホテル"   tag="越後湯沢>飯店" gps="36.938939, 138.803824" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢グランドホテル" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />
           </stop>
-          <stop name="湯沢高原スキー場"   tag="湯澤>湯沢高原スキー場" gps="36.940138, 138.804502" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯 沢グランドホテ ル" fare="0" km="0" />
-            <interval from="湯沢ニューオータニ" fare="0" km="0" />
-            <interval from="東映ホテル" fare="0" km="0" />
-          </stop>
-          <stop name="GALA湯沢スキー場" yahoo="true"  tag="湯澤>GALA湯沢スキー場" gps="36.950637, 138.800014" >
-            <interval from="NASPAスキーガーデン" fare="0" km="0" />
-            <interval from="湯 沢グランドホテ ル" fare="0" km="0" />
+          <stop name="湯沢高原"   tag="湯沢高原>湯沢高原" gps="36.940201, 138.804452" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢グランドホテル" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />
             <interval from="東映ホテル" fare="0" km="0" />
-            <interval from="湯沢高原スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="Gala" yahoo="true"  tag="Gala>Gala" gps="36.950418, 138.800019" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="湯沢グランドホテル" fare="0" km="0" />
+            <interval from="湯沢ニューオータニ" fare="0" km="0" />
+            <interval from="東映ホテル" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -236,38 +236,38 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Purple Line Free Bus" type="other" available="2016/12/22~2017/04/02" apply-to="湯澤">
+    <transportation name="Gala→NASPA" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
       <timetable>
         <route>
-          <stop name="GALA湯沢スキー場" yahoo="true"  tag="湯澤>GALA湯沢スキー場" gps="36.950637, 138.800014" >
+          <stop name="Gala" yahoo="true"  tag="Gala>Gala" gps="36.950418, 138.800019" >
           </stop>
-          <stop name="湯沢高原スキー場"   tag="湯澤>湯沢高原スキー場" gps="36.940138, 138.804502" >
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
+          <stop name="湯沢高原"   tag="湯沢高原>湯沢高原" gps="36.940201, 138.804452" >
+            <interval from="Gala" fare="0" km="0" />
           </stop>
-          <stop name="湯沢ニューオータニ"   tag="湯澤>湯沢ニューオータニ" gps="36.937872, 138.805450" >
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="湯沢高原スキー場" fare="0" km="0" />
+          <stop name="湯沢ニューオータニ"   tag="越後湯沢>飯店" gps="36.937872, 138.805450" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
           </stop>
-          <stop name="東映ホテル"   tag="湯澤>東映ホテル" gps="36.938939, 138.803824" >
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="湯沢高原スキー場" fare="0" km="0" />
+          <stop name="東映ホテル"   tag="越後湯沢>飯店" gps="36.938939, 138.803824" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />
           </stop>
-          <stop name="湯 沢グランドホテ ル"   tag="湯澤>湯 沢グランドホテ ル" gps="36.935388, 138.807707" >
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="湯沢高原スキー場" fare="0" km="0" />
-            <interval from="湯沢ニューオータニ" fare="0" km="0" />
-            <interval from="東映ホテル" fare="0" km="0" />
-          </stop>
-          <stop name="NASPAスキーガーデン"   tag="湯澤>NASPAスキーガーデン" gps="36.926479, 138.808520" >
-            <interval from="GALA湯沢スキー場" fare="0" km="0" />
-            <interval from="湯沢高原スキー場" fare="0" km="0" />
+          <stop name="湯沢グランドホテル"   tag="越後湯沢>飯店澤>湯 沢グランドホテ ル" gps="36.935388, 138.807707" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />
             <interval from="東映ホテル" fare="0" km="0" />
-            <interval from="湯 沢グランドホテ ル" fare="0" km="0" />
+          </stop>
+          <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="湯沢ニューオータニ" fare="0" km="0" />
+            <interval from="東映ホテル" fare="0" km="0" />
+            <interval from="湯沢グランドホテル" fare="0" km="0" />
           </stop>
         </route>
         <run >

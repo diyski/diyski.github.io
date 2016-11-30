@@ -6,7 +6,7 @@
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
       <timetable>
         <route>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="36.936324, 138.810523" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
           </stop>
           <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
             <interval from="JR越後湯沢駅" fare="380" km="8" />
@@ -102,7 +102,7 @@
             <interval from="王子飯店四號館" fare="460" km="14" />
             <interval from="田代スキー場" fare="0" km="0" />
           </stop>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="湯澤>JR" gps="36.936324, 138.810523" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
             <interval from="王子飯店四號館" fare="660" km="22" />
             <interval from="田代スキー場" fare="0" km="0" />
             <interval from="かぐらスキー場" fare="0" km="0" />

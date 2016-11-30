@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="舞子高原" to="越後湯沢">
+<accesspoint name="越後湯沢駅" to="舞子">
   <outbound>
     <transportation name="越後湯沢駅→舞子" type="other" available="2016/12/26~2017/03/20" apply-to="舞子">
       <info>2100和2200班次限定舞子高原飯店住宿者預約
@@ -7,13 +7,13 @@
       <source>http://www.maiko-resort.com/winter/access/bus.php</source>
       <timetable>
         <route>
-          <stop name="JR越後湯沢" yahoo="true"  tag="湯澤>JR" gps="36.935697, 138.811157" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.935697, 138.811157" >
           </stop>
           <stop name="舞子日帰りスキーセンター"   tag="舞子>滑雪場" gps="" >
-            <interval from="JR越後湯沢" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
           </stop>
           <stop name="舞子高原ホテル"   tag="舞子>飯店" gps="" >
-            <interval from="JR越後湯沢" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
             <interval from="舞子日帰りスキーセンター" fare="0" km="0" />
           </stop>
         </route>
@@ -220,7 +220,7 @@
           <stop name="舞子日帰りスキーセンター"   tag="舞子>滑雪場" gps="" >
             <interval from="舞子高原ホテル" fare="0" km="0" />
           </stop>
-          <stop name="JR越後湯沢" yahoo="true"  tag="湯澤>JR" gps="36.935697, 138.811157" >
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.935697, 138.811157" >
             <interval from="舞子高原ホテル" fare="0" km="0" />
             <interval from="舞子日帰りスキーセンター" fare="0" km="0" />
           </stop>

@@ -121,21 +121,21 @@
     </accessPoint>
   </resort>
   <resort name="湯澤中里">
-    <accessPoint name="湯澤中里" filename="nakazato-yuzawa.xml">
+    <accessPoint name="越後湯沢駅" filename="nakazato-yuzawa.xml">
     </accessPoint>
   </resort>
   <resort name="石打丸">
-    <accessPoint name="石打丸(中央口)" filename="ishiuchi-yuzawa-c.xml">
+    <accessPoint name="越後湯沢駅(中央口)" filename="ishiuchi-yuzawa-c.xml">
     </accessPoint>
-    <accessPoint name="石打丸(石口)" filename="ishiuchi-yuzawa-h.xml">
+    <accessPoint name="越後湯沢駅(石口)" filename="ishiuchi-yuzawa-h.xml">
     </accessPoint>
-    <accessPoint name="石打丸(三口)" filename="ishiuchi-yuzawa-k.xml">
+    <accessPoint name="越後湯沢駅(三口)" filename="ishiuchi-yuzawa-k.xml">
     </accessPoint>
-    <accessPoint name="Gala" filename="gala-ishiuchi.xml">
+    <accessPoint name="Gala" filename="ishiuchi-gala.xml">
     </accessPoint>
   </resort>
   <resort name="舞子高原">
-    <accessPoint name="舞子高原" filename="maiko-yuzawa.xml">
+    <accessPoint name="越後湯沢駅" filename="maiko-yuzawa.xml">
     </accessPoint>
   </resort>
   <resort name="東京">
