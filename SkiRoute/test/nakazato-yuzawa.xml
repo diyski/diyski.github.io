@@ -1,76 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅" to="湯沢中里">
   <outbound>
-    <transportation name="湯沢中里スキー場免費巴士" type="other" available="2016/12/17~2017/04/02" apply-to="湯澤">
-      <info>越後湯澤西口往右手邊走110公尺才是巴士站</info>
-      <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
-      <timetable>
-        <route>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936467, 138.807793" >
-          </stop>
-          <stop name="湯沢中里スキー場"   tag="湯澤>湯澤中里" gps="" >
-            <interval from="JR越後湯沢駅" fare="0" km="6.5" />
-          </stop>
-        </route>
-        <run >
-          <time>08:00</time>
-          <time>08:20</time>
-        </run>
-        <run >
-          <time>08:40</time>
-          <time>09:00</time>
-        </run>
-        <run >
-          <time>09:30</time>
-          <time>09:50</time>
-        </run>
-        <run >
-          <time>10:40</time>
-          <time>11:00</time>
-        </run>
-        <run available="67h" >
-          <time>11:20</time>
-          <time>11:40</time>
-        </run>
-      </timetable>
-    </transportation>
-  </outbound>
-  <inbound>
-    <transportation name="湯沢中里スキー場免費巴士" type="other" available="2016/12/17~2017/04/02" apply-to="湯澤">
+    <transportation name="越後湯沢駅→湯沢中里" type="other" available="2016/12/17~2017/04/02" apply-to="湯沢中里">
       <info>
       </info>
       <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
       <timetable>
         <route>
-          <stop name="湯沢中里スキー場"   tag="湯澤>湯澤中里" gps="" >
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
           </stop>
-          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="" >
-            <interval from="湯沢中里スキー場" fare="0" km="6.5" />
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>其他" gps="36.933050, 138.809171" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="6.5" />
+          </stop>
+          <stop name="いなもと"   tag="越後湯沢>民宿" gps="36.936224, 138.807907" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+          </stop>
+          <stop name="雪国館"   tag="越後湯沢>其他" gps="36.938971, 138.805608" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+            <interval from="いなもと" fare="0" km="0" />
+          </stop>
+          <stop name="湯沢中里"   tag="湯沢中里>湯沢中里" gps="36.909762, 138.849008" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+            <interval from="いなもと" fare="0" km="0" />
+            <interval from="雪国館" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:58</time>
+          <time>07:59</time>
+          <time>08:00</time>
+          <time>08:02</time>
+          <time>08:20</time>
+        </run>
+        <run >
+          <time>08:38</time>
+          <time>08:39</time>
+          <time>08:40</time>
+          <time>08:42</time>
+          <time>09:00</time>
+        </run>
+        <run >
+          <time>09:28</time>
+          <time>09:29</time>
+          <time>09:30</time>
+          <time>09:32</time>
+          <time>09:50</time>
+        </run>
+        <run >
+          <time>10:38</time>
+          <time>10:39</time>
+          <time>10:40</time>
+          <time>10:42</time>
+          <time>11:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="[複製]越後湯沢駅→湯沢中里" type="other" available="2016/12/17~2017/04/02" apply-to="湯沢中里">
+      <info>
+      </info>
+      <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
+      <timetable>
+        <route>
+          <stop name="湯沢中里"   tag="湯沢中里>湯沢中里" gps="36.909762, 138.849008" >
+          </stop>
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
+            <interval from="湯沢中里" fare="0" km="0" />
+          </stop>
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>其他" gps="36.933050, 138.809171" >
+            <interval from="湯沢中里" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+          </stop>
+          <stop name="いなもと"   tag="越後湯沢>民宿" gps="36.936224, 138.807907" >
+            <interval from="湯沢中里" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+          </stop>
+          <stop name="雪国館"   tag="越後湯沢>其他" gps="36.938971, 138.805608" >
+            <interval from="湯沢中里" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+            <interval from="いなもと" fare="0" km="0" />
           </stop>
         </route>
         <run >
           <time>14:20</time>
+          <time>14:37</time>
+          <time>14:38</time>
           <time>14:40</time>
+          <time>14:41</time>
         </run>
         <run >
           <time>15:00</time>
+          <time>15:17</time>
+          <time>15:19</time>
           <time>15:20</time>
+          <time>15:21</time>
         </run>
         <run >
           <time>15:40</time>
+          <time>15:57</time>
+          <time>15:59</time>
           <time>16:00</time>
-        </run>
-        <run available="67h" >
-          <time>16:20</time>
-          <time>16:40</time>
+          <time>16:01</time>
         </run>
         <run available="12345" >
           <time>16:50</time>
+          <time>17:07</time>
+          <time>17:09</time>
           <time>17:10</time>
-        </run>
-        <run >
-          <time>17:20</time>
-          <time>17:40</time>
+          <time>17:11</time>
         </run>
       </timetable>
     </transportation>

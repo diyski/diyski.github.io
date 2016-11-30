@@ -7,22 +7,22 @@
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_3.html</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国內線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="新千歳空港国內線" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
           <stop name="トリビュートポートフォリオホテル"   tag="キロロ>飯店" gps="43.075428, 140.982905" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
           </stop>
           <stop name="キロロマウンテンセンター"   tag="キロロ>キロロ" gps="43.067995, 140.989328" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="0" km="0" />
           </stop>
           <stop name="シェラトン北海道キロロリブート"   tag="キロロ>飯店" gps="" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="0" km="0" />
             <interval from="キロロマウンテンセンター" fare="0" km="0" />
@@ -88,14 +88,14 @@
           <stop name="トリビュートポートフォリオホテル"   tag="キロロ>飯店" gps="43.075428, 140.982905" >
             <interval from="キロロマウンテンセンター" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国內線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="キロロマウンテンセンター" fare="4000" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="4000" km="0" />
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="キロロマウンテンセンター" fare="4000" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="4000" km="0" />
-            <interval from="新千歳空港国內線" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
         </route>
         <run >

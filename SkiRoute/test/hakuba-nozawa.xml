@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="野澤" to="白馬">
   <outbound>
-    <transportation name="Nagano snow shuttle 野澤→白馬" type="other" available="2016/12/17~2017/03/12" apply-to="白馬,野澤">
+    <transportation name="Nagano snow shuttle 野澤→白馬" type="other" available="2016/12/17~2017/03/12" apply-to="白馬,野沢温泉">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Nozawa.aspx</source>
       <timetable>
@@ -30,7 +30,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 白馬→野澤" type="other" available="2016/12/17~2017/03/12" apply-to="白馬,野澤">
+    <transportation name="Nagano snow shuttle 白馬→野澤" type="other" available="2016/12/17~2017/03/12" apply-to="白馬,野沢温泉">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
       <timetable>

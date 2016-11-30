@@ -6,35 +6,35 @@
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国內線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
           </stop>
           <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
-            <interval from="新千歳空港国內線" fare="0" km="0" />
+            <interval from="新千歳空港国内線" fare="0" km="0" />
           </stop>
           <stop name="ウェスティンルスツリゾート"   tag="留壽都>飯店" gps="42.747823, 140.904380" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
             <interval from="新千歳空港国際線" fare="3500" km="0" />
           </stop>
           <stop name="ルスツリゾートホテルN&amp;S"   tag="留壽都>飯店" gps="42.751866, 140.902954" >
-            <interval from="新千歳空港国內線" fare="3500" km="0" />
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
             <interval from="新千歳空港国際線" fare="3500" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
           </stop>
           <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
           </stop>
           <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
           </stop>
           <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
@@ -42,7 +42,7 @@
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
           <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
@@ -51,7 +51,7 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
           <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
@@ -61,7 +61,7 @@
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
           <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
@@ -72,7 +72,7 @@
             <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
           <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
-            <interval from="新千歳空港国內線" fare="4000" km="0" />
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />

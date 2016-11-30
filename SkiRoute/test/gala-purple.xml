@@ -256,7 +256,7 @@
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />
           </stop>
-          <stop name="湯沢グランドホテル"   tag="越後湯沢>飯店澤>湯 沢グランドホテ ル" gps="36.935388, 138.807707" >
+          <stop name="湯沢グランドホテル"   tag="越後湯沢>飯店" gps="36.935388, 138.807707" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />

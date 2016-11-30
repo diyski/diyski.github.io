@@ -6,7 +6,7 @@
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
       <timetable>
         <route>
-          <stop name="石口"   tag="湯澤>石打丸" gps="" >
+          <stop name="石口"   tag="石打丸>石打丸" gps="" >
           </stop>
           <stop name="Gala"   tag="Gala>Gala" gps="36.950418, 138.800019" >
             <interval from="石口" fare="0" km="5" />

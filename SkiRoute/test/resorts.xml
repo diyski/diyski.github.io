@@ -31,9 +31,9 @@
     </accessPoint>
     <accessPoint name="名古屋" filename="nozawa-tokai.xml">
     </accessPoint>
-    <accessPoint name="關西" filename="nozawa-kansai.xml">
-    </accessPoint>
     <accessPoint name="溫泉街" filename="nozawa-access.xml">
+    </accessPoint>
+    <accessPoint name="新宿" filename="nozawa-shinjuku.xml">
     </accessPoint>
   </resort>
   <resort name="台灣">
