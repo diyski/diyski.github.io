@@ -25,7 +25,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="往札幌免費巴士" type="other" available="2016/11/26~2017/04/09" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,富良野,盤溪,札幌国際,朝里川">
+    <transportation name="往札幌免費巴士" type="other" available="2016/11/26~2017/04/09" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,富良野,盤溪,朝里川,京都,長野,名古屋,大阪,Gala,札幌,東北市區,東京,越後湯沢,NASPA,戸狩温泉,キロロ,二世古,定山渓,機場,石打丸,台灣,湯沢中里,湯沢高原,舞子,札幌国際">
       <info>電子郵件聯繫壽都度假區札幌銷售辦事處 rusutsugou@kamori.co.jp</info>
       <source>http://en.rusutsu.co.jp/zh-tw/free-shuttle-sapporo-rusutsu-resort-2016-17-winter/</source>
       <timetable>

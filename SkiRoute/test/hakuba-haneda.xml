@@ -25,7 +25,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 白馬→羽田" type="other" available="2016/12/17~2017/03/12" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
+    <transportation name="Nagano snow shuttle 白馬→羽田" type="other" available="2016/12/17~2017/03/12" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,京都,名古屋,大阪,東北市區,キロロ,二世古,定山渓,台灣,機場">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
       <timetable>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="青森空港" to="安比">
+  <outbound>
+    <transportation name=" 青森空港→安比" type="other" available="2016/12/23~2017/03/26" apply-to=",安比">
+      <info>* 2歲以下兒童免費 ( 不佔座位 ) 
+* 需要提前預約( 4天前)</info>
+      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <timetable>
+        <route>
+          <stop name="青森空港"   tag="機場>青森空港" gps="" >
+          </stop>
+          <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
+            <interval from="青森空港" fare="3000" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>11:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="安比→青森空港" type="other" available="2016/12/23~2017/03/26" apply-to=",札幌,京都,大阪,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,機場,キロロ,盤溪,東京,東北市區,軽井沢,Gala,長野,越後湯沢,戸狩温泉,湯沢高原,二世古,定山渓,舞子,志賀,藏王,野沢温泉,NASPA,留壽都,名古屋,白馬">
+      <info>* 2歲以下兒童免費 ( 不佔座位 ) 
+* 需要提前預約( 4天前)</info>
+      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <timetable>
+        <route>
+          <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
+          </stop>
+          <stop name="青森空港"   tag="機場>青森空港" gps="" >
+            <interval from="ホテル安比グランド" fare="3000" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>13:40</time>
+          <time>15:40</time>
+        </run>
+        <run >
+          <time>14:40</time>
+          <time>16:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

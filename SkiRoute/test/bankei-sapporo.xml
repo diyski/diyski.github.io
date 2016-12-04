@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市區" to="盤溪">
   <outbound>
-    <transportation name="札幌→盤溪" type="other" available="2016/12/20~2017/03/31" apply-to="盤溪">
+    <transportation name="札幌→盤溪" type="other" available="2016/12/20~2017/03/31" apply-to="盤溪,札幌">
       <info>
       </info>
       <source>http://www.bankei.co.jp/winter/bus/routebus/</source>
@@ -245,7 +245,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="盤溪→札幌" type="other" available="2016/12/20~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,札幌国際,朝里川">
+    <transportation name="盤溪→札幌" type="other" available="2016/12/20~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,札幌国際,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,石打丸,湯沢高原,湯沢中里,舞子,京都,東北市區,長野,東京,機場,台灣,定山渓,越後湯沢,大阪,名古屋">
       <info>
       </info>
       <source>http://www.bankei.co.jp/winter/bus/routebus/</source>

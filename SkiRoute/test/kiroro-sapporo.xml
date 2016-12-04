@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌" to="キロロ">
   <outbound>
-    <transportation name="札幌→キロロ" type="other" available="2016/12/02~2017/04/02" apply-to="キロロ">
+    <transportation name="札幌→キロロ" type="other" available="2016/12/02~2017/04/02" apply-to="キロロ,札幌">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
@@ -343,7 +343,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="キロロ→札幌" type="other" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
+    <transportation name="キロロ→札幌" type="other" available="2016/12/02~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,NASPA,戸狩温泉,二世古,石打丸,湯沢高原,舞子,湯沢中里,京都,東北市區,長野,名古屋,越後湯沢,東京,大阪,台灣,機場,定山渓">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>

@@ -105,9 +105,19 @@
     </accessPoint>
     <accessPoint name="東京市區" filename="Zao-tokoyo.xml">
     </accessPoint>
+    <accessPoint name="仙台駅" filename="Zao-sendai.xml">
+    </accessPoint>
   </resort>
   <resort name="安比">
-    <accessPoint name="盛岡" filename="Appi-Morioka.xml">
+    <accessPoint name="盛岡駅" filename="appi-morioka.xml">
+    </accessPoint>
+    <accessPoint name="花巻空港" filename="appi-hna.xml">
+    </accessPoint>
+    <accessPoint name="青森空港" filename="appi-aomori.xml">
+    </accessPoint>
+    <accessPoint name="仙台空港" filename="appi-sdj.xml">
+    </accessPoint>
+    <accessPoint name="仙台駅" filename="appi-sendai.xml">
     </accessPoint>
   </resort>
   <resort name="Gala">

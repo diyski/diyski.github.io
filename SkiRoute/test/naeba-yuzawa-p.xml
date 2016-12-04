@@ -97,7 +97,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="神樂苗場巴士" type="other" available="2016/12/10~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ">
+    <transportation name="神樂苗場巴士" type="other" available="2016/12/10~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,湯沢中里,台灣,湯沢高原,定山渓,舞子,二世古,戸狩温泉,東京,長野,名古屋,Gala,大阪,越後湯沢,NASPA">
       <info>大型行李或雪具一件+100日幣運費，有全山共通票免費</info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>

@@ -2,7 +2,8 @@
 <accesspoint name="大阪" to="白馬">
   <outbound>
     <transportation name="Travex 大阪→白馬" type="other" available="2017/12/15~2017/12/16" apply-to="白馬">
-      <info>Travex tour</info>
+      <info>
+      </info>
       <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>
       <timetable>
         <route>
@@ -388,8 +389,9 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Travex 白馬→大阪" type="other" available="2017/12/15~2017/12/16" apply-to="">
-      <info>Travex tour</info>
+    <transportation name="白馬→名古屋" type="other" available="2017/12/15~2017/12/16" apply-to=",京都,名古屋,大阪,機場">
+      <info>
+      </info>
       <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>
       <timetable>
         <route>
@@ -545,7 +547,7 @@
             <interval from="旅の宿　峰月ロビー" fare="0" km="0" />
             <interval from="白馬アルプルホテルロビー" fare="0" km="0" />
           </stop>
-          <stop name="JR京都駅"   tag="京都>JR" gps="" >
+          <stop name="JR京都駅" yahoo="true"  tag="京都>JR" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
@@ -563,7 +565,7 @@
             <interval from="白馬アルプルホテルロビー" fare="12700" km="0" />
             <interval from="里見バスセンター前" fare="12700" km="0" />
           </stop>
-          <stop name="JR大阪駅周辺"   tag="大阪>JR" gps="" >
+          <stop name="JR大阪駅" yahoo="true"  tag="大阪>JR" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
@@ -582,7 +584,7 @@
             <interval from="里見バスセンター前" fare="12700" km="0" />
             <interval from="JR京都駅" fare="0" km="0" />
           </stop>
-          <stop name="近鉄なんば駅"   tag="大阪>近鉄" gps="" >
+          <stop name="近鉄なんば駅" yahoo="true"  tag="大阪>近鉄" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
@@ -600,9 +602,9 @@
             <interval from="白馬アルプルホテルロビー" fare="12700" km="0" />
             <interval from="里見バスセンター前" fare="12700" km="0" />
             <interval from="JR京都駅" fare="0" km="0" />
-            <interval from="JR大阪駅周辺" fare="0" km="0" />
+            <interval from="JR大阪駅" fare="0" km="0" />
           </stop>
-          <stop name="JR天王寺駅"   tag="大阪>JR" gps="" >
+          <stop name="JR天王寺駅" yahoo="true"  tag="大阪>JR" gps="" >
             <interval from="旧五竜バスターミナル" fare="12700" km="0" />
             <interval from="白馬パークホテルロビー" fare="12700" km="0" />
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
@@ -620,7 +622,7 @@
             <interval from="白馬アルプルホテルロビー" fare="12700" km="0" />
             <interval from="里見バスセンター前" fare="12700" km="0" />
             <interval from="JR京都駅" fare="0" km="0" />
-            <interval from="JR大阪駅周辺" fare="0" km="0" />
+            <interval from="JR大阪駅" fare="0" km="0" />
             <interval from="近鉄なんば駅" fare="0" km="0" />
           </stop>
         </route>

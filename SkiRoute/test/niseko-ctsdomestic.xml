@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歳空港(札幌)" to="Niseko">
   <outbound>
-    <transportation name="White Line Niseko行" type="other" available="2016/12/12~2017/03/26" apply-to="二世谷">
+    <transportation name="White Line Niseko行" type="other" available="2016/12/12~2017/03/26" apply-to="二世谷,二世古">
       <info>集合地點在JAL到着口A、B之間，JTB櫃台旁的goodsports櫃台      </info>
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
       <timetable>
@@ -84,7 +84,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="White Line Niseko行" type="other" available="2016/12/12~2017/03/26" apply-to="二世谷">
+    <transportation name="White Line Niseko行" type="other" available="2016/12/12~2017/03/26" apply-to="二世谷,二世古">
       <info>國際線2樓集合地點請至網站觀看      </info>
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
       <timetable>
@@ -129,7 +129,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="White Line 新千歲機場行" type="other" available="2016/12/12~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
+    <transportation name="White Line 新千歲機場行" type="other" available="2016/12/12~2017/03/26" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,盤溪,石打丸,湯沢中里,台灣,機場,湯沢高原,舞子">
       <info>
       </info>
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
@@ -155,7 +155,7 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国內線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="ホテル甘露の森" fare="4000" km="110" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="110" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="110" />
@@ -168,7 +168,7 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
-            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="新千歳空港国內線" fare="4000" km="0" />
           </stop>
         </route>
         <run >

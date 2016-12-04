@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="北海道市區(中央巴士)" to="北海道市區">
   <outbound>
-    <transportation name="北海道中央巴士" type="other" available="" apply-to="二世谷,留壽都,富良野,盤溪,札幌国際,朝里川">
+    <transportation name="北海道中央巴士" type="other" available="2016/12/01~2017/03/31" apply-to=",二世谷,留壽都,富良野,盤溪,朝里川,キロロ,二世古,札幌,定山渓,札幌国際">
       <info>發車時間可能會因天候等因素而變更，出發前請先向下列服務單位查詢相關細節。
 北海道中央巴士(札幌) TEL:011-231-0500
 http://teikan.chuo-bus.co.jp/tw/
@@ -219,7 +219,7 @@ http://teikan.chuo-bus.co.jp/tw/
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="北海道中央巴士" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
+    <transportation name="北海道中央巴士" type="other" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,NASPA,湯沢高原,湯沢中里,舞子,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,戸狩温泉,石打丸,機場,台灣">
       <info>發車時間可能會因天候等因素而變更，出發前請先向下列服務單位查詢相關細節。
 北海道中央巴士(札幌) TEL:011-231-0500
 http://teikan.chuo-bus.co.jp/tw/

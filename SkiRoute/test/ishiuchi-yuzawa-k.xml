@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅(三口)" to="石打丸(三口)">
   <outbound>
-    <transportation name="南越後観光巴士" type="other" available="" apply-to="">
+    <transportation name="南越後観光巴士" type="other" available="2016/12/21~2017/04/02" apply-to=",石打丸">
       <info>
       </info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
@@ -86,7 +86,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="南越後観光巴士" type="other" available="" apply-to="">
+    <transportation name="南越後観光巴士" type="other" available="2016/12/21~2017/04/02" apply-to=",札幌国際,妙高,朝里川,富良野,苗場,大阪,京都,機場,キロロ,盤溪,東京,東北市區,軽井沢,Gala,長野,白馬,名古屋,NASPA,留壽都,越後湯沢,戸狩温泉,台灣,湯沢中里,安比,湯沢高原,二世古,野沢温泉,定山渓,志賀,舞子,藏王">
       <info>
       </info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>

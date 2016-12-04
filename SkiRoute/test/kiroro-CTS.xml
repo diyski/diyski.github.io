@@ -77,7 +77,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="キロロ→新千歲" type="other" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王">
+    <transportation name="キロロ→新千歲" type="other" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,NASPA,戸狩温泉,石打丸,湯沢中里,舞子,湯沢高原,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,機場,台灣">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_3.html</source>

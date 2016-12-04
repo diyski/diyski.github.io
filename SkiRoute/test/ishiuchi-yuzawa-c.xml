@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅(中央口)" to="石打丸(中央口)">
   <outbound>
-    <transportation name="石打丸山スキー場中央口行き" type="other" available="" apply-to="">
+    <transportation name="石打丸山スキー場中央口行き" type="other" available="2016/12/21~2017/04/02" apply-to=",石打丸">
       <info>
       </info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>
@@ -53,7 +53,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="石打丸山スキー場中央口行き" type="other" available="" apply-to="">
+    <transportation name="石打丸山スキー場中央口行き" type="other" available="2016/12/21~2017/04/02" apply-to=",札幌,大阪,京都,苗場,富良野,朝里川,札幌国際,妙高,湯沢中里,台灣,機場,キロロ,盤溪,東京,東北市區,軽井沢,Gala,白馬,長野,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,舞子,志賀,藏王,定山渓,野沢温泉,留壽都,NASPA,名古屋">
       <info>
       </info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>

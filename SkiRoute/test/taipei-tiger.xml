@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="日本(虎航)" to="台灣">
   <outbound>
-    <transportation name="虎航 關西→台灣" type="other" available="" apply-to="">
+    <transportation name="虎航 關西→台灣" type="other" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -37,7 +37,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 函館→桃園" type="other" available="" apply-to="">
+    <transportation name="虎航 函館→桃園" type="other" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -55,7 +55,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 東北→桃園" type="other" available="" apply-to="">
+    <transportation name="虎航 東北→桃園" type="other" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -73,7 +73,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 東京→台灣" type="other" available="" apply-to="">
+    <transportation name="虎航 東京→台灣" type="other" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -130,7 +130,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="虎航 台灣→關西" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉">
+    <transportation name="虎航 台灣→關西" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,湯沢高原,舞子,藏王,定山渓,安比,機場,キロロ,長野,盤溪,軽井沢,Gala,名古屋,東京,戸狩温泉,二世古,留壽都,越後湯沢,大阪,NASPA">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -166,7 +166,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 桃園→函館" type="other" available="" apply-to="二世谷,留壽都,盤溪,札幌国際,朝里川">
+    <transportation name="虎航 桃園→函館" type="other" available="" apply-to="二世谷,留壽都,盤溪,札幌国際,朝里川,二世古,キロロ,富良野,定山渓">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -184,7 +184,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 桃園→東北" type="other" available="" apply-to="藏王,安比">
+    <transportation name="虎航 桃園→東北" type="other" available="" apply-to="藏王,安比,東北市區">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
@@ -202,7 +202,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 台灣→東京" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢">
+    <transportation name="虎航 台灣→東京" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,東北市區,長野,Gala,越後湯沢,東京,盤溪,富良野,石打丸,朝里川,札幌国際,機場,キロロ,湯沢中里,湯沢高原,安比,二世古,戸狩温泉,留壽都,NASPA,定山渓,舞子,藏王">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
