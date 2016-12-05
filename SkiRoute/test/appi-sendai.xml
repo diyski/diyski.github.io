@@ -6,10 +6,10 @@
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
       <timetable>
         <route>
-          <stop name="仙台駅"   tag="東北市區>JR" gps="" >
+          <stop name="JR仙台駅"   tag="東北市區>JR" gps="" >
           </stop>
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
-            <interval from="仙台駅" fare="0" km="0" />
+            <interval from="JR仙台駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -27,7 +27,7 @@
         <route>
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
           </stop>
-          <stop name="仙台駅"   tag="東北市區>JR" gps="" >
+          <stop name="JR仙台駅"   tag="東北市區>JR" gps="" >
             <interval from="ホテル安比グランド" fare="0" km="0" />
           </stop>
         </route>

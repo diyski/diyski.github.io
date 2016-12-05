@@ -64,7 +64,7 @@
           <time>18:40</time>
           <time>19:17</time>
         </run>
-        <run >
+        <run available="12345" >
           <time>20:00</time>
           <time>20:34</time>
         </run>
@@ -83,7 +83,7 @@
             <interval from="蔵王温泉" fare="1000" km="17" />
           </stop>
         </route>
-        <run >
+        <run available="12345" >
           <time>07:00</time>
           <time>07:45</time>
         </run>
