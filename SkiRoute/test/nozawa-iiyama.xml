@@ -7,29 +7,29 @@
       <source>http://www.nozawaonsen.info/%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/</source>
       <timetable>
         <route>
-          <stop name="JR飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+          <stop name="飯山駅" yahoo="true"  tag="長野>JR" gps="" >
           </stop>
-          <stop name="JR北飯山駅" yahoo="true"  tag="長野>JR" gps="" >
-            <interval from="JR飯山駅" fare="200" km="0" />
+          <stop name="北飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+            <interval from="飯山駅" fare="200" km="0" />
           </stop>
           <stop name="前坂"   tag="野沢温泉>其他" gps="" >
-            <interval from="JR飯山駅" fare="600" km="0" />
-            <interval from="JR北飯山駅" fare="600" km="0" />
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
           </stop>
           <stop name="中尾駐車場"   tag="野沢温泉>巴士站" gps="36.914035, 138.436709" >
-            <interval from="JR飯山駅" fare="600" km="0" />
-            <interval from="JR北飯山駅" fare="600" km="0" />
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
             <interval from="前坂" fare="200" km="0" />
           </stop>
           <stop name="新田バス停"   tag="野沢温泉>巴士站" gps="36.920868, 138.444766" >
-            <interval from="JR飯山駅" fare="600" km="0" />
-            <interval from="JR北飯山駅" fare="600" km="0" />
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
             <interval from="前坂" fare="200" km="0" />
             <interval from="中尾駐車場" fare="200" km="0" />
           </stop>
           <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
-            <interval from="JR飯山駅" fare="600" km="0" />
-            <interval from="JR北飯山駅" fare="600" km="0" />
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
             <interval from="前坂" fare="200" km="0" />
             <interval from="中尾駐車場" fare="200" km="0" />
             <interval from="新田バス停" fare="200" km="0" />
@@ -131,18 +131,18 @@
             <interval from="新田バス停" fare="200" km="0" />
             <interval from="中尾駐車場" fare="200" km="0" />
           </stop>
-          <stop name="JR北飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+          <stop name="北飯山駅" yahoo="true"  tag="長野>JR" gps="" >
             <interval from="中央ターミナル" fare="600" km="0" />
             <interval from="新田バス停" fare="600" km="0" />
             <interval from="中尾駐車場" fare="600" km="0" />
             <interval from="前坂" fare="600" km="0" />
           </stop>
-          <stop name="JR飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+          <stop name="飯山駅" yahoo="true"  tag="長野>JR" gps="" >
             <interval from="中央ターミナル" fare="600" km="0" />
             <interval from="新田バス停" fare="600" km="0" />
             <interval from="中尾駐車場" fare="600" km="0" />
             <interval from="前坂" fare="600" km="0" />
-            <interval from="JR北飯山駅" fare="0" km="0" />
+            <interval from="北飯山駅" fare="0" km="0" />
           </stop>
         </route>
         <run >
