@@ -155,7 +155,7 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国內線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
             <interval from="ホテル甘露の森" fare="4000" km="110" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="110" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="110" />
@@ -221,7 +221,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="Niseko→新千歲國際" type="other" available="2016/12/12~2017/03/26" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,盤溪,石打丸,湯沢中里,台灣,機場,湯沢高原,舞子">
+    <transportation name="Niseko→新千歲國際" type="other" available="2016/12/12~2017/03/26" apply-to=",湯澤,台灣">
       <info>
       </info>
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
