@@ -29,15 +29,6 @@
           </stop>
         </route>
         <run >
-          <time>09:10</time>
-          <time>09:50</time>
-          <time>13:05</time>
-          <time>
-          </time>
-          <time>
-          </time>
-        </run>
-        <run >
           <time>23:20</time>
           <time>00:00</time>
           <time>03:57</time>
@@ -83,6 +74,15 @@
           <time>12:02</time>
         </run>
         <run >
+          <time>09:10</time>
+          <time>09:50</time>
+          <time>13:05</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
           <time>
           </time>
           <time>12:10</time>
@@ -104,7 +104,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="西武巴士" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,戸狩温泉,越後湯沢,東京,名古屋,長野,Gala,大阪,NASPA">
+    <transportation name="輕井澤→苗場→池袋" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,戸狩温泉,越後湯沢,東京,名古屋,長野,Gala,大阪,NASPA">
       <info>
       </info>
       <source>https://www.kkday.com/zh-tw/product/10220</source>
@@ -168,6 +168,15 @@
           </time>
         </run>
         <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>15:00</time>
+          <time>18:23</time>
+          <time>19:03</time>
+        </run>
+        <run >
           <time>16:00</time>
           <time>16:05</time>
           <time>
@@ -175,6 +184,15 @@
           <time>18:52</time>
           <time>
           </time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>16:00</time>
+          <time>19:23</time>
+          <time>20:03</time>
         </run>
         <run >
           <time>17:00</time>
@@ -193,24 +211,6 @@
           <time>20:52</time>
           <time>
           </time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>15:00</time>
-          <time>18:23</time>
-          <time>19:03</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>16:00</time>
-          <time>19:23</time>
-          <time>20:03</time>
         </run>
       </timetable>
     </transportation>
