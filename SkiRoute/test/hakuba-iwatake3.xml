@@ -34,7 +34,7 @@
             <interval from="みそら野 大通5丁目" fare="0" km="0" />
             <interval from="ハッピーベル" fare="0" km="0" />
           </stop>
-          <stop name="ベアーズカフェ"   tag="白馬>ベアーズカフェ" gps="" >
+          <stop name="ベアーズカフェ"   tag="白馬>八方" gps="" >
             <interval from="流星花園" fare="0" km="0" />
             <interval from="カルチャード" fare="0" km="0" />
             <interval from="南十字星" fare="0" km="0" />
@@ -42,7 +42,7 @@
             <interval from="ハッピーベル" fare="0" km="0" />
             <interval from="みそら野 ロータリー" fare="0" km="0" />
           </stop>
-          <stop name="シェイクスピア"   tag="白馬>シェイクスピア" gps="36.690895, 137.843950" >
+          <stop name="シェイクスピア"   tag="白馬>八方" gps="36.690895, 137.843950" >
             <interval from="流星花園" fare="0" km="0" />
             <interval from="カルチャード" fare="0" km="0" />
             <interval from="南十字星" fare="0" km="0" />
@@ -61,7 +61,7 @@
             <interval from="ベアーズカフェ" fare="0" km="0" />
             <interval from="シェイクスピア" fare="0" km="0" />
           </stop>
-          <stop name="スノーラインズロッジ"   tag="白馬>スノーラインズロッジ" gps="36.695031, 137.845812" >
+          <stop name="スノーラインズロッジ"   tag="白馬>八方" gps="36.695031, 137.845812" >
             <interval from="流星花園" fare="0" km="0" />
             <interval from="カルチャード" fare="0" km="0" />
             <interval from="南十字星" fare="0" km="0" />
@@ -206,7 +206,7 @@
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
             <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
-          <stop name="スノーラインズロッジ"   tag="白馬>スノーラインズロッジ" gps="36.695031, 137.845812" >
+          <stop name="スノーラインズロッジ"   tag="白馬>八方" gps="36.695031, 137.845812" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
             <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
@@ -217,14 +217,14 @@
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
           </stop>
-          <stop name="シェイクスピア"   tag="白馬>シェイクスピア" gps="36.690895, 137.843950" >
+          <stop name="シェイクスピア"   tag="白馬>八方" gps="36.690895, 137.843950" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
             <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
           </stop>
-          <stop name="ベアーズカフェ"   tag="白馬>ベアーズカフェ" gps="" >
+          <stop name="ベアーズカフェ"   tag="白馬>八方" gps="" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
             <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />

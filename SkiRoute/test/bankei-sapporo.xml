@@ -9,7 +9,7 @@
         <route>
           <stop name="円山公園駅" yahoo="true"  tag="札幌>地鐵" gps="43.055677, 141.319568" >
           </stop>
-          <stop name="発寒南駅" yahoo="true"  tag="札幌>地鐵" gps="43.081168, 141.290899" >
+          <stop name="発寒南駅" yahoo="true"  tag="札幌>地鐵" gps="" >
             <interval from="円山公園駅" fare="210" km="0" />
           </stop>
           <stop name="ばんけいスキー場"   tag="盤溪>ばんけいスキー場" gps="43.030496, 141.279211" >
@@ -256,7 +256,7 @@
           <stop name="ばんけいスキー場"   tag="盤溪>ばんけいスキー場" gps="43.030496, 141.279211" >
             <interval from="真駒内駅" fare="210" km="10" />
           </stop>
-          <stop name="発寒南駅" yahoo="true"  tag="札幌>地鐵" gps="43.081168, 141.290899" >
+          <stop name="発寒南駅" yahoo="true"  tag="札幌>地鐵" gps="" >
             <interval from="真駒内駅" fare="210" km="0" />
             <interval from="ばんけいスキー場" fare="210" km="7" />
           </stop>

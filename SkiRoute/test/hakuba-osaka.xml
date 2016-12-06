@@ -97,7 +97,7 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
           </stop>
-          <stop name="白馬ハイランドホテルロビー"   tag="白馬>白馬駅" gps="36.690603, 137.866792" >
+          <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
             <interval from="JR新大阪駅" fare="12700" km="0" />
             <interval from="二条城前" fare="12700" km="0" />
             <interval from="ドライブインくろべ路" fare="0" km="0" />
@@ -111,7 +111,7 @@
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
           </stop>
-          <stop name="白馬ロイヤルホテルロビー"   tag="白馬>白馬駅" gps="36.694747, 137.860725" >
+          <stop name="白馬ロイヤルホテル"   tag="白馬>八方" gps="36.694700, 137.860792" >
             <interval from="JR新大阪駅" fare="12700" km="0" />
             <interval from="二条城前" fare="12700" km="0" />
             <interval from="ドライブインくろべ路" fare="0" km="0" />
@@ -124,7 +124,7 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
           </stop>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
             <interval from="JR新大阪駅" fare="12700" km="0" />
@@ -139,8 +139,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
           </stop>
           <stop name="和田野ビジターセンター"   tag="白馬>八方" gps="36.707071, 137.837477" >
             <interval from="JR新大阪駅" fare="12700" km="0" />
@@ -155,8 +155,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="新田バスセンター"   tag="白馬>岩岳" gps="36.712550, 137.869008" >
@@ -172,8 +172,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
           </stop>
@@ -190,8 +190,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -209,8 +209,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -229,8 +229,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -250,8 +250,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -272,8 +272,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -295,8 +295,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -319,8 +319,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -344,8 +344,8 @@
             <interval from="HAKUBA47" fare="0" km="0" />
             <interval from="エクセ白馬前" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
-            <interval from="白馬ロイヤルホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -415,7 +415,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
           </stop>
-          <stop name="白馬ハイランドホテルロビー"   tag="白馬>白馬駅" gps="36.690603, 137.866792" >
+          <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
             <interval from="旧五竜バスターミナル" fare="0" km="0" />
             <interval from="白馬パークホテルロビー" fare="0" km="0" />
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
@@ -428,7 +428,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
           </stop>
           <stop name="和田野ビジターセンター"   tag="白馬>八方" gps="36.707071, 137.837477" >
             <interval from="旧五竜バスターミナル" fare="0" km="0" />
@@ -436,7 +436,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="新田バスセンター"   tag="白馬>岩岳" gps="36.712550, 137.869008" >
@@ -445,7 +445,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
           </stop>
@@ -455,7 +455,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -466,7 +466,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -478,7 +478,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -491,7 +491,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -505,7 +505,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -520,7 +520,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -536,7 +536,7 @@
             <interval from="五竜エスカルプラザ内" fare="0" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="0" km="0" />
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="0" km="0" />
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="八方info" fare="0" km="0" />
             <interval from="和田野ビジターセンター" fare="0" km="0" />
             <interval from="新田バスセンター" fare="0" km="0" />
@@ -553,7 +553,7 @@
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="12700" km="0" />
             <interval from="白馬樅の木ホテル" fare="12700" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="12700" km="0" />
+            <interval from="白馬ハイランドホテル" fare="12700" km="0" />
             <interval from="八方info" fare="12700" km="0" />
             <interval from="和田野ビジターセンター" fare="12700" km="0" />
             <interval from="新田バスセンター" fare="12700" km="0" />
@@ -571,7 +571,7 @@
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="12700" km="0" />
             <interval from="白馬樅の木ホテル" fare="12700" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="12700" km="0" />
+            <interval from="白馬ハイランドホテル" fare="12700" km="0" />
             <interval from="八方info" fare="12700" km="0" />
             <interval from="和田野ビジターセンター" fare="12700" km="0" />
             <interval from="新田バスセンター" fare="12700" km="0" />
@@ -590,7 +590,7 @@
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="12700" km="0" />
             <interval from="白馬樅の木ホテル" fare="12700" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="12700" km="0" />
+            <interval from="白馬ハイランドホテル" fare="12700" km="0" />
             <interval from="八方info" fare="12700" km="0" />
             <interval from="和田野ビジターセンター" fare="12700" km="0" />
             <interval from="新田バスセンター" fare="12700" km="0" />
@@ -610,7 +610,7 @@
             <interval from="五竜エスカルプラザ内" fare="12700" km="0" />
             <interval from="白馬サンバレーホテルロビー" fare="12700" km="0" />
             <interval from="白馬樅の木ホテル" fare="12700" km="0" />
-            <interval from="白馬ハイランドホテルロビー" fare="12700" km="0" />
+            <interval from="白馬ハイランドホテル" fare="12700" km="0" />
             <interval from="八方info" fare="12700" km="0" />
             <interval from="和田野ビジターセンター" fare="12700" km="0" />
             <interval from="新田バスセンター" fare="12700" km="0" />
