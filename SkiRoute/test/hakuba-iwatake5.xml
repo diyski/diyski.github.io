@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="八方循環巴士5" to="岩岳">
+  <outbound>
+    <transportation name="No5 Bus 　咲花ゲレンデ～岩岳ゴンドラ" type="other" available="2016/12/16~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="咲花ゲレンデ"   tag="白馬>咲花ゲレンデ" gps="36.711134, 137.831353" >
+          </stop>
+          <stop name="和田野駐車場"   tag="白馬>和田野駐車場" gps="36.709493, 137.836102" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="岳都"   tag="白馬>岳都" gps="36.708478, 137.836949" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="白馬樅の木ホテル"   tag="白馬>白馬樅の木ホテル" gps="36.707134, 137.836588" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+          </stop>
+          <stop name="白馬東急ホテル"   tag="白馬>白馬東急ホテル" gps="36.706190, 137.839263" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳ゴンドラ" gps="36.716865, 137.858737" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>07:32</time>
+          <time>07:33</time>
+          <time>07:36</time>
+          <time>07:39</time>
+          <time>07:45</time>
+        </run>
+        <run >
+          <time>08:10</time>
+          <time>08:12</time>
+          <time>08:13</time>
+          <time>08:16</time>
+          <time>08:19</time>
+          <time>08:25</time>
+        </run>
+        <run >
+          <time>08:50</time>
+          <time>08:52</time>
+          <time>08:53</time>
+          <time>08:56</time>
+          <time>08:59</time>
+          <time>09:05</time>
+        </run>
+        <run >
+          <time>09:30</time>
+          <time>09:32</time>
+          <time>09:33</time>
+          <time>09:36</time>
+          <time>09:39</time>
+          <time>09:45</time>
+        </run>
+        <run >
+          <time>10:25</time>
+          <time>10:27</time>
+          <time>10:28</time>
+          <time>10:31</time>
+          <time>10:34</time>
+          <time>10:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="No5 Bus 　咲花ゲレンデ～岩岳ゴンドラ" type="other" available="2016/12/16~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳ゴンドラ" gps="36.716865, 137.858737" >
+          </stop>
+          <stop name="白馬東急ホテル"   tag="白馬>白馬東急ホテル" gps="36.706190, 137.839263" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬樅の木ホテル"   tag="白馬>白馬樅の木ホテル" gps="36.707134, 137.836588" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="岳都"   tag="白馬>岳都" gps="36.708478, 137.836949" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="和田野駐車場"   tag="白馬>和田野駐車場" gps="36.709493, 137.836102" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+          </stop>
+          <stop name="咲花ゲレンデ"   tag="白馬>咲花ゲレンデ" gps="36.711134, 137.831353" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅の木ホテル" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="和田野駐車場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>13:50</time>
+          <time>13:56</time>
+          <time>13:59</time>
+          <time>14:02</time>
+          <time>14:03</time>
+          <time>14:05</time>
+        </run>
+        <run >
+          <time>14:50</time>
+          <time>14:56</time>
+          <time>14:59</time>
+          <time>15:02</time>
+          <time>15:03</time>
+          <time>15:05</time>
+        </run>
+        <run >
+          <time>15:50</time>
+          <time>15:56</time>
+          <time>15:59</time>
+          <time>16:02</time>
+          <time>16:03</time>
+          <time>16:05</time>
+        </run>
+        <run >
+          <time>16:45</time>
+          <time>16:51</time>
+          <time>16:54</time>
+          <time>16:57</time>
+          <time>16:58</time>
+          <time>17:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

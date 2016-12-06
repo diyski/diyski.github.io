@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="八方循環巴士7" to="岩岳">
+  <outbound>
+    <transportation name="No7 Bus 　オークフォレスト～岩岳ゴンドラ" type="other" available="2016/12/16~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="ホテル オークフォレスト"   tag="白馬>ホテル オークフォレスト" gps="36.691164, 137.833634" >
+          </stop>
+          <stop name="チェリーパブ"   tag="白馬>チェリーパブ" gps="36.689421, 137.845375" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+          </stop>
+          <stop name="トロイメライ"   tag="白馬>トロイメライ" gps="36.687186, 137.846733" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+          </stop>
+          <stop name="カルチャード"   tag="白馬>カルチャード" gps="36.684030, 137.847238" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+          </stop>
+          <stop name="流星花園"   tag="白馬>流星花園" gps="36.683316, 137.851186" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+          </stop>
+          <stop name="アルパインシャレー"   tag="白馬>アルパインシャレー" gps="36.691383, 137.849568" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+          </stop>
+          <stop name="ぴー坊"   tag="白馬>ぴー坊" gps="36.695056, 137.849013" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+          </stop>
+          <stop name="呼雲荘"   tag="白馬>呼雲荘" gps="36.695393, 137.849952" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル白馬"   tag="白馬>ホテル白馬" gps="36.697095, 137.853575" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方ＢＴ"   tag="白馬>白馬八方ＢＴ" gps="36.701535, 137.845754" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳ゴンドラ" gps="36.716839, 137.858759" >
+            <interval from="ホテル オークフォレスト" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:35</time>
+          <time>07:40</time>
+          <time>07:41</time>
+          <time>07:43</time>
+          <time>07:44</time>
+          <time>07:47</time>
+          <time>07:50</time>
+          <time>07:51</time>
+          <time>07:54</time>
+          <time>07:59</time>
+          <time>08:05</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>08:35</time>
+          <time>08:36</time>
+          <time>08:38</time>
+          <time>08:39</time>
+          <time>08:42</time>
+          <time>08:45</time>
+          <time>08:46</time>
+          <time>08:49</time>
+          <time>08:54</time>
+          <time>09:00</time>
+        </run>
+        <run >
+          <time>09:25</time>
+          <time>09:30</time>
+          <time>09:31</time>
+          <time>09:33</time>
+          <time>09:34</time>
+          <time>09:37</time>
+          <time>09:40</time>
+          <time>09:41</time>
+          <time>09:44</time>
+          <time>09:49</time>
+          <time>09:55</time>
+        </run>
+        <run >
+          <time>10:20</time>
+          <time>10:25</time>
+          <time>10:26</time>
+          <time>10:28</time>
+          <time>10:29</time>
+          <time>10:32</time>
+          <time>10:35</time>
+          <time>10:36</time>
+          <time>10:39</time>
+          <time>10:44</time>
+          <time>10:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="No7 Bus 　オークフォレスト～岩岳ゴンドラ" type="other" available="2016/12/16~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳ゴンドラ" gps="36.716839, 137.858759" >
+          </stop>
+          <stop name="白馬八方ＢＴ"   tag="白馬>白馬八方ＢＴ" gps="36.701535, 137.845754" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル白馬"   tag="白馬>ホテル白馬" gps="36.697095, 137.853575" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+          </stop>
+          <stop name="呼雲荘"   tag="白馬>呼雲荘" gps="36.695393, 137.849952" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+          </stop>
+          <stop name="ぴー坊"   tag="白馬>ぴー坊" gps="36.695056, 137.849013" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+          </stop>
+          <stop name="アルパインシャレー"   tag="白馬>アルパインシャレー" gps="36.691383, 137.849568" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+          </stop>
+          <stop name="流星花園"   tag="白馬>流星花園" gps="36.683316, 137.851186" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+          </stop>
+          <stop name="カルチャード"   tag="白馬>カルチャード" gps="36.684030, 137.847238" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+          </stop>
+          <stop name="トロイメライ"   tag="白馬>トロイメライ" gps="36.687186, 137.846733" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+          </stop>
+          <stop name="チェリーパブ"   tag="白馬>チェリーパブ" gps="36.689421, 137.845375" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル オークフォレスト"   tag="白馬>ホテル オークフォレスト" gps="36.691164, 137.833634" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="アルパインシャレー" fare="0" km="0" />
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="トロイメライ" fare="0" km="0" />
+            <interval from="チェリーパブ" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>13:20</time>
+          <time>13:26</time>
+          <time>13:31</time>
+          <time>13:34</time>
+          <time>13:35</time>
+          <time>13:38</time>
+          <time>13:41</time>
+          <time>13:42</time>
+          <time>13:44</time>
+          <time>13:45</time>
+          <time>13:50</time>
+        </run>
+        <run >
+          <time>14:10</time>
+          <time>14:16</time>
+          <time>14:21</time>
+          <time>14:24</time>
+          <time>14:25</time>
+          <time>14:28</time>
+          <time>14:31</time>
+          <time>14:32</time>
+          <time>14:34</time>
+          <time>14:35</time>
+          <time>14:40</time>
+        </run>
+        <run >
+          <time>15:10</time>
+          <time>15:16</time>
+          <time>15:21</time>
+          <time>15:24</time>
+          <time>15:25</time>
+          <time>15:28</time>
+          <time>15:31</time>
+          <time>15:32</time>
+          <time>15:34</time>
+          <time>15:35</time>
+          <time>15:40</time>
+        </run>
+        <run >
+          <time>16:40</time>
+          <time>16:46</time>
+          <time>16:51</time>
+          <time>16:54</time>
+          <time>16:55</time>
+          <time>16:58</time>
+          <time>17:01</time>
+          <time>17:02</time>
+          <time>17:04</time>
+          <time>17:05</time>
+          <time>17:10</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

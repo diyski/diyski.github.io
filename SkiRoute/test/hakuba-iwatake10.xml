@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="八方循環巴士10" to="白馬八方尾根">
+  <outbound>
+    <transportation name="10號Bus 岩岳 新田～八方ゴンドラ" type="other" available="2016/12/17~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="岩岳新田　岳水前"   tag="白馬>岩岳" gps="36.713236, 137.867410" >
+          </stop>
+          <stop name="八方ゴンドラ"   tag="白馬>八方尾根" gps="36.701865, 137.837313" >
+            <interval from="岩岳新田　岳水前" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:55</time>
+          <time>08:05</time>
+        </run>
+        <run >
+          <time>08:35</time>
+          <time>08:45</time>
+        </run>
+        <run >
+          <time>09:20</time>
+          <time>09:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="10號Bus 岩岳 新田～八方ゴンドラ" type="other" available="2016/12/17~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="八方ゴンドラ"   tag="白馬>八方尾根" gps="36.701865, 137.837313" >
+          </stop>
+          <stop name="岩岳新田　岳水前"   tag="白馬>岩岳" gps="36.713236, 137.867410" >
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>14:15</time>
+          <time>14:25</time>
+        </run>
+        <run >
+          <time>15:15</time>
+          <time>15:25</time>
+        </run>
+        <run >
+          <time>16:15</time>
+          <time>16:25</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

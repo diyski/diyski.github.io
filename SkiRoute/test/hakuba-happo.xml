@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="八方循環巴士1、2" to="八方尾根">
+  <outbound>
+    <transportation name="No.2bus 八方シャトルバス内回り" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="白馬八方BT"   tag="白馬>白馬八方BT" gps="36.701526, 137.845761" >
+          </stop>
+          <stop name="マウント"   tag="白馬>マウント" gps="36.701635, 137.843710" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+          </stop>
+          <stop name="咲花ゲレンデ"   tag="白馬>咲花ゲレンデ" gps="36.711114, 137.831366" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+          </stop>
+          <stop name="和田野駐車場／風白馬"   tag="白馬>和田野駐車場／風白馬" gps="36.709972, 137.836062" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="岳都"   tag="白馬>岳都" gps="36.708503, 137.837024" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+          </stop>
+          <stop name="白馬東急ホテル"   tag="白馬>白馬東急ホテル" gps="36.706134, 137.839284" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+          </stop>
+          <stop name="白馬樅ノ木ホテル"   tag="白馬>白馬樅ノ木ホテル" gps="36.707142, 137.836588" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="国際ゲレンデ"   tag="白馬>国際ゲレンデ" gps="36.705829, 137.833108" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="八方ゴンドラ"   tag="白馬>八方ゴンドラ" gps="36.701896, 137.837292" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="名木山ゲレンデ"   tag="白馬>名木山ゲレンデ" gps="36.699019, 137.838537" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="八方第３駐車場"   tag="白馬>八方第３駐車場" gps="36.699576, 137.844120" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="マウント"   tag="白馬>マウント" gps="36.695344, 137.847919" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方BT"   tag="白馬>白馬八方BT" gps="36.701526, 137.845761" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>07:31</time>
+          <time>07:36</time>
+          <time>07:40</time>
+          <time>07:41</time>
+          <time>07:42</time>
+          <time>07:44</time>
+          <time>07:46</time>
+          <time>07:48</time>
+          <time>07:52</time>
+          <time>07:54</time>
+          <time>07:56</time>
+          <time>07:58</time>
+        </run>
+        <run >
+          <time>08:00</time>
+          <time>08:01</time>
+          <time>08:06</time>
+          <time>08:10</time>
+          <time>08:11</time>
+          <time>08:12</time>
+          <time>08:14</time>
+          <time>08:16</time>
+          <time>08:18</time>
+          <time>08:22</time>
+          <time>08:24</time>
+          <time>08:26</time>
+          <time>08:28</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>08:31</time>
+          <time>08:36</time>
+          <time>08:40</time>
+          <time>08:41</time>
+          <time>08:42</time>
+          <time>08:44</time>
+          <time>08:46</time>
+          <time>08:48</time>
+          <time>08:52</time>
+          <time>08:54</time>
+          <time>08:56</time>
+          <time>08:58</time>
+        </run>
+        <run >
+          <time>09:00</time>
+          <time>09:01</time>
+          <time>09:06</time>
+          <time>09:10</time>
+          <time>09:11</time>
+          <time>09:12</time>
+          <time>09:14</time>
+          <time>09:16</time>
+          <time>09:18</time>
+          <time>09:22</time>
+          <time>09:24</time>
+          <time>09:26</time>
+          <time>09:28</time>
+        </run>
+        <run >
+          <time>09:30</time>
+          <time>09:31</time>
+          <time>09:36</time>
+          <time>09:40</time>
+          <time>09:41</time>
+          <time>09:42</time>
+          <time>09:44</time>
+          <time>09:46</time>
+          <time>09:48</time>
+          <time>09:52</time>
+          <time>09:54</time>
+          <time>09:56</time>
+          <time>09:58</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:01</time>
+          <time>10:06</time>
+          <time>10:10</time>
+          <time>10:11</time>
+          <time>10:12</time>
+          <time>10:14</time>
+          <time>10:16</time>
+          <time>10:18</time>
+          <time>10:22</time>
+          <time>10:24</time>
+          <time>10:26</time>
+          <time>10:28</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:31</time>
+          <time>10:36</time>
+          <time>10:40</time>
+          <time>10:41</time>
+          <time>10:42</time>
+          <time>10:44</time>
+          <time>10:46</time>
+          <time>10:48</time>
+          <time>10:52</time>
+          <time>10:54</time>
+          <time>10:56</time>
+          <time>10:58</time>
+        </run>
+        <run >
+          <time>11:00</time>
+          <time>11:01</time>
+          <time>11:06</time>
+          <time>11:10</time>
+          <time>11:11</time>
+          <time>11:12</time>
+          <time>11:14</time>
+          <time>11:16</time>
+          <time>11:18</time>
+          <time>11:22</time>
+          <time>11:24</time>
+          <time>11:26</time>
+          <time>11:28</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>11:31</time>
+          <time>11:36</time>
+          <time>11:40</time>
+          <time>11:41</time>
+          <time>11:42</time>
+          <time>11:44</time>
+          <time>11:46</time>
+          <time>11:48</time>
+          <time>11:52</time>
+          <time>11:54</time>
+          <time>11:56</time>
+          <time>11:58</time>
+        </run>
+        <run >
+          <time>12:00</time>
+          <time>12:01</time>
+          <time>12:06</time>
+          <time>12:10</time>
+          <time>12:11</time>
+          <time>12:12</time>
+          <time>12:14</time>
+          <time>12:16</time>
+          <time>12:18</time>
+          <time>12:22</time>
+          <time>12:24</time>
+          <time>12:26</time>
+          <time>12:28</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:31</time>
+          <time>12:36</time>
+          <time>12:40</time>
+          <time>12:41</time>
+          <time>12:42</time>
+          <time>12:44</time>
+          <time>12:46</time>
+          <time>12:48</time>
+          <time>12:52</time>
+          <time>12:54</time>
+          <time>12:56</time>
+          <time>12:58</time>
+        </run>
+        <run >
+          <time>13:00</time>
+          <time>13:01</time>
+          <time>13:06</time>
+          <time>13:10</time>
+          <time>13:11</time>
+          <time>13:12</time>
+          <time>13:14</time>
+          <time>13:16</time>
+          <time>13:18</time>
+          <time>13:22</time>
+          <time>13:24</time>
+          <time>13:26</time>
+          <time>13:28</time>
+        </run>
+        <run >
+          <time>13:30</time>
+          <time>13:31</time>
+          <time>13:36</time>
+          <time>13:40</time>
+          <time>13:41</time>
+          <time>13:42</time>
+          <time>13:44</time>
+          <time>13:46</time>
+          <time>13:48</time>
+          <time>13:52</time>
+          <time>13:54</time>
+          <time>13:56</time>
+          <time>13:58</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>14:01</time>
+          <time>14:06</time>
+          <time>14:10</time>
+          <time>14:11</time>
+          <time>14:12</time>
+          <time>14:14</time>
+          <time>14:16</time>
+          <time>14:18</time>
+          <time>14:22</time>
+          <time>14:24</time>
+          <time>14:26</time>
+          <time>14:28</time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>14:31</time>
+          <time>14:36</time>
+          <time>14:40</time>
+          <time>14:41</time>
+          <time>14:42</time>
+          <time>14:44</time>
+          <time>14:46</time>
+          <time>14:48</time>
+          <time>14:52</time>
+          <time>14:54</time>
+          <time>14:56</time>
+          <time>14:58</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>15:01</time>
+          <time>15:06</time>
+          <time>15:10</time>
+          <time>15:11</time>
+          <time>15:12</time>
+          <time>15:14</time>
+          <time>15:16</time>
+          <time>15:18</time>
+          <time>15:22</time>
+          <time>15:24</time>
+          <time>15:26</time>
+          <time>15:28</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>15:31</time>
+          <time>15:36</time>
+          <time>15:40</time>
+          <time>15:41</time>
+          <time>15:42</time>
+          <time>15:44</time>
+          <time>15:46</time>
+          <time>15:48</time>
+          <time>15:52</time>
+          <time>15:54</time>
+          <time>15:56</time>
+          <time>15:58</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>16:01</time>
+          <time>16:06</time>
+          <time>16:10</time>
+          <time>16:11</time>
+          <time>16:12</time>
+          <time>16:14</time>
+          <time>16:16</time>
+          <time>16:18</time>
+          <time>16:22</time>
+          <time>16:24</time>
+          <time>16:26</time>
+          <time>16:28</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>16:31</time>
+          <time>16:36</time>
+          <time>16:40</time>
+          <time>16:41</time>
+          <time>16:42</time>
+          <time>16:44</time>
+          <time>16:46</time>
+          <time>16:48</time>
+          <time>16:52</time>
+          <time>16:54</time>
+          <time>16:56</time>
+          <time>16:58</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>17:01</time>
+          <time>17:06</time>
+          <time>17:10</time>
+          <time>17:11</time>
+          <time>17:12</time>
+          <time>17:14</time>
+          <time>17:16</time>
+          <time>17:18</time>
+          <time>17:22</time>
+          <time>17:24</time>
+          <time>17:26</time>
+          <time>17:28</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="No.1bus 八方シャトルバス外回り" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="白馬八方BT"   tag="白馬>白馬八方BT" gps="36.701526, 137.845761" >
+          </stop>
+          <stop name="マウント"   tag="白馬>マウント" gps="36.695344, 137.847919" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+          </stop>
+          <stop name="八方第３駐車場"   tag="白馬>八方第３駐車場" gps="36.699576, 137.844120" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+          </stop>
+          <stop name="名木山ゲレンデ"   tag="白馬>名木山ゲレンデ" gps="36.699019, 137.838537" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="八方ゴンドラ"   tag="白馬>八方ゴンドラ" gps="36.701896, 137.837292" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="国際ゲレンデ"   tag="白馬>国際ゲレンデ" gps="36.705829, 137.833108" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬樅ノ木ホテル"   tag="白馬>白馬樅ノ木ホテル" gps="36.707142, 137.836588" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬東急ホテル"   tag="白馬>白馬東急ホテル" gps="36.706134, 137.839284" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="岳都"   tag="白馬>岳都" gps="36.708503, 137.837024" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="和田野駐車場／風白馬"   tag="白馬>和田野駐車場／風白馬" gps="36.709972, 137.836062" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+          </stop>
+          <stop name="咲花ゲレンデ"   tag="白馬>咲花ゲレンデ" gps="36.711114, 137.831366" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+          </stop>
+          <stop name="マウント"   tag="白馬>マウント" gps="36.701635, 137.843710" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方BT"   tag="白馬>白馬八方BT" gps="36.701526, 137.845761" >
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+            <interval from="八方第３駐車場" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="国際ゲレンデ" fare="0" km="0" />
+            <interval from="白馬樅ノ木ホテル" fare="0" km="0" />
+            <interval from="白馬東急ホテル" fare="0" km="0" />
+            <interval from="岳都" fare="0" km="0" />
+            <interval from="和田野駐車場／風白馬" fare="0" km="0" />
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="マウント" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>07:31</time>
+          <time>07:33</time>
+          <time>07:36</time>
+          <time>07:40</time>
+          <time>07:42</time>
+          <time>07:44</time>
+          <time>07:46</time>
+          <time>07:47</time>
+          <time>07:48</time>
+          <time>07:52</time>
+          <time>07:56</time>
+          <time>07:58</time>
+        </run>
+        <run >
+          <time>08:00</time>
+          <time>08:01</time>
+          <time>08:03</time>
+          <time>08:06</time>
+          <time>08:10</time>
+          <time>08:12</time>
+          <time>08:14</time>
+          <time>08:16</time>
+          <time>08:17</time>
+          <time>08:18</time>
+          <time>08:22</time>
+          <time>08:26</time>
+          <time>08:28</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>08:31</time>
+          <time>08:33</time>
+          <time>08:36</time>
+          <time>08:40</time>
+          <time>08:42</time>
+          <time>08:44</time>
+          <time>08:46</time>
+          <time>08:47</time>
+          <time>08:48</time>
+          <time>08:52</time>
+          <time>08:56</time>
+          <time>08:58</time>
+        </run>
+        <run >
+          <time>09:00</time>
+          <time>09:01</time>
+          <time>09:03</time>
+          <time>09:06</time>
+          <time>09:10</time>
+          <time>09:12</time>
+          <time>09:14</time>
+          <time>09:16</time>
+          <time>09:17</time>
+          <time>09:18</time>
+          <time>09:22</time>
+          <time>09:26</time>
+          <time>09:28</time>
+        </run>
+        <run >
+          <time>09:30</time>
+          <time>09:31</time>
+          <time>09:33</time>
+          <time>09:36</time>
+          <time>09:40</time>
+          <time>09:42</time>
+          <time>09:44</time>
+          <time>09:46</time>
+          <time>09:47</time>
+          <time>09:48</time>
+          <time>09:52</time>
+          <time>09:56</time>
+          <time>09:58</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:01</time>
+          <time>10:03</time>
+          <time>10:06</time>
+          <time>10:10</time>
+          <time>10:12</time>
+          <time>10:14</time>
+          <time>10:16</time>
+          <time>10:17</time>
+          <time>10:18</time>
+          <time>10:22</time>
+          <time>10:26</time>
+          <time>10:28</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:31</time>
+          <time>10:33</time>
+          <time>10:36</time>
+          <time>10:40</time>
+          <time>10:42</time>
+          <time>10:44</time>
+          <time>10:46</time>
+          <time>10:47</time>
+          <time>10:48</time>
+          <time>10:52</time>
+          <time>10:56</time>
+          <time>10:58</time>
+        </run>
+        <run >
+          <time>11:00</time>
+          <time>11:01</time>
+          <time>11:03</time>
+          <time>11:06</time>
+          <time>11:10</time>
+          <time>11:12</time>
+          <time>11:14</time>
+          <time>11:16</time>
+          <time>11:17</time>
+          <time>11:18</time>
+          <time>11:22</time>
+          <time>11:26</time>
+          <time>11:28</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>11:31</time>
+          <time>11:33</time>
+          <time>11:36</time>
+          <time>11:40</time>
+          <time>11:42</time>
+          <time>11:44</time>
+          <time>11:46</time>
+          <time>11:47</time>
+          <time>11:48</time>
+          <time>11:52</time>
+          <time>11:56</time>
+          <time>11:58</time>
+        </run>
+        <run >
+          <time>12:00</time>
+          <time>12:01</time>
+          <time>12:03</time>
+          <time>12:06</time>
+          <time>12:10</time>
+          <time>12:12</time>
+          <time>12:14</time>
+          <time>12:16</time>
+          <time>12:17</time>
+          <time>12:18</time>
+          <time>12:22</time>
+          <time>12:26</time>
+          <time>12:28</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:31</time>
+          <time>12:33</time>
+          <time>12:36</time>
+          <time>12:40</time>
+          <time>12:42</time>
+          <time>12:44</time>
+          <time>12:46</time>
+          <time>12:47</time>
+          <time>12:48</time>
+          <time>12:52</time>
+          <time>12:56</time>
+          <time>12:58</time>
+        </run>
+        <run >
+          <time>13:00</time>
+          <time>13:01</time>
+          <time>13:03</time>
+          <time>13:06</time>
+          <time>13:10</time>
+          <time>13:12</time>
+          <time>13:14</time>
+          <time>13:16</time>
+          <time>13:17</time>
+          <time>13:18</time>
+          <time>13:22</time>
+          <time>13:26</time>
+          <time>13:28</time>
+        </run>
+        <run >
+          <time>13:30</time>
+          <time>13:31</time>
+          <time>13:33</time>
+          <time>13:36</time>
+          <time>13:40</time>
+          <time>13:42</time>
+          <time>13:44</time>
+          <time>13:46</time>
+          <time>13:47</time>
+          <time>13:48</time>
+          <time>13:52</time>
+          <time>13:56</time>
+          <time>13:58</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>14:01</time>
+          <time>14:03</time>
+          <time>14:06</time>
+          <time>14:10</time>
+          <time>14:12</time>
+          <time>14:14</time>
+          <time>14:16</time>
+          <time>14:17</time>
+          <time>14:18</time>
+          <time>14:22</time>
+          <time>14:26</time>
+          <time>14:28</time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>14:31</time>
+          <time>14:33</time>
+          <time>14:36</time>
+          <time>14:40</time>
+          <time>14:42</time>
+          <time>14:44</time>
+          <time>14:46</time>
+          <time>14:47</time>
+          <time>14:48</time>
+          <time>14:52</time>
+          <time>14:56</time>
+          <time>14:58</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>15:01</time>
+          <time>15:03</time>
+          <time>15:06</time>
+          <time>15:10</time>
+          <time>15:12</time>
+          <time>15:14</time>
+          <time>15:16</time>
+          <time>15:17</time>
+          <time>15:18</time>
+          <time>15:22</time>
+          <time>15:26</time>
+          <time>15:28</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>15:31</time>
+          <time>15:33</time>
+          <time>15:36</time>
+          <time>15:40</time>
+          <time>15:42</time>
+          <time>15:44</time>
+          <time>15:46</time>
+          <time>15:47</time>
+          <time>15:48</time>
+          <time>15:52</time>
+          <time>15:56</time>
+          <time>15:58</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>16:01</time>
+          <time>16:03</time>
+          <time>16:06</time>
+          <time>16:10</time>
+          <time>16:12</time>
+          <time>16:14</time>
+          <time>16:16</time>
+          <time>16:17</time>
+          <time>16:18</time>
+          <time>16:22</time>
+          <time>16:26</time>
+          <time>16:28</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>16:31</time>
+          <time>16:33</time>
+          <time>16:36</time>
+          <time>16:40</time>
+          <time>16:42</time>
+          <time>16:44</time>
+          <time>16:46</time>
+          <time>16:47</time>
+          <time>16:48</time>
+          <time>16:52</time>
+          <time>16:56</time>
+          <time>16:58</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>17:01</time>
+          <time>17:03</time>
+          <time>17:06</time>
+          <time>17:10</time>
+          <time>17:12</time>
+          <time>17:14</time>
+          <time>17:16</time>
+          <time>17:17</time>
+          <time>17:18</time>
+          <time>17:22</time>
+          <time>17:26</time>
+          <time>17:28</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>
