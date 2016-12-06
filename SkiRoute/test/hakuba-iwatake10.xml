@@ -9,7 +9,7 @@
         <route>
           <stop name="岩岳新田　岳水前"   tag="白馬>岩岳" gps="36.713236, 137.867410" >
           </stop>
-          <stop name="八方ゴンドラ"   tag="白馬>八方尾根" gps="36.701865, 137.837313" >
+          <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
             <interval from="岩岳新田　岳水前" fare="0" km="0" />
           </stop>
         </route>
@@ -35,7 +35,7 @@
       <source>http://www.happo-one.jp/access/shuttle-bus</source>
       <timetable>
         <route>
-          <stop name="八方ゴンドラ"   tag="白馬>八方尾根" gps="36.701865, 137.837313" >
+          <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
           </stop>
           <stop name="岩岳新田　岳水前"   tag="白馬>岩岳" gps="36.713236, 137.867410" >
             <interval from="八方ゴンドラ" fare="0" km="0" />

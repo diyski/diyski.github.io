@@ -7,7 +7,7 @@
       <source>http://www.happo-one.jp/access/shuttle-bus</source>
       <timetable>
         <route>
-          <stop name="スパイシーレンタル"   tag="白馬>スパイシーレンタル" gps="36.692485, 137.844941" >
+          <stop name="スパイシーレンタル"   tag="白馬>八方" gps="36.692485, 137.844965" >
           </stop>
           <stop name="チェリーパブ"   tag="白馬>チェリーパブ" gps="36.689417, 137.845369" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
@@ -16,25 +16,25 @@
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
           </stop>
-          <stop name="カルチャード"   tag="白馬>カルチャード" gps="36.684043, 137.847174" >
+          <stop name="カルチャード"   tag="白馬>八方" gps="36.684030, 137.847238" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
           </stop>
-          <stop name="流星花園"   tag="白馬>流星花園" gps="36.683308, 137.851175" >
+          <stop name="流星花園"   tag="白馬>八方" gps="36.683308, 137.851175" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
             <interval from="カルチャード" fare="0" km="0" />
           </stop>
-          <stop name="アルパインシャレー"   tag="白馬>アルパインシャレー" gps="36.691364, 137.849581" >
+          <stop name="アルパインシャレー"   tag="白馬>八方" gps="36.691383, 137.849568" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
             <interval from="カルチャード" fare="0" km="0" />
             <interval from="流星花園" fare="0" km="0" />
           </stop>
-          <stop name="ぴー坊"   tag="白馬>ぴー坊" gps="36.695075, 137.849002" >
+          <stop name="ぴー坊"   tag="白馬>八方" gps="36.695049, 137.848991" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
@@ -42,7 +42,7 @@
             <interval from="流星花園" fare="0" km="0" />
             <interval from="アルパインシャレー" fare="0" km="0" />
           </stop>
-          <stop name="呼雲荘"   tag="白馬>呼雲荘" gps="36.695376, 137.849984" >
+          <stop name="呼雲荘"   tag="白馬>八方" gps="36.695359, 137.849898" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
@@ -61,7 +61,7 @@
             <interval from="ぴー坊" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
           </stop>
-          <stop name="白馬八方ＢＴ"   tag="白馬>白馬八方ＢＴ" gps="36.701553, 137.845696" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
@@ -72,7 +72,7 @@
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
           </stop>
-          <stop name="八方ゴンドラ"   tag="白馬>八方ゴンドラ" gps="36.701864, 137.837311" >
+          <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
@@ -82,7 +82,7 @@
             <interval from="ぴー坊" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -147,44 +147,44 @@
       <source>http://www.happo-one.jp/access/shuttle-bus</source>
       <timetable>
         <route>
-          <stop name="八方ゴンドラ"   tag="白馬>八方ゴンドラ" gps="36.701864, 137.837311" >
+          <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
           </stop>
-          <stop name="白馬八方ＢＴ"   tag="白馬>白馬八方ＢＴ" gps="36.701553, 137.845696" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
           </stop>
           <stop name="ホテル白馬"   tag="白馬>ホテル白馬" gps="36.697059, 137.853555" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
-          <stop name="呼雲荘"   tag="白馬>呼雲荘" gps="36.695376, 137.849984" >
+          <stop name="呼雲荘"   tag="白馬>八方" gps="36.695359, 137.849898" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
           </stop>
-          <stop name="ぴー坊"   tag="白馬>ぴー坊" gps="36.695075, 137.849002" >
+          <stop name="ぴー坊"   tag="白馬>八方" gps="36.695049, 137.848991" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
           </stop>
-          <stop name="アルパインシャレー"   tag="白馬>アルパインシャレー" gps="36.691364, 137.849581" >
+          <stop name="アルパインシャレー"   tag="白馬>八方" gps="36.691383, 137.849568" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
           </stop>
-          <stop name="流星花園"   tag="白馬>流星花園" gps="36.683308, 137.851175" >
+          <stop name="流星花園"   tag="白馬>八方" gps="36.683308, 137.851175" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
             <interval from="アルパインシャレー" fare="0" km="0" />
           </stop>
-          <stop name="カルチャード"   tag="白馬>カルチャード" gps="36.684043, 137.847174" >
+          <stop name="カルチャード"   tag="白馬>八方" gps="36.684030, 137.847238" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -193,7 +193,7 @@
           </stop>
           <stop name="トロイメライ"   tag="白馬>トロイメライ" gps="36.687158, 137.846714" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -203,7 +203,7 @@
           </stop>
           <stop name="チェリーパブ"   tag="白馬>チェリーパブ" gps="36.689417, 137.845369" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -212,9 +212,9 @@
             <interval from="カルチャード" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
           </stop>
-          <stop name="スパイシーレンタル"   tag="白馬>スパイシーレンタル" gps="36.692485, 137.844941" >
+          <stop name="スパイシーレンタル"   tag="白馬>八方" gps="36.692485, 137.844965" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方ＢＴ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />

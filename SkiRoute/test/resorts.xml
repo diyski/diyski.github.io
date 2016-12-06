@@ -63,21 +63,21 @@
     </accessPoint>
     <accessPoint name="新宿" filename="hakuba-shinjuku.xml">
     </accessPoint>
-    <accessPoint name="八方" filename="hakuba-happo.xml">
+    <accessPoint name="八方循環巴士1、2" filename="hakuba-happo.xml">
     </accessPoint>
-    <accessPoint name="岩岳" filename="hakuba-iwatake3.xml">
+    <accessPoint name="八方循環巴士3" filename="hakuba-iwatake3.xml">
     </accessPoint>
-    <accessPoint name="岩岳" filename="hakuba-gondola.xml">
+    <accessPoint name="八方循環巴士4" filename="hakuba-gondola.xml">
     </accessPoint>
-    <accessPoint name="岩岳" filename="hakuba-iwatake5.xml">
+    <accessPoint name="八方循環巴士5" filename="hakuba-iwatake5.xml">
     </accessPoint>
-    <accessPoint name="岩岳" filename="hakuba-sakka.xml">
+    <accessPoint name="八方循環巴士6" filename="hakuba-sakka.xml">
     </accessPoint>
-    <accessPoint name="岩岳" filename="hakuba-iwatake7.xml">
+    <accessPoint name="八方循環巴士7" filename="hakuba-iwatake7.xml">
     </accessPoint>
-    <accessPoint name="岩岳" filename="hakuba-happo8.xml">
+    <accessPoint name="八方循環巴士8、9" filename="hakuba-happo8.xml">
     </accessPoint>
-    <accessPoint name="岩岳" filename="hakuba-iwatake10.xml">
+    <accessPoint name="八方循環巴士10" filename="hakuba-iwatake10.xml">
     </accessPoint>
   </resort>
   <resort name="妙高">
