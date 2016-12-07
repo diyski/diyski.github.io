@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="王子飯店免費巴士" to="苗場">
+  <outbound>
+    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01" apply-to="苗場">
+      <info>住宿者專用；0820和1520只開周六及日本年假
+</info>
+      <source>http://www.princehotels.co.jp/naeba/access/</source>
+      <timetable>
+        <route>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+          </stop>
+          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+            <interval from="JR越後湯沢駅" fare="0" km="22" />
+          </stop>
+        </route>
+        <run available="6" >
+          <time>08:20</time>
+          <time>09:00</time>
+        </run>
+        <run >
+          <time>09:20</time>
+          <time>10:00</time>
+        </run>
+        <run >
+          <time>10:20</time>
+          <time>11:00</time>
+        </run>
+        <run >
+          <time>11:20</time>
+          <time>12:00</time>
+        </run>
+        <run >
+          <time>12:20</time>
+          <time>13:00</time>
+        </run>
+        <run >
+          <time>14:20</time>
+          <time>15:00</time>
+        </run>
+        <run available="6" >
+          <time>15:20</time>
+          <time>16:00</time>
+        </run>
+        <run >
+          <time>16:20</time>
+          <time>17:00</time>
+        </run>
+        <run >
+          <time>17:20</time>
+          <time>18:00</time>
+        </run>
+        <run >
+          <time>19:40</time>
+          <time>20:20</time>
+        </run>
+        <run >
+          <time>22:10</time>
+          <time>22:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,石打丸,東北市區,京都,長野,名古屋,Gala,大阪,越後湯沢,東京,戸狩温泉,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,NASPA">
+      <info>住宿者專用；0820和1520只開周六及日本年假
+</info>
+      <source>http://www.princehotels.co.jp/naeba/access/</source>
+      <timetable>
+        <route>
+          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          </stop>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+            <interval from="王子飯店四號館" fare="0" km="22" />
+          </stop>
+        </route>
+        <run >
+          <time>10:30</time>
+          <time>11:10</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>12:10</time>
+        </run>
+        <run available="67h" >
+          <time>12:30</time>
+          <time>13:10</time>
+        </run>
+        <run >
+          <time>13:30</time>
+          <time>14:10</time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>15:10</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>16:10</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>17:10</time>
+        </run>
+        <run available="67h" >
+          <time>17:30</time>
+          <time>18:10</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

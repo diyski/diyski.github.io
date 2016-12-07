@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="飯山" to="志賀">
+  <outbound>
+    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+      <info>
+      </info>
+      <source>http://www.nagadenbus.co.jp/express.html</source>
+      <timetable>
+        <route>
+          <stop name="飯山"   tag="" gps="" >
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+      <info>
+      </info>
+      <source>http://www.nagadenbus.co.jp/express.html</source>
+      <timetable>
+        <route>
+          <stop name="志賀"   tag="" gps="" >
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

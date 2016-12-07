@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="札幌" to="留壽都">
+  <outbound>
+    <transportation name="往留壽都免費巴士" type="other" available="2016/11/26~2017/04/09" apply-to="留壽都">
+      <info>電子郵件聯繫壽都度假區札幌銷售辦事處 rusutsugou@kamori.co.jp</info>
+      <source>http://en.rusutsu.co.jp/zh-tw/free-shuttle-sapporo-rusutsu-resort-2016-17-winter/</source>
+      <timetable>
+        <route>
+          <stop name="留壽都度假札幌辦事處"   tag="札幌>其他" gps="" >
+          </stop>
+          <stop name="ルスツリゾートホテルN&amp;S"   tag="留壽都>飯店" gps="42.751866, 140.902954" >
+            <interval from="留壽都度假札幌辦事處" fare="0" km="72" />
+          </stop>
+          <stop name="ウェスティンルスツリゾート"   tag="留壽都>飯店" gps="42.747823, 140.904380" >
+            <interval from="留壽都度假札幌辦事處" fare="0" km="72" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:00</time>
+          <time>10:00</time>
+          <time>10:10</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="往札幌免費巴士" type="other" available="2016/11/26~2017/04/09" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,富良野,盤溪,朝里川,京都,長野,名古屋,大阪,Gala,札幌,東北市區,東京,越後湯沢,NASPA,戸狩温泉,キロロ,二世古,定山渓,機場,石打丸,台灣,湯沢中里,湯沢高原,舞子,札幌国際">
+      <info>電子郵件聯繫壽都度假區札幌銷售辦事處 rusutsugou@kamori.co.jp</info>
+      <source>http://en.rusutsu.co.jp/zh-tw/free-shuttle-sapporo-rusutsu-resort-2016-17-winter/</source>
+      <timetable>
+        <route>
+          <stop name="ウェスティンルスツリゾート"   tag="留壽都>飯店" gps="42.747823, 140.904380" >
+          </stop>
+          <stop name="ルスツリゾートホテルN&amp;S"   tag="留壽都>飯店" gps="42.751866, 140.902954" >
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+          </stop>
+          <stop name="留壽都度假札幌辦事處"   tag="札幌>其他" gps="" >
+            <interval from="ウェスティンルスツリゾート" fare="0" km="72" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="72" />
+          </stop>
+        </route>
+        <run >
+          <time>16:50</time>
+          <time>17:00</time>
+          <time>19:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

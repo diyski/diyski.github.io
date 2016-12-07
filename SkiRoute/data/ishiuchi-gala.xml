@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="Gala" to="石打丸">
+  <outbound>
+    <transportation name="石打丸石口→GALA" type="other" available="2017/01/14~2017/03/20" apply-to=",Gala">
+      <info>Free GALA shuttle bus，只有單向往Gala</info>
+      <source>http://www.ishiuchi.or.jp/bus/index.html</source>
+      <timetable>
+        <route>
+          <stop name="石口"   tag="石打丸>石打丸" gps="" >
+          </stop>
+          <stop name="Gala"   tag="Gala>Gala" gps="36.950418, 138.800019" >
+            <interval from="石口" fare="0" km="5" />
+          </stop>
+        </route>
+        <run >
+          <time>17:05</time>
+          <time>17:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+  </inbound>
+</accesspoint>

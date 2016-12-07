@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="八方循環巴士6" to="咲花">
+  <outbound>
+    <transportation name="No.6Bus オークフォレスト～名木山・咲花" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="オークフォレスト"   tag="白馬>八方" gps="36.691167, 137.833648" >
+          </stop>
+          <stop name="ホテル ラフォーレ白馬八方"   tag="白馬>八方" gps="" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+          </stop>
+          <stop name="ぴー坊"   tag="白馬>八方" gps="36.695049, 137.848991" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+          </stop>
+          <stop name="呼雲荘"   tag="白馬>八方" gps="36.695359, 137.849898" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル白馬"   tag="白馬>八方" gps="36.697095, 137.853575" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+          </stop>
+          <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="けやきの樹"   tag="白馬>八方" gps="" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+          </stop>
+          <stop name="咲花ゲレンデ"   tag="白馬>八方" gps="36.711134, 137.831353" >
+            <interval from="オークフォレスト" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:20</time>
+          <time>08:22</time>
+          <time>08:27</time>
+          <time>08:28</time>
+          <time>08:30</time>
+          <time>08:36</time>
+          <time>08:40</time>
+          <time>08:42</time>
+          <time>08:45</time>
+        </run>
+        <run >
+          <time>09:20</time>
+          <time>09:22</time>
+          <time>09:27</time>
+          <time>09:28</time>
+          <time>09:30</time>
+          <time>09:36</time>
+          <time>09:40</time>
+          <time>09:42</time>
+          <time>09:45</time>
+        </run>
+        <run >
+          <time>10:20</time>
+          <time>10:22</time>
+          <time>10:27</time>
+          <time>10:28</time>
+          <time>10:30</time>
+          <time>10:36</time>
+          <time>10:40</time>
+          <time>10:42</time>
+          <time>10:45</time>
+        </run>
+        <run >
+          <time>12:25</time>
+          <time>12:27</time>
+          <time>12:32</time>
+          <time>12:33</time>
+          <time>12:35</time>
+          <time>12:41</time>
+          <time>12:45</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>13:25</time>
+          <time>13:27</time>
+          <time>13:32</time>
+          <time>13:33</time>
+          <time>13:35</time>
+          <time>13:41</time>
+          <time>13:45</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="No.6Bus オークフォレスト～名木山・咲花" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="咲花ゲレンデ"   tag="白馬>八方" gps="36.711134, 137.831353" >
+          </stop>
+          <stop name="けやきの樹"   tag="白馬>八方" gps="" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+          </stop>
+          <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル白馬"   tag="白馬>八方" gps="36.697095, 137.853575" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="呼雲荘"   tag="白馬>八方" gps="36.695359, 137.849898" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+          </stop>
+          <stop name="ぴー坊"   tag="白馬>八方" gps="36.695049, 137.848991" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル ラフォーレ白馬八方"   tag="白馬>八方" gps="" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+          </stop>
+          <stop name="オークフォレスト"   tag="白馬>八方" gps="36.691167, 137.833648" >
+            <interval from="咲花ゲレンデ" fare="0" km="0" />
+            <interval from="けやきの樹" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="ホテル白馬" fare="0" km="0" />
+            <interval from="呼雲荘" fare="0" km="0" />
+            <interval from="ぴー坊" fare="0" km="0" />
+            <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>12:00</time>
+          <time>12:04</time>
+          <time>12:10</time>
+          <time>12:12</time>
+          <time>12:13</time>
+          <time>12:18</time>
+          <time>12:20</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>13:00</time>
+          <time>13:04</time>
+          <time>13:10</time>
+          <time>13:12</time>
+          <time>13:13</time>
+          <time>13:18</time>
+          <time>13:20</time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>14:33</time>
+          <time>14:35</time>
+          <time>14:39</time>
+          <time>14:45</time>
+          <time>14:47</time>
+          <time>14:48</time>
+          <time>14:53</time>
+          <time>14:55</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>15:33</time>
+          <time>15:35</time>
+          <time>15:39</time>
+          <time>15:45</time>
+          <time>15:47</time>
+          <time>15:48</time>
+          <time>15:53</time>
+          <time>15:55</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>16:33</time>
+          <time>16:35</time>
+          <time>16:39</time>
+          <time>16:45</time>
+          <time>16:47</time>
+          <time>16:48</time>
+          <time>16:53</time>
+          <time>17:55</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

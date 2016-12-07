@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="八方循環巴士3" to="岩岳">
+  <outbound>
+    <transportation name="No.3Bus みそら野大通り～白馬八方・岩岳" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="流星花園"   tag="白馬>八方" gps="36.683308, 137.851175" >
+          </stop>
+          <stop name="カルチャード"   tag="白馬>八方" gps="36.684030, 137.847238" >
+            <interval from="流星花園" fare="0" km="0" />
+          </stop>
+          <stop name="南十字星"   tag="白馬>八方" gps="36.685865, 137.842581" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+          </stop>
+          <stop name="みそら野 大通5丁目"   tag="白馬>八方" gps="36.691063, 137.834742" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+          </stop>
+          <stop name="ハッピーベル"   tag="白馬>ハッピーベル" gps="36.689289, 137.834601" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+          </stop>
+          <stop name="みそら野 ロータリー"   tag="白馬>八方" gps="" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+          </stop>
+          <stop name="ベアーズカフェ"   tag="白馬>八方" gps="" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+          </stop>
+          <stop name="シェイクスピア"   tag="白馬>八方" gps="36.690895, 137.843950" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+          </stop>
+          <stop name="スパイシーレンタル"   tag="白馬>八方" gps="36.692485, 137.844965" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+          </stop>
+          <stop name="スノーラインズロッジ"   tag="白馬>八方" gps="36.695031, 137.845812" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+          </stop>
+          <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳" gps="36.716878, 137.858722" >
+            <interval from="流星花園" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:20</time>
+          <time>07:21</time>
+          <time>07:23</time>
+          <time>07:25</time>
+          <time>07:26</time>
+          <time>07:27</time>
+          <time>07:28</time>
+          <time>07:29</time>
+          <time>07:30</time>
+          <time>07:33</time>
+          <time>07:37</time>
+          <time>07:42</time>
+          <time>07:48</time>
+        </run>
+        <run >
+          <time>08:20</time>
+          <time>08:21</time>
+          <time>08:23</time>
+          <time>08:25</time>
+          <time>08:26</time>
+          <time>08:27</time>
+          <time>08:28</time>
+          <time>08:29</time>
+          <time>08:30</time>
+          <time>08:33</time>
+          <time>08:37</time>
+          <time>08:42</time>
+          <time>08:48</time>
+        </run>
+        <run >
+          <time>09:20</time>
+          <time>09:21</time>
+          <time>09:23</time>
+          <time>09:25</time>
+          <time>09:26</time>
+          <time>09:27</time>
+          <time>09:28</time>
+          <time>09:29</time>
+          <time>09:30</time>
+          <time>09:33</time>
+          <time>09:37</time>
+          <time>09:42</time>
+          <time>09:48</time>
+        </run>
+        <run >
+          <time>10:20</time>
+          <time>10:21</time>
+          <time>10:23</time>
+          <time>10:25</time>
+          <time>10:26</time>
+          <time>10:27</time>
+          <time>10:28</time>
+          <time>10:29</time>
+          <time>10:30</time>
+          <time>10:33</time>
+          <time>10:37</time>
+          <time>10:42</time>
+          <time>10:48</time>
+        </run>
+        <run >
+          <time>12:00</time>
+          <time>12:01</time>
+          <time>10:03</time>
+          <time>12:05</time>
+          <time>12:06</time>
+          <time>12:07</time>
+          <time>10:08</time>
+          <time>12:09</time>
+          <time>12:10</time>
+          <time>12:13</time>
+          <time>12:17</time>
+          <time>12:22</time>
+          <time>12:28</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="No.3Bus みそら野大通り～白馬八方・岩岳" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳" gps="36.716878, 137.858722" >
+          </stop>
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+          </stop>
+          <stop name="スノーラインズロッジ"   tag="白馬>八方" gps="36.695031, 137.845812" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="スパイシーレンタル"   tag="白馬>八方" gps="36.692485, 137.844965" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+          </stop>
+          <stop name="シェイクスピア"   tag="白馬>八方" gps="36.690895, 137.843950" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+          </stop>
+          <stop name="ベアーズカフェ"   tag="白馬>八方" gps="" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+          </stop>
+          <stop name="みそら野 ロータリー"   tag="白馬>八方" gps="" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+          </stop>
+          <stop name="ハッピーベル"   tag="白馬>ハッピーベル" gps="36.689289, 137.834601" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+          </stop>
+          <stop name="みそら野 大通5丁目"   tag="白馬>八方" gps="36.691063, 137.834742" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+          </stop>
+          <stop name="南十字星"   tag="白馬>八方" gps="36.685865, 137.842581" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+          </stop>
+          <stop name="カルチャード"   tag="白馬>八方" gps="36.684030, 137.847238" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+          </stop>
+          <stop name="流星花園"   tag="白馬>八方" gps="36.683308, 137.851175" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="名木山ゲレンデ" fare="0" km="0" />
+            <interval from="スノーラインズロッジ" fare="0" km="0" />
+            <interval from="スパイシーレンタル" fare="0" km="0" />
+            <interval from="シェイクスピア" fare="0" km="0" />
+            <interval from="ベアーズカフェ" fare="0" km="0" />
+            <interval from="みそら野 ロータリー" fare="0" km="0" />
+            <interval from="ハッピーベル" fare="0" km="0" />
+            <interval from="みそら野 大通5丁目" fare="0" km="0" />
+            <interval from="南十字星" fare="0" km="0" />
+            <interval from="カルチャード" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>13:00</time>
+          <time>13:07</time>
+          <time>13:12</time>
+          <time>13:16</time>
+          <time>13:19</time>
+          <time>13:20</time>
+          <time>13:21</time>
+          <time>13:22</time>
+          <time>13:23</time>
+          <time>13:24</time>
+          <time>13:26</time>
+          <time>13:28</time>
+          <time>13:29</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>14:07</time>
+          <time>14:12</time>
+          <time>14:16</time>
+          <time>14:19</time>
+          <time>14:20</time>
+          <time>14:21</time>
+          <time>14:22</time>
+          <time>14:23</time>
+          <time>14:24</time>
+          <time>14:26</time>
+          <time>14:28</time>
+          <time>14:29</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>15:07</time>
+          <time>15:12</time>
+          <time>15:16</time>
+          <time>15:19</time>
+          <time>15:20</time>
+          <time>15:21</time>
+          <time>15:22</time>
+          <time>15:23</time>
+          <time>15:24</time>
+          <time>15:26</time>
+          <time>15:28</time>
+          <time>15:29</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>16:07</time>
+          <time>16:12</time>
+          <time>16:16</time>
+          <time>16:19</time>
+          <time>16:20</time>
+          <time>16:21</time>
+          <time>16:22</time>
+          <time>16:23</time>
+          <time>16:24</time>
+          <time>16:26</time>
+          <time>16:28</time>
+          <time>16:29</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>17:07</time>
+          <time>17:12</time>
+          <time>17:16</time>
+          <time>17:19</time>
+          <time>17:20</time>
+          <time>17:21</time>
+          <time>17:22</time>
+          <time>17:23</time>
+          <time>17:24</time>
+          <time>17:26</time>
+          <time>17:28</time>
+          <time>17:29</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

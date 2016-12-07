@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="長野" to="志賀">
+  <outbound>
+    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+      <info>
+      </info>
+      <source>http://www.nagadenbus.co.jp/express.html</source>
+      <timetable>
+        <route>
+          <stop name="長野"   tag="" gps="" >
+          </stop>
+          <stop name="未命名"   tag="" gps="" >
+            <interval from="長野" fare="0" km="0" />
+          </stop>
+          <stop name="未命名"   tag="" gps="" >
+            <interval from="長野" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+          </stop>
+          <stop name="未命名"   tag="" gps="" >
+            <interval from="長野" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+            <interval from="未命名" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+          <time>17:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>1700</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+      <info>
+      </info>
+      <source>http://www.nagadenbus.co.jp/express.html</source>
+      <timetable>
+        <route>
+          <stop name="志賀"   tag="" gps="" >
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

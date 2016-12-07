@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="日本(虎航)" to="台灣">
+  <outbound>
+    <transportation name="虎航 關西→台灣" type="other" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+          </stop>
+          <stop name="小港機場"   tag="台灣>高雄" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
+            <interval from="小港機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>11:25</time>
+          <time>14:15</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>13:50</time>
+        </run>
+        <run >
+          <time>20:35</time>
+          <time>
+          </time>
+          <time>22:55</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="虎航 函館→桃園" type="other" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="函館空港" yahoo="true"  tag="機場>函館空港" gps="" >
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="函館空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>11:45</time>
+          <time>15:40</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="虎航 東北→桃園" type="other" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="仙台空港" yahoo="true"  tag="機場>仙台空港" gps="" >
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="仙台空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>19:40</time>
+          <time>23:10</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="虎航 東京→台灣" type="other" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          </stop>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773835, 140.388533" >
+            <interval from="羽田国際線" fare="0" km="0" />
+          </stop>
+          <stop name="小港機場"   tag="台灣>高雄" gps="" >
+            <interval from="羽田国際線" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="羽田国際線" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+            <interval from="小港機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>05:25</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>08:30</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>11:25</time>
+          <time>15:00</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>13:55</time>
+          <time>
+          </time>
+          <time>17:15</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>19:00</time>
+          <time>
+          </time>
+          <time>22:20</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="虎航 台灣→關西" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,湯沢高原,舞子,藏王,定山渓,安比,機場,キロロ,長野,盤溪,軽井沢,Gala,名古屋,東京,戸狩温泉,二世古,留壽都,越後湯沢,大阪,NASPA">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="小港機場"   tag="台灣>高雄" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="小港機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:55</time>
+          <time>
+          </time>
+          <time>10:25</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>09:15</time>
+          <time>12:55</time>
+        </run>
+        <run >
+          <time>16:20</time>
+          <time>
+          </time>
+          <time>19:45</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="虎航 桃園→函館" type="other" available="" apply-to="二世谷,留壽都,盤溪,札幌国際,朝里川,二世古,キロロ,富良野,定山渓">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="函館空港" yahoo="true"  tag="機場>函館空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:00</time>
+          <time>10:35</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="虎航 桃園→東北" type="other" available="" apply-to="藏王,安比,東北市區">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="仙台空港" yahoo="true"  tag="機場>仙台空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>14:20</time>
+          <time>18:40</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="虎航 台灣→東京" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,東北市區,長野,Gala,越後湯沢,東京,盤溪,富良野,石打丸,朝里川,札幌国際,機場,キロロ,湯沢中里,湯沢高原,安比,二世古,戸狩温泉,留壽都,NASPA,定山渓,舞子,藏王">
+      <info>
+      </info>
+      <source>http://www.tigerair.com/tw/zh/</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="小港機場"   tag="台灣>高雄" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773835, 140.388533" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="小港機場" fare="0" km="0" />
+          </stop>
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="小港機場" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:25</time>
+          <time>
+          </time>
+          <time>10:30</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>08:45</time>
+          <time>13:00</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>13:30</time>
+          <time>
+          </time>
+          <time>17:30</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>23:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>04:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

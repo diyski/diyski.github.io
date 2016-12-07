@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="仙台駅" to="藏王">
+  <outbound>
+    <transportation name="仙台駅→藏王" type="other" available="2016/12/23~2017/03/20" apply-to=",藏王">
+      <info>仙台駅東口（76番）発
+需前日預約℡022-261-5333　　（9:00～19:00）</info>
+      <source>http://www.zao-spa.or.jp/access/</source>
+      <timetable>
+        <route>
+          <stop name="JR仙台駅" yahoo="true"  tag="東北市區>JR" gps="" >
+          </stop>
+          <stop name="蔵王温泉"   tag="藏王>藏王中央區" gps="" >
+            <interval from="JR仙台駅" fare="1600" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:00</time>
+          <time>09:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="藏王→仙台駅" type="other" available="2016/12/23~2017/03/20" apply-to=",札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,機場,盤溪,キロロ,東京,長野,軽井沢,名古屋,Gala,白馬,大阪,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,定山渓,志賀,舞子,留壽都,NASPA,野沢温泉">
+      <info>仙台駅東口（76番）著
+需當日12點前預約℡022-261-5333　　（9:00～19:00）</info>
+      <source>http://www.zao-spa.or.jp/access/</source>
+      <timetable>
+        <route>
+          <stop name="蔵王温泉"   tag="藏王>藏王中央區" gps="" >
+          </stop>
+          <stop name="JR仙台駅" yahoo="true"  tag="東北市區>JR" gps="" >
+            <interval from="蔵王温泉" fare="1600" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>16:30</time>
+          <time>18:10</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

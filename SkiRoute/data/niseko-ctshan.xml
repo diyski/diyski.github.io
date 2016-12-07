@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歲(HAN)" to="Niseko">
+  <outbound>
+    <transportation name="新千歲国内→留壽都→二世谷" type="other" available="2016/12/01~2017/03/31" apply-to="二世谷,留壽都,二世古">
+      <info>國內線集合地點在JAL到着口A、B之間，Hokkaido resort liner櫃台      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          </stop>
+          <stop name="ウェスティンルスツリゾート"   tag="留壽都>飯店" gps="42.747823, 140.904380" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+          </stop>
+          <stop name="ルスツリゾートホテルN&amp;S"   tag="留壽都>飯店" gps="42.751866, 140.902954" >
+            <interval from="新千歳空港国内線" fare="3500" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+          </stop>
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+          </stop>
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+          </stop>
+          <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+          </stop>
+          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>11:25</time>
+          <time>11:30</time>
+          <time>12:10</time>
+          <time>12:30</time>
+          <time>12:35</time>
+          <time>12:50</time>
+          <time>13:00</time>
+          <time>13:05</time>
+          <time>13:10</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>12:25</time>
+          <time>12:30</time>
+          <time>13:10</time>
+          <time>13:00</time>
+          <time>13:35</time>
+          <time>13:50</time>
+          <time>14:00</time>
+          <time>14:05</time>
+          <time>14:10</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>13:25</time>
+          <time>13:30</time>
+          <time>14:10</time>
+          <time>14:30</time>
+          <time>14:35</time>
+          <time>14:50</time>
+          <time>15:00</time>
+          <time>15:05</time>
+          <time>15:10</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>14:35</time>
+          <time>14:40</time>
+          <time>15:20</time>
+          <time>15:40</time>
+          <time>15:45</time>
+          <time>16:00</time>
+          <time>16:10</time>
+          <time>16:15</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>16:05</time>
+          <time>16:10</time>
+          <time>16:50</time>
+          <time>17:10</time>
+          <time>17:15</time>
+          <time>17:30</time>
+          <time>17:40</time>
+          <time>17:45</time>
+          <time>17:50</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>17:05</time>
+          <time>17:10</time>
+          <time>17:50</time>
+          <time>18:10</time>
+          <time>18:15</time>
+          <time>18:30</time>
+          <time>18:40</time>
+          <time>18:45</time>
+          <time>18:50</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>18:35</time>
+          <time>18:40</time>
+          <time>19:20</time>
+          <time>19:40</time>
+          <time>19:45</time>
+          <time>20:00</time>
+          <time>20:10</time>
+          <time>20:15</time>
+          <time>20:20</time>
+        </run>
+        <run >
+          <time>18:00</time>
+          <time>19:55</time>
+          <time>20:00</time>
+          <time>20:40</time>
+          <time>21:00</time>
+          <time>21:05</time>
+          <time>21:20</time>
+          <time>21:30</time>
+          <time>21:35</time>
+          <time>21:40</time>
+        </run>
+        <run >
+          <time>19:30</time>
+          <time>21:15</time>
+          <time>21:20</time>
+          <time>22:00</time>
+          <time>22:20</time>
+          <time>22:25</time>
+          <time>22:40</time>
+          <time>22:50</time>
+          <time>22:55</time>
+          <time>23:00</time>
+        </run>
+        <run >
+          <time>21:30</time>
+          <time>23:15</time>
+          <time>23:20</time>
+          <time>00:00</time>
+          <time>00:20</time>
+          <time>00:25</time>
+          <time>00:40</time>
+          <time>00:50</time>
+          <time>00:55</time>
+          <time>01:00</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="新千歲国際→留壽都→二世谷" type="other" available="2016/12/01~2017/03/31" apply-to="二世谷,留壽都,二世古">
+      <info>國內線集合地點在JAL到着口A、B之間，Hokkaido resort liner櫃台      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          </stop>
+          <stop name="ウェスティンルスツリゾート"   tag="留壽都>飯店" gps="42.747823, 140.904380" >
+            <interval from="新千歳空港国際線" fare="3500" km="0" />
+          </stop>
+          <stop name="ルスツリゾートホテルN&amp;S"   tag="留壽都>飯店" gps="42.751866, 140.902954" >
+            <interval from="新千歳空港国際線" fare="3500" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+          </stop>
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+          </stop>
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+          </stop>
+          <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+          </stop>
+          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>12:40</time>
+          <time>14:35</time>
+          <time>14:40</time>
+          <time>15:20</time>
+          <time>15:40</time>
+          <time>15:45</time>
+          <time>16:00</time>
+          <time>16:10</time>
+          <time>16:15</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>14:10</time>
+          <time>16:05</time>
+          <time>16:10</time>
+          <time>16:50</time>
+          <time>17:10</time>
+          <time>17:15</time>
+          <time>17:30</time>
+          <time>17:40</time>
+          <time>17:45</time>
+          <time>17:50</time>
+        </run>
+        <run >
+          <time>15:10</time>
+          <time>17:05</time>
+          <time>17:10</time>
+          <time>17:50</time>
+          <time>18:10</time>
+          <time>18:15</time>
+          <time>18:30</time>
+          <time>18:40</time>
+          <time>18:45</time>
+          <time>18:50</time>
+        </run>
+        <run >
+          <time>16:40</time>
+          <time>18:35</time>
+          <time>18:40</time>
+          <time>19:20</time>
+          <time>19:40</time>
+          <time>19:45</time>
+          <time>20:00</time>
+          <time>20:10</time>
+          <time>20:15</time>
+          <time>20:20</time>
+        </run>
+        <run >
+          <time>18:10</time>
+          <time>19:55</time>
+          <time>20:00</time>
+          <time>20:40</time>
+          <time>21:00</time>
+          <time>21:05</time>
+          <time>21:20</time>
+          <time>21:30</time>
+          <time>21:35</time>
+          <time>21:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="二世谷→留壽都→新千歲国内" type="other" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,東北市區,長野,東京,名古屋,大阪,越後湯沢,NASPA,戸狩温泉,機場,石打丸,台灣,湯沢高原,舞子,湯沢中里">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <timetable>
+        <route>
+          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
+          </stop>
+          <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+          </stop>
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+          </stop>
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ルスツリゾートホテルN&amp;S"   tag="留壽都>飯店" gps="42.751866, 140.902954" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="ウェスティンルスツリゾート"   tag="留壽都>飯店" gps="42.747823, 140.904380" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="鶴雅別荘 杢の抄" fare="4000" km="0" />
+            <interval from="ニセコグランドホテル" fare="4000" km="0" />
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="3500" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="3500" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:50</time>
+          <time>06:55</time>
+          <time>07:00</time>
+          <time>07:10</time>
+          <time>07:25</time>
+          <time>07:30</time>
+          <time>07:50</time>
+          <time>08:35</time>
+          <time>08:40</time>
+          <time>10:40</time>
+        </run>
+        <run >
+          <time>08:00</time>
+          <time>08:05</time>
+          <time>08:10</time>
+          <time>08:20</time>
+          <time>08:35</time>
+          <time>08:40</time>
+          <time>09:00</time>
+          <time>09:45</time>
+          <time>09:50</time>
+          <time>11:50</time>
+        </run>
+        <run >
+          <time>09:40</time>
+          <time>09:45</time>
+          <time>09:50</time>
+          <time>10:00</time>
+          <time>10:15</time>
+          <time>10:20</time>
+          <time>10:40</time>
+          <time>11:25</time>
+          <time>11:30</time>
+          <time>13:30</time>
+        </run>
+        <run >
+          <time>11:10</time>
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>11:30</time>
+          <time>11:45</time>
+          <time>11:50</time>
+          <time>12:10</time>
+          <time>12:55</time>
+          <time>13:00</time>
+          <time>15:00</time>
+        </run>
+        <run >
+          <time>12:40</time>
+          <time>12:45</time>
+          <time>12:50</time>
+          <time>13:00</time>
+          <time>13:15</time>
+          <time>13:20</time>
+          <time>13:40</time>
+          <time>14:25</time>
+          <time>14:30</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>13:40</time>
+          <time>13:45</time>
+          <time>13:50</time>
+          <time>14:00</time>
+          <time>14:15</time>
+          <time>14:20</time>
+          <time>14:40</time>
+          <time>15:25</time>
+          <time>15:30</time>
+          <time>17:30</time>
+        </run>
+        <run >
+          <time>14:40</time>
+          <time>14:45</time>
+          <time>14:50</time>
+          <time>15:00</time>
+          <time>15:15</time>
+          <time>15:20</time>
+          <time>15:40</time>
+          <time>16:25</time>
+          <time>16:30</time>
+          <time>18:30</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:45</time>
+          <time>15:50</time>
+          <time>16:00</time>
+          <time>16:15</time>
+          <time>16:20</time>
+          <time>16:40</time>
+          <time>17:25</time>
+          <time>17:30</time>
+          <time>19:30</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="二世谷→留壽都→新千歲国際" type="other" available="2016/12/01~2017/03/31" apply-to=",湯澤,台灣">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <timetable>
+        <route>
+          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
+          </stop>
+          <stop name="ニセコグランドホテル"   tag="二世古>飯店" gps="42.841287, 140.623011" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+          </stop>
+          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+          </stop>
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+          </stop>
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+          </stop>
+          <stop name="ルスツリゾートホテルN&amp;S"   tag="留壽都>飯店" gps="42.751866, 140.902954" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="ウェスティンルスツリゾート"   tag="留壽都>飯店" gps="42.747823, 140.904380" >
+            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
+            <interval from="ニセコグランドホテル" fare="0" km="0" />
+            <interval from="ホテル甘露の森" fare="0" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+            <interval from="鶴雅別荘 杢の抄" fare="4000" km="0" />
+            <interval from="ニセコグランドホテル" fare="4000" km="0" />
+            <interval from="ホテル甘露の森" fare="4000" km="0" />
+            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
+            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
+            <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
+            <interval from="ルスツリゾートホテルN&amp;S" fare="3500" km="0" />
+            <interval from="ウェスティンルスツリゾート" fare="3500" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:50</time>
+          <time>06:55</time>
+          <time>07:00</time>
+          <time>07:10</time>
+          <time>07:25</time>
+          <time>07:30</time>
+          <time>07:50</time>
+          <time>08:35</time>
+          <time>08:40</time>
+          <time>10:45</time>
+        </run>
+        <run >
+          <time>08:00</time>
+          <time>08:05</time>
+          <time>08:10</time>
+          <time>08:20</time>
+          <time>08:35</time>
+          <time>08:40</time>
+          <time>09:00</time>
+          <time>09:45</time>
+          <time>09:50</time>
+          <time>11:55</time>
+        </run>
+        <run >
+          <time>09:40</time>
+          <time>09:45</time>
+          <time>09:50</time>
+          <time>10:00</time>
+          <time>10:15</time>
+          <time>10:20</time>
+          <time>10:40</time>
+          <time>11:25</time>
+          <time>11:30</time>
+          <time>13:35</time>
+        </run>
+        <run >
+          <time>11:10</time>
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>11:30</time>
+          <time>11:45</time>
+          <time>11:50</time>
+          <time>12:10</time>
+          <time>12:55</time>
+          <time>13:00</time>
+          <time>15:05</time>
+        </run>
+        <run >
+          <time>12:40</time>
+          <time>12:45</time>
+          <time>12:50</time>
+          <time>13:00</time>
+          <time>13:15</time>
+          <time>13:20</time>
+          <time>13:40</time>
+          <time>14:25</time>
+          <time>14:30</time>
+          <time>16:35</time>
+        </run>
+        <run >
+          <time>13:40</time>
+          <time>13:45</time>
+          <time>13:50</time>
+          <time>14:00</time>
+          <time>14:15</time>
+          <time>14:20</time>
+          <time>14:40</time>
+          <time>15:25</time>
+          <time>15:30</time>
+          <time>17:35</time>
+        </run>
+        <run >
+          <time>14:40</time>
+          <time>14:45</time>
+          <time>14:50</time>
+          <time>15:00</time>
+          <time>15:15</time>
+          <time>15:20</time>
+          <time>15:40</time>
+          <time>16:25</time>
+          <time>16:30</time>
+          <time>18:35</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:45</time>
+          <time>15:50</time>
+          <time>16:00</time>
+          <time>16:15</time>
+          <time>16:20</time>
+          <time>16:40</time>
+          <time>17:25</time>
+          <time>17:30</time>
+          <time>19:35</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

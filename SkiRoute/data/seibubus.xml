@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="西武巴士" to="苗場">
+  <outbound>
+    <transportation name="西武巴士長野線" type="other" available="" apply-to=",白馬,妙高,野沢温泉,戸狩温泉,長野,志賀">
+      <info>
+      </info>
+      <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
+      <timetable>
+        <route>
+          <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="35.729595, 139.713420" >
+          </stop>
+          <stop name="JR長野駅" yahoo="true"  tag="長野>JR" gps="" >
+            <interval from="JR池袋駅" fare="2100" km="234" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>11:25</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>12:25</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>14:25</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>19:12</time>
+        </run>
+        <run >
+          <time>17:30</time>
+          <time>21:12</time>
+        </run>
+        <run >
+          <time>19:20</time>
+          <time>23:02</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="西武巴士長野線" type="other" available="" apply-to=",湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,二世古,キロロ,Gala,NASPA,湯沢高原,湯沢中里,舞子,札幌国際,東京,機場,石打丸,越後湯沢,東北市區,京都,名古屋,大阪,定山渓,台灣">
+      <info>
+      </info>
+      <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
+      <timetable>
+        <route>
+          <stop name="JR長野駅" yahoo="true"  tag="長野>JR" gps="" >
+          </stop>
+          <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="35.729595, 139.713420" >
+            <interval from="JR長野駅" fare="2100" km="234" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>11:12</time>
+        </run>
+        <run >
+          <time>09:00</time>
+          <time>12:42</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>14:12</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>19:28</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>20:58</time>
+        </run>
+        <run >
+          <time>18:30</time>
+          <time>22:28</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

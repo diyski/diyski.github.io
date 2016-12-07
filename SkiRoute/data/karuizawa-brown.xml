@@ -1,0 +1,2086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="棕線" to="軽井沢">
+  <outbound>
+    <transportation name="南口→王子飯店 B" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+      <info>
+      </info>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
+      <timetable>
+        <route>
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.341457, 138.634624" >
+          </stop>
+          <stop name="B2 ショッピングプラザガーデンモール"   tag="軽井沢>循環巴士" gps="36.340015, 138.637492" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+          </stop>
+          <stop name="B3G21 ショッピングプラザウエスト入口"   tag="軽井沢>循環巴士" gps="36.338915, 138.633294" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B2 ショッピングプラザガーデンモール" fare="0" km="0" />
+          </stop>
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B2 ショッピングプラザガーデンモール" fare="0" km="0" />
+            <interval from="B3G21 ショッピングプラザウエスト入口" fare="0" km="0" />
+          </stop>
+          <stop name="B5G20 フォレスターナ軽井沢"   tag="軽井沢>循環巴士" gps="36.333455, 138.633321" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B2 ショッピングプラザガーデンモール" fare="0" km="0" />
+            <interval from="B3G21 ショッピングプラザウエスト入口" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+          </stop>
+          <stop name="B6G19 ザ・プリンス軽井沢"   tag="軽井沢>循環巴士" gps="36.329401, 138.637645" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B2 ショッピングプラザガーデンモール" fare="0" km="0" />
+            <interval from="B3G21 ショッピングプラザウエスト入口" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B5G20 フォレスターナ軽井沢" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>07:34</time>
+          <time>07:36</time>
+          <time>07:40</time>
+          <time>07:45</time>
+          <time>07:50</time>
+        </run>
+        <run >
+          <time>08:00</time>
+          <time>08:04</time>
+          <time>08:06</time>
+          <time>08:10</time>
+          <time>08:15</time>
+          <time>08:20</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>08:31</time>
+          <time>08:36</time>
+          <time>08:40</time>
+          <time>08:45</time>
+          <time>08:50</time>
+        </run>
+        <run >
+          <time>09:00</time>
+          <time>09:04</time>
+          <time>09:06</time>
+          <time>09:10</time>
+          <time>09:15</time>
+          <time>09:20</time>
+        </run>
+        <run >
+          <time>09:30</time>
+          <time>09:34</time>
+          <time>09:36</time>
+          <time>09:40</time>
+          <time>09:45</time>
+          <time>09:50</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:04</time>
+          <time>10:06</time>
+          <time>10:10</time>
+          <time>10:15</time>
+          <time>10:20</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:34</time>
+          <time>10:36</time>
+          <time>10:40</time>
+          <time>10:45</time>
+          <time>10:50</time>
+        </run>
+        <run >
+          <time>11:00</time>
+          <time>11:04</time>
+          <time>11:06</time>
+          <time>11:10</time>
+          <time>11:15</time>
+          <time>11:20</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>11:34</time>
+          <time>11:36</time>
+          <time>11:40</time>
+          <time>11:45</time>
+          <time>11:50</time>
+        </run>
+        <run >
+          <time>12:00</time>
+          <time>12:04</time>
+          <time>12:06</time>
+          <time>12:10</time>
+          <time>12:15</time>
+          <time>12:20</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:34</time>
+          <time>12:36</time>
+          <time>12:40</time>
+          <time>12:45</time>
+          <time>12:50</time>
+        </run>
+        <run >
+          <time>13:30</time>
+          <time>13:34</time>
+          <time>13:36</time>
+          <time>13:40</time>
+          <time>13:45</time>
+          <time>13:50</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>14:04</time>
+          <time>14:06</time>
+          <time>14:10</time>
+          <time>14:15</time>
+          <time>14:20</time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>14:34</time>
+          <time>14:36</time>
+          <time>14:40</time>
+          <time>14:45</time>
+          <time>14:50</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>15:04</time>
+          <time>15:06</time>
+          <time>15:10</time>
+          <time>15:15</time>
+          <time>15:20</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>16:04</time>
+          <time>16:06</time>
+          <time>16:10</time>
+          <time>16:15</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>16:34</time>
+          <time>16:36</time>
+          <time>16:40</time>
+          <time>16:45</time>
+          <time>16:50</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>17:04</time>
+          <time>17:06</time>
+          <time>17:10</time>
+          <time>17:15</time>
+          <time>17:20</time>
+        </run>
+        <run >
+          <time>17:30</time>
+          <time>17:34</time>
+          <time>17:36</time>
+          <time>17:40</time>
+          <time>17:45</time>
+          <time>17:50</time>
+        </run>
+        <run >
+          <time>18:00</time>
+          <time>18:04</time>
+          <time>18:06</time>
+          <time>18:10</time>
+          <time>18:15</time>
+          <time>18:20</time>
+        </run>
+        <run >
+          <time>18:30</time>
+          <time>18:34</time>
+          <time>18:36</time>
+          <time>18:40</time>
+          <time>18:45</time>
+          <time>18:50</time>
+        </run>
+        <run >
+          <time>19:00</time>
+          <time>19:04</time>
+          <time>19:06</time>
+          <time>19:10</time>
+          <time>19:15</time>
+          <time>19:20</time>
+        </run>
+        <run >
+          <time>19:30</time>
+          <time>19:34</time>
+          <time>19:36</time>
+          <time>19:40</time>
+          <time>19:45</time>
+          <time>19:50</time>
+        </run>
+        <run >
+          <time>20:00</time>
+          <time>20:04</time>
+          <time>20:06</time>
+          <time>20:10</time>
+          <time>20:15</time>
+          <time>20:20</time>
+        </run>
+        <run >
+          <time>20:30</time>
+          <time>20:34</time>
+          <time>20:36</time>
+          <time>20:40</time>
+          <time>20:45</time>
+          <time>20:50</time>
+        </run>
+        <run >
+          <time>21:00</time>
+          <time>21:04</time>
+          <time>21:06</time>
+          <time>21:10</time>
+          <time>21:15</time>
+          <time>21:20</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="南口→王子飯店 G" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+      <info>
+      </info>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
+      <timetable>
+        <route>
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.341457, 138.634624" >
+          </stop>
+          <stop name="B22G2 ショッピングプラザ ニューイースト"   tag="軽井沢>循環巴士" gps="36.341669, 138.636877" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+          </stop>
+          <stop name="B20G4 ホテル イースト"   tag="軽井沢>循環巴士" gps="36.339930, 138.640171" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+          </stop>
+          <stop name="B19G5 ショッピングプラザ イースト入口"   tag="軽井沢>循環巴士" gps="36.340634, 138.638875" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+          </stop>
+          <stop name="B18G6 ザ・プリンス ヴィラ軽井沢"   tag="軽井沢>循環巴士" gps="36.339758, 138.638784" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+          </stop>
+          <stop name="B17G7 森のホットスプリング&amp;スパ"   tag="軽井沢>循環巴士" gps="36.339082, 138.638973" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+          </stop>
+          <stop name="B16G8"   tag="軽井沢>循環巴士" gps="36.338882, 138.637996" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+          </stop>
+          <stop name="B15G9"   tag="軽井沢>循環巴士" gps="36.338009, 138.637363" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+          </stop>
+          <stop name="B14G10"   tag="軽井沢>循環巴士" gps="36.336757, 138.636858" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+          </stop>
+          <stop name="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー"   tag="軽井沢>循環巴士" gps="36.336981, 138.635482" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+          </stop>
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+          </stop>
+          <stop name="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー"   tag="軽井沢>循環巴士" gps="36.336981, 138.635482" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+          </stop>
+          <stop name="B12G13"   tag="軽井沢>循環巴士" gps="36.334730, 138.636420" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+          </stop>
+          <stop name="B11G14"   tag="軽井沢>循環巴士" gps="36.334060, 138.636425" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+          </stop>
+          <stop name="B10G15"   tag="軽井沢>循環巴士" gps="36.333438, 138.636500" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+          </stop>
+          <stop name="B9G16"   tag="軽井沢>循環巴士" gps="36.332639, 138.636572" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+          </stop>
+          <stop name="B8G17"   tag="軽井沢>循環巴士" gps="36.331897, 138.636742" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+          </stop>
+          <stop name="B7G18"   tag="軽井沢>循環巴士" gps="36.331452, 138.636781" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+          </stop>
+          <stop name="B6G19 ザ・プリンス軽井沢"   tag="軽井沢>循環巴士" gps="36.329401, 138.637645" >
+            <interval from="JR軽井沢駅" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:45</time>
+          <time>07:47</time>
+          <time>07:55</time>
+          <time>07:57</time>
+          <time>07:58</time>
+          <time>08:00</time>
+          <time>08:01</time>
+          <time>08:01</time>
+          <time>08:01</time>
+          <time>08:02</time>
+          <time>08:05</time>
+          <time>08:07</time>
+          <time>08:09</time>
+          <time>08:09</time>
+          <time>08:10</time>
+          <time>08:10</time>
+          <time>08:11</time>
+          <time>08:11</time>
+          <time>08:13</time>
+        </run>
+        <run >
+          <time>08:15</time>
+          <time>08:17</time>
+          <time>08:25</time>
+          <time>08:27</time>
+          <time>08:28</time>
+          <time>08:30</time>
+          <time>08:31</time>
+          <time>08:31</time>
+          <time>08:31</time>
+          <time>08:32</time>
+          <time>08:35</time>
+          <time>08:37</time>
+          <time>08:39</time>
+          <time>08:39</time>
+          <time>08:40</time>
+          <time>08:40</time>
+          <time>08:41</time>
+          <time>08:41</time>
+          <time>08:43</time>
+        </run>
+        <run >
+          <time>08:45</time>
+          <time>08:47</time>
+          <time>08:55</time>
+          <time>08:57</time>
+          <time>08:58</time>
+          <time>09:00</time>
+          <time>09:01</time>
+          <time>09:01</time>
+          <time>09:01</time>
+          <time>09:02</time>
+          <time>09:05</time>
+          <time>09:07</time>
+          <time>09:09</time>
+          <time>09:09</time>
+          <time>09:10</time>
+          <time>09:10</time>
+          <time>09:11</time>
+          <time>09:11</time>
+          <time>09:13</time>
+        </run>
+        <run >
+          <time>09:15</time>
+          <time>09:17</time>
+          <time>09:25</time>
+          <time>09:27</time>
+          <time>09:28</time>
+          <time>09:30</time>
+          <time>09:31</time>
+          <time>09:31</time>
+          <time>09:31</time>
+          <time>09:32</time>
+          <time>09:35</time>
+          <time>09:37</time>
+          <time>09:39</time>
+          <time>09:39</time>
+          <time>09:40</time>
+          <time>09:40</time>
+          <time>09:41</time>
+          <time>09:41</time>
+          <time>09:43</time>
+        </run>
+        <run >
+          <time>09:45</time>
+          <time>09:47</time>
+          <time>09:55</time>
+          <time>09:57</time>
+          <time>09:58</time>
+          <time>10:00</time>
+          <time>10:01</time>
+          <time>10:01</time>
+          <time>10:01</time>
+          <time>10:02</time>
+          <time>10:05</time>
+          <time>10:07</time>
+          <time>10:09</time>
+          <time>10:09</time>
+          <time>10:10</time>
+          <time>10:10</time>
+          <time>10:11</time>
+          <time>10:11</time>
+          <time>10:13</time>
+        </run>
+        <run >
+          <time>10:15</time>
+          <time>10:17</time>
+          <time>10:25</time>
+          <time>10:27</time>
+          <time>10:28</time>
+          <time>10:30</time>
+          <time>10:31</time>
+          <time>10:31</time>
+          <time>10:31</time>
+          <time>10:32</time>
+          <time>10:35</time>
+          <time>10:37</time>
+          <time>10:39</time>
+          <time>10:39</time>
+          <time>10:40</time>
+          <time>10:40</time>
+          <time>10:41</time>
+          <time>10:41</time>
+          <time>10:43</time>
+        </run>
+        <run >
+          <time>10:45</time>
+          <time>10:47</time>
+          <time>10:55</time>
+          <time>10:57</time>
+          <time>10:58</time>
+          <time>11:00</time>
+          <time>11:01</time>
+          <time>11:01</time>
+          <time>11:01</time>
+          <time>11:02</time>
+          <time>11:05</time>
+          <time>11:07</time>
+          <time>11:09</time>
+          <time>11:09</time>
+          <time>11:10</time>
+          <time>11:10</time>
+          <time>11:11</time>
+          <time>11:11</time>
+          <time>11:13</time>
+        </run>
+        <run >
+          <time>11:15</time>
+          <time>11:17</time>
+          <time>11:25</time>
+          <time>11:27</time>
+          <time>11:28</time>
+          <time>11:30</time>
+          <time>11:31</time>
+          <time>11:31</time>
+          <time>11:31</time>
+          <time>11:32</time>
+          <time>11:35</time>
+          <time>11:37</time>
+          <time>11:39</time>
+          <time>11:39</time>
+          <time>11:40</time>
+          <time>11:40</time>
+          <time>11:41</time>
+          <time>11:41</time>
+          <time>11:43</time>
+        </run>
+        <run >
+          <time>11:45</time>
+          <time>11:47</time>
+          <time>11:55</time>
+          <time>11:57</time>
+          <time>11:58</time>
+          <time>12:00</time>
+          <time>12:01</time>
+          <time>12:01</time>
+          <time>12:01</time>
+          <time>12:02</time>
+          <time>12:05</time>
+          <time>12:07</time>
+          <time>12:09</time>
+          <time>12:09</time>
+          <time>12:10</time>
+          <time>12:10</time>
+          <time>12:11</time>
+          <time>12:11</time>
+          <time>12:13</time>
+        </run>
+        <run >
+          <time>12:15</time>
+          <time>12:17</time>
+          <time>12:25</time>
+          <time>12:27</time>
+          <time>12:28</time>
+          <time>12:30</time>
+          <time>12:31</time>
+          <time>12:31</time>
+          <time>12:31</time>
+          <time>12:32</time>
+          <time>12:35</time>
+          <time>12:37</time>
+          <time>12:39</time>
+          <time>12:39</time>
+          <time>12:40</time>
+          <time>12:40</time>
+          <time>12:41</time>
+          <time>12:41</time>
+          <time>12:43</time>
+        </run>
+        <run >
+          <time>13:15</time>
+          <time>13:17</time>
+          <time>13:25</time>
+          <time>13:27</time>
+          <time>13:28</time>
+          <time>13:30</time>
+          <time>13:31</time>
+          <time>13:31</time>
+          <time>13:31</time>
+          <time>13:32</time>
+          <time>13:35</time>
+          <time>13:37</time>
+          <time>13:39</time>
+          <time>13:39</time>
+          <time>13:40</time>
+          <time>13:40</time>
+          <time>13:41</time>
+          <time>13:41</time>
+          <time>13:43</time>
+        </run>
+        <run >
+          <time>13:45</time>
+          <time>13:47</time>
+          <time>13:55</time>
+          <time>13:57</time>
+          <time>13:58</time>
+          <time>14:00</time>
+          <time>14:01</time>
+          <time>14:01</time>
+          <time>14:01</time>
+          <time>14:02</time>
+          <time>14:05</time>
+          <time>14:07</time>
+          <time>14:09</time>
+          <time>14:09</time>
+          <time>14:10</time>
+          <time>14:10</time>
+          <time>14:11</time>
+          <time>14:11</time>
+          <time>14:13</time>
+        </run>
+        <run >
+          <time>14:15</time>
+          <time>14:17</time>
+          <time>14:25</time>
+          <time>14:27</time>
+          <time>14:28</time>
+          <time>14:30</time>
+          <time>14:31</time>
+          <time>14:31</time>
+          <time>14:31</time>
+          <time>14:32</time>
+          <time>14:35</time>
+          <time>14:37</time>
+          <time>14:39</time>
+          <time>14:39</time>
+          <time>14:40</time>
+          <time>14:40</time>
+          <time>14:41</time>
+          <time>14:41</time>
+          <time>14:43</time>
+        </run>
+        <run >
+          <time>14:45</time>
+          <time>14:47</time>
+          <time>14:55</time>
+          <time>14:57</time>
+          <time>14:58</time>
+          <time>15:00</time>
+          <time>15:01</time>
+          <time>15:01</time>
+          <time>15:01</time>
+          <time>15:02</time>
+          <time>15:05</time>
+          <time>15:07</time>
+          <time>15:09</time>
+          <time>15:09</time>
+          <time>15:10</time>
+          <time>15:10</time>
+          <time>15:11</time>
+          <time>15:11</time>
+          <time>15:13</time>
+        </run>
+        <run >
+          <time>15:15</time>
+          <time>15:17</time>
+          <time>15:25</time>
+          <time>15:27</time>
+          <time>15:28</time>
+          <time>15:30</time>
+          <time>15:31</time>
+          <time>15:31</time>
+          <time>15:31</time>
+          <time>15:32</time>
+          <time>13:35</time>
+          <time>15:37</time>
+          <time>15:39</time>
+          <time>15:39</time>
+          <time>15:40</time>
+          <time>15:40</time>
+          <time>15:41</time>
+          <time>15:41</time>
+          <time>15:43</time>
+        </run>
+        <run >
+          <time>15:45</time>
+          <time>15:47</time>
+          <time>15:55</time>
+          <time>15:57</time>
+          <time>15:58</time>
+          <time>16:00</time>
+          <time>16:01</time>
+          <time>16:01</time>
+          <time>16:01</time>
+          <time>16:02</time>
+          <time>16:05</time>
+          <time>16:07</time>
+          <time>16:09</time>
+          <time>16:09</time>
+          <time>16:10</time>
+          <time>16:10</time>
+          <time>16:11</time>
+          <time>16:11</time>
+          <time>16:13</time>
+        </run>
+        <run >
+          <time>16:15</time>
+          <time>16:17</time>
+          <time>16:25</time>
+          <time>16:27</time>
+          <time>16:28</time>
+          <time>16:30</time>
+          <time>16:31</time>
+          <time>16:31</time>
+          <time>16:31</time>
+          <time>16:32</time>
+          <time>16:35</time>
+          <time>16:37</time>
+          <time>16:39</time>
+          <time>16:39</time>
+          <time>16:40</time>
+          <time>16:40</time>
+          <time>16:41</time>
+          <time>16:41</time>
+          <time>16:43</time>
+        </run>
+        <run >
+          <time>16:45</time>
+          <time>16:47</time>
+          <time>16:55</time>
+          <time>16:57</time>
+          <time>16:58</time>
+          <time>17:00</time>
+          <time>17:01</time>
+          <time>17:01</time>
+          <time>17:01</time>
+          <time>17:02</time>
+          <time>17:05</time>
+          <time>17:07</time>
+          <time>17:09</time>
+          <time>17:09</time>
+          <time>17:10</time>
+          <time>17:10</time>
+          <time>17:11</time>
+          <time>17:11</time>
+          <time>17:13</time>
+        </run>
+        <run >
+          <time>17:15</time>
+          <time>17:17</time>
+          <time>17:25</time>
+          <time>17:27</time>
+          <time>17:28</time>
+          <time>17:30</time>
+          <time>17:31</time>
+          <time>17:31</time>
+          <time>17:31</time>
+          <time>17:32</time>
+          <time>17:35</time>
+          <time>17:37</time>
+          <time>17:39</time>
+          <time>17:39</time>
+          <time>17:40</time>
+          <time>17:40</time>
+          <time>17:41</time>
+          <time>17:41</time>
+          <time>17:43</time>
+        </run>
+        <run >
+          <time>17:45</time>
+          <time>17:47</time>
+          <time>17:55</time>
+          <time>17:57</time>
+          <time>17:58</time>
+          <time>18:00</time>
+          <time>18:01</time>
+          <time>18:01</time>
+          <time>18:01</time>
+          <time>18:02</time>
+          <time>18:05</time>
+          <time>18:07</time>
+          <time>18:09</time>
+          <time>18:09</time>
+          <time>18:10</time>
+          <time>18:10</time>
+          <time>18:11</time>
+          <time>18:11</time>
+          <time>18:13</time>
+        </run>
+        <run >
+          <time>18:15</time>
+          <time>18:17</time>
+          <time>18:25</time>
+          <time>18:27</time>
+          <time>18:28</time>
+          <time>18:30</time>
+          <time>18:31</time>
+          <time>18:31</time>
+          <time>18:31</time>
+          <time>18:32</time>
+          <time>18:35</time>
+          <time>18:37</time>
+          <time>18:39</time>
+          <time>18:39</time>
+          <time>18:40</time>
+          <time>18:40</time>
+          <time>18:41</time>
+          <time>18:41</time>
+          <time>18:43</time>
+        </run>
+        <run >
+          <time>18:45</time>
+          <time>18:47</time>
+          <time>18:55</time>
+          <time>18:57</time>
+          <time>18:58</time>
+          <time>19:00</time>
+          <time>19:01</time>
+          <time>19:01</time>
+          <time>19:01</time>
+          <time>19:02</time>
+          <time>19:05</time>
+          <time>19:07</time>
+          <time>19:09</time>
+          <time>19:09</time>
+          <time>19:10</time>
+          <time>19:10</time>
+          <time>19:11</time>
+          <time>19:11</time>
+          <time>19:13</time>
+        </run>
+        <run >
+          <time>19:15</time>
+          <time>19:17</time>
+          <time>19:25</time>
+          <time>19:27</time>
+          <time>19:28</time>
+          <time>19:30</time>
+          <time>19:31</time>
+          <time>19:31</time>
+          <time>19:31</time>
+          <time>19:32</time>
+          <time>19:35</time>
+          <time>19:37</time>
+          <time>19:39</time>
+          <time>19:39</time>
+          <time>19:40</time>
+          <time>19:40</time>
+          <time>19:41</time>
+          <time>19:41</time>
+          <time>19:43</time>
+        </run>
+        <run >
+          <time>19:45</time>
+          <time>19:47</time>
+          <time>19:55</time>
+          <time>19:57</time>
+          <time>19:58</time>
+          <time>20:00</time>
+          <time>20:01</time>
+          <time>20:01</time>
+          <time>20:01</time>
+          <time>20:02</time>
+          <time>20:05</time>
+          <time>20:07</time>
+          <time>20:09</time>
+          <time>20:09</time>
+          <time>20:10</time>
+          <time>20:10</time>
+          <time>20:11</time>
+          <time>20:11</time>
+          <time>20:13</time>
+        </run>
+        <run >
+          <time>20:15</time>
+          <time>20:17</time>
+          <time>20:25</time>
+          <time>20:27</time>
+          <time>20:28</time>
+          <time>20:30</time>
+          <time>20:31</time>
+          <time>20:31</time>
+          <time>20:31</time>
+          <time>20:32</time>
+          <time>20:35</time>
+          <time>20:37</time>
+          <time>20:39</time>
+          <time>20:39</time>
+          <time>20:40</time>
+          <time>20:40</time>
+          <time>20:41</time>
+          <time>20:41</time>
+          <time>20:43</time>
+        </run>
+        <run >
+          <time>20:45</time>
+          <time>20:47</time>
+          <time>20:55</time>
+          <time>20:57</time>
+          <time>20:58</time>
+          <time>21:00</time>
+          <time>21:01</time>
+          <time>21:01</time>
+          <time>21:01</time>
+          <time>21:02</time>
+          <time>21:05</time>
+          <time>21:07</time>
+          <time>21:09</time>
+          <time>21:09</time>
+          <time>21:10</time>
+          <time>21:10</time>
+          <time>21:11</time>
+          <time>21:11</time>
+          <time>21:13</time>
+        </run>
+        <run >
+          <time>21:15</time>
+          <time>21:17</time>
+          <time>21:25</time>
+          <time>21:27</time>
+          <time>21:28</time>
+          <time>21:30</time>
+          <time>21:31</time>
+          <time>21:31</time>
+          <time>21:31</time>
+          <time>21:32</time>
+          <time>21:35</time>
+          <time>21:37</time>
+          <time>21:39</time>
+          <time>21:39</time>
+          <time>21:40</time>
+          <time>21:40</time>
+          <time>21:41</time>
+          <time>21:41</time>
+          <time>21:43</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="王子飯店→南口 B" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+      <info>
+      </info>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
+      <timetable>
+        <route>
+          <stop name="B6G19 ザ・プリンス軽井沢"   tag="軽井沢>循環巴士" gps="36.329401, 138.637645" >
+          </stop>
+          <stop name="B7G18"   tag="軽井沢>循環巴士" gps="36.331452, 138.636781" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+          </stop>
+          <stop name="B8G17"   tag="軽井沢>循環巴士" gps="36.331897, 138.636742" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+          </stop>
+          <stop name="B9G16"   tag="軽井沢>循環巴士" gps="36.332639, 138.636572" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+          </stop>
+          <stop name="B10G15"   tag="軽井沢>循環巴士" gps="36.333438, 138.636500" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+          </stop>
+          <stop name="B11G14"   tag="軽井沢>循環巴士" gps="36.334060, 138.636425" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+          </stop>
+          <stop name="B12G13"   tag="軽井沢>循環巴士" gps="36.334730, 138.636420" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+          </stop>
+          <stop name="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー"   tag="軽井沢>循環巴士" gps="36.336981, 138.635482" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+          </stop>
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+          </stop>
+          <stop name="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー"   tag="軽井沢>循環巴士" gps="36.336981, 138.635482" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+          </stop>
+          <stop name="B14G10"   tag="軽井沢>循環巴士" gps="36.336757, 138.636858" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+          </stop>
+          <stop name="B15G9"   tag="軽井沢>循環巴士" gps="36.338009, 138.637363" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+          </stop>
+          <stop name="B16G8"   tag="軽井沢>循環巴士" gps="36.338882, 138.637996" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+          </stop>
+          <stop name="B17G7 森のホットスプリング&amp;スパ"   tag="軽井沢>循環巴士" gps="36.339082, 138.638973" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+          </stop>
+          <stop name="B18G6 ザ・プリンス ヴィラ軽井沢"   tag="軽井沢>循環巴士" gps="36.339758, 138.638784" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+          </stop>
+          <stop name="B19G5 ショッピングプラザ イースト入口"   tag="軽井沢>循環巴士" gps="36.340634, 138.638875" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+          </stop>
+          <stop name="B20G4 ホテル イースト"   tag="軽井沢>循環巴士" gps="36.339930, 138.640171" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+          </stop>
+          <stop name="B22G2 ショッピングプラザ ニューイースト"   tag="軽井沢>循環巴士" gps="36.341669, 138.636877" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+          </stop>
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.341457, 138.634624" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B7G18" fare="0" km="0" />
+            <interval from="B8G17" fare="0" km="0" />
+            <interval from="B9G16" fare="0" km="0" />
+            <interval from="B10G15" fare="0" km="0" />
+            <interval from="B11G14" fare="0" km="0" />
+            <interval from="B12G13" fare="0" km="0" />
+            <interval from="B13G11逆 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B13G11順 ホテル ウエスト スキーロッカ レンタルスキー" fare="0" km="0" />
+            <interval from="B14G10" fare="0" km="0" />
+            <interval from="B15G9" fare="0" km="0" />
+            <interval from="B16G8" fare="0" km="0" />
+            <interval from="B17G7 森のホットスプリング&amp;スパ" fare="0" km="0" />
+            <interval from="B18G6 ザ・プリンス ヴィラ軽井沢" fare="0" km="0" />
+            <interval from="B19G5 ショッピングプラザ イースト入口" fare="0" km="0" />
+            <interval from="B20G4 ホテル イースト" fare="0" km="0" />
+            <interval from="B22G2 ショッピングプラザ ニューイースト" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:25</time>
+          <time>07:27</time>
+          <time>07:27</time>
+          <time>07:28</time>
+          <time>07:28</time>
+          <time>07:29</time>
+          <time>07:29</time>
+          <time>07:31</time>
+          <time>07:35</time>
+          <time>07:37</time>
+          <time>07:38</time>
+          <time>07:38</time>
+          <time>07:38</time>
+          <time>07:40</time>
+          <time>07:41</time>
+          <time>07:42</time>
+          <time>07:45</time>
+          <time>07:50</time>
+          <time>07:52</time>
+        </run>
+        <run >
+          <time>07:55</time>
+          <time>07:57</time>
+          <time>07:57</time>
+          <time>07:58</time>
+          <time>07:58</time>
+          <time>07:59</time>
+          <time>07:59</time>
+          <time>08:01</time>
+          <time>08:05</time>
+          <time>08:07</time>
+          <time>08:08</time>
+          <time>08:08</time>
+          <time>08:08</time>
+          <time>08:10</time>
+          <time>08:11</time>
+          <time>08:12</time>
+          <time>08:15</time>
+          <time>08:20</time>
+          <time>08:22</time>
+        </run>
+        <run >
+          <time>08:25</time>
+          <time>08:27</time>
+          <time>08:27</time>
+          <time>08:28</time>
+          <time>08:28</time>
+          <time>08:29</time>
+          <time>08:29</time>
+          <time>08:31</time>
+          <time>08:35</time>
+          <time>08:37</time>
+          <time>08:38</time>
+          <time>08:38</time>
+          <time>08:38</time>
+          <time>08:40</time>
+          <time>08:41</time>
+          <time>08:42</time>
+          <time>08:45</time>
+          <time>08:50</time>
+          <time>08:52</time>
+        </run>
+        <run >
+          <time>08:55</time>
+          <time>08:57</time>
+          <time>08:57</time>
+          <time>08:58</time>
+          <time>08:58</time>
+          <time>08:59</time>
+          <time>08:59</time>
+          <time>09:01</time>
+          <time>09:05</time>
+          <time>09:07</time>
+          <time>09:08</time>
+          <time>09:08</time>
+          <time>09:08</time>
+          <time>09:10</time>
+          <time>09:11</time>
+          <time>09:12</time>
+          <time>09:15</time>
+          <time>09:20</time>
+          <time>09:22</time>
+        </run>
+        <run >
+          <time>09:25</time>
+          <time>09:27</time>
+          <time>09:27</time>
+          <time>09:28</time>
+          <time>09:28</time>
+          <time>09:29</time>
+          <time>09:29</time>
+          <time>09:31</time>
+          <time>09:35</time>
+          <time>09:37</time>
+          <time>09:38</time>
+          <time>09:38</time>
+          <time>09:38</time>
+          <time>09:40</time>
+          <time>09:41</time>
+          <time>09:42</time>
+          <time>09:45</time>
+          <time>09:50</time>
+          <time>09:52</time>
+        </run>
+        <run >
+          <time>09:55</time>
+          <time>09:57</time>
+          <time>09:57</time>
+          <time>09:58</time>
+          <time>09:58</time>
+          <time>09:59</time>
+          <time>09:59</time>
+          <time>10:01</time>
+          <time>10:05</time>
+          <time>10:07</time>
+          <time>10:08</time>
+          <time>10:08</time>
+          <time>10:08</time>
+          <time>10:10</time>
+          <time>10:11</time>
+          <time>10:12</time>
+          <time>10:15</time>
+          <time>10:20</time>
+          <time>10:22</time>
+        </run>
+        <run >
+          <time>10:25</time>
+          <time>10:27</time>
+          <time>10:27</time>
+          <time>10:28</time>
+          <time>10:28</time>
+          <time>10:29</time>
+          <time>10:29</time>
+          <time>10:31</time>
+          <time>10:35</time>
+          <time>10:37</time>
+          <time>10:38</time>
+          <time>10:38</time>
+          <time>10:38</time>
+          <time>10:40</time>
+          <time>10:41</time>
+          <time>10:42</time>
+          <time>10:45</time>
+          <time>10:50</time>
+          <time>10:52</time>
+        </run>
+        <run >
+          <time>10:55</time>
+          <time>10:57</time>
+          <time>10:57</time>
+          <time>10:58</time>
+          <time>10:58</time>
+          <time>10:59</time>
+          <time>10:59</time>
+          <time>11:01</time>
+          <time>11:05</time>
+          <time>11:07</time>
+          <time>11:08</time>
+          <time>11:08</time>
+          <time>11:08</time>
+          <time>11:10</time>
+          <time>11:11</time>
+          <time>11:12</time>
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>11:22</time>
+        </run>
+        <run >
+          <time>11:25</time>
+          <time>11:27</time>
+          <time>11:27</time>
+          <time>11:28</time>
+          <time>11:28</time>
+          <time>11:29</time>
+          <time>11:29</time>
+          <time>11:31</time>
+          <time>11:35</time>
+          <time>11:37</time>
+          <time>11:38</time>
+          <time>11:38</time>
+          <time>11:38</time>
+          <time>11:40</time>
+          <time>11:41</time>
+          <time>11:42</time>
+          <time>11:45</time>
+          <time>11:50</time>
+          <time>11:52</time>
+        </run>
+        <run >
+          <time>11:55</time>
+          <time>11:57</time>
+          <time>11:57</time>
+          <time>11:58</time>
+          <time>11:58</time>
+          <time>11:59</time>
+          <time>11:59</time>
+          <time>12:01</time>
+          <time>12:05</time>
+          <time>12:07</time>
+          <time>12:08</time>
+          <time>12:08</time>
+          <time>12:08</time>
+          <time>12:10</time>
+          <time>12:11</time>
+          <time>12:12</time>
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>11:22</time>
+        </run>
+        <run >
+          <time>12:55</time>
+          <time>12:57</time>
+          <time>12:57</time>
+          <time>12:58</time>
+          <time>12:58</time>
+          <time>12:59</time>
+          <time>12:59</time>
+          <time>13:01</time>
+          <time>13:05</time>
+          <time>13:07</time>
+          <time>13:08</time>
+          <time>13:08</time>
+          <time>13:08</time>
+          <time>13:10</time>
+          <time>13:11</time>
+          <time>13:12</time>
+          <time>13:15</time>
+          <time>13:20</time>
+          <time>13:22</time>
+        </run>
+        <run >
+          <time>13:25</time>
+          <time>13:27</time>
+          <time>13:27</time>
+          <time>13:28</time>
+          <time>13:28</time>
+          <time>13:29</time>
+          <time>13:29</time>
+          <time>13:31</time>
+          <time>13:35</time>
+          <time>13:37</time>
+          <time>13:38</time>
+          <time>13:38</time>
+          <time>13:38</time>
+          <time>13:40</time>
+          <time>13:41</time>
+          <time>13:42</time>
+          <time>13:45</time>
+          <time>13:50</time>
+          <time>13:52</time>
+        </run>
+        <run >
+          <time>13:55</time>
+          <time>13:57</time>
+          <time>13:57</time>
+          <time>13:58</time>
+          <time>13:58</time>
+          <time>13:59</time>
+          <time>13:59</time>
+          <time>14:01</time>
+          <time>14:05</time>
+          <time>14:07</time>
+          <time>14:08</time>
+          <time>14:08</time>
+          <time>14:08</time>
+          <time>14:10</time>
+          <time>14:11</time>
+          <time>14:12</time>
+          <time>14:15</time>
+          <time>14:20</time>
+          <time>14:22</time>
+        </run>
+        <run >
+          <time>14:25</time>
+          <time>14:27</time>
+          <time>14:27</time>
+          <time>14:28</time>
+          <time>14:28</time>
+          <time>14:29</time>
+          <time>14:29</time>
+          <time>14:31</time>
+          <time>14:35</time>
+          <time>14:37</time>
+          <time>14:38</time>
+          <time>14:38</time>
+          <time>14:38</time>
+          <time>14:40</time>
+          <time>14:41</time>
+          <time>14:42</time>
+          <time>14:45</time>
+          <time>14:50</time>
+          <time>14:52</time>
+        </run>
+        <run >
+          <time>14:55</time>
+          <time>14:57</time>
+          <time>14:57</time>
+          <time>14:58</time>
+          <time>14:58</time>
+          <time>14:59</time>
+          <time>14:59</time>
+          <time>15:01</time>
+          <time>15:05</time>
+          <time>15:07</time>
+          <time>15:08</time>
+          <time>15:08</time>
+          <time>15:08</time>
+          <time>15:10</time>
+          <time>15:11</time>
+          <time>15:12</time>
+          <time>15:15</time>
+          <time>15:20</time>
+          <time>15:22</time>
+        </run>
+        <run >
+          <time>15:25</time>
+          <time>15:27</time>
+          <time>15:27</time>
+          <time>15:28</time>
+          <time>15:28</time>
+          <time>15:29</time>
+          <time>15:29</time>
+          <time>15:31</time>
+          <time>15:35</time>
+          <time>15:37</time>
+          <time>15:38</time>
+          <time>15:38</time>
+          <time>15:38</time>
+          <time>15:40</time>
+          <time>15:41</time>
+          <time>15:42</time>
+          <time>15:45</time>
+          <time>15:50</time>
+          <time>15:52</time>
+        </run>
+        <run >
+          <time>15:55</time>
+          <time>15:57</time>
+          <time>15:57</time>
+          <time>15:58</time>
+          <time>15:58</time>
+          <time>15:59</time>
+          <time>15:59</time>
+          <time>16:01</time>
+          <time>16:05</time>
+          <time>16:07</time>
+          <time>16:08</time>
+          <time>16:08</time>
+          <time>16:08</time>
+          <time>16:10</time>
+          <time>16:11</time>
+          <time>16:12</time>
+          <time>16:15</time>
+          <time>16:20</time>
+          <time>16:22</time>
+        </run>
+        <run >
+          <time>16:25</time>
+          <time>16:27</time>
+          <time>16:27</time>
+          <time>16:28</time>
+          <time>16:28</time>
+          <time>16:29</time>
+          <time>16:29</time>
+          <time>16:31</time>
+          <time>16:35</time>
+          <time>16:37</time>
+          <time>16:38</time>
+          <time>16:38</time>
+          <time>16:38</time>
+          <time>16:40</time>
+          <time>16:41</time>
+          <time>16:42</time>
+          <time>16:45</time>
+          <time>16:50</time>
+          <time>16:52</time>
+        </run>
+        <run >
+          <time>16:55</time>
+          <time>16:57</time>
+          <time>16:57</time>
+          <time>16:58</time>
+          <time>16:58</time>
+          <time>16:59</time>
+          <time>16:59</time>
+          <time>17:01</time>
+          <time>17:05</time>
+          <time>17:07</time>
+          <time>17:08</time>
+          <time>17:08</time>
+          <time>17:08</time>
+          <time>17:10</time>
+          <time>17:11</time>
+          <time>17:12</time>
+          <time>17:15</time>
+          <time>17:20</time>
+          <time>17:22</time>
+        </run>
+        <run >
+          <time>17:25</time>
+          <time>17:27</time>
+          <time>17:27</time>
+          <time>17:28</time>
+          <time>17:28</time>
+          <time>17:29</time>
+          <time>17:29</time>
+          <time>17:31</time>
+          <time>17:35</time>
+          <time>17:37</time>
+          <time>17:38</time>
+          <time>17:38</time>
+          <time>17:38</time>
+          <time>17:40</time>
+          <time>17:41</time>
+          <time>17:42</time>
+          <time>17:45</time>
+          <time>17:50</time>
+          <time>17:52</time>
+        </run>
+        <run >
+          <time>17:55</time>
+          <time>17:57</time>
+          <time>17:57</time>
+          <time>17:58</time>
+          <time>17:58</time>
+          <time>17:59</time>
+          <time>17:59</time>
+          <time>18:01</time>
+          <time>18:05</time>
+          <time>18:07</time>
+          <time>18:08</time>
+          <time>18:08</time>
+          <time>18:08</time>
+          <time>18:10</time>
+          <time>18:11</time>
+          <time>18:12</time>
+          <time>18:15</time>
+          <time>18:20</time>
+          <time>18:22</time>
+        </run>
+        <run >
+          <time>18:25</time>
+          <time>18:27</time>
+          <time>18:27</time>
+          <time>18:28</time>
+          <time>18:28</time>
+          <time>18:29</time>
+          <time>18:29</time>
+          <time>18:31</time>
+          <time>18:35</time>
+          <time>18:37</time>
+          <time>18:38</time>
+          <time>18:38</time>
+          <time>18:38</time>
+          <time>18:40</time>
+          <time>18:41</time>
+          <time>18:42</time>
+          <time>18:45</time>
+          <time>18:50</time>
+          <time>18:52</time>
+        </run>
+        <run >
+          <time>18:55</time>
+          <time>18:57</time>
+          <time>18:57</time>
+          <time>18:58</time>
+          <time>18:58</time>
+          <time>18:59</time>
+          <time>18:59</time>
+          <time>19:01</time>
+          <time>19:05</time>
+          <time>19:07</time>
+          <time>19:08</time>
+          <time>19:08</time>
+          <time>19:08</time>
+          <time>19:10</time>
+          <time>19:11</time>
+          <time>19:12</time>
+          <time>19:15</time>
+          <time>19:20</time>
+          <time>19:22</time>
+        </run>
+        <run >
+          <time>19:25</time>
+          <time>19:27</time>
+          <time>19:27</time>
+          <time>19:28</time>
+          <time>19:28</time>
+          <time>19:29</time>
+          <time>19:29</time>
+          <time>19:31</time>
+          <time>19:35</time>
+          <time>19:37</time>
+          <time>19:38</time>
+          <time>19:38</time>
+          <time>19:38</time>
+          <time>19:40</time>
+          <time>19:41</time>
+          <time>19:42</time>
+          <time>19:45</time>
+          <time>19:50</time>
+          <time>19:52</time>
+        </run>
+        <run >
+          <time>19:55</time>
+          <time>19:57</time>
+          <time>19:57</time>
+          <time>19:58</time>
+          <time>19:58</time>
+          <time>19:59</time>
+          <time>19:59</time>
+          <time>20:01</time>
+          <time>20:05</time>
+          <time>20:07</time>
+          <time>20:08</time>
+          <time>20:08</time>
+          <time>20:08</time>
+          <time>20:10</time>
+          <time>20:11</time>
+          <time>20:12</time>
+          <time>20:15</time>
+          <time>20:20</time>
+          <time>20:22</time>
+        </run>
+        <run >
+          <time>20:25</time>
+          <time>20:27</time>
+          <time>20:27</time>
+          <time>20:28</time>
+          <time>20:28</time>
+          <time>20:29</time>
+          <time>20:29</time>
+          <time>20:31</time>
+          <time>20:35</time>
+          <time>20:37</time>
+          <time>20:38</time>
+          <time>20:38</time>
+          <time>20:38</time>
+          <time>20:40</time>
+          <time>20:41</time>
+          <time>20:42</time>
+          <time>20:45</time>
+          <time>20:50</time>
+          <time>20:52</time>
+        </run>
+        <run >
+          <time>20:55</time>
+          <time>20:57</time>
+          <time>20:57</time>
+          <time>20:58</time>
+          <time>20:58</time>
+          <time>20:59</time>
+          <time>20:59</time>
+          <time>21:01</time>
+          <time>21:05</time>
+          <time>21:07</time>
+          <time>21:08</time>
+          <time>21:08</time>
+          <time>21:08</time>
+          <time>21:10</time>
+          <time>21:11</time>
+          <time>21:12</time>
+          <time>21:15</time>
+          <time>21:20</time>
+          <time>21:22</time>
+        </run>
+        <run >
+          <time>21:25</time>
+          <time>21:27</time>
+          <time>21:27</time>
+          <time>21:28</time>
+          <time>21:28</time>
+          <time>21:29</time>
+          <time>21:29</time>
+          <time>21:31</time>
+          <time>21:35</time>
+          <time>21:37</time>
+          <time>21:38</time>
+          <time>21:38</time>
+          <time>21:38</time>
+          <time>21:40</time>
+          <time>21:41</time>
+          <time>21:42</time>
+          <time>21:45</time>
+          <time>21:50</time>
+          <time>21:52</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="王子飯店→南口 G" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+      <info>
+      </info>
+      <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
+      <timetable>
+        <route>
+          <stop name="B6G19 ザ・プリンス軽井沢"   tag="軽井沢>循環巴士" gps="36.329401, 138.637645" >
+          </stop>
+          <stop name="B5G20 フォレスターナ軽井沢"   tag="軽井沢>循環巴士" gps="36.333455, 138.633321" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+          </stop>
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B5G20 フォレスターナ軽井沢" fare="0" km="0" />
+          </stop>
+          <stop name="B3G21 ショッピングプラザウエスト入口"   tag="軽井沢>循環巴士" gps="36.338654, 138.632775" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B5G20 フォレスターナ軽井沢" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+          </stop>
+          <stop name="G22 ショッピングプラザ ツリーモール"   tag="軽井沢>循環巴士" gps="36.339499, 138.632471" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B5G20 フォレスターナ軽井沢" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B3G21 ショッピングプラザウエスト入口" fare="0" km="0" />
+          </stop>
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.341457, 138.634624" >
+            <interval from="B6G19 ザ・プリンス軽井沢" fare="0" km="0" />
+            <interval from="B5G20 フォレスターナ軽井沢" fare="0" km="0" />
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="B3G21 ショッピングプラザウエスト入口" fare="0" km="0" />
+            <interval from="G22 ショッピングプラザ ツリーモール" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:50</time>
+          <time>07:53</time>
+          <time>08:00</time>
+          <time>08:02</time>
+          <time>08:03</time>
+          <time>08:05</time>
+        </run>
+        <run >
+          <time>08:20</time>
+          <time>08:23</time>
+          <time>08:30</time>
+          <time>08:32</time>
+          <time>08:33</time>
+          <time>08:35</time>
+        </run>
+        <run >
+          <time>08:50</time>
+          <time>08:53</time>
+          <time>09:00</time>
+          <time>09:02</time>
+          <time>09:03</time>
+          <time>09:05</time>
+        </run>
+        <run >
+          <time>09:20</time>
+          <time>09:23</time>
+          <time>09:30</time>
+          <time>09:32</time>
+          <time>09:33</time>
+          <time>09:35</time>
+        </run>
+        <run >
+          <time>09:50</time>
+          <time>09:53</time>
+          <time>10:00</time>
+          <time>10:02</time>
+          <time>10:03</time>
+          <time>10:05</time>
+        </run>
+        <run >
+          <time>10:20</time>
+          <time>10:23</time>
+          <time>10:30</time>
+          <time>10:32</time>
+          <time>10:33</time>
+          <time>10:35</time>
+        </run>
+        <run >
+          <time>10:50</time>
+          <time>10:53</time>
+          <time>11:00</time>
+          <time>11:02</time>
+          <time>11:03</time>
+          <time>11:05</time>
+        </run>
+        <run >
+          <time>11:20</time>
+          <time>11:23</time>
+          <time>11:30</time>
+          <time>11:32</time>
+          <time>11:33</time>
+          <time>11:35</time>
+        </run>
+        <run >
+          <time>11:50</time>
+          <time>11:53</time>
+          <time>12:00</time>
+          <time>12:02</time>
+          <time>12:03</time>
+          <time>12:05</time>
+        </run>
+        <run >
+          <time>12:50</time>
+          <time>12:53</time>
+          <time>13:00</time>
+          <time>13:02</time>
+          <time>13:03</time>
+          <time>13:05</time>
+        </run>
+        <run >
+          <time>13:20</time>
+          <time>13:23</time>
+          <time>13:30</time>
+          <time>13:32</time>
+          <time>13:33</time>
+          <time>13:35</time>
+        </run>
+        <run >
+          <time>13:50</time>
+          <time>13:53</time>
+          <time>14:00</time>
+          <time>14:02</time>
+          <time>14:03</time>
+          <time>14:05</time>
+        </run>
+        <run >
+          <time>14:20</time>
+          <time>14:23</time>
+          <time>14:30</time>
+          <time>14:32</time>
+          <time>14:33</time>
+          <time>14:35</time>
+        </run>
+        <run >
+          <time>14:50</time>
+          <time>14:53</time>
+          <time>15:00</time>
+          <time>15:02</time>
+          <time>15:03</time>
+          <time>15:05</time>
+        </run>
+        <run >
+          <time>15:20</time>
+          <time>15:23</time>
+          <time>15:30</time>
+          <time>15:32</time>
+          <time>15:33</time>
+          <time>15:35</time>
+        </run>
+        <run >
+          <time>15:50</time>
+          <time>15:53</time>
+          <time>16:00</time>
+          <time>16:02</time>
+          <time>16:03</time>
+          <time>16:05</time>
+        </run>
+        <run >
+          <time>16:20</time>
+          <time>16:23</time>
+          <time>16:30</time>
+          <time>16:32</time>
+          <time>16:33</time>
+          <time>16:35</time>
+        </run>
+        <run >
+          <time>16:50</time>
+          <time>16:53</time>
+          <time>17:00</time>
+          <time>17:02</time>
+          <time>17:03</time>
+          <time>17:05</time>
+        </run>
+        <run >
+          <time>17:20</time>
+          <time>17:23</time>
+          <time>17:30</time>
+          <time>17:32</time>
+          <time>17:33</time>
+          <time>17:35</time>
+        </run>
+        <run >
+          <time>17:50</time>
+          <time>17:53</time>
+          <time>18:00</time>
+          <time>18:02</time>
+          <time>18:03</time>
+          <time>18:05</time>
+        </run>
+        <run >
+          <time>18:20</time>
+          <time>18:23</time>
+          <time>18:30</time>
+          <time>18:32</time>
+          <time>18:33</time>
+          <time>18:35</time>
+        </run>
+        <run >
+          <time>18:50</time>
+          <time>18:53</time>
+          <time>19:00</time>
+          <time>19:02</time>
+          <time>19:03</time>
+          <time>19:05</time>
+        </run>
+        <run >
+          <time>19:20</time>
+          <time>19:23</time>
+          <time>19:30</time>
+          <time>19:32</time>
+          <time>19:33</time>
+          <time>19:35</time>
+        </run>
+        <run >
+          <time>19:50</time>
+          <time>19:53</time>
+          <time>20:00</time>
+          <time>20:02</time>
+          <time>20:03</time>
+          <time>20:05</time>
+        </run>
+        <run >
+          <time>20:20</time>
+          <time>20:23</time>
+          <time>20:30</time>
+          <time>20:32</time>
+          <time>20:33</time>
+          <time>20:35</time>
+        </run>
+        <run >
+          <time>20:50</time>
+          <time>20:53</time>
+          <time>21:00</time>
+          <time>21:02</time>
+          <time>21:03</time>
+          <time>21:05</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

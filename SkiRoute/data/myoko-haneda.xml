@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="羽田機場" to="妙高">
+  <outbound>
+    <transportation name="Nagano snow shuttle 羽田→妙高" type="other" available="2016/12/17~2017/03/12" apply-to="妙高">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Haneda.aspx</source>
+      <timetable>
+        <route>
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          </stop>
+          <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
+            <interval from="羽田国際線" fare="11500" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>14:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="Nagano snow shuttle 妙高→羽田" type="other" available="2016/12/17~2017/03/12" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,京都,名古屋,大阪,東北市區,キロロ,二世古,機場,台灣,定山渓">
+      <info>JHN 旅行社</info>
+      <source>https://naganosnowshuttle.com/C_Route_Myoko.aspx</source>
+      <timetable>
+        <route>
+          <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
+          </stop>
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+            <interval from="赤倉巴士站" fare="11500" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>12:45</time>
+          <time>18:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

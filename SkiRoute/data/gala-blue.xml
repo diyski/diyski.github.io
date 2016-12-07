@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="越後湯沢駅(藍)" to="Gala">
+  <outbound>
+    <transportation name="NASPA→越後湯沢駅→Gala" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
+      <info>
+      </info>
+      <source>https://gala.co.jp/winter/access_bus.html</source>
+      <timetable>
+        <route>
+          <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
+          </stop>
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
+            <interval from="NASPA" fare="0" km="0" />
+          </stop>
+          <stop name="匠の宿みやた"   tag="越後湯沢>民宿" gps="36.935376, 138.812256" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+          </stop>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.937012, 138.809335" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="匠の宿みやた" fare="0" km="0" />
+          </stop>
+          <stop name="湯沢高原"   tag="湯沢高原>湯沢高原" gps="36.940201, 138.804452" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="匠の宿みやた" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
+          </stop>
+          <stop name="Gala"   tag="Gala>Gala" gps="36.950418, 138.800019" >
+            <interval from="NASPA" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="匠の宿みやた" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:10</time>
+          <time>08:12</time>
+          <time>08:14</time>
+          <time>08:15</time>
+          <time>08:18</time>
+          <time>08:20</time>
+        </run>
+        <run >
+          <time>08:40</time>
+          <time>08:42</time>
+          <time>08:44</time>
+          <time>08:45</time>
+          <time>08:48</time>
+          <time>08:50</time>
+        </run>
+        <run >
+          <time>09:10</time>
+          <time>09:12</time>
+          <time>09:14</time>
+          <time>09:15</time>
+          <time>09:18</time>
+          <time>09:20</time>
+        </run>
+        <run >
+          <time>09:40</time>
+          <time>09:42</time>
+          <time>09:44</time>
+          <time>09:45</time>
+          <time>09:48</time>
+          <time>09:50</time>
+        </run>
+        <run >
+          <time>10:10</time>
+          <time>10:12</time>
+          <time>10:14</time>
+          <time>10:15</time>
+          <time>10:18</time>
+          <time>10:20</time>
+        </run>
+        <run >
+          <time>10:40</time>
+          <time>10:42</time>
+          <time>10:44</time>
+          <time>10:45</time>
+          <time>10:48</time>
+          <time>10:50</time>
+        </run>
+        <run >
+          <time>11:10</time>
+          <time>11:12</time>
+          <time>11:14</time>
+          <time>11:15</time>
+          <time>11:18</time>
+          <time>11:20</time>
+        </run>
+        <run >
+          <time>11:40</time>
+          <time>11:42</time>
+          <time>11:44</time>
+          <time>11:45</time>
+          <time>11:48</time>
+          <time>11:50</time>
+        </run>
+        <run >
+          <time>12:10</time>
+          <time>12:12</time>
+          <time>12:14</time>
+          <time>12:15</time>
+          <time>12:18</time>
+          <time>12:20</time>
+        </run>
+        <run >
+          <time>13:10</time>
+          <time>13:12</time>
+          <time>13:14</time>
+          <time>13:15</time>
+          <time>13:18</time>
+          <time>13:20</time>
+        </run>
+        <run >
+          <time>13:40</time>
+          <time>13:42</time>
+          <time>13:44</time>
+          <time>13:45</time>
+          <time>13:48</time>
+          <time>13:50</time>
+        </run>
+        <run >
+          <time>14:10</time>
+          <time>14:12</time>
+          <time>14:14</time>
+          <time>14:15</time>
+          <time>14:18</time>
+          <time>14:20</time>
+        </run>
+        <run >
+          <time>14:40</time>
+          <time>14:42</time>
+          <time>14:44</time>
+          <time>14:45</time>
+          <time>14:48</time>
+          <time>14:50</time>
+        </run>
+        <run >
+          <time>15:10</time>
+          <time>15:12</time>
+          <time>15:14</time>
+          <time>15:15</time>
+          <time>15:18</time>
+          <time>15:20</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:42</time>
+          <time>15:44</time>
+          <time>15:45</time>
+          <time>15:48</time>
+          <time>15:50</time>
+        </run>
+        <run >
+          <time>16:10</time>
+          <time>16:12</time>
+          <time>16:14</time>
+          <time>16:15</time>
+          <time>16:18</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>16:40</time>
+          <time>16:42</time>
+          <time>16:44</time>
+          <time>16:45</time>
+          <time>16:48</time>
+          <time>16:50</time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>17:12</time>
+          <time>17:14</time>
+          <time>17:15</time>
+          <time>17:18</time>
+          <time>17:20</time>
+        </run>
+        <run >
+          <time>17:40</time>
+          <time>17:42</time>
+          <time>17:44</time>
+          <time>17:45</time>
+          <time>17:48</time>
+          <time>17:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="Gala→越後湯沢駅→NASPA" type="other" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,湯沢中里,石打丸,キロロ,盤溪,東京,軽井沢,東北市區,白馬,長野,戸狩温泉,機場,二世古,留壽都,野沢温泉,名古屋,志賀,舞子,定山渓,藏王">
+      <info>
+      </info>
+      <source>https://gala.co.jp/winter/access_bus.html</source>
+      <timetable>
+        <route>
+          <stop name="Gala"   tag="Gala>Gala" gps="36.950418, 138.800019" >
+          </stop>
+          <stop name="湯沢高原"   tag="湯沢高原>湯沢高原" gps="36.940201, 138.804452" >
+            <interval from="Gala" fare="0" km="0" />
+          </stop>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.937012, 138.809335" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+          </stop>
+          <stop name="匠の宿みやた"   tag="越後湯沢>民宿" gps="36.935376, 138.812256" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
+            <interval from="匠の宿みやた" fare="0" km="0" />
+          </stop>
+          <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
+            <interval from="Gala" fare="0" km="0" />
+            <interval from="湯沢高原" fare="0" km="0" />
+            <interval from="JR越後湯沢駅" fare="0" km="0" />
+            <interval from="匠の宿みやた" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:30</time>
+          <time>08:32</time>
+          <time>08:34</time>
+          <time>08:35</time>
+          <time>08:38</time>
+          <time>08:40</time>
+        </run>
+        <run >
+          <time>09:00</time>
+          <time>09:02</time>
+          <time>09:04</time>
+          <time>09:05</time>
+          <time>09:08</time>
+          <time>09:10</time>
+        </run>
+        <run >
+          <time>09:30</time>
+          <time>09:32</time>
+          <time>09:34</time>
+          <time>09:35</time>
+          <time>09:38</time>
+          <time>09:40</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:02</time>
+          <time>10:04</time>
+          <time>10:05</time>
+          <time>10:08</time>
+          <time>10:10</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:32</time>
+          <time>10:34</time>
+          <time>10:35</time>
+          <time>10:38</time>
+          <time>10:40</time>
+        </run>
+        <run >
+          <time>11:00</time>
+          <time>11:02</time>
+          <time>11:04</time>
+          <time>11:05</time>
+          <time>11:08</time>
+          <time>11:10</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>11:32</time>
+          <time>11:34</time>
+          <time>11:35</time>
+          <time>11:38</time>
+          <time>11:40</time>
+        </run>
+        <run >
+          <time>12:00</time>
+          <time>12:02</time>
+          <time>12:04</time>
+          <time>12:05</time>
+          <time>12:08</time>
+          <time>12:10</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:32</time>
+          <time>12:34</time>
+          <time>12:35</time>
+          <time>12:38</time>
+          <time>12:40</time>
+        </run>
+        <run >
+          <time>13:30</time>
+          <time>13:32</time>
+          <time>13:34</time>
+          <time>13:35</time>
+          <time>13:38</time>
+          <time>13:40</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>14:02</time>
+          <time>14:04</time>
+          <time>14:05</time>
+          <time>14:08</time>
+          <time>14:10</time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>14:32</time>
+          <time>14:34</time>
+          <time>14:35</time>
+          <time>14:38</time>
+          <time>14:40</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>15:02</time>
+          <time>15:04</time>
+          <time>15:05</time>
+          <time>15:08</time>
+          <time>15:10</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>15:32</time>
+          <time>15:34</time>
+          <time>15:35</time>
+          <time>15:38</time>
+          <time>15:40</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>16:02</time>
+          <time>16:04</time>
+          <time>16:05</time>
+          <time>16:08</time>
+          <time>16:10</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>16:32</time>
+          <time>16:34</time>
+          <time>16:35</time>
+          <time>16:38</time>
+          <time>16:40</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>17:02</time>
+          <time>17:04</time>
+          <time>17:05</time>
+          <time>17:08</time>
+          <time>17:10</time>
+        </run>
+        <run >
+          <time>17:30</time>
+          <time>17:32</time>
+          <time>17:34</time>
+          <time>17:35</time>
+          <time>17:38</time>
+          <time>17:40</time>
+        </run>
+        <run >
+          <time>18:00</time>
+          <time>18:32</time>
+          <time>18:34</time>
+          <time>18:35</time>
+          <time>18:38</time>
+          <time>18:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

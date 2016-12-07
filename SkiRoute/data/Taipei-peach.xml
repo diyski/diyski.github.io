@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="日本(樂桃)" to="台灣">
+  <outbound>
+    <transportation name="樂桃 關西→台灣" type="other" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.flypeach.com/pc/tw</source>
+      <timetable>
+        <route>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+          </stop>
+          <stop name="小港機場"   tag="台灣>高雄" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
+            <interval from="小港機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>08:50</time>
+        </run>
+        <run >
+          <time>07:50</time>
+          <time>
+          </time>
+          <time>10:05</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>
+          </time>
+          <time>18:15</time>
+        </run>
+        <run >
+          <time>17:50</time>
+          <time>
+          </time>
+          <time>20:05</time>
+        </run>
+        <run >
+          <time>10:55</time>
+          <time>13:30</time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="樂桃 羽田→桃園" type="other" available="" apply-to=",台灣">
+      <info>
+</info>
+      <source>http://www.flypeach.com/pc/tw</source>
+      <timetable>
+        <route>
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          </stop>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+            <interval from="羽田国際線" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>05:50</time>
+          <time>08:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="樂桃 台灣→關西" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,キロロ,盤溪,長野,軽井沢,Gala,名古屋,東京,越後湯沢,NASPA,大阪,留壽都,戸狩温泉,二世古,安比,湯沢高原,定山渓,藏王,舞子">
+      <info>
+      </info>
+      <source>http://www.flypeach.com/pc/tw</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="小港機場"   tag="台灣>高雄" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+            <interval from="桃園機場" fare="0" km="0" />
+            <interval from="小港機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>
+          </time>
+          <time>13:05</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>14:15</time>
+          <time>17:55</time>
+        </run>
+        <run >
+          <time>18:55</time>
+          <time>
+          </time>
+          <time>22:30</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="樂桃 桃園→羽田" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,東京,東北市區,盤溪,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,キロロ,二世古,安比,戸狩温泉,越後湯沢,NASPA,留壽都,定山渓,湯沢高原,舞子,藏王">
+      <info>
+</info>
+      <source>http://www.flypeach.com/pc/tw</source>
+      <timetable>
+        <route>
+          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+            <interval from="桃園機場" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>20:45</time>
+          <time>00:45</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

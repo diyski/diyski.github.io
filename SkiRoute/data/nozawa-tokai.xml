@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="名古屋" to="野澤溫泉">
+  <outbound>
+    <transportation name="名古屋→野澤→戸狩 夜巴" type="other" available="2017/02/17~2017/02/28" apply-to="野沢温泉">
+      <info>名古屋発
+12/25-26、1/6-7、2/17-28
+スキー場発
+12/27-28、1/8-9、2/19-3/2</info>
+      <source>http://www.travex.co.jp/ski-bus/nagoya/nozawa.html</source>
+      <timetable>
+        <route>
+          <stop name="JR名古屋駅" yahoo="true"  tag="名古屋>JR" gps="35.168093, 136.884823" >
+          </stop>
+          <stop name="野沢温泉スパリーナ駐車場"   tag="野沢温泉>巴士站" gps="36.918798, 138.446889" >
+            <interval from="JR名古屋駅" fare="8000" km="0" />
+          </stop>
+          <stop name="中尾駐車場"   tag="野沢温泉>巴士站" gps="36.914035, 138.436709" >
+            <interval from="JR名古屋駅" fare="8000" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
+            <interval from="JR名古屋駅" fare="8000" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="みちくさの里駐車場"   tag="戸狩温泉>巴士站" gps="36.919704, 138.381370" >
+            <interval from="JR名古屋駅" fare="0" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="ペガサスゲレンデ前"   tag="戸狩温泉>巴士站" gps="36.931506, 138.388972" >
+            <interval from="JR名古屋駅" fare="0" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="みちくさの里駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="二ツ宮駐車場"   tag="戸狩温泉>巴士站" gps="36.938198, 138.395228" >
+            <interval from="JR名古屋駅" fare="0" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="みちくさの里駐車場" fare="0" km="0" />
+            <interval from="ペガサスゲレンデ前" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>23:00</time>
+          <time>06:10</time>
+          <time>06:15</time>
+          <time>06:20</time>
+          <time>06:45</time>
+          <time>06:50</time>
+          <time>07:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="野澤→戸狩→名古屋 夜巴" type="other" available="2017/02/17~2017/02/28" apply-to=",大阪,京都,名古屋,機場">
+      <info>名古屋発
+12/25-26、1/6-7、2/17-28
+スキー場発
+12/27-28、1/8-9、2/19-3/2</info>
+      <source>http://www.travex.co.jp/ski-bus/nagoya/nozawa.html</source>
+      <timetable>
+        <route>
+          <stop name="二ツ宮駐車場"   tag="戸狩温泉>巴士站" gps="36.938198, 138.395228" >
+          </stop>
+          <stop name="ペガサスゲレンデ前"   tag="戸狩温泉>巴士站" gps="36.931506, 138.388972" >
+            <interval from="二ツ宮駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="みちくさの里駐車場"   tag="戸狩温泉>巴士站" gps="36.919704, 138.381370" >
+            <interval from="二ツ宮駐車場" fare="0" km="0" />
+            <interval from="ペガサスゲレンデ前" fare="0" km="0" />
+          </stop>
+          <stop name="野沢温泉スパリーナ駐車場"   tag="野沢温泉>巴士站" gps="36.918798, 138.446889" >
+            <interval from="二ツ宮駐車場" fare="0" km="0" />
+            <interval from="ペガサスゲレンデ前" fare="0" km="0" />
+            <interval from="みちくさの里駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="中尾駐車場"   tag="野沢温泉>巴士站" gps="36.914035, 138.436709" >
+            <interval from="二ツ宮駐車場" fare="0" km="0" />
+            <interval from="ペガサスゲレンデ前" fare="0" km="0" />
+            <interval from="みちくさの里駐車場" fare="0" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="8000" km="0" />
+          </stop>
+          <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
+            <interval from="二ツ宮駐車場" fare="0" km="0" />
+            <interval from="ペガサスゲレンデ前" fare="0" km="0" />
+            <interval from="みちくさの里駐車場" fare="0" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="JR名古屋駅" yahoo="true"  tag="名古屋>JR" gps="35.168093, 136.884823" >
+            <interval from="二ツ宮駐車場" fare="0" km="0" />
+            <interval from="ペガサスゲレンデ前" fare="0" km="0" />
+            <interval from="みちくさの里駐車場" fare="0" km="0" />
+            <interval from="野沢温泉スパリーナ駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>14:40</time>
+          <time>14:50</time>
+          <time>14:55</time>
+          <time>15:20</time>
+          <time>15:30</time>
+          <time>15:35</time>
+          <time>21:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>
