@@ -8,7 +8,7 @@
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
       <timetable>
         <route>
-          <stop name="JR盛岡駅" yahoo="true"  tag="東北市區>JR" gps="" >
+          <stop name="JR盛岡駅" yahoo="true"  tag="東北の駅>JR" gps="" >
           </stop>
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
             <interval from="JR盛岡駅" fare="1130" km="46" />
@@ -67,7 +67,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="安比→盛岡駅" type="bus" available="2016/12/19~2017/03/27" apply-to=",朝里川,札幌国際,妙高,富良野,苗場,大阪,京都,軽井沢,東北市區,東京,盤溪,キロロ,石打丸,台灣,湯沢中里,湯沢高原,空港,戸狩温泉,越後湯沢,長野,Gala,白馬,名古屋,NASPA,留壽都,二世古,定山渓,野沢温泉,志賀,舞子,藏王">
+    <transportation name="安比→盛岡駅" type="bus" available="2016/12/19~2017/03/27" apply-to=",朝里川,札幌国際,妙高,富良野,苗場,大阪,京都,軽井沢,東北の駅,東京,盤溪,キロロ,石打丸,台灣,湯沢中里,湯沢高原,空港,戸狩温泉,越後湯沢,長野,Gala,白馬,名古屋,NASPA,留壽都,二世古,定山渓,野沢温泉,志賀,舞子,藏王">
       <info>
       </info>
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
@@ -78,7 +78,7 @@
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
             <interval from="安比高原スキー場" fare="0" km="0" />
           </stop>
-          <stop name="JR盛岡駅" yahoo="true"  tag="東北市區>JR" gps="" >
+          <stop name="JR盛岡駅" yahoo="true"  tag="東北の駅>JR" gps="" >
             <interval from="安比高原スキー場" fare="1130" km="0" />
             <interval from="ホテル安比グランド" fare="1130" km="46" />
           </stop>

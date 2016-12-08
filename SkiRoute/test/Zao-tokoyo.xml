@@ -9,7 +9,7 @@
         <route>
           <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="35.688579, 139.700974" >
           </stop>
-          <stop name="JR山形駅" yahoo="true"  tag="東北市區>JR" gps="38.249675,140.326025" >
+          <stop name="JR山形駅" yahoo="true"  tag="東北の駅>JR" gps="38.249675,140.326025" >
             <interval from="JR新宿駅" fare="0" km="400" />
           </stop>
         </route>
@@ -31,7 +31,7 @@
       <source>http://willerexpress.com/st/3/tw/pc/bus/route/kanto/yamagata/</source>
       <timetable>
         <route>
-          <stop name="JR山形駅" yahoo="true"  tag="東北市區>JR" gps="38.249675,140.326025" >
+          <stop name="JR山形駅" yahoo="true"  tag="東北の駅>JR" gps="38.249675,140.326025" >
           </stop>
           <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="35.688579, 139.700974" >
             <interval from="JR山形駅" fare="0" km="400" />

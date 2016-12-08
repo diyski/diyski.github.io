@@ -29,7 +29,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="安比→仙台空港" type="highwayBus" available="2016/12/16~2017/03/26" apply-to=",札幌,京都,大阪,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,空港,キロロ,盤溪,東京,東北市區,軽井沢,Gala,長野,越後湯沢,戸狩温泉,二世古,湯沢高原,舞子,志賀,藏王,野沢温泉,留壽都,NASPA,名古屋,白馬,定山渓">
+    <transportation name="安比→仙台空港" type="highwayBus" available="2016/12/16~2017/03/26" apply-to=",札幌,京都,大阪,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,空港,キロロ,盤溪,東京,東北の駅,軽井沢,Gala,長野,越後湯沢,戸狩温泉,二世古,湯沢高原,舞子,志賀,藏王,野沢温泉,留壽都,NASPA,名古屋,白馬,定山渓">
       <info>*需要提前預約（2周前）
 *巴士會經過盛岡站</info>
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
