@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="妙高" to="野澤溫泉">
   <outbound>
-    <transportation name="Nagano snow shuttle 妙高→野澤" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",野沢温泉">
-      <info>JHN 旅行社</info>
+    <transportation name="妙高→野沢" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",野沢温泉">
+      <info>Nagano snow shuttle</info>
       <source>https://naganosnowshuttle.com/C_Route_Myoko.aspx</source>
       <timetable>
         <route>
@@ -24,8 +24,8 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 野澤→妙高" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",妙高">
-      <info>JHN 旅行社</info>
+    <transportation name=" 野沢→妙高" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",妙高">
+      <info>Nagano snow shuttle</info>
       <source>https://naganosnowshuttle.com/C_Route_Nozawa.aspx</source>
       <timetable>
         <route>

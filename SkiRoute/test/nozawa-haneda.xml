@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="羽田機場" to="野澤溫泉">
   <outbound>
-    <transportation name="Nagano snow shuttle 羽田→野澤" type="highwayBus" available="2016/12/17~2017/03/12" apply-to="野沢温泉">
-      <info>JHN 旅行社</info>
+    <transportation name="羽田→野沢" type="highwayBus" available="2016/12/17~2017/03/12" apply-to="野沢温泉">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Haneda.aspx</source>
       <timetable>
         <route>
@@ -20,8 +20,8 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 野澤→羽田" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,京都,名古屋,大阪,東北市區,キロロ,二世古,機場,定山渓,台灣">
-      <info>JHN 旅行社</info>
+    <transportation name="野沢→羽田" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,京都,名古屋,大阪,東北市區,キロロ,二世古,機場,定山渓,台灣">
+      <info>Nagano snow shuttle</info>
       <source>https://naganosnowshuttle.com/C_Route_Nozawa.aspx</source>
       <timetable>
         <route>

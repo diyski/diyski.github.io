@@ -8,7 +8,7 @@
         <route>
           <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
           </stop>
-          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
             <interval from="赤倉巴士站" fare="6400" km="0" />
           </stop>
         </route>
@@ -29,10 +29,10 @@
       <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
       <timetable>
         <route>
-          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
           </stop>
           <stop name="赤倉巴士站"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
-            <interval from="志賀高原住宿點" fare="6400" km="0" />
+            <interval from="志賀高原宿泊施設" fare="6400" km="0" />
           </stop>
         </route>
         <run >

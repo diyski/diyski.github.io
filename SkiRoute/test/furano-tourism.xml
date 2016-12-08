@@ -12,14 +12,14 @@
           <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
             <interval from="新富良野プリンスホテル" fare="300" km="0" />
           </stop>
-          <stop name="民宿區kisen"   tag="富良野>民宿區" gps="43.342531, 142.361022" >
+          <stop name="kisen"   tag="富良野>其他" gps="43.343404, 142.367589" >
             <interval from="新富良野プリンスホテル" fare="300" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="43.347091, 142.391741" >
             <interval from="新富良野プリンスホテル" fare="300" km="0" />
             <interval from="富良野プリンスホテル" fare="300" km="0" />
-            <interval from="民宿區kisen" fare="300" km="0" />
+            <interval from="kisen" fare="300" km="0" />
           </stop>
         </route>
         <run >
@@ -46,16 +46,16 @@
         <route>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="43.347091, 142.391741" >
           </stop>
-          <stop name="民宿區kisen"   tag="富良野>民宿區" gps="43.342531, 142.361022" >
+          <stop name="kisen"   tag="富良野>其他" gps="43.343404, 142.367589" >
             <interval from="富良野駅" fare="300" km="0" />
           </stop>
           <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
             <interval from="富良野駅" fare="300" km="0" />
-            <interval from="民宿區kisen" fare="0" km="0" />
+            <interval from="kisen" fare="0" km="0" />
           </stop>
           <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
             <interval from="富良野駅" fare="300" km="0" />
-            <interval from="民宿區kisen" fare="300" km="0" />
+            <interval from="kisen" fare="300" km="0" />
             <interval from="富良野プリンスホテル" fare="300" km="0" />
           </stop>
         </route>

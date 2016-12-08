@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市(travelpal)" to="Niseko">
   <outbound>
-    <transportation name="Sapporo to Niseko bus" type="bus" available="2016/12/02~2017/04/02" apply-to="二世谷,二世古">
-      <info>市區會沿路停靠各飯店預計1小時</info>
+    <transportation name="札幌→Niseko" type="bus" available="2016/12/02~2017/04/02" apply-to="二世谷,二世古">
+      <info>
+      </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>
         <route>
@@ -478,8 +479,9 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko to Sapporo bus" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,機場,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓">
-      <info>市區會沿路停靠各飯店預計1小時</info>
+    <transportation name="Niseko→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,機場,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓">
+      <info>
+      </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>
         <route>
@@ -843,23 +845,23 @@
           <time>09:40</time>
           <time>10:00</time>
           <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
-          <time>12:30</time>
+          <time>12:34</time>
+          <time>12:38</time>
+          <time>12:42</time>
+          <time>12:46</time>
+          <time>12:50</time>
+          <time>12:54</time>
+          <time>12:58</time>
+          <time>13:02</time>
+          <time>13:06</time>
+          <time>13:10</time>
+          <time>13:14</time>
+          <time>13:18</time>
+          <time>13:22</time>
+          <time>13:24</time>
+          <time>13:26</time>
+          <time>13:28</time>
+          <time>13:30</time>
         </run>
         <run >
           <time>14:00</time>
@@ -870,23 +872,23 @@
           <time>14:40</time>
           <time>15:00</time>
           <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
-          <time>17:30</time>
+          <time>17:34</time>
+          <time>17:38</time>
+          <time>17:42</time>
+          <time>17:46</time>
+          <time>17:50</time>
+          <time>17:54</time>
+          <time>17:58</time>
+          <time>17:02</time>
+          <time>17:06</time>
+          <time>17:10</time>
+          <time>18:14</time>
+          <time>18:18</time>
+          <time>18:22</time>
+          <time>18:24</time>
+          <time>18:26</time>
+          <time>18:28</time>
+          <time>18:30</time>
         </run>
         <run >
           <time>16:00</time>
@@ -897,23 +899,23 @@
           <time>16:40</time>
           <time>17:00</time>
           <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
-          <time>19:30</time>
+          <time>19:34</time>
+          <time>19:38</time>
+          <time>19:42</time>
+          <time>19:46</time>
+          <time>19:50</time>
+          <time>19:54</time>
+          <time>19:58</time>
+          <time>20:02</time>
+          <time>20:06</time>
+          <time>20:10</time>
+          <time>20:14</time>
+          <time>20:18</time>
+          <time>20:22</time>
+          <time>20:24</time>
+          <time>20:26</time>
+          <time>20:28</time>
+          <time>20:30</time>
         </run>
       </timetable>
     </transportation>

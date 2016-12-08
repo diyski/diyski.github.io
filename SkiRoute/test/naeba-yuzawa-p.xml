@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯澤(付)" to="苗場">
   <outbound>
-    <transportation name="神樂苗場巴士" type="bus" available="2016/12/10~2017/04/02" apply-to="苗場">
-      <info>大型行李或雪具一件+100日幣運費，有全山共通票免費</info>
+    <transportation name="越後湯沢→苗場" type="bus" available="2016/12/10~2017/04/02" apply-to="苗場">
+      <info>※大型行李或雪具一件+100日幣運費，有全山共通票免費
+
+※ご利用日当日のMt.Naeba共通リフト券をお持ちの方は＜かぐら－苗場エリア間＞の乗車料金が無料となります。
+　ただし、手荷物（スキー・スノーボード・大型バック等）の持込料金￥100が必要となります。</info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
@@ -15,16 +18,16 @@
             <interval from="JR越後湯沢駅" fare="530" km="14" />
             <interval from="かぐらスキー場" fare="0" km="6" />
           </stop>
-          <stop name="王子飯店六號館"   tag="苗場>王子飯店" gps="36.795316, 138.786224" >
+          <stop name="苗場プリンスホテル6号館"   tag="苗場>王子飯店" gps="36.795316, 138.786224" >
             <interval from="JR越後湯沢駅" fare="660" km="21.5" />
             <interval from="かぐらスキー場" fare="0" km="0" />
             <interval from="田代スキー場" fare="0" km="0" />
           </stop>
-          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
             <interval from="JR越後湯沢駅" fare="670" km="22" />
             <interval from="かぐらスキー場" fare="0" km="0" />
             <interval from="田代スキー場" fare="0" km="0" />
-            <interval from="王子飯店六號館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -97,28 +100,31 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="神樂苗場巴士" type="bus" available="2016/12/10~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,湯沢中里,台灣,湯沢高原,定山渓,舞子,二世古,戸狩温泉,東京,長野,名古屋,Gala,大阪,越後湯沢,NASPA">
-      <info>大型行李或雪具一件+100日幣運費，有全山共通票免費</info>
+    <transportation name="苗場→越後湯沢" type="bus" available="2016/12/10~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,湯沢中里,台灣,湯沢高原,定山渓,舞子,二世古,戸狩温泉,東京,長野,名古屋,Gala,大阪,越後湯沢,NASPA">
+      <info>※大型行李或雪具一件+100日幣運費，有全山共通票免費
+
+※ご利用日当日のMt.Naeba共通リフト券をお持ちの方は＜かぐら－苗場エリア間＞の乗車料金が無料となります。
+　ただし、手荷物（スキー・スノーボード・大型バック等）の持込料金￥100が必要となります。</info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
-          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
           </stop>
-          <stop name="王子飯店六號館"   tag="苗場>王子飯店" gps="36.795316, 138.786224" >
-            <interval from="王子飯店四號館" fare="0" km="0" />
+          <stop name="苗場プリンスホテル6号館"   tag="苗場>王子飯店" gps="36.795316, 138.786224" >
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
           </stop>
           <stop name="田代スキー場"   tag="苗場>田代" gps="" >
-            <interval from="王子飯店四號館" fare="0" km="0" />
-            <interval from="王子飯店六號館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
           </stop>
           <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
-            <interval from="王子飯店四號館" fare="0" km="0" />
-            <interval from="王子飯店六號館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
             <interval from="田代スキー場" fare="0" km="6" />
           </stop>
           <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
-            <interval from="王子飯店四號館" fare="670" km="22" />
-            <interval from="王子飯店六號館" fare="660" km="21.5" />
+            <interval from="苗場プリンスホテル4号館" fare="670" km="22" />
+            <interval from="苗場プリンスホテル6号館" fare="660" km="21.5" />
             <interval from="田代スキー場" fare="530" km="14" />
             <interval from="かぐらスキー場" fare="380" km="8" />
           </stop>

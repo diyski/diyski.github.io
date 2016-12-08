@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲(HAN)" to="Niseko">
   <outbound>
-    <transportation name="新千歲国内→留壽都→二世谷" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="二世谷,留壽都,二世古">
-      <info>國內線集合地點在JAL到着口A、B之間，Hokkaido resort liner櫃台      </info>
+    <transportation name="新千歲国内→留壽都→Niseko" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="二世谷,留壽都,二世古">
+      <info>國內線集合地點在JAL到着口A、B之間，Hokkaido resort liner櫃台
+
+JAL到着口AとBの間，Hokkaido resort liner</info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
       <timetable>
         <route>
@@ -329,7 +331,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="二世谷→留壽都→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,東北市區,長野,東京,名古屋,大阪,越後湯沢,NASPA,戸狩温泉,機場,石打丸,台灣,湯沢高原,舞子,湯沢中里">
+    <transportation name="Niseko→留壽都→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,東北市區,長野,東京,名古屋,大阪,越後湯沢,NASPA,戸狩温泉,機場,石打丸,台灣,湯沢高原,舞子,湯沢中里">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
