@@ -6,7 +6,7 @@
       <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
       <timetable>
         <route>
-          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.773962, 140.387273" >
           </stop>
           <stop name="赤倉バス停"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
             <interval from="成田空港第2ターミナル" fare="11500" km="0" />
@@ -42,7 +42,7 @@
           <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="" >
             <interval from="赤倉バス停" fare="11500" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.773962, 140.387273" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="35.773962, 140.387273" >
             <interval from="赤倉バス停" fare="11500" km="0" />
             <interval from="JR新宿駅" fare="0" km="0" />
           </stop>

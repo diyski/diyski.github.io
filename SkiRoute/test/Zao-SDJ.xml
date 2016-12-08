@@ -6,7 +6,7 @@
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>
         <route>
-          <stop name="仙台空港" yahoo="true"  tag="機場>仙台空港" gps="" >
+          <stop name="仙台空港" yahoo="true"  tag="空港>仙台空港" gps="" >
           </stop>
           <stop name="蔵王温泉"   tag="藏王>藏王" gps="" >
             <interval from="仙台空港" fare="1800" km="90" />
@@ -39,7 +39,7 @@
         <route>
           <stop name="蔵王温泉"   tag="藏王>藏王" gps="" >
           </stop>
-          <stop name="仙台空港" yahoo="true"  tag="機場>仙台空港" gps="" >
+          <stop name="仙台空港" yahoo="true"  tag="空港>仙台空港" gps="" >
             <interval from="蔵王温泉" fare="1800" km="90" />
           </stop>
         </route>

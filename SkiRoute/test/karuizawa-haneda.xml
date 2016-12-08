@@ -29,14 +29,14 @@
             <interval from="羽田空港第1ターミナル" fare="0" km="0" />
             <interval from="羽田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="軽井沢７２ゴルフ"   tag="軽井沢>巴士站" gps="36.311854, 138.631494" >
+          <stop name="軽井沢７２ゴルフ"   tag="軽井沢>バス停" gps="36.311854, 138.631494" >
             <interval from="JR横浜駅" fare="2800" km="0" />
             <interval from="羽田国際線" fare="2800" km="0" />
             <interval from="羽田空港第1ターミナル" fare="2800" km="0" />
             <interval from="羽田空港第2ターミナル" fare="2800" km="0" />
             <interval from="品川プリンスホテル" fare="2800" km="0" />
           </stop>
-          <stop name="ショッピングプラザ前"   tag="軽井沢>巴士站" gps="36.337630, 138.631599" >
+          <stop name="ショッピングプラザ前"   tag="軽井沢>バス停" gps="36.337630, 138.631599" >
             <interval from="JR横浜駅" fare="2800" km="0" />
             <interval from="羽田国際線" fare="2800" km="0" />
             <interval from="羽田空港第1ターミナル" fare="2800" km="0" />
@@ -44,7 +44,7 @@
             <interval from="品川プリンスホテル" fare="2800" km="0" />
             <interval from="軽井沢７２ゴルフ" fare="0" km="0" />
           </stop>
-          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
             <interval from="JR横浜駅" fare="2800" km="0" />
             <interval from="羽田国際線" fare="2800" km="0" />
             <interval from="羽田空港第1ターミナル" fare="2800" km="0" />
@@ -53,7 +53,7 @@
             <interval from="軽井沢７２ゴルフ" fare="0" km="0" />
             <interval from="ショッピングプラザ前" fare="0" km="0" />
           </stop>
-          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.343040, 138.636873" >
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>JR" gps="36.343040, 138.636873" >
             <interval from="JR横浜駅" fare="2800" km="0" />
             <interval from="羽田国際線" fare="2800" km="0" />
             <interval from="羽田空港第1ターミナル" fare="2800" km="0" />
@@ -63,7 +63,7 @@
             <interval from="ショッピングプラザ前" fare="0" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
           </stop>
-          <stop name="B20G4 ホテル イースト"   tag="軽井沢>循環巴士" gps="36.339930, 138.640171" >
+          <stop name="B20G4 ホテル イースト"   tag="軽井沢>無料バス" gps="36.339930, 138.640171" >
             <interval from="JR横浜駅" fare="2800" km="0" />
             <interval from="羽田国際線" fare="2800" km="0" />
             <interval from="羽田空港第1ターミナル" fare="2800" km="0" />
@@ -116,21 +116,21 @@
       <source>http://www.keikyu-bus.co.jp/airport/h-karuizawa/</source>
       <timetable>
         <route>
-          <stop name="B20G4 ホテル イースト"   tag="軽井沢>循環巴士" gps="36.339930, 138.640171" >
+          <stop name="B20G4 ホテル イースト"   tag="軽井沢>無料バス" gps="36.339930, 138.640171" >
           </stop>
-          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>循環巴士" gps="36.343040, 138.636873" >
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>JR" gps="36.343040, 138.636873" >
             <interval from="B20G4 ホテル イースト" fare="0" km="0" />
           </stop>
-          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
             <interval from="B20G4 ホテル イースト" fare="0" km="0" />
             <interval from="JR軽井沢駅" fare="0" km="0" />
           </stop>
-          <stop name="ショッピングプラザ前"   tag="軽井沢>巴士站" gps="36.337630, 138.631599" >
+          <stop name="ショッピングプラザ前"   tag="軽井沢>バス停" gps="36.337630, 138.631599" >
             <interval from="B20G4 ホテル イースト" fare="0" km="0" />
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
           </stop>
-          <stop name="軽井沢７２ゴルフ"   tag="軽井沢>巴士站" gps="36.311854, 138.631494" >
+          <stop name="軽井沢７２ゴルフ"   tag="軽井沢>バス停" gps="36.311854, 138.631494" >
             <interval from="B20G4 ホテル イースト" fare="0" km="0" />
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />

@@ -2,7 +2,7 @@
 <tag-list>
   <group name="出發地">
     <tag name="台灣" info-url="" img-url="" />
-    <tag name="機場" info-url="" img-url="" />
+    <tag name="空港" info-url="" img-url="" />
     <tag name="東京" info-url="" img-url="" />
   </group>
   <group name="北海道">
