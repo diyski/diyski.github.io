@@ -57,7 +57,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="石打丸石口→越後湯沢駅" type="bus" available="2016/12/21~2017/04/02" apply-to=",妙高,札幌国際,朝里川,富良野,苗場,大阪,京都,軽井沢,東北市區,東京,盤溪,キロロ,機場,台灣,湯沢中里,湯沢高原,安比,定山渓,志賀,舞子,藏王,野沢温泉,留壽都,NASPA,名古屋,白馬,Gala,長野,越後湯沢,戸狩温泉,二世古">
+    <transportation name="石打丸石口→越後湯沢駅" type="bus" available="2016/12/21~2017/04/02" apply-to=",妙高,札幌国際,朝里川,富良野,苗場,大阪,京都,軽井沢,東北市區,東京,盤溪,キロロ,機場,台灣,湯沢中里,湯沢高原,安比,定山渓,志賀,舞子,藏王,野沢温泉,留壽都,NASPA,名古屋,白馬,Gala,長野,越後湯沢,戸狩温泉,二世古,空港,ニセコ,ばんけい,東北の駅,ルスツ">
       <info>
       </info>
       <source>http://www.ishiuchi.or.jp/bus/index.html</source>

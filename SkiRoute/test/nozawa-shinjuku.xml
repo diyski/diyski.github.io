@@ -116,7 +116,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="野沢→戸狩→新宿 夜行" type="highwayBus" available="2016/12/22~2017/03/25" apply-to=",空港,札幌,京都,名古屋,大阪,東北市區,東京,留壽都,富良野,キロロ,二世古,安比,定山渓,朝里川,台灣,札幌国際,藏王">
+    <transportation name="野沢→戸狩→新宿 夜行" type="highwayBus" available="2016/12/22~2017/03/25" apply-to=",空港,札幌,京都,名古屋,大阪,東北市區,東京,留壽都,富良野,キロロ,二世古,安比,定山渓,朝里川,台灣,札幌国際,藏王,東北の駅,ばんけい,ニセコ,ルスツ">
       <info>
       </info>
       <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>

@@ -21,7 +21,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="藏王→仙台駅" type="highwayBus" available="2016/12/23~2017/03/20" apply-to=",札幌,京都,東北の駅,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,機場,盤溪,キロロ,東京,長野,軽井沢,名古屋,Gala,白馬,大阪,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,定山渓,志賀,舞子,留壽都,NASPA,野沢温泉">
+    <transportation name="藏王→仙台駅" type="highwayBus" available="2016/12/23~2017/03/20" apply-to=",札幌,京都,東北の駅,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,機場,盤溪,キロロ,東京,長野,軽井沢,名古屋,Gala,白馬,大阪,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,定山渓,志賀,舞子,留壽都,NASPA,野沢温泉,ばんけい,ニセコ,ルスツ,空港">
       <info>仙台駅東口（76番）著
 需當日12點前預約℡022-261-5333　　（9:00～19:00）</info>
       <source>http://www.zao-spa.or.jp/access/</source>

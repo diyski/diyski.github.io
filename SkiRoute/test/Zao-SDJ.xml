@@ -32,7 +32,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="藏王→仙台空港" type="highwayBus" available="2016/12/17~2017/04/04" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,京都,長野,名古屋,大阪,東京,越後湯沢,NASPA,舞子,湯沢中里,湯沢高原,定山渓,二世古,戸狩温泉,キロロ,機場,台灣,石打丸,安比">
+    <transportation name="藏王→仙台空港" type="highwayBus" available="2016/12/17~2017/04/04" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,京都,長野,名古屋,大阪,東京,越後湯沢,NASPA,舞子,湯沢中里,湯沢高原,定山渓,二世古,戸狩温泉,キロロ,機場,台灣,石打丸,安比,東北の駅,空港,ニセコ,ばんけい,ルスツ">
       <info>需預約 0223-23-4737 日文</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>

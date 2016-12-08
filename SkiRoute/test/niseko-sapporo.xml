@@ -479,7 +479,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,ルスツ,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓">
+    <transportation name="Niseko→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,ルスツ,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓,東北の駅,ばんけい">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>

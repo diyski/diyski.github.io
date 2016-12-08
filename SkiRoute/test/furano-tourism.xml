@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="富良野市區巴士" to="富良野">
   <outbound>
-    <transportation name="富良野イブニングシャトルバス" type="bus" available="2016/12/23~2017/03/10" apply-to=",札幌,京都,東北市區,苗場,石打丸,朝里川,札幌国際,妙高,台灣,空港,キロロ,盤溪,長野,東京,軽井沢,Gala,名古屋,白馬,大阪,越後湯沢,戸狩温泉,ルスツ,NASPA,ニセコ,野沢温泉,定山渓,安比,湯沢高原,湯沢中里,舞子,志賀,藏王">
+    <transportation name="富良野イブニングシャトルバス" type="bus" available="2016/12/23~2017/03/10" apply-to=",札幌,京都,東北市區,苗場,石打丸,朝里川,札幌国際,妙高,台灣,空港,キロロ,盤溪,長野,東京,軽井沢,Gala,名古屋,白馬,大阪,越後湯沢,戸狩温泉,ルスツ,NASPA,ニセコ,野沢温泉,定山渓,安比,湯沢高原,湯沢中里,舞子,志賀,藏王,ばんけい,東北の駅">
       <info>
       </info>
       <source>http://www.furanotourism.com/cn/spot/spot_D.php?id=510&amp;kid1=5&amp;kid2=15&amp;kid3=69</source>

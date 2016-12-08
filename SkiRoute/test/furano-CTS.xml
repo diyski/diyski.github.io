@@ -199,7 +199,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,NASPA,石打丸,空港,台灣,湯沢高原,湯沢中里,舞子">
+    <transportation name="富良野→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,NASPA,石打丸,空港,台灣,湯沢高原,湯沢中里,舞子,東北の駅">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>

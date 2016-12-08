@@ -65,7 +65,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="札幌國際．朝里川→新千歳" type="highwayBus" available="2016/12/16~2017/03/20" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,Gala,NASPA,戸狩温泉,湯沢高原,湯沢中里,舞子,石打丸,京都,長野,名古屋,大阪,東北市區,東京,空港,台灣">
+    <transportation name="札幌國際．朝里川→新千歳" type="highwayBus" available="2016/12/16~2017/03/20" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,Gala,NASPA,戸狩温泉,湯沢高原,湯沢中里,舞子,石打丸,京都,長野,名古屋,大阪,東北市區,東京,空港,台灣,越後湯沢,東北の駅">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_18.html</source>

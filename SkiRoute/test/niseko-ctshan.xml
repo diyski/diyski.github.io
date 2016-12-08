@@ -331,7 +331,7 @@ JAL到着口AとBの間，Hokkaido resort liner</info>
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko→ルスツ→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,東北市區,長野,東京,名古屋,大阪,越後湯沢,NASPA,戸狩温泉,空港,石打丸,台灣,湯沢高原,舞子,湯沢中里">
+    <transportation name="Niseko→ルスツ→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,東北市區,長野,東京,名古屋,大阪,越後湯沢,NASPA,戸狩温泉,空港,石打丸,台灣,湯沢高原,舞子,湯沢中里,東北の駅">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>

@@ -24,7 +24,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="志賀→成田" type="highwayBus" available="2016/12/17~2017/03/12" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,東京,京都,名古屋,大阪,東北市區,キロロ,二世古,台灣,空港,定山渓">
+    <transportation name="志賀→成田" type="highwayBus" available="2016/12/17~2017/03/12" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,東京,京都,名古屋,大阪,東北市區,キロロ,二世古,台灣,空港,定山渓,ニセコ,ばんけい,ルスツ,東北の駅">
       <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
       <timetable>

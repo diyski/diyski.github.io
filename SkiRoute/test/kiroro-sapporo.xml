@@ -343,7 +343,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="キロロ→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,NASPA,戸狩温泉,二世古,石打丸,湯沢高原,舞子,湯沢中里,京都,東北市區,長野,名古屋,越後湯沢,東京,大阪,台灣,空港,定山渓">
+    <transportation name="キロロ→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,NASPA,戸狩温泉,二世古,石打丸,湯沢高原,舞子,湯沢中里,京都,東北市區,長野,名古屋,越後湯沢,東京,大阪,台灣,空港,定山渓,ルスツ,ニセコ,ばんけい,東北の駅">
       <info>市區會沿路停靠各ホテル預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
