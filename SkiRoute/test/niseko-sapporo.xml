@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市(travelpal)" to="Niseko">
   <outbound>
-    <transportation name="札幌→Niseko" type="bus" available="2016/12/02~2017/04/02" apply-to="二世谷,二世古">
+    <transportation name="札幌→Niseko" type="bus" available="2016/12/02~2017/04/02" apply-to="二世谷,ニセコ">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
@@ -196,7 +196,7 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
           </stop>
-          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+          <stop name="ヒラフ第一駐車場"   tag="ニセコ>Hirafu" gps="42.862853, 140.698885" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -216,7 +216,7 @@
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
           </stop>
-          <stop name="ヒルトンニセコビレッジ"   tag="二世古>ホテル" gps="42.846563, 140.685021" >
+          <stop name="ヒルトンニセコビレッジ"   tag="ニセコ>ホテル" gps="42.846563, 140.685021" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -237,7 +237,7 @@
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
           </stop>
-          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>ホテル" gps="42.846530, 140.676081" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="ニセコ>ホテル" gps="42.846530, 140.676081" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -259,7 +259,7 @@
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>ホテル" gps="42.850302, 140.644390" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="ニセコ>ホテル" gps="42.850302, 140.644390" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -282,7 +282,7 @@
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ホテル甘露の森"   tag="二世古>ホテル" gps="42.846505, 140.622955" >
+          <stop name="ホテル甘露の森"   tag="ニセコ>ホテル" gps="42.846505, 140.622955" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -306,7 +306,7 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
-          <stop name="ニセコグランドホテル"   tag="二世古>ホテル" gps="42.841287, 140.623011" >
+          <stop name="ニセコグランドホテル"   tag="ニセコ>ホテル" gps="42.841287, 140.623011" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -331,7 +331,7 @@
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
             <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
-          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
+          <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>民宿" gps="42.838169, 140.620548" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -479,40 +479,40 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓">
+    <transportation name="Niseko→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,ルスツ,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>
         <route>
-          <stop name="鶴雅別荘 杢の抄"   tag="二世古>民宿" gps="42.838169, 140.620548" >
+          <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>民宿" gps="42.838169, 140.620548" >
           </stop>
-          <stop name="ニセコグランドホテル"   tag="二世古>ホテル" gps="42.841287, 140.623011" >
+          <stop name="ニセコグランドホテル"   tag="ニセコ>ホテル" gps="42.841287, 140.623011" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
           </stop>
-          <stop name="ホテル甘露の森"   tag="二世古>ホテル" gps="42.846505, 140.622955" >
+          <stop name="ホテル甘露の森"   tag="ニセコ>ホテル" gps="42.846505, 140.622955" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
             <interval from="ニセコグランドホテル" fare="0" km="0" />
           </stop>
-          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>ホテル" gps="42.850302, 140.644390" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="ニセコ>ホテル" gps="42.850302, 140.644390" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
             <interval from="ニセコグランドホテル" fare="0" km="0" />
             <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
-          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>ホテル" gps="42.846530, 140.676081" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="ニセコ>ホテル" gps="42.846530, 140.676081" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
             <interval from="ニセコグランドホテル" fare="0" km="0" />
             <interval from="ホテル甘露の森" fare="0" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
-          <stop name="ヒルトンニセコビレッジ"   tag="二世古>ホテル" gps="42.846563, 140.685021" >
+          <stop name="ヒルトンニセコビレッジ"   tag="ニセコ>ホテル" gps="42.846563, 140.685021" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
             <interval from="ニセコグランドホテル" fare="0" km="0" />
             <interval from="ホテル甘露の森" fare="0" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
+          <stop name="ヒラフ第一駐車場"   tag="ニセコ>Hirafu" gps="42.862853, 140.698885" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
             <interval from="ニセコグランドホテル" fare="0" km="0" />
             <interval from="ホテル甘露の森" fare="0" km="0" />
