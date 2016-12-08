@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="日本(樂桃)" to="台灣">
   <outbound>
-    <transportation name="樂桃 關西→台灣" type="other" available="" apply-to=",台灣">
+    <transportation name="樂桃 關西→台灣" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -50,7 +50,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="樂桃 羽田→桃園" type="other" available="" apply-to=",台灣">
+    <transportation name="樂桃 羽田→桃園" type="air" available="" apply-to=",台灣">
       <info>
 </info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -70,7 +70,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="樂桃 台灣→關西" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,キロロ,盤溪,長野,軽井沢,Gala,名古屋,東京,越後湯沢,NASPA,大阪,留壽都,戸狩温泉,二世古,安比,湯沢高原,定山渓,藏王,舞子">
+    <transportation name="樂桃 台灣→關西" type="air" available="" apply-to=",白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,キロロ,盤溪,長野,軽井沢,Gala,名古屋,東京,越後湯沢,NASPA,大阪,留壽都,戸狩温泉,二世古,安比,湯沢高原,定山渓,藏王,舞子">
       <info>
       </info>
       <source>http://www.flypeach.com/pc/tw</source>
@@ -106,7 +106,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="樂桃 桃園→羽田" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,東京,東北市區,盤溪,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,キロロ,二世古,安比,戸狩温泉,越後湯沢,NASPA,留壽都,定山渓,湯沢高原,舞子,藏王">
+    <transportation name="樂桃 桃園→羽田" type="air" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,東京,東北市區,盤溪,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,キロロ,二世古,安比,戸狩温泉,越後湯沢,NASPA,留壽都,定山渓,湯沢高原,舞子,藏王">
       <info>
 </info>
       <source>http://www.flypeach.com/pc/tw</source>

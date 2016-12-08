@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="飯山" to="志賀">
   <outbound>
-    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+    <transportation name="未命名的交通方式" type="bus" available="" apply-to="">
       <info>
       </info>
       <source>http://www.nagadenbus.co.jp/express.html</source>
@@ -18,7 +18,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+    <transportation name="未命名的交通方式" type="bus" available="" apply-to="">
       <info>
       </info>
       <source>http://www.nagadenbus.co.jp/express.html</source>

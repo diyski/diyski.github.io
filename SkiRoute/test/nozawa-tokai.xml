@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="名古屋" to="野澤溫泉">
   <outbound>
-    <transportation name="名古屋→野澤→戸狩 夜巴" type="other" available="2017/02/17~2017/02/28" apply-to="野沢温泉">
+    <transportation name="名古屋→野澤→戸狩 夜巴" type="highwayBus" available="2017/02/17~2017/02/28" apply-to="野沢温泉">
       <info>名古屋発
 12/25-26、1/6-7、2/17-28
 スキー場発
@@ -58,7 +58,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="野澤→戸狩→名古屋 夜巴" type="other" available="2017/02/17~2017/02/28" apply-to=",大阪,京都,名古屋,機場">
+    <transportation name="野澤→戸狩→名古屋 夜巴" type="highwayBus" available="2017/02/17~2017/02/28" apply-to=",大阪,京都,名古屋,機場">
       <info>名古屋発
 12/25-26、1/6-7、2/17-28
 スキー場発

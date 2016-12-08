@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="綠線" to="軽井沢">
   <outbound>
-    <transportation name="南口→王子飯店" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="南口→王子飯店" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>
@@ -788,7 +788,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="王子飯店→南口" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="王子飯店→南口" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>

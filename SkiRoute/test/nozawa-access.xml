@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="溫泉街" to="野澤溫泉">
   <outbound>
-    <transportation name="野澤溫泉街巴士" type="other" available="" apply-to="野沢温泉">
+    <transportation name="野澤溫泉街巴士" type="bus" available="" apply-to="野沢温泉">
       <info>
       </info>
       <source>http://www.nozawaski.com/winter/access/bus.php</source>

@@ -3,7 +3,7 @@
   <outbound>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 志賀" type="other" available="">
+    <transportation name="Nagano snow shuttle 志賀" type="highwayBus" available="">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
       <timetable>

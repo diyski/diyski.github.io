@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市區" to="富良野">
   <outbound>
-    <transportation name="札幌→富良野駅" type="other" available="" apply-to="富良野">
+    <transportation name="札幌→富良野駅" type="highwayBus" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>
@@ -57,7 +57,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野駅→札幌" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,盤溪,札幌国際,朝里川,Gala,名古屋,長野,京都,東北市區,石打丸,キロロ,機場,戸狩温泉,東京,越後湯沢,NASPA,大阪,二世古,定山渓,湯沢高原,台灣,湯沢中里,舞子">
+    <transportation name="富良野駅→札幌" type="highwayBus" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,盤溪,札幌国際,朝里川,Gala,名古屋,長野,京都,東北市區,石打丸,キロロ,機場,戸狩温泉,東京,越後湯沢,NASPA,大阪,二世古,定山渓,湯沢高原,台灣,湯沢中里,舞子">
       <info>
       </info>
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="旭川機場" to="富良野">
   <outbound>
-    <transportation name="旭川機場→富良野" type="other" available="" apply-to="富良野">
+    <transportation name="旭川機場→富良野" type="highwayBus" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.furanobus.jp/lavender/</source>
@@ -88,7 +88,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野→旭川機場" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,名古屋,大阪,長野,東北市區,越後湯沢,東京,NASPA,定山渓,石打丸,台灣,機場,湯沢高原,湯沢中里,舞子">
+    <transportation name="富良野→旭川機場" type="highwayBus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,名古屋,大阪,長野,東北市區,越後湯沢,東京,NASPA,定山渓,石打丸,台灣,機場,湯沢高原,湯沢中里,舞子">
       <info>
       </info>
       <source>http://www.furanobus.jp/lavender/</source>

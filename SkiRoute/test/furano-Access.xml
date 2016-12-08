@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="旭川機場(Access-n巴士)" to="富良野">
   <outbound>
-    <transportation name="旭川機場→富良野" type="other" available="2016/12/01~2017/03/31" apply-to="富良野">
+    <transportation name="旭川機場→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_7.html</source>
@@ -47,7 +47,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野→旭川機場" type="other" available="2016/12/03~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,長野,名古屋,京都,大阪,東北市區,東京,NASPA,越後湯沢,戸狩温泉,石打丸,機場,台灣,湯沢高原,舞子,湯沢中里">
+    <transportation name="富良野→旭川機場" type="highwayBus" available="2016/12/03~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,長野,名古屋,京都,大阪,東北市區,東京,NASPA,越後湯沢,戸狩温泉,石打丸,機場,台灣,湯沢高原,舞子,湯沢中里">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_7.html</source>

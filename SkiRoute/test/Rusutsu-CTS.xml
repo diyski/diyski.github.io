@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲(access)" to="留壽都">
   <outbound>
-    <transportation name="新千歲国內→留壽都" type="other" available="2016/12/10~2017/04/02" apply-to="留壽都">
+    <transportation name="新千歲国內→留壽都" type="highwayBus" available="2016/12/10~2017/04/02" apply-to="留壽都">
       <info>
       </info>
       <source>http://en.rusutsu.co.jp/zh-tw/bigruns-bus-new-chitose-airport-rusutsu-resort-2016-17-winter/</source>
@@ -54,7 +54,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="新千歲国際→留壽都" type="other" available="2016/12/10~2017/04/02" apply-to="留壽都">
+    <transportation name="新千歲国際→留壽都" type="highwayBus" available="2016/12/10~2017/04/02" apply-to="留壽都">
       <info>
       </info>
       <source>http://en.rusutsu.co.jp/zh-tw/bigruns-bus-new-chitose-airport-rusutsu-resort-2016-17-winter/</source>
@@ -99,7 +99,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="留壽都→新千歲国內" type="other" available="2016/12/11~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子">
+    <transportation name="留壽都→新千歲国內" type="highwayBus" available="2016/12/11~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子">
       <info>11/26~12/9及04/02~04/09運行
       </info>
       <source>http://en.rusutsu.co.jp/zh-tw/bigruns-bus-new-chitose-airport-rusutsu-resort-2016-17-winter/</source>
@@ -147,7 +147,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="留壽都→新千歲国際" type="other" available="2016/12/11~2017/04/02" apply-to=",湯澤,台灣">
+    <transportation name="留壽都→新千歲国際" type="highwayBus" available="2016/12/11~2017/04/02" apply-to=",湯澤,台灣">
       <info>11/26~12/9及04/02~04/09運行
       </info>
       <source>http://en.rusutsu.co.jp/zh-tw/bigruns-bus-new-chitose-airport-rusutsu-resort-2016-17-winter/</source>

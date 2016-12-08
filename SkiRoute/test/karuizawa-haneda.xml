@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="羽田空港" to="軽井沢">
   <outbound>
-    <transportation name="横浜→軽井沢" type="other" available="2016/08/01~2017/03/31" apply-to="軽井沢">
+    <transportation name="横浜→軽井沢" type="highwayBus" available="2016/08/01~2017/03/31" apply-to="軽井沢">
       <info>横浜駅 東口巴士站1樓18號
 羽田国際線 巴士站6號
 羽田第1、2航廈 1樓到着ロ13號
@@ -108,7 +108,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="軽井沢→横浜" type="other" available="2016/08/01~2017/03/31" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,名古屋,大阪,東北市區,台灣,機場,定山渓">
+    <transportation name="軽井沢→横浜" type="highwayBus" available="2016/08/01~2017/03/31" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,名古屋,大阪,東北市區,台灣,機場,定山渓">
       <info>横浜駅 東口巴士站1樓18號
 羽田国際線 巴士站6號
 羽田第1、2航廈 1樓到着ロ13號

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="仙台駅" to="安比">
   <outbound>
-    <transportation name="仙台駅→安比" type="other" available="2016/12/23~2017/03/26" apply-to=",安比">
+    <transportation name="仙台駅→安比" type="highwayBus" available="2016/12/23~2017/03/26" apply-to=",安比">
       <info>請在入住4天以前預約(免費、座位有限)：appitourinfo@ihr.co.jp</info>
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
       <timetable>
@@ -20,7 +20,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="安比→仙台駅" type="other" available="2016/12/23~2017/03/26" apply-to=",富良野,苗場,大阪,札幌,京都,朝里川,札幌国際,妙高,台灣,石打丸,キロロ,盤溪,東京,東北市區,軽井沢,Gala,越後湯沢,戸狩温泉,湯沢中里,湯沢高原,機場,二世古,長野,白馬,名古屋,NASPA,野沢温泉,留壽都,定山渓,志賀,舞子,藏王">
+    <transportation name="安比→仙台駅" type="highwayBus" available="2016/12/23~2017/03/26" apply-to=",富良野,苗場,大阪,札幌,京都,朝里川,札幌国際,妙高,台灣,石打丸,キロロ,盤溪,東京,東北市區,軽井沢,Gala,越後湯沢,戸狩温泉,湯沢中里,湯沢高原,機場,二世古,長野,白馬,名古屋,NASPA,野沢温泉,留壽都,定山渓,志賀,舞子,藏王">
       <info>請在入住4天以前預約(免費、座位有限)：appitourinfo@ihr.co.jp</info>
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
       <timetable>

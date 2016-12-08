@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="棕線" to="軽井沢">
   <outbound>
-    <transportation name="南口→王子飯店 B" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="南口→王子飯店 B" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
@@ -245,7 +245,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="南口→王子飯店 G" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="南口→王子飯店 G" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
@@ -1032,7 +1032,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="王子飯店→南口 B" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="王子飯店→南口 B" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>
@@ -1838,7 +1838,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="王子飯店→南口 G" type="other" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="王子飯店→南口 G" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/</source>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市區" to="札幌國際">
   <outbound>
-    <transportation name="札幌．大通→札幌國際  通常每日 じ" type="other" available="2016/12/30~2017/01/03" apply-to=",札幌国際,定山渓">
+    <transportation name="札幌．大通→札幌國際  通常每日 じ" type="bus" available="2016/12/30~2017/01/03" apply-to=",札幌国際,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -244,7 +244,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌．大通→札幌國際  通常每日 第一" type="other" available="2016/12/19~2017/01/13" apply-to=",札幌国際,定山渓">
+    <transportation name="札幌．大通→札幌國際  通常每日 第一" type="bus" available="2016/12/19~2017/01/13" apply-to=",札幌国際,定山渓">
       <info>      </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
       <timetable>
@@ -489,7 +489,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌．大通→札幌國際  通常" type="other" available="2016/12/10~2017/03/26" apply-to=",札幌国際,定山渓">
+    <transportation name="札幌．大通→札幌國際  通常" type="bus" available="2016/12/10~2017/03/26" apply-to=",札幌国際,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -866,7 +866,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌．大通→札幌國際 假日春後" type="other" available="2017/04/01~2017/05/07" apply-to=",札幌国際,定山渓">
+    <transportation name="札幌．大通→札幌國際 假日春後" type="bus" available="2017/04/01~2017/05/07" apply-to=",札幌国際,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -1137,7 +1137,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌．大通→札幌國際 假日春先" type="other" available="2016/11/19~2016/12/04" apply-to=",札幌国際,定山渓">
+    <transportation name="札幌．大通→札幌國際 假日春先" type="bus" available="2016/11/19~2016/12/04" apply-to=",札幌国際,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -1408,7 +1408,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌．大通→札幌國際 平日春後" type="other" available="2017/03/27~2017/05/02" apply-to=",札幌国際,定山渓">
+    <transportation name="札幌．大通→札幌國際 平日春後" type="bus" available="2017/03/27~2017/05/02" apply-to=",札幌国際,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -1658,7 +1658,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌．大通→札幌國際 平日春先" type="other" available="2016/11/18~2016/12/09" apply-to=",札幌国際,定山渓">
+    <transportation name="札幌．大通→札幌國際 平日春先" type="bus" available="2016/11/18~2016/12/09" apply-to=",札幌国際,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -1908,7 +1908,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌→札幌國際 假日" type="other" available="2016/12/03~2017/03/26" apply-to=",朝里川,札幌国際">
+    <transportation name="札幌→札幌國際 假日" type="bus" available="2016/12/03~2017/03/26" apply-to=",朝里川,札幌国際">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -1961,7 +1961,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌→札幌國際 每日" type="other" available="2016/12/23~2017/01/13" apply-to=",朝里川,札幌国際">
+    <transportation name="札幌→札幌國際 每日" type="bus" available="2016/12/23~2017/01/13" apply-to=",朝里川,札幌国際">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -2014,7 +2014,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="中島公園→札幌國際 假日" type="other" available="2016/12/03~2017/03/26" apply-to=",朝里川,札幌国際">
+    <transportation name="中島公園→札幌國際 假日" type="bus" available="2016/12/03~2017/03/26" apply-to=",朝里川,札幌国際">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -2100,7 +2100,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="中島公園→札幌國際 每日" type="other" available="2016/12/23~2017/01/13" apply-to=",朝里川,札幌国際">
+    <transportation name="中島公園→札幌國際 每日" type="bus" available="2016/12/23~2017/01/13" apply-to=",朝里川,札幌国際">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -2186,7 +2186,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="新札幌．福住→札幌國際 每日" type="other" available="2016/12/17~2017/01/13" apply-to=",札幌国際">
+    <transportation name="新札幌．福住→札幌國際 每日" type="bus" available="2016/12/17~2017/01/13" apply-to=",札幌国際">
       <info>12/10-3/26 六、日、假日運行
 12/17-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -2239,7 +2239,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="新札幌．福住→札幌國際 假日" type="other" available="2016/12/10~2017/03/26" apply-to=",札幌国際">
+    <transportation name="新札幌．福住→札幌國際 假日" type="bus" available="2016/12/10~2017/03/26" apply-to=",札幌国際">
       <info>12/10-3/26 六、日、假日運行
 12/17-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -2294,7 +2294,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="札幌國際→札幌．大通 通常每日 じ" type="other" available="2016/12/30~2017/01/03" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,湯沢高原,舞子,湯沢中里,石打丸,東北市區,京都,札幌,長野,名古屋,東京,越後湯沢,大阪,定山渓,機場,台灣">
+    <transportation name="札幌國際→札幌．大通 通常每日 じ" type="bus" available="2016/12/30~2017/01/03" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,湯沢高原,舞子,湯沢中里,石打丸,東北市區,京都,札幌,長野,名古屋,東京,越後湯沢,大阪,定山渓,機場,台灣">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -2537,7 +2537,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→ 札幌．大通 通常每日 第一" type="other" available="2016/12/19~2017/01/13" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,湯沢中里,石打丸,湯沢高原,舞子,NASPA,Gala,戸狩温泉,キロロ,二世古,札幌,京都,東北市區,機場,台灣,長野,東京,名古屋,越後湯沢,大阪,定山渓">
+    <transportation name="札幌國際→ 札幌．大通 通常每日 第一" type="bus" available="2016/12/19~2017/01/13" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,湯沢中里,石打丸,湯沢高原,舞子,NASPA,Gala,戸狩温泉,キロロ,二世古,札幌,京都,東北市區,機場,台灣,長野,東京,名古屋,越後湯沢,大阪,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -2783,7 +2783,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→札幌．大通  通常" type="other" available="2016/12/10~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,二世古,キロロ,石打丸,湯沢高原,湯沢中里,舞子,東北市區,札幌,京都,長野,越後湯沢,大阪,名古屋,東京,定山渓,機場,台灣">
+    <transportation name="札幌國際→札幌．大通  通常" type="bus" available="2016/12/10~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,二世古,キロロ,石打丸,湯沢高原,湯沢中里,舞子,東北市區,札幌,京都,長野,越後湯沢,大阪,名古屋,東京,定山渓,機場,台灣">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -3160,7 +3160,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→札幌．大通 假日春後" type="other" available="2017/04/01~2017/05/07" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,舞子,湯沢中里,湯沢高原,石打丸,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,長野,京都,東北市區,札幌">
+    <transportation name="札幌國際→札幌．大通 假日春後" type="bus" available="2017/04/01~2017/05/07" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,舞子,湯沢中里,湯沢高原,石打丸,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,長野,京都,東北市區,札幌">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -3431,7 +3431,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→札幌．大通 假日春先" type="other" available="2016/11/19~2016/12/04" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,二世古,キロロ,石打丸,湯沢中里,湯沢高原,舞子,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,長野,東北市區,京都,札幌">
+    <transportation name="札幌國際→札幌．大通 假日春先" type="bus" available="2016/11/19~2016/12/04" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,二世古,キロロ,石打丸,湯沢中里,湯沢高原,舞子,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,長野,東北市區,京都,札幌">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -3702,7 +3702,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→札幌．大通 平日春後" type="other" available="2017/03/27~2017/05/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,石打丸,湯沢中里,湯沢高原,舞子,戸狩温泉,Gala,NASPA,東北市區,京都,長野,名古屋,東京,札幌,大阪,越後湯沢,二世古,キロロ,機場,台灣,定山渓">
+    <transportation name="札幌國際→札幌．大通 平日春後" type="bus" available="2017/03/27~2017/05/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,石打丸,湯沢中里,湯沢高原,舞子,戸狩温泉,Gala,NASPA,東北市區,京都,長野,名古屋,東京,札幌,大阪,越後湯沢,二世古,キロロ,機場,台灣,定山渓">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -3952,7 +3952,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→札幌．大通 平日春先" type="other" available="2016/11/18~2016/12/09" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,石打丸,湯沢高原,湯沢中里,舞子,京都,東北市區,札幌,長野,機場,台灣,定山渓,越後湯沢,名古屋,東京,大阪">
+    <transportation name="札幌國際→札幌．大通 平日春先" type="bus" available="2016/11/18~2016/12/09" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,石打丸,湯沢高原,湯沢中里,舞子,京都,東北市區,札幌,長野,機場,台灣,定山渓,越後湯沢,名古屋,東京,大阪">
       <info>
       </info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -4202,7 +4202,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→ 札幌 假日" type="other" available="2016/12/03~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,湯沢中里,湯沢高原,舞子,二世古,キロロ,石打丸,Gala,NASPA,戸狩温泉,台灣,機場,定山渓,大阪,越後湯沢,名古屋,東京,長野,札幌,京都,東北市區">
+    <transportation name="札幌國際→ 札幌 假日" type="bus" available="2016/12/03~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,湯沢中里,湯沢高原,舞子,二世古,キロロ,石打丸,Gala,NASPA,戸狩温泉,台灣,機場,定山渓,大阪,越後湯沢,名古屋,東京,長野,札幌,京都,東北市區">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -4255,7 +4255,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→ 札幌 每日" type="other" available="2016/12/23~2017/01/13" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,NASPA,石打丸,湯沢高原,湯沢中里,舞子,二世古,キロロ,戸狩温泉,東北市區,札幌,京都,長野,名古屋,東京,越後湯沢,大阪,機場,台灣,定山渓">
+    <transportation name="札幌國際→ 札幌 每日" type="bus" available="2016/12/23~2017/01/13" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,NASPA,石打丸,湯沢高原,湯沢中里,舞子,二世古,キロロ,戸狩温泉,東北市區,札幌,京都,長野,名古屋,東京,越後湯沢,大阪,機場,台灣,定山渓">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -4308,7 +4308,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→中島公園 假日" type="other" available="2016/12/03~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,湯沢中里,舞子,湯沢高原,二世古,キロロ,石打丸,NASPA,Gala,戸狩温泉,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,長野,東北市區,京都,札幌">
+    <transportation name="札幌國際→中島公園 假日" type="bus" available="2016/12/03~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,湯沢中里,舞子,湯沢高原,二世古,キロロ,石打丸,NASPA,Gala,戸狩温泉,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,長野,東北市區,京都,札幌">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -4394,7 +4394,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→中島公園 每日" type="other" available="2016/12/23~2017/01/13" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,NASPA,戸狩温泉,キロロ,二世古,湯沢高原,湯沢中里,舞子,石打丸,台灣,機場,定山渓,大阪,越後湯沢,名古屋,東京,長野,東北市區,京都,札幌">
+    <transportation name="札幌國際→中島公園 每日" type="bus" available="2016/12/23~2017/01/13" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,NASPA,戸狩温泉,キロロ,二世古,湯沢高原,湯沢中里,舞子,石打丸,台灣,機場,定山渓,大阪,越後湯沢,名古屋,東京,長野,東北市區,京都,札幌">
       <info>12/03-3/26 六、日、假日運行
 12/23-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -4480,7 +4480,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→新札幌．福住 每日" type="other" available="2016/12/17~2017/01/13" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,朝里川,湯沢中里,舞子,湯沢高原,キロロ,二世古,石打丸,NASPA,戸狩温泉,台灣,機場,定山渓,大阪,越後湯沢,名古屋,東京,長野,東北市區,京都,札幌">
+    <transportation name="札幌國際→新札幌．福住 每日" type="bus" available="2016/12/17~2017/01/13" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,朝里川,湯沢中里,舞子,湯沢高原,キロロ,二世古,石打丸,NASPA,戸狩温泉,台灣,機場,定山渓,大阪,越後湯沢,名古屋,東京,長野,東北市區,京都,札幌">
       <info>12/10-3/26 六、日、假日運行
 12/17-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>
@@ -4533,7 +4533,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="札幌國際→新札幌．福住 假日" type="other" available="2016/12/10~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,NASPA,キロロ,二世古,石打丸,朝里川,湯沢高原,舞子,湯沢中里,戸狩温泉,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,東北市區,京都,長野,札幌">
+    <transportation name="札幌國際→新札幌．福住 假日" type="bus" available="2016/12/10~2017/03/26" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,Gala,NASPA,キロロ,二世古,石打丸,朝里川,湯沢高原,舞子,湯沢中里,戸狩温泉,台灣,機場,定山渓,越後湯沢,大阪,名古屋,東京,東北市區,京都,長野,札幌">
       <info>12/10-3/26 六、日、假日運行
 12/17-1/13 每日運行</info>
       <source>http://www.sapporo-kokusai.jp/download/access_bus.pdf</source>

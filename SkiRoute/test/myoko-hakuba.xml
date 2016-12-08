@@ -3,7 +3,7 @@
   <outbound>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 妙高" type="other" available="2016/12/17~2017/03/12">
+    <transportation name="Nagano snow shuttle 妙高" type="highwayBus" available="2016/12/17~2017/03/12">
       <info>JHN 旅行社</info>
       <source>https://naganosnowshuttle.com/C_Route_Myoko.aspx</source>
       <timetable>

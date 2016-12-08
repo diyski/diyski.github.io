@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲機場" to="札幌國際">
   <outbound>
-    <transportation name="新千歳→札幌國際．朝里川" type="other" available="2016/12/16~2017/03/20" apply-to=",朝里川,札幌国際">
+    <transportation name="新千歳→札幌國際．朝里川" type="highwayBus" available="2016/12/16~2017/03/20" apply-to=",朝里川,札幌国際">
       <info>新千歳→札幌國際</info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_18.html</source>
       <timetable>
@@ -65,7 +65,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="札幌國際．朝里川→新千歳" type="other" available="2016/12/16~2017/03/20" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,Gala,NASPA,戸狩温泉,湯沢高原,湯沢中里,舞子,石打丸,京都,長野,名古屋,大阪,東北市區,東京,機場,台灣">
+    <transportation name="札幌國際．朝里川→新千歳" type="highwayBus" available="2016/12/16~2017/03/20" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,Gala,NASPA,戸狩温泉,湯沢高原,湯沢中里,舞子,石打丸,京都,長野,名古屋,大阪,東北市區,東京,機場,台灣">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_18.html</source>

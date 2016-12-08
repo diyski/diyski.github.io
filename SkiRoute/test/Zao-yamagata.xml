@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="山形車站" to="藏王">
   <outbound>
-    <transportation name="山形駅→蔵王" type="other" available="" apply-to="藏王">
+    <transportation name="山形駅→蔵王" type="bus" available="" apply-to="藏王">
       <info>20:00班次 六日及國定假日12/29〜1/3は運休</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>
@@ -72,7 +72,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="蔵王→山形駅" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,戸狩温泉,NASPA,二世古,キロロ,機場,石打丸,台灣,湯沢中里,湯沢高原,定山渓,舞子">
+    <transportation name="蔵王→山形駅" type="bus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,戸狩温泉,NASPA,二世古,キロロ,機場,石打丸,台灣,湯沢中里,湯沢高原,定山渓,舞子">
       <info>07:00班次 六日及國定假日12/29〜1/3は運休</info>
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>

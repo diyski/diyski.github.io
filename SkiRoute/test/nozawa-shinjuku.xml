@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新宿" to="野澤溫泉">
   <outbound>
-    <transportation name="新宿→野澤→戸狩 夜巴" type="other" available="2016/12/22~2017/03/25" apply-to="野沢温泉,戸狩温泉">
+    <transportation name="新宿→野澤→戸狩 夜巴" type="highwayBus" available="2016/12/22~2017/03/25" apply-to="野沢温泉,戸狩温泉">
       <info>
       </info>
       <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>
@@ -116,7 +116,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="野澤→戸狩→新宿 夜巴" type="other" available="2016/12/22~2017/03/25" apply-to=",機場,札幌,京都,名古屋,大阪,東北市區,東京,留壽都,富良野,キロロ,二世古,安比,定山渓,朝里川,台灣,札幌国際,藏王">
+    <transportation name="野澤→戸狩→新宿 夜巴" type="highwayBus" available="2016/12/22~2017/03/25" apply-to=",機場,札幌,京都,名古屋,大阪,東北市區,東京,留壽都,富良野,キロロ,二世古,安比,定山渓,朝里川,台灣,札幌国際,藏王">
       <info>
       </info>
       <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>

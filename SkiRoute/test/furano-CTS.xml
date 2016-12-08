@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲" to="富良野">
   <outbound>
-    <transportation name="新千歲国内→富良野" type="other" available="2016/12/01~2017/03/31" apply-to="富良野">
+    <transportation name="新千歲国内→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
@@ -114,7 +114,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="新千歲国際→富良野" type="other" available="2016/12/01~2017/03/31" apply-to="富良野">
+    <transportation name="新千歲国際→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
@@ -199,7 +199,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野→新千歲国内" type="other" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,NASPA,石打丸,機場,台灣,湯沢高原,湯沢中里,舞子">
+    <transportation name="富良野→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,NASPA,石打丸,機場,台灣,湯沢高原,湯沢中里,舞子">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
@@ -302,7 +302,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="富良野→新千歲国際" type="other" available="2016/12/01~2017/03/31" apply-to=",湯澤,台灣">
+    <transportation name="富良野→新千歲国際" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",湯澤,台灣">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市(travelpal)" to="Niseko">
   <outbound>
-    <transportation name="Sapporo to Niseko bus" type="other" available="2016/12/02~2017/04/02" apply-to="二世谷,二世古">
+    <transportation name="Sapporo to Niseko bus" type="bus" available="2016/12/02~2017/04/02" apply-to="二世谷,二世古">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>
@@ -478,7 +478,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko to Sapporo bus" type="other" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,機場,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓">
+    <transportation name="Niseko to Sapporo bus" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,機場,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓">
       <info>市區會沿路停靠各飯店預計1小時</info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>

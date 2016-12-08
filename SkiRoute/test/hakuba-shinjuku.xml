@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新宿" to="白馬">
   <outbound>
-    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+    <transportation name="未命名的交通方式" type="highwayBus" available="" apply-to="">
       <info>
       </info>
       <source>http://www.alpico.co.jp/access/express/hakuba_shinjuku/</source>
@@ -16,7 +16,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="新宿→白馬 夜巴" type="other" available="2016/12/22~2017/03/03" apply-to=",白馬">
+    <transportation name="新宿→白馬 夜巴" type="highwayBus" available="2016/12/22~2017/03/03" apply-to=",白馬">
       <info>1月幾乎沒開，請至官網查詢</info>
       <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>
       <timetable>
@@ -215,7 +215,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="白馬→新宿 夜巴" type="other" available="2016/12/22~2017/03/03" apply-to=",白馬">
+    <transportation name="白馬→新宿 夜巴" type="highwayBus" available="2016/12/22~2017/03/03" apply-to=",白馬">
       <info>1月幾乎沒開，請至官網查詢</info>
       <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>
       <timetable>

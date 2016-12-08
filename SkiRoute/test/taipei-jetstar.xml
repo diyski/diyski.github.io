@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="日本(捷星)" to="台灣">
   <outbound>
-    <transportation name="捷星 關西→桃園" type="other" available="" apply-to=",台灣">
+    <transportation name="捷星 關西→桃園" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>
@@ -23,7 +23,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="捷星 成田→桃園" type="other" available="" apply-to=",台灣">
+    <transportation name="捷星 成田→桃園" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>
@@ -43,7 +43,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="捷星 桃園→關西" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,京都,札幌,東北市區,苗場,石打丸,富良野,朝里川,札幌国際,湯沢中里,機場,キロロ,盤溪,軽井沢,長野,Gala,名古屋,東京,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,舞子,定山渓,藏王,留壽都,NASPA,大阪">
+    <transportation name="捷星 桃園→關西" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,京都,札幌,東北市區,苗場,石打丸,富良野,朝里川,札幌国際,湯沢中里,機場,キロロ,盤溪,軽井沢,長野,Gala,名古屋,東京,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,舞子,定山渓,藏王,留壽都,NASPA,大阪">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>
@@ -69,7 +69,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="捷星 桃園→成田" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,盤溪,東北市區,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,二世古,安比,キロロ,越後湯沢,東京,戸狩温泉,留壽都,NASPA,定山渓,湯沢高原,舞子,藏王">
+    <transportation name="捷星 桃園→成田" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,盤溪,東北市區,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,二世古,安比,キロロ,越後湯沢,東京,戸狩温泉,留壽都,NASPA,定山渓,湯沢高原,舞子,藏王">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>

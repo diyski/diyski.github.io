@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="西武巴士苗場輕井澤" to="苗場">
   <outbound>
-    <transportation name="西武巴士" type="other" available="" apply-to="苗場,軽井沢">
+    <transportation name="西武巴士" type="highwayBus" available="" apply-to="苗場,軽井沢">
       <info>
       </info>
       <source>https://www.kkday.com/zh-tw/product/10220</source>
@@ -104,7 +104,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="輕井澤→苗場→池袋" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,戸狩温泉,越後湯沢,東京,名古屋,長野,Gala,大阪,NASPA">
+    <transportation name="輕井澤→苗場→池袋" type="highwayBus" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,戸狩温泉,越後湯沢,東京,名古屋,長野,Gala,大阪,NASPA">
       <info>
       </info>
       <source>https://www.kkday.com/zh-tw/product/10220</source>

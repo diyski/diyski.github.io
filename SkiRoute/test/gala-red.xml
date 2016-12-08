@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="中里地区(紅)" to="Gala">
   <outbound>
-    <transportation name="越後中里→Gala" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
+    <transportation name="越後中里→Gala" type="bus" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
@@ -308,7 +308,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Gala→越後中里" type="other" available="2016/12/22~2017/04/02" apply-to=",札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,越後湯沢,軽井沢,東北市區,東京,盤溪,キロロ,石打丸,台灣,湯沢中里,機場,定山渓,志賀,舞子,藏王,二世古,野沢温泉,留壽都,名古屋,白馬,長野,戸狩温泉">
+    <transportation name="Gala→越後中里" type="bus" available="2016/12/22~2017/04/02" apply-to=",札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,越後湯沢,軽井沢,東北市區,東京,盤溪,キロロ,石打丸,台灣,湯沢中里,機場,定山渓,志賀,舞子,藏王,二世古,野沢温泉,留壽都,名古屋,白馬,長野,戸狩温泉">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
