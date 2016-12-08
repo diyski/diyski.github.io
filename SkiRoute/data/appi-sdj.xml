@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="仙台空港" to="安比">
   <outbound>
-    <transportation name="仙台空港→安比" type="other" available="2016/12/16~2017/03/26" apply-to=",安比">
+    <transportation name="仙台空港→安比" type="highwayBus" available="2016/12/16~2017/03/26" apply-to=",安比">
       <info>*需要提前預約（2周前）
 *巴士會經過盛岡站</info>
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
       <timetable>
         <route>
-          <stop name="仙台空港"   tag="機場>仙台空港" gps="" >
+          <stop name="仙台空港"   tag="空港>仙台空港" gps="" >
           </stop>
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
             <interval from="仙台空港" fare="4000" km="0" />
@@ -29,7 +29,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="安比→仙台空港" type="other" available="2016/12/16~2017/03/26" apply-to=",札幌,京都,大阪,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,機場,キロロ,盤溪,東京,東北市區,軽井沢,Gala,長野,越後湯沢,戸狩温泉,二世古,湯沢高原,舞子,志賀,藏王,野沢温泉,留壽都,NASPA,名古屋,白馬,定山渓">
+    <transportation name="安比→仙台空港" type="highwayBus" available="2016/12/16~2017/03/26" apply-to=",札幌,京都,大阪,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,空港,キロロ,盤溪,東京,東北の駅,軽井沢,Gala,長野,越後湯沢,戸狩温泉,二世古,湯沢高原,舞子,志賀,藏王,野沢温泉,留壽都,NASPA,名古屋,白馬,定山渓,ばんけい,ニセコ,ルスツ">
       <info>*需要提前預約（2周前）
 *巴士會經過盛岡站</info>
       <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
@@ -37,7 +37,7 @@
         <route>
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
           </stop>
-          <stop name="仙台空港"   tag="機場>仙台空港" gps="" >
+          <stop name="仙台空港"   tag="空港>仙台空港" gps="" >
             <interval from="ホテル安比グランド" fare="4000" km="0" />
           </stop>
         </route>

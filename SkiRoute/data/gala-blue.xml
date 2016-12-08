@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅(藍)" to="Gala">
   <outbound>
-    <transportation name="NASPA→越後湯沢駅→Gala" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
+    <transportation name="NASPA→越後湯沢駅→Gala" type="bus" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
@@ -9,10 +9,10 @@
         <route>
           <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
           </stop>
-          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>ホテル" gps="36.933038, 138.812436" >
             <interval from="NASPA" fare="0" km="0" />
           </stop>
-          <stop name="匠の宿みやた"   tag="越後湯沢>民宿" gps="36.935376, 138.812256" >
+          <stop name="匠の宿みやた"   tag="越後湯沢>みんしゅく" gps="36.935376, 138.812256" >
             <interval from="NASPA" fare="0" km="0" />
             <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
           </stop>
@@ -191,7 +191,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Gala→越後湯沢駅→NASPA" type="other" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,湯沢中里,石打丸,キロロ,盤溪,東京,軽井沢,東北市區,白馬,長野,戸狩温泉,機場,二世古,留壽都,野沢温泉,名古屋,志賀,舞子,定山渓,藏王">
+    <transportation name="Gala→越後湯沢駅→NASPA" type="bus" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,湯沢中里,石打丸,キロロ,盤溪,東京,軽井沢,東北市區,白馬,長野,戸狩温泉,空港,二世古,留壽都,野沢温泉,名古屋,志賀,舞子,定山渓,藏王,東北の駅,ばんけい,ニセコ,ルスツ">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
@@ -206,12 +206,12 @@
             <interval from="Gala" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
           </stop>
-          <stop name="匠の宿みやた"   tag="越後湯沢>民宿" gps="36.935376, 138.812256" >
+          <stop name="匠の宿みやた"   tag="越後湯沢>みんしゅく" gps="36.935376, 138.812256" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="JR越後湯沢駅" fare="0" km="0" />
           </stop>
-          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>ホテル" gps="36.933038, 138.812436" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="JR越後湯沢駅" fare="0" km="0" />

@@ -3,7 +3,7 @@
   <resort name="苗場">
     <accessPoint name="越後湯澤" filename="naeba-yuzawa.xml">
     </accessPoint>
-    <accessPoint name="王子飯店免費巴士" filename="naeba-yuzawa-f.xml">
+    <accessPoint name="プリンスホテル免費巴士" filename="naeba-yuzawa-f.xml">
     </accessPoint>
     <accessPoint name="越後湯澤(付)" filename="naeba-yuzawa-p.xml">
     </accessPoint>
@@ -23,9 +23,9 @@
     </accessPoint>
     <accessPoint name="妙高" filename="nozawa-myoko.xml">
     </accessPoint>
-    <accessPoint name="成田機場" filename="nazawa-narita.xml">
+    <accessPoint name="成田空港" filename="nazawa-narita.xml">
     </accessPoint>
-    <accessPoint name="羽田機場" filename="nozawa-haneda.xml">
+    <accessPoint name="羽田空港" filename="nozawa-haneda.xml">
     </accessPoint>
     <accessPoint name="志賀" filename="nozawa-shiga.xml">
     </accessPoint>
@@ -39,19 +39,19 @@
   <resort name="台灣">
     <accessPoint name="日本(香草航空)" filename="Taipei-NRT.xml">
     </accessPoint>
-    <accessPoint name="日本(酷航)" filename="taipei-scoot.xml">
+    <accessPoint name="日本(Scoot)" filename="taipei-scoot.xml">
     </accessPoint>
-    <accessPoint name="日本(樂桃)" filename="Taipei-peach.xml">
+    <accessPoint name="日本(Peach)" filename="Taipei-peach.xml">
     </accessPoint>
-    <accessPoint name="日本(捷星)" filename="taipei-jetstar.xml">
+    <accessPoint name="日本(Jetstar)" filename="taipei-jetstar.xml">
     </accessPoint>
-    <accessPoint name="日本(虎航)" filename="taipei-tiger.xml">
+    <accessPoint name="日本(Tiger)" filename="taipei-tiger.xml">
     </accessPoint>
   </resort>
   <resort name="白馬">
-    <accessPoint name="成田機場" filename="hakuba-narita.xml">
+    <accessPoint name="成田空港" filename="hakuba-narita.xml">
     </accessPoint>
-    <accessPoint name="羽田機場" filename="hakuba-haneda.xml">
+    <accessPoint name="羽田空港" filename="hakuba-haneda.xml">
     </accessPoint>
     <accessPoint name="妙高" filename="hakuba-myoko.xml">
     </accessPoint>
@@ -87,9 +87,9 @@
     </accessPoint>
   </resort>
   <resort name="志賀">
-    <accessPoint name="成田機場" filename="shiga-narita.xml">
+    <accessPoint name="成田空港" filename="shiga-narita.xml">
     </accessPoint>
-    <accessPoint name="羽田機場" filename="shiga-haneda.xml">
+    <accessPoint name="羽田空港" filename="shiga-haneda.xml">
     </accessPoint>
     <accessPoint name="妙高" filename="shiga-myoko.xml">
     </accessPoint>
@@ -97,11 +97,11 @@
     </accessPoint>
   </resort>
   <resort name="富良野">
-    <accessPoint name="旭川機場" filename="furano-Aka.xml">
+    <accessPoint name="旭川空港" filename="furano-Aka.xml">
     </accessPoint>
     <accessPoint name="札幌市區" filename="furano-sapporo.xml">
     </accessPoint>
-    <accessPoint name="旭川機場(Access-n巴士)" filename="furano-Access.xml">
+    <accessPoint name="旭川空港(Access-n巴士)" filename="furano-Access.xml">
     </accessPoint>
     <accessPoint name="富良野市區巴士" filename="furano-tourism.xml">
     </accessPoint>
@@ -181,7 +181,7 @@
   <resort name="札幌國際">
     <accessPoint name="札幌市區" filename="kokusai-sapporo.xml">
     </accessPoint>
-    <accessPoint name="新千歲機場" filename="kokusai-chitose.xml">
+    <accessPoint name="新千歲空港" filename="kokusai-chitose.xml">
     </accessPoint>
   </resort>
   <resort name="キロロ">

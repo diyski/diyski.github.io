@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="成田機場" to="志賀">
+<accesspoint name="成田空港" to="志賀">
   <outbound>
-    <transportation name="Nagano snow shuttle 成田→志賀" type="other" available="2016/12/17~2017/03/12" apply-to="志賀">
-      <info>JHN 旅行社</info>
+    <transportation name="成田→志賀" type="highwayBus" available="2016/12/17~2017/03/12" apply-to="志賀">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
       <timetable>
         <route>
-          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.773962, 140.387273" >
           </stop>
-          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
             <interval from="成田空港第2ターミナル" fare="12700" km="0" />
           </stop>
         </route>
@@ -24,18 +24,18 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 志賀→成田" type="other" available="2016/12/17~2017/03/12" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,東京,京都,名古屋,大阪,東北市區,キロロ,二世古,台灣,機場,定山渓">
-      <info>JHN 旅行社</info>
+    <transportation name="志賀→成田" type="highwayBus" available="2016/12/17~2017/03/12" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,東京,京都,名古屋,大阪,東北市區,キロロ,二世古,台灣,空港,定山渓,ニセコ,ばんけい,ルスツ,東北の駅">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
       <timetable>
         <route>
-          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
           </stop>
           <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="" >
-            <interval from="志賀高原住宿點" fare="12700" km="0" />
+            <interval from="志賀高原宿泊施設" fare="12700" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.773962, 140.387273" >
-            <interval from="志賀高原住宿點" fare="127000" km="0" />
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="35.773962, 140.387273" >
+            <interval from="志賀高原宿泊施設" fare="127000" km="0" />
             <interval from="JR新宿駅" fare="0" km="0" />
           </stop>
         </route>

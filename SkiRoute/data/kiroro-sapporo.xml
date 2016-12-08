@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌" to="キロロ">
   <outbound>
-    <transportation name="札幌→キロロ" type="other" available="2016/12/02~2017/04/02" apply-to="キロロ,札幌">
-      <info>市區會沿路停靠各飯店預計1小時</info>
+    <transportation name="札幌→キロロ" type="bus" available="2016/12/02~2017/04/02" apply-to="キロロ,札幌">
+      <info>市區會沿路停靠各ホテル預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
-          <stop name="ホテルクラビーサッポロ"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルクラビーサッポロ"   tag="札幌>ホテル" gps="" >
           </stop>
-          <stop name="ホテルモントレ札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルモントレ札幌"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
           </stop>
-          <stop name="JRタワーホテル日航札幌"   tag="札幌>飯店" gps="" >
+          <stop name="JRタワーホテル日航札幌"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
           </stop>
-          <stop name="ホテルマイステイズ札幌アスペン"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルマイステイズ札幌アスペン"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
           </stop>
-          <stop name="センチュリーロイヤルホテル"   tag="札幌>飯店" gps="" >
+          <stop name="センチュリーロイヤルホテル"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
           </stop>
-          <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="" >
+          <stop name="京王プラザホテル札幌"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
           </stop>
-          <stop name="ＡＮＡホリデイ・イン札幌すすきの"   tag="札幌>飯店" gps="" >
+          <stop name="ＡＮＡホリデイ・イン札幌すすきの"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -41,7 +41,7 @@
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
-          <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌東武ホテル"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -50,7 +50,7 @@
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="ＡＮＡホリデイ・イン札幌すすきの" fare="0" km="0" />
           </stop>
-          <stop name="札幌全日空ホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌全日空ホテル"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -60,7 +60,7 @@
             <interval from="ＡＮＡホリデイ・イン札幌すすきの" fare="0" km="0" />
             <interval from="札幌東武ホテル" fare="0" km="0" />
           </stop>
-          <stop name="ニューオータニイン札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ニューオータニイン札幌"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -71,7 +71,7 @@
             <interval from="札幌東武ホテル" fare="0" km="0" />
             <interval from="札幌全日空ホテル" fare="0" km="0" />
           </stop>
-          <stop name="札幌グランドホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌グランドホテル"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -83,7 +83,7 @@
             <interval from="札幌全日空ホテル" fare="0" km="0" />
             <interval from="ニューオータニイン札幌" fare="0" km="0" />
           </stop>
-          <stop name="ロイトン札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ロイトン札幌"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -96,7 +96,7 @@
             <interval from="ニューオータニイン札幌" fare="0" km="0" />
             <interval from="札幌グランドホテル" fare="0" km="0" />
           </stop>
-          <stop name="ホテルマイステイズプレミア札幌パーク"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルマイステイズプレミア札幌パーク"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -110,7 +110,7 @@
             <interval from="札幌グランドホテル" fare="0" km="0" />
             <interval from="ロイトン札幌" fare="0" km="0" />
           </stop>
-          <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="" >
+          <stop name="札幌エクセルホテル東急"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -125,7 +125,7 @@
             <interval from="ロイトン札幌" fare="0" km="0" />
             <interval from="ホテルマイステイズプレミア札幌パーク" fare="0" km="0" />
           </stop>
-          <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌東急REIホテル"   tag="札幌>ホテル" gps="43.055202, 141.351039" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -141,7 +141,7 @@
             <interval from="ホテルマイステイズプレミア札幌パーク" fare="0" km="0" />
             <interval from="札幌エクセルホテル東急" fare="0" km="0" />
           </stop>
-          <stop name="ホテルサンルートニュー札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルサンルートニュー札幌"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -158,7 +158,7 @@
             <interval from="札幌エクセルホテル東急" fare="0" km="0" />
             <interval from="札幌東急REIホテル" fare="0" km="0" />
           </stop>
-          <stop name="東京ドームホテル 札幌"   tag="札幌>飯店" gps="" >
+          <stop name="東京ドームホテル 札幌"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -176,7 +176,7 @@
             <interval from="札幌東急REIホテル" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
           </stop>
-          <stop name="札幌プリンスホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌プリンスホテル"   tag="札幌>ホテル" gps="" >
             <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
             <interval from="ホテルモントレ札幌" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
@@ -195,7 +195,7 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
           </stop>
-          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>飯店" gps="43.075428, 140.982905" >
+          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>ホテル" gps="43.075428, 140.982905" >
             <interval from="ホテルクラビーサッポロ" fare="3500" km="0" />
             <interval from="ホテルモントレ札幌" fare="3500" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="3500" km="0" />
@@ -343,39 +343,39 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="キロロ→札幌" type="other" available="2016/12/02~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,NASPA,戸狩温泉,二世古,石打丸,湯沢高原,舞子,湯沢中里,京都,東北市區,長野,名古屋,越後湯沢,東京,大阪,台灣,機場,定山渓">
-      <info>市區會沿路停靠各飯店預計1小時</info>
+    <transportation name="キロロ→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,NASPA,戸狩温泉,二世古,石打丸,湯沢高原,舞子,湯沢中里,京都,東北市區,長野,名古屋,越後湯沢,東京,大阪,台灣,空港,定山渓,ルスツ,ニセコ,ばんけい,東北の駅">
+      <info>市區會沿路停靠各ホテル預計1小時</info>
       <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
           <stop name="キロロマウンテンセンター"   tag="キロロ>キロロ" gps="43.067995, 140.989328" >
           </stop>
-          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>飯店" gps="43.075428, 140.982905" >
+          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>ホテル" gps="43.075428, 140.982905" >
             <interval from="キロロマウンテンセンター" fare="0" km="0" />
           </stop>
-          <stop name="札幌プリンスホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌プリンスホテル"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
           </stop>
-          <stop name="東京ドームホテル 札幌"   tag="札幌>飯店" gps="" >
+          <stop name="東京ドームホテル 札幌"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="ホテルサンルートニュー札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルサンルートニュー札幌"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
           </stop>
-          <stop name="札幌東急REIホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌東急REIホテル"   tag="札幌>ホテル" gps="43.055202, 141.351039" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
           </stop>
-          <stop name="札幌エクセルホテル東急"   tag="札幌>飯店" gps="" >
+          <stop name="札幌エクセルホテル東急"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -383,7 +383,7 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="札幌東急REIホテル" fare="0" km="0" />
           </stop>
-          <stop name="ホテルマイステイズプレミア札幌パーク"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルマイステイズプレミア札幌パーク"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -392,7 +392,7 @@
             <interval from="札幌東急REIホテル" fare="0" km="0" />
             <interval from="札幌エクセルホテル東急" fare="0" km="0" />
           </stop>
-          <stop name="ロイトン札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ロイトン札幌"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -402,7 +402,7 @@
             <interval from="札幌エクセルホテル東急" fare="0" km="0" />
             <interval from="ホテルマイステイズプレミア札幌パーク" fare="0" km="0" />
           </stop>
-          <stop name="札幌グランドホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌グランドホテル"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -413,7 +413,7 @@
             <interval from="ホテルマイステイズプレミア札幌パーク" fare="0" km="0" />
             <interval from="ロイトン札幌" fare="0" km="0" />
           </stop>
-          <stop name="ニューオータニイン札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ニューオータニイン札幌"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -425,7 +425,7 @@
             <interval from="ロイトン札幌" fare="0" km="0" />
             <interval from="札幌グランドホテル" fare="0" km="0" />
           </stop>
-          <stop name="札幌全日空ホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌全日空ホテル"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -438,7 +438,7 @@
             <interval from="札幌グランドホテル" fare="0" km="0" />
             <interval from="ニューオータニイン札幌" fare="0" km="0" />
           </stop>
-          <stop name="札幌東武ホテル"   tag="札幌>飯店" gps="" >
+          <stop name="札幌東武ホテル"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -452,7 +452,7 @@
             <interval from="ニューオータニイン札幌" fare="0" km="0" />
             <interval from="札幌全日空ホテル" fare="0" km="0" />
           </stop>
-          <stop name="ＡＮＡホリデイ・イン札幌すすきの"   tag="札幌>飯店" gps="" >
+          <stop name="ＡＮＡホリデイ・イン札幌すすきの"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -467,7 +467,7 @@
             <interval from="札幌全日空ホテル" fare="0" km="0" />
             <interval from="札幌東武ホテル" fare="0" km="0" />
           </stop>
-          <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="" >
+          <stop name="京王プラザホテル札幌"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -483,7 +483,7 @@
             <interval from="札幌東武ホテル" fare="0" km="0" />
             <interval from="ＡＮＡホリデイ・イン札幌すすきの" fare="0" km="0" />
           </stop>
-          <stop name="センチュリーロイヤルホテル"   tag="札幌>飯店" gps="" >
+          <stop name="センチュリーロイヤルホテル"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -500,7 +500,7 @@
             <interval from="ＡＮＡホリデイ・イン札幌すすきの" fare="0" km="0" />
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
-          <stop name="ホテルマイステイズ札幌アスペン"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルマイステイズ札幌アスペン"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -518,7 +518,7 @@
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
           </stop>
-          <stop name="JRタワーホテル日航札幌"   tag="札幌>飯店" gps="" >
+          <stop name="JRタワーホテル日航札幌"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -537,7 +537,7 @@
             <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
           </stop>
-          <stop name="ホテルモントレ札幌"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルモントレ札幌"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
@@ -557,7 +557,7 @@
             <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
           </stop>
-          <stop name="ホテルクラビーサッポロ"   tag="札幌>飯店" gps="" >
+          <stop name="ホテルクラビーサッポロ"   tag="札幌>ホテル" gps="" >
             <interval from="キロロマウンテンセンター" fare="3500" km="0" />
             <interval from="トリビュートポートフォリオホテル" fare="3500" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />

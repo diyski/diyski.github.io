@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲" to="富良野">
   <outbound>
-    <transportation name="新千歲国内→富良野" type="other" available="2016/12/01~2017/03/31" apply-to="富良野">
+    <transportation name="新千歲国内→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
           </stop>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
           </stop>
-          <stop name="リゾートインノースカントリー"   tag="富良野>飯店" gps="43.335530, 142.367928" >
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
           </stop>
-          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>飯店" gps="43.342493, 142.360789" >
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="ホテルベルヒルズ"   tag="富良野>飯店" gps="43.343720, 142.361424" >
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
           </stop>
-          <stop name="エーデルヴェルメ"   tag="富良野>飯店" gps="43.342902, 142.365348" >
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
@@ -42,7 +42,7 @@
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
           </stop>
-          <stop name="ナチュラクスホテル"   tag="富良野>飯店" gps="43.347563, 142.390176" >
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
@@ -114,40 +114,40 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="新千歲国際→富良野" type="other" available="2016/12/01~2017/03/31" apply-to="富良野">
+    <transportation name="新千歲国際→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
           </stop>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
           </stop>
-          <stop name="リゾートインノースカントリー"   tag="富良野>飯店" gps="43.335530, 142.367928" >
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
           </stop>
-          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>飯店" gps="43.342493, 142.360789" >
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="ホテルベルヒルズ"   tag="富良野>飯店" gps="43.343720, 142.361424" >
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
           </stop>
-          <stop name="エーデルヴェルメ"   tag="富良野>飯店" gps="43.342902, 142.365348" >
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
@@ -155,7 +155,7 @@
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
           </stop>
-          <stop name="ナチュラクスホテル"   tag="富良野>飯店" gps="43.347563, 142.390176" >
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
@@ -199,40 +199,40 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野→新千歲国内" type="other" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,NASPA,石打丸,機場,台灣,湯沢高原,湯沢中里,舞子">
+    <transportation name="富良野→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,NASPA,石打丸,空港,台灣,湯沢高原,湯沢中里,舞子,東北の駅">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
       <timetable>
         <route>
-          <stop name="ナチュラクスホテル"   tag="富良野>飯店" gps="43.347563, 142.390176" >
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
           </stop>
-          <stop name="エーデルヴェルメ"   tag="富良野>飯店" gps="43.342902, 142.365348" >
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
           </stop>
-          <stop name="ホテルベルヒルズ"   tag="富良野>飯店" gps="43.343720, 142.361424" >
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
           </stop>
-          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>飯店" gps="43.342493, 142.360789" >
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
           </stop>
-          <stop name="リゾートインノースカントリー"   tag="富良野>飯店" gps="43.335530, 142.367928" >
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
@@ -240,7 +240,7 @@
             <interval from="富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
             <interval from="ナチュラクスホテル" fare="4000" km="0" />
             <interval from="エーデルヴェルメ" fare="4000" km="0" />
             <interval from="ホテルベルヒルズ" fare="4000" km="0" />
@@ -302,40 +302,40 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="富良野→新千歲国際" type="other" available="2016/12/01~2017/03/31" apply-to=",湯澤,台灣">
+    <transportation name="富良野→新千歲国際" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",湯澤,台灣">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
       <timetable>
         <route>
-          <stop name="ナチュラクスホテル"   tag="富良野>飯店" gps="43.347563, 142.390176" >
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
           </stop>
-          <stop name="エーデルヴェルメ"   tag="富良野>飯店" gps="43.342902, 142.365348" >
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
           </stop>
-          <stop name="ホテルベルヒルズ"   tag="富良野>飯店" gps="43.343720, 142.361424" >
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
           </stop>
-          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>飯店" gps="43.342493, 142.360789" >
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
           </stop>
-          <stop name="リゾートインノースカントリー"   tag="富良野>飯店" gps="43.335530, 142.367928" >
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
             <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
             <interval from="ナチュラクスホテル" fare="0" km="0" />
             <interval from="エーデルヴェルメ" fare="0" km="0" />
             <interval from="ホテルベルヒルズ" fare="0" km="0" />
@@ -343,7 +343,7 @@
             <interval from="富良野プリンスホテル" fare="0" km="0" />
             <interval from="リゾートインノースカントリー" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
             <interval from="ナチュラクスホテル" fare="4000" km="0" />
             <interval from="エーデルヴェルメ" fare="4000" km="0" />
             <interval from="ホテルベルヒルズ" fare="4000" km="0" />

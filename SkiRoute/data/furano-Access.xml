@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="旭川機場(Access-n巴士)" to="富良野">
+<accesspoint name="旭川空港(Access-n巴士)" to="富良野">
   <outbound>
-    <transportation name="旭川機場→富良野" type="other" available="2016/12/01~2017/03/31" apply-to="富良野">
+    <transportation name="旭川空港→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_7.html</source>
       <timetable>
         <route>
-          <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="43.671163, 142.453831" >
+          <stop name="旭川空港" yahoo="true"  tag="空港>旭川空港" gps="43.671163, 142.453831" >
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="旭川空港" fare="2500" km="0" />
           </stop>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
             <interval from="旭川空港" fare="2500" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
@@ -47,18 +47,18 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野→旭川機場" type="other" available="2016/12/03~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,長野,名古屋,京都,大阪,東北市區,東京,NASPA,越後湯沢,戸狩温泉,石打丸,機場,台灣,湯沢高原,舞子,湯沢中里">
+    <transportation name="富良野→旭川空港" type="highwayBus" available="2016/12/03~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,長野,名古屋,京都,大阪,東北市區,東京,NASPA,越後湯沢,戸狩温泉,石打丸,空港,台灣,湯沢高原,舞子,湯沢中里,東北の駅">
       <info>
       </info>
       <source>http://www.access-n.jp/winter2016/skibus/detail/post_7.html</source>
       <timetable>
         <route>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="43.671163, 142.453831" >
+          <stop name="旭川空港" yahoo="true"  tag="空港>旭川空港" gps="43.671163, 142.453831" >
             <interval from="新富良野プリンスホテル" fare="2500" km="0" />
             <interval from="富良野プリンスホテル" fare="2500" km="0" />
           </stop>

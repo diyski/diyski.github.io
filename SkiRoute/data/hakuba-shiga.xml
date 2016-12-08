@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="志賀" to="白馬">
   <outbound>
-    <transportation name="Nagano snow shuttle 志賀→白馬" type="other" available="2016/12/17~2017/03/12" apply-to=",白馬">
-      <info>JHN 旅行社</info>
+    <transportation name="志賀→白馬" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",白馬">
+      <info>Nagano snow shuttle 
+
+</info>
       <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
       <timetable>
         <route>
-          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
           </stop>
           <stop name="JR神城駅"   tag="白馬>JR" gps="" >
-            <interval from="志賀高原住宿點" fare="6400" km="0" />
+            <interval from="志賀高原宿泊施設" fare="6400" km="0" />
           </stop>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
-            <interval from="志賀高原住宿點" fare="6400" km="0" />
+            <interval from="志賀高原宿泊施設" fare="6400" km="0" />
             <interval from="JR神城駅" fare="0" km="0" />
           </stop>
         </route>
@@ -30,8 +32,8 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 白馬→志賀" type="other" available="2016/12/17~2017/03/12" apply-to=",志賀">
-      <info>JHN 旅行社</info>
+    <transportation name="白馬→志賀" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",志賀">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
       <timetable>
         <route>
@@ -40,7 +42,7 @@
           <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
-          <stop name="志賀高原住宿點"   tag="志賀>住宿" gps="" >
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
             <interval from="八方info" fare="6400" km="0" />
             <interval from="JR神城駅" fare="6400" km="0" />
           </stop>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="札幌市區" to="盤溪">
+<accesspoint name="札幌市區" to="ばんけい">
   <outbound>
-    <transportation name="札幌→盤溪" type="other" available="2016/12/20~2017/03/31" apply-to="盤溪,札幌">
+    <transportation name="札幌→ばんけい" type="bus" available="2016/12/20~2017/03/31" apply-to="ばんけい,札幌">
       <info>
       </info>
       <source>http://www.bankei.co.jp/winter/bus/routebus/</source>
       <timetable>
         <route>
-          <stop name="円山公園駅" yahoo="true"  tag="札幌>地鐵" gps="43.055677, 141.319568" >
+          <stop name="円山公園駅" yahoo="true"  tag="札幌>地下鉄" gps="43.055677, 141.319568" >
           </stop>
-          <stop name="発寒南駅" yahoo="true"  tag="札幌>地鐵" gps="" >
+          <stop name="発寒南駅" yahoo="true"  tag="札幌>地下鉄" gps="" >
             <interval from="円山公園駅" fare="210" km="0" />
           </stop>
-          <stop name="ばんけいスキー場"   tag="盤溪>ばんけいスキー場" gps="43.030496, 141.279211" >
+          <stop name="ばんけいスキー場"   tag="ばんけい>ばんけいスキー場" gps="43.030496, 141.279211" >
             <interval from="円山公園駅" fare="210" km="4" />
             <interval from="発寒南駅" fare="210" km="7" />
           </stop>
-          <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991232, 141.358462" >
+          <stop name="真駒内駅" yahoo="true"  tag="札幌>地下鉄" gps="42.991232, 141.358462" >
             <interval from="円山公園駅" fare="210" km="0" />
             <interval from="発寒南駅" fare="210" km="0" />
             <interval from="ばんけいスキー場" fare="210" km="10" />
@@ -245,22 +245,22 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="盤溪→札幌" type="other" available="2016/12/20~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,札幌国際,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,石打丸,湯沢高原,湯沢中里,舞子,京都,東北市區,長野,東京,機場,台灣,定山渓,越後湯沢,大阪,名古屋">
+    <transportation name="ばんけい→札幌" type="bus" available="2016/12/20~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,札幌国際,朝里川,Gala,NASPA,戸狩温泉,キロロ,二世古,石打丸,湯沢高原,湯沢中里,舞子,京都,東北市區,長野,東京,空港,台灣,定山渓,越後湯沢,大阪,名古屋,東北の駅,ばんけい,ニセコ,ルスツ">
       <info>
       </info>
       <source>http://www.bankei.co.jp/winter/bus/routebus/</source>
       <timetable>
         <route>
-          <stop name="真駒内駅" yahoo="true"  tag="札幌>地鐵" gps="42.991232, 141.358462" >
+          <stop name="真駒内駅" yahoo="true"  tag="札幌>地下鉄" gps="42.991232, 141.358462" >
           </stop>
-          <stop name="ばんけいスキー場"   tag="盤溪>ばんけいスキー場" gps="43.030496, 141.279211" >
+          <stop name="ばんけいスキー場"   tag="ばんけい>ばんけいスキー場" gps="43.030496, 141.279211" >
             <interval from="真駒内駅" fare="210" km="10" />
           </stop>
-          <stop name="発寒南駅" yahoo="true"  tag="札幌>地鐵" gps="" >
+          <stop name="発寒南駅" yahoo="true"  tag="札幌>地下鉄" gps="" >
             <interval from="真駒内駅" fare="210" km="0" />
             <interval from="ばんけいスキー場" fare="210" km="7" />
           </stop>
-          <stop name="円山公園駅" yahoo="true"  tag="札幌>地鐵" gps="43.055677, 141.319568" >
+          <stop name="円山公園駅" yahoo="true"  tag="札幌>地下鉄" gps="43.055677, 141.319568" >
             <interval from="真駒内駅" fare="210" km="0" />
             <interval from="ばんけいスキー場" fare="210" km="4" />
             <interval from="発寒南駅" fare="210" km="0" />

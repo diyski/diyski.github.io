@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯澤" to="苗場">
   <outbound>
-    <transportation name="南越後觀光巴士・苗場、浅貝、西武 行" type="bus" available="" apply-to="苗場">
-      <info>民宿區至西武口下車</info>
+    <transportation name="越後湯沢→苗場" type="bus" available="" apply-to="苗場">
+      <info>
+      </info>
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
       <timetable>
         <route>
           <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
           </stop>
-          <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
             <interval from="JR越後湯沢駅" fare="380" km="8" />
           </stop>
           <stop name="田代スキー場"   tag="苗場>田代" gps="" >
             <interval from="JR越後湯沢駅" fare="530" km="14" />
             <interval from="かぐらスキー場" fare="0" km="0" />
           </stop>
-          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
             <interval from="JR越後湯沢駅" fare="660" km="22" />
             <interval from="かぐらスキー場" fare="0" km="0" />
             <interval from="田代スキー場" fare="0" km="0" />
@@ -87,23 +88,23 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="南越後觀光巴士・湯沢駅前 行" type="bus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,Gala,越後湯沢,東京,長野,東北市區,NASPA,湯沢高原,湯沢中里,舞子,石打丸,機場,戸狩温泉,二世古,定山渓,大阪,名古屋,京都,台灣">
+    <transportation name="苗場→越後湯沢" type="bus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,Gala,越後湯沢,東京,長野,東北市區,NASPA,湯沢高原,湯沢中里,舞子,石打丸,機場,戸狩温泉,二世古,定山渓,大阪,名古屋,京都,台灣,ニセコ,ばんけい,ルスツ,東北の駅,空港">
       <info>
       </info>
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
       <timetable>
         <route>
-          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
           </stop>
           <stop name="田代スキー場"   tag="苗場>田代" gps="" >
-            <interval from="王子飯店四號館" fare="290" km="8" />
+            <interval from="苗場プリンスホテル4号館" fare="290" km="8" />
           </stop>
-          <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
-            <interval from="王子飯店四號館" fare="460" km="14" />
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
+            <interval from="苗場プリンスホテル4号館" fare="460" km="14" />
             <interval from="田代スキー場" fare="0" km="0" />
           </stop>
           <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
-            <interval from="王子飯店四號館" fare="660" km="22" />
+            <interval from="苗場プリンスホテル4号館" fare="660" km="22" />
             <interval from="田代スキー場" fare="0" km="0" />
             <interval from="かぐらスキー場" fare="0" km="0" />
           </stop>

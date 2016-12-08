@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="王子飯店免費巴士" to="苗場">
+<accesspoint name="プリンスホテル免費巴士" to="苗場">
   <outbound>
-    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01" apply-to="苗場">
-      <info>住宿者專用；0820和1520只開周六及日本年假
+    <transportation name="越後湯沢→苗場 宿泊者専用" type="bus" available="2016/12/16~2017/04/01" apply-to="苗場">
+      <info>0820和1520只開周六及日本年假
+
+8:20 は土曜日と12/23、1/8、3/19、年末年始（12/29～1/3）のみ運行。
+
+15:20 は土曜日と年末年始（12/29～1/3）のみ運行。
+
+
 </info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
           <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
           </stop>
-          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
             <interval from="JR越後湯沢駅" fare="0" km="22" />
           </stop>
         </route>
@@ -61,16 +67,16 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="苗場王子飯店免費巴士" type="other" available="2016/12/16~2017/04/01" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,石打丸,東北市區,京都,長野,名古屋,Gala,大阪,越後湯沢,東京,戸狩温泉,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,NASPA">
-      <info>住宿者專用；0820和1520只開周六及日本年假
-</info>
+    <transportation name="苗場→越後湯沢 宿泊者専用" type="bus" available="2016/12/16~2017/04/01" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,石打丸,東北市區,京都,長野,名古屋,Gala,大阪,越後湯沢,東京,戸狩温泉,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,NASPA,東北の駅,ルスツ,ニセコ,ばんけい,空港">
+      <info>
+      </info>
       <source>http://www.princehotels.co.jp/naeba/access/</source>
       <timetable>
         <route>
-          <stop name="王子飯店四號館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
           </stop>
           <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
-            <interval from="王子飯店四號館" fare="0" km="22" />
+            <interval from="苗場プリンスホテル4号館" fare="0" km="22" />
           </stop>
         </route>
         <run >

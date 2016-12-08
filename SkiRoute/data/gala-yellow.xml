@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅(黃)" to="Gala">
   <outbound>
-    <transportation name="NASPA→Gala" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
+    <transportation name="NASPA→Gala" type="bus" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
       <timetable>
         <route>
-          <stop name="ステラタワー"   tag="越後湯沢>其他" gps="36.921584, 138.816764" >
+          <stop name="ステラタワー"   tag="越後湯沢>その他" gps="36.921584, 138.816764" >
           </stop>
           <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
             <interval from="ステラタワー" fare="0" km="0" />
           </stop>
-          <stop name="広川ホテル"   tag="越後湯沢>飯店" gps="36.932078, 138.809397" >
+          <stop name="広川ホテル"   tag="越後湯沢>ホテル" gps="36.932078, 138.809397" >
             <interval from="ステラタワー" fare="0" km="0" />
             <interval from="NASPA" fare="0" km="0" />
           </stop>
-          <stop name="ライオンズマンション第3"   tag="越後湯沢>其他" gps="36.933050, 138.809171" >
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>その他" gps="36.933050, 138.809171" >
             <interval from="ステラタワー" fare="0" km="0" />
             <interval from="NASPA" fare="0" km="0" />
             <interval from="広川ホテル" fare="0" km="0" />
           </stop>
-          <stop name="いなもと"   tag="越後湯沢>民宿" gps="36.936224, 138.807907" >
+          <stop name="いなもと"   tag="越後湯沢>みんしゅく" gps="36.936224, 138.807907" >
             <interval from="ステラタワー" fare="0" km="0" />
             <interval from="NASPA" fare="0" km="0" />
             <interval from="広川ホテル" fare="0" km="0" />
             <interval from="ライオンズマンション第3" fare="0" km="0" />
           </stop>
-          <stop name="松泉閣花月"   tag="越後湯沢>飯店" gps="36.937658, 138.806664" >
+          <stop name="松泉閣花月"   tag="越後湯沢>ホテル" gps="36.937658, 138.806664" >
             <interval from="ステラタワー" fare="0" km="0" />
             <interval from="NASPA" fare="0" km="0" />
             <interval from="広川ホテル" fare="0" km="0" />
@@ -61,7 +61,7 @@
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="布場ゲレンデ南口" fare="0" km="0" />
           </stop>
-          <stop name="高半ホテル"   tag="越後湯沢>飯店" gps="36.947101, 138.799955" >
+          <stop name="高半ホテル"   tag="越後湯沢>ホテル" gps="36.947101, 138.799955" >
             <interval from="ステラタワー" fare="0" km="0" />
             <interval from="NASPA" fare="0" km="0" />
             <interval from="広川ホテル" fare="0" km="0" />
@@ -579,7 +579,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Gala→越後湯沢駅→NASPA" type="other" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,苗場,大阪,富良野,朝里川,札幌国際,妙高,安比,台灣,湯沢中里,石打丸,キロロ,盤溪,東京,東北市區,軽井沢,白馬,長野,戸狩温泉,名古屋,機場,留壽都,二世古,野沢温泉,定山渓,志賀,舞子,藏王">
+    <transportation name="Gala→越後湯沢駅→NASPA" type="bus" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,苗場,大阪,富良野,朝里川,札幌国際,妙高,安比,台灣,湯沢中里,石打丸,キロロ,盤溪,東京,東北市區,軽井沢,白馬,長野,戸狩温泉,名古屋,空港,留壽都,二世古,野沢温泉,定山渓,志賀,舞子,藏王,東北の駅,ルスツ,ニセコ,ばんけい">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
@@ -587,7 +587,7 @@
         <route>
           <stop name="Gala"   tag="Gala>Gala" gps="36.950418, 138.800019" >
           </stop>
-          <stop name="高半ホテル"   tag="越後湯沢>飯店" gps="36.947101, 138.799955" >
+          <stop name="高半ホテル"   tag="越後湯沢>ホテル" gps="36.947101, 138.799955" >
             <interval from="Gala" fare="0" km="0" />
           </stop>
           <stop name="布場ゲレンデ中央口"   tag="湯沢高原>湯沢高原" gps="36.943234, 138.802179" >
@@ -612,7 +612,7 @@
             <interval from="布場ゲレンデ南口" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
           </stop>
-          <stop name="ライオンズマンション第3"   tag="越後湯沢>其他" gps="36.933050, 138.809171" >
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>その他" gps="36.933050, 138.809171" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="高半ホテル" fare="0" km="0" />
             <interval from="布場ゲレンデ中央口" fare="0" km="0" />
@@ -620,7 +620,7 @@
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="JR越後湯沢駅" fare="0" km="0" />
           </stop>
-          <stop name="広川ホテル"   tag="越後湯沢>飯店" gps="36.932078, 138.809397" >
+          <stop name="広川ホテル"   tag="越後湯沢>ホテル" gps="36.932078, 138.809397" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="高半ホテル" fare="0" km="0" />
             <interval from="布場ゲレンデ中央口" fare="0" km="0" />
@@ -639,7 +639,7 @@
             <interval from="ライオンズマンション第3" fare="0" km="0" />
             <interval from="広川ホテル" fare="0" km="0" />
           </stop>
-          <stop name="ステラタワー"   tag="越後湯沢>其他" gps="36.921584, 138.816764" >
+          <stop name="ステラタワー"   tag="越後湯沢>その他" gps="36.921584, 138.816764" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="高半ホテル" fare="0" km="0" />
             <interval from="布場ゲレンデ中央口" fare="0" km="0" />

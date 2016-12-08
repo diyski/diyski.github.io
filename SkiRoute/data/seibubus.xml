@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="西武巴士" to="苗場">
   <outbound>
-    <transportation name="西武巴士長野線" type="other" available="" apply-to=",白馬,妙高,野沢温泉,戸狩温泉,長野,志賀">
+    <transportation name="西武巴士長野線" type="highwayBus" available="" apply-to=",白馬,妙高,野沢温泉,戸狩温泉,長野,志賀">
       <info>
       </info>
       <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>
@@ -41,7 +41,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="西武巴士長野線" type="other" available="" apply-to=",湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,二世古,キロロ,Gala,NASPA,湯沢高原,湯沢中里,舞子,札幌国際,東京,機場,石打丸,越後湯沢,東北市區,京都,名古屋,大阪,定山渓,台灣">
+    <transportation name="西武巴士長野線" type="highwayBus" available="" apply-to=",湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,朝里川,二世古,キロロ,Gala,NASPA,湯沢高原,湯沢中里,舞子,札幌国際,東京,空港,石打丸,越後湯沢,東北市區,京都,名古屋,大阪,定山渓,台灣,東北の駅,ばんけい,ニセコ,ルスツ">
       <info>
       </info>
       <source>http://www.seibubus.co.jp/kousoku/line/line_nagano.html</source>

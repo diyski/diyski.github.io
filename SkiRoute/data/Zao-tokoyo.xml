@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="東京市區" to="藏王">
   <outbound>
-    <transportation name="東京市區往藏王溫泉高速巴士" type="other" available="" apply-to="藏王,安比">
+    <transportation name="東京市區往藏王溫泉高速巴士" type="highwayBus" available="" apply-to="藏王,安比,東北の駅,空港">
       <info>車資及夜巴時間隨時間變動，詳見官網
 </info>
       <source>http://willerexpress.com/st/3/tw/pc/bus/route/kanto/yamagata/</source>
@@ -9,7 +9,7 @@
         <route>
           <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="35.688579, 139.700974" >
           </stop>
-          <stop name="JR山形駅" yahoo="true"  tag="東北市區>JR" gps="38.249675,140.326025" >
+          <stop name="JR山形駅" yahoo="true"  tag="東北の駅>JR" gps="38.249675,140.326025" >
             <interval from="JR新宿駅" fare="0" km="400" />
           </stop>
         </route>
@@ -25,13 +25,13 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="藏王溫泉往東京高速巴士" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,台灣,機場,石打丸,長野,東京,名古屋,Gala,大阪,越後湯沢,NASPA,戸狩温泉,キロロ,二世古,湯沢高原,舞子,湯沢中里,定山渓,京都">
+    <transportation name="藏王溫泉往東京高速巴士" type="highwayBus" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,台灣,機場,石打丸,長野,東京,名古屋,Gala,大阪,越後湯沢,NASPA,戸狩温泉,キロロ,二世古,湯沢高原,舞子,湯沢中里,定山渓,京都,ばんけい,ニセコ,ルスツ,空港">
       <info>車資及夜巴時間隨時間變動，詳見官網
 </info>
       <source>http://willerexpress.com/st/3/tw/pc/bus/route/kanto/yamagata/</source>
       <timetable>
         <route>
-          <stop name="JR山形駅" yahoo="true"  tag="東北市區>JR" gps="38.249675,140.326025" >
+          <stop name="JR山形駅" yahoo="true"  tag="東北の駅>JR" gps="38.249675,140.326025" >
           </stop>
           <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="35.688579, 139.700974" >
             <interval from="JR山形駅" fare="0" km="400" />

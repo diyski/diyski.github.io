@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市區" to="富良野">
   <outbound>
-    <transportation name="札幌→富良野駅" type="other" available="" apply-to="富良野">
+    <transportation name="札幌→富良野駅" type="other" available="2016/12/17~2017/03/25" apply-to=",富良野">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_6.html</source>
+      <timetable>
+        <route>
+          <stop name="センチュリーロイヤルホテル"   tag="札幌>ホテル" gps="" >
+          </stop>
+          <stop name="札幌東急REIホテル"   tag="札幌>ホテル" gps="43.055202, 141.351039" >
+            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
+          </stop>
+          <stop name="札幌プリンスホテル"   tag="札幌>ホテル" gps="" >
+            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
+            <interval from="札幌東急REIホテル" fare="0" km="0" />
+          </stop>
+          <stop name="北の峰ゴンドラ"   tag="富良野>その他" gps="43.343500, 142.360284" >
+            <interval from="センチュリーロイヤルホテル" fare="4000" km="0" />
+            <interval from="札幌東急REIホテル" fare="4000" km="0" />
+            <interval from="札幌プリンスホテル" fare="4000" km="0" />
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="センチュリーロイヤルホテル" fare="4000" km="0" />
+            <interval from="札幌東急REIホテル" fare="4000" km="0" />
+            <interval from="札幌プリンスホテル" fare="4000" km="0" />
+            <interval from="北の峰ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+            <interval from="センチュリーロイヤルホテル" fare="4000" km="0" />
+            <interval from="札幌東急REIホテル" fare="4000" km="0" />
+            <interval from="札幌プリンスホテル" fare="4000" km="0" />
+            <interval from="北の峰ゴンドラ" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:45</time>
+          <time>08:00</time>
+          <time>08:15</time>
+          <time>10:45</time>
+          <time>10:50</time>
+          <time>11:00</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="札幌→富良野駅" type="highwayBus" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>
@@ -57,7 +101,70 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野駅→札幌" type="other" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,盤溪,札幌国際,朝里川,Gala,名古屋,長野,京都,東北市區,石打丸,キロロ,機場,戸狩温泉,東京,越後湯沢,NASPA,大阪,二世古,定山渓,湯沢高原,台灣,湯沢中里,舞子">
+    <transportation name="富良野駅→札幌" type="other" available="2016/12/17~2017/03/25" apply-to=",札幌,京都,東京,ルスツ,安比,定山渓,志賀,藏王,妙高,札幌国際,朝里川,石打丸,キロロ,苗場,東北市區,越後湯沢,軽井沢,Gala,名古屋,白馬,大阪,NASPA,長野,盤溪,戸狩温泉,野沢温泉,ニセコ,空港,台灣,湯沢中里,湯沢高原,舞子,東北の駅,富良野,ばんけい">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_6.html</source>
+      <timetable>
+        <route>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="北の峰ゴンドラ"   tag="富良野>その他" gps="43.343500, 142.360284" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="センチュリーロイヤルホテル"   tag="札幌>ホテル" gps="" >
+            <interval from="新富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="北の峰ゴンドラ" fare="4000" km="0" />
+          </stop>
+          <stop name="札幌全日空ホテル"   tag="札幌>ホテル" gps="" >
+            <interval from="新富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="北の峰ゴンドラ" fare="4000" km="0" />
+            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
+          </stop>
+          <stop name="札幌プリンスホテル"   tag="札幌>ホテル" gps="" >
+            <interval from="新富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="北の峰ゴンドラ" fare="4000" km="0" />
+            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
+            <interval from="札幌全日空ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="札幌東急REIホテル"   tag="札幌>ホテル" gps="43.055202, 141.351039" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="北の峰ゴンドラ" fare="0" km="0" />
+            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
+            <interval from="札幌全日空ホテル" fare="0" km="0" />
+            <interval from="札幌プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルマイステイズプレミア札幌パーク"   tag="札幌>ホテル" gps="" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="北の峰ゴンドラ" fare="0" km="0" />
+            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
+            <interval from="札幌全日空ホテル" fare="0" km="0" />
+            <interval from="札幌プリンスホテル" fare="0" km="0" />
+            <interval from="札幌東急REIホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>16:45</time>
+          <time>16:55</time>
+          <time>17:00</time>
+          <time>19:30</time>
+          <time>19:38</time>
+          <time>19:46</time>
+          <time>19:54</time>
+          <time>20:00</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="富良野駅→札幌" type="highwayBus" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,ルスツ,盤溪,札幌国際,朝里川,Gala,名古屋,長野,京都,東北市區,石打丸,キロロ,空港,戸狩温泉,東京,越後湯沢,NASPA,大阪,ニセコ,定山渓,湯沢高原,台灣,湯沢中里,舞子,東北の駅,富良野,ばんけい">
       <info>
       </info>
       <source>http://www.chuo-bus.co.jp/highway/index.cgi?ope=det&amp;n=9&amp;o=1&amp;t=173</source>

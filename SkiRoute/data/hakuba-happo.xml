@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="八方循環巴士1、2" to="八方尾根">
   <outbound>
-    <transportation name="No.2bus 八方シャトルバス内回り" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+    <transportation name="No.2bus 八方シャトルバス内回り" type="bus" available="2016/12/17~2017/03/26" apply-to=",白馬">
       <info>
       </info>
       <source>http://www.happo-one.jp/access/shuttle-bus</source>
@@ -416,7 +416,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="No.1bus 八方シャトルバス外回り" type="other" available="2016/12/17~2017/03/26" apply-to=",白馬">
+    <transportation name="No.1bus 八方シャトルバス外回り" type="bus" available="2016/12/17~2017/03/26" apply-to=",白馬">
       <info>
       </info>
       <source>http://www.happo-one.jp/access/shuttle-bus</source>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="NASPA(紫)" to="Gala">
   <outbound>
-    <transportation name="NASPA→Gala" type="other" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
+    <transportation name="NASPA→Gala" type="bus" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
@@ -9,14 +9,14 @@
         <route>
           <stop name="NASPA"   tag="NASPA>NASPA" gps="36.926497, 138.808831" >
           </stop>
-          <stop name="湯沢グランドホテル"   tag="越後湯沢>飯店" gps="36.935388, 138.807707" >
+          <stop name="湯沢グランドホテル"   tag="越後湯沢>ホテル" gps="36.935388, 138.807707" >
             <interval from="NASPA" fare="0" km="0" />
           </stop>
-          <stop name="湯沢ニューオータニ"   tag="越後湯沢>飯店" gps="36.937872, 138.805450" >
+          <stop name="湯沢ニューオータニ"   tag="越後湯沢>ホテル" gps="36.937872, 138.805450" >
             <interval from="NASPA" fare="0" km="0" />
             <interval from="湯沢グランドホテル" fare="0" km="0" />
           </stop>
-          <stop name="東映ホテル"   tag="越後湯沢>飯店" gps="36.938939, 138.803824" >
+          <stop name="東映ホテル"   tag="越後湯沢>ホテル" gps="36.938939, 138.803824" >
             <interval from="NASPA" fare="0" km="0" />
             <interval from="湯沢グランドホテル" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />
@@ -236,7 +236,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Gala→NASPA" type="other" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,軽井沢,東北市區,苗場,大阪,富良野,朝里川,安比,札幌国際,妙高,石打丸,キロロ,盤溪,東京,台灣,湯沢中里,機場,戸狩温泉,長野,白馬,名古屋,二世古,留壽都,定山渓,野沢温泉,志賀,舞子,藏王">
+    <transportation name="Gala→NASPA" type="bus" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,軽井沢,東北市區,苗場,大阪,富良野,朝里川,安比,札幌国際,妙高,石打丸,キロロ,盤溪,東京,台灣,湯沢中里,空港,戸狩温泉,長野,白馬,名古屋,二世古,留壽都,定山渓,野沢温泉,志賀,舞子,藏王,東北の駅,ばんけい,ニセコ,ルスツ">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
@@ -247,16 +247,16 @@
           <stop name="湯沢高原"   tag="湯沢高原>湯沢高原" gps="36.940201, 138.804452" >
             <interval from="Gala" fare="0" km="0" />
           </stop>
-          <stop name="湯沢ニューオータニ"   tag="越後湯沢>飯店" gps="36.937872, 138.805450" >
+          <stop name="湯沢ニューオータニ"   tag="越後湯沢>ホテル" gps="36.937872, 138.805450" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
           </stop>
-          <stop name="東映ホテル"   tag="越後湯沢>飯店" gps="36.938939, 138.803824" >
+          <stop name="東映ホテル"   tag="越後湯沢>ホテル" gps="36.938939, 138.803824" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />
           </stop>
-          <stop name="湯沢グランドホテル"   tag="越後湯沢>飯店" gps="36.935388, 138.807707" >
+          <stop name="湯沢グランドホテル"   tag="越後湯沢>ホテル" gps="36.935388, 138.807707" >
             <interval from="Gala" fare="0" km="0" />
             <interval from="湯沢高原" fare="0" km="0" />
             <interval from="湯沢ニューオータニ" fare="0" km="0" />

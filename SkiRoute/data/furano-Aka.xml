@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="旭川機場" to="富良野">
+<accesspoint name="旭川空港" to="富良野">
   <outbound>
-    <transportation name="旭川機場→富良野" type="other" available="" apply-to="富良野">
+    <transportation name="旭川空港→富良野" type="highwayBus" available="" apply-to="富良野">
       <info>
       </info>
       <source>http://www.furanobus.jp/lavender/</source>
       <timetable>
         <route>
-          <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="" >
+          <stop name="旭川空港" yahoo="true"  tag="空港>旭川空港" gps="" >
           </stop>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="" >
             <interval from="旭川空港" fare="770" km="60" />
           </stop>
-          <stop name="民宿區kisen"   tag="富良野>民宿區" gps="43.343404, 142.367589" >
+          <stop name="kisen"   tag="富良野>その他" gps="43.343404, 142.367589" >
             <interval from="旭川空港" fare="820" km="60" />
             <interval from="富良野駅" fare="0" km="0" />
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="旭川空港" fare="820" km="60" />
             <interval from="富良野駅" fare="0" km="0" />
-            <interval from="民宿區kisen" fare="0" km="0" />
+            <interval from="kisen" fare="0" km="0" />
           </stop>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
             <interval from="旭川空港" fare="930" km="60" />
             <interval from="富良野駅" fare="0" km="0" />
-            <interval from="民宿區kisen" fare="0" km="0" />
+            <interval from="kisen" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
         </route>
@@ -88,30 +88,30 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="富良野→旭川機場" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,名古屋,大阪,長野,東北市區,越後湯沢,東京,NASPA,定山渓,石打丸,台灣,機場,湯沢高原,湯沢中里,舞子">
+    <transportation name="富良野→旭川空港" type="highwayBus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,名古屋,大阪,長野,東北市區,越後湯沢,東京,NASPA,定山渓,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子">
       <info>
       </info>
       <source>http://www.furanobus.jp/lavender/</source>
       <timetable>
         <route>
-          <stop name="新富良野プリンスホテル"   tag="富良野>飯店" gps="43.323216, 142.354501" >
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
           </stop>
-          <stop name="富良野プリンスホテル"   tag="富良野>飯店" gps="43.340518, 142.358168" >
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="民宿區kisen"   tag="富良野>民宿區" gps="43.343404, 142.367589" >
+          <stop name="kisen"   tag="富良野>その他" gps="43.343404, 142.367589" >
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="" >
             <interval from="新富良野プリンスホテル" fare="0" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
-            <interval from="民宿區kisen" fare="0" km="0" />
+            <interval from="kisen" fare="0" km="0" />
           </stop>
-          <stop name="旭川空港" yahoo="true"  tag="機場>旭川空港" gps="" >
+          <stop name="旭川空港" yahoo="true"  tag="空港>旭川空港" gps="" >
             <interval from="新富良野プリンスホテル" fare="930" km="60" />
             <interval from="富良野プリンスホテル" fare="820" km="60" />
-            <interval from="民宿區kisen" fare="820" km="60" />
+            <interval from="kisen" fare="820" km="60" />
             <interval from="富良野駅" fare="770" km="60" />
           </stop>
         </route>

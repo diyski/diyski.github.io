@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="AccessNarita" to="東京">
   <outbound>
-    <transportation name="AccessNarita深夜巴士" type="other" available="" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,東北市區,名古屋,大阪,機場,定山渓,台灣">
+    <transportation name="AccessNarita深夜巴士" type="highwayBus" available="" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,東北市區,名古屋,大阪,空港,定山渓,台灣,東北の駅,ばんけい,ニセコ">
       <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
@@ -11,16 +11,16 @@
           <stop name="東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
             <interval from="JR銀座駅" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="" >
+          <stop name="成田空港第3ターミナル"   tag="空港>成田空港" gps="" >
             <interval from="JR銀座駅" fare="2000" km="0" />
             <interval from="東京駅" fare="2000" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="" >
             <interval from="JR銀座駅" fare="2000" km="0" />
             <interval from="東京駅" fare="2000" km="0" />
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="" >
             <interval from="JR銀座駅" fare="2000" km="0" />
             <interval from="東京駅" fare="2000" km="0" />
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
@@ -50,7 +50,7 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="AccessNarita巴士" type="other" available="" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,東北市區,名古屋,大阪,定山渓,機場,台灣">
+    <transportation name="AccessNarita巴士" type="highwayBus" available="" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,東北市區,名古屋,大阪,定山渓,空港,台灣,東北の駅,ばんけい,ニセコ,ルスツ">
       <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
@@ -60,22 +60,22 @@
           <stop name="東京駅" yahoo="true"  tag="東京>JR" gps="35.679431, 139.767925" >
             <interval from="JR銀座駅" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第1ターミナル"   tag="機場>成田空港" gps="" >
+          <stop name="成田空港第1ターミナル"   tag="空港>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="" >
+          <stop name="成田空港第3ターミナル"   tag="空港>成田空港" gps="" >
             <interval from="JR銀座駅" fare="1000" km="0" />
             <interval from="東京駅" fare="1000" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
@@ -542,21 +542,21 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="AccessNarita巴士" type="other" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,Gala,NASPA,戸狩温泉,石打丸,湯沢高原,湯沢中里,舞子,東北市區,長野,東京,越後湯沢,安比,藏王">
+    <transportation name="AccessNarita巴士" type="highwayBus" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,Gala,NASPA,戸狩温泉,石打丸,湯沢高原,湯沢中里,舞子,東北市區,長野,東京,越後湯沢,安比,藏王,東北の駅">
       <info>搭乘處請看gps定位</info>
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
         <route>
-          <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="35.777683, 140.383215" >
+          <stop name="成田空港第3ターミナル"   tag="空港>成田空港" gps="35.777683, 140.383215" >
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.777683, 140.383215" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="35.777683, 140.383215" >
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.771988, 140.388480" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="35.771988, 140.388480" >
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第1ターミナル"   tag="機場>成田空港" gps="35.764069, 140.387233" >
+          <stop name="成田空港第1ターミナル"   tag="空港>成田空港" gps="35.764069, 140.387233" >
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />

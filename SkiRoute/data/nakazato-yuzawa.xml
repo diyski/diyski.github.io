@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅" to="湯沢中里">
   <outbound>
-    <transportation name="越後湯沢駅→湯沢中里" type="other" available="2016/12/17~2017/04/02" apply-to="湯沢中里,越後湯沢">
+    <transportation name="越後湯沢駅→湯沢中里" type="bus" available="2016/12/17~2017/04/02" apply-to="湯沢中里,越後湯沢">
       <info>
       </info>
       <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
       <timetable>
         <route>
-          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>ホテル" gps="36.933038, 138.812436" >
           </stop>
-          <stop name="ライオンズマンション第3"   tag="越後湯沢>其他" gps="36.933050, 138.809171" >
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>その他" gps="36.933050, 138.809171" >
             <interval from="ホテルスポーリア湯沢" fare="0" km="6.5" />
           </stop>
-          <stop name="いなもと"   tag="越後湯沢>民宿" gps="36.936224, 138.807907" >
+          <stop name="いなもと"   tag="越後湯沢>みんしゅく" gps="36.936224, 138.807907" >
             <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
             <interval from="ライオンズマンション第3" fare="0" km="0" />
           </stop>
-          <stop name="雪国館"   tag="越後湯沢>其他" gps="36.938971, 138.805608" >
+          <stop name="雪国館"   tag="越後湯沢>その他" gps="36.938971, 138.805608" >
             <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
             <interval from="ライオンズマンション第3" fare="0" km="0" />
             <interval from="いなもと" fare="0" km="0" />
@@ -60,7 +60,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="[複製]越後湯沢駅→湯沢中里" type="other" available="2016/12/17~2017/04/02" apply-to=",越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,石打丸,キロロ,盤溪,東北市區,東京,軽井沢,Gala,戸狩温泉,長野,白馬,名古屋,NASPA,留壽都,二世古,機場,湯沢高原,舞子,志賀,定山渓,野沢温泉,藏王">
+    <transportation name="[複製]越後湯沢駅→湯沢中里" type="bus" available="2016/12/17~2017/04/02" apply-to=",越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,石打丸,キロロ,盤溪,東北市區,東京,軽井沢,Gala,戸狩温泉,長野,白馬,名古屋,NASPA,留壽都,二世古,機場,湯沢高原,舞子,志賀,定山渓,野沢温泉,藏王,東北の駅,ばんけい,ニセコ,ルスツ,空港">
       <info>
       </info>
       <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
@@ -68,19 +68,19 @@
         <route>
           <stop name="湯沢中里"   tag="湯沢中里>湯沢中里" gps="36.909762, 138.849008" >
           </stop>
-          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>飯店" gps="36.933038, 138.812436" >
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>ホテル" gps="36.933038, 138.812436" >
             <interval from="湯沢中里" fare="0" km="0" />
           </stop>
-          <stop name="ライオンズマンション第3"   tag="越後湯沢>其他" gps="36.933050, 138.809171" >
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>その他" gps="36.933050, 138.809171" >
             <interval from="湯沢中里" fare="0" km="0" />
             <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
           </stop>
-          <stop name="いなもと"   tag="越後湯沢>民宿" gps="36.936224, 138.807907" >
+          <stop name="いなもと"   tag="越後湯沢>みんしゅく" gps="36.936224, 138.807907" >
             <interval from="湯沢中里" fare="0" km="0" />
             <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
             <interval from="ライオンズマンション第3" fare="0" km="0" />
           </stop>
-          <stop name="雪国館"   tag="越後湯沢>其他" gps="36.938971, 138.805608" >
+          <stop name="雪国館"   tag="越後湯沢>その他" gps="36.938971, 138.805608" >
             <interval from="湯沢中里" fare="0" km="0" />
             <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
             <interval from="ライオンズマンション第3" fare="0" km="0" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新宿" to="白馬">
   <outbound>
-    <transportation name="未命名的交通方式" type="other" available="" apply-to="">
+    <transportation name="未命名的交通方式" type="highwayBus" available="" apply-to="">
       <info>
       </info>
       <source>http://www.alpico.co.jp/access/express/hakuba_shinjuku/</source>
@@ -16,9 +16,9 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="新宿→白馬 夜巴" type="other" available="2016/12/22~2017/03/03" apply-to=",白馬">
+    <transportation name="新宿→白馬 夜行" type="highwayBus" available="2016/12/22~2017/03/03" apply-to=",白馬">
       <info>1月幾乎沒開，請至官網查詢</info>
-      <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>
+      <source>http://www.travex.co.jp/ski-bus/tokyo/hakuba_b.html</source>
       <timetable>
         <route>
           <stop name="横浜天理ビル" yahoo="true"  tag="東京>JR" gps="35.467380, 139.619653" >
@@ -215,9 +215,9 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="白馬→新宿 夜巴" type="other" available="2016/12/22~2017/03/03" apply-to=",白馬">
+    <transportation name="白馬→新宿 夜行" type="highwayBus" available="2016/12/22~2017/03/03" apply-to=",白馬,札幌,京都,東北の駅,名古屋,大阪,東京,富良野,ばんけい,ルスツ,キロロ,ニセコ,安比,空港,朝里川,台灣,藏王,札幌国際,定山渓">
       <info>1月幾乎沒開，請至官網查詢</info>
-      <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>
+      <source>http://www.travex.co.jp/ski-bus/tokyo/hakuba_b.html</source>
       <timetable>
         <route>
           <stop name="白馬アルプスホテルロビー"   tag="白馬>乘鞍" gps="36.763546, 137.876792" >

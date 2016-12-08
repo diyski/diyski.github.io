@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="成田機場" to="白馬">
+<accesspoint name="成田空港" to="白馬">
   <outbound>
-    <transportation name="アルピコ交通 成田→白馬" type="other" available="2016/12/17~2017/03/05" apply-to="白馬">
+    <transportation name="成田→白馬" type="highwayBus" available="2016/12/17~2017/03/05" apply-to="白馬">
       <info>アルピコ交通
 </info>
       <source>http://www.alpico.co.jp/traffic/express/narita_hakuba/en/</source>
       <timetable>
         <route>
-          <stop name="成田空港第3ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.777154, 140.382641" >
+          <stop name="成田空港第3ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.777154, 140.382641" >
           </stop>
-          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.772737, 140.387756" >
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.772737, 140.387756" >
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第1ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.764392, 140.384870" >
+          <stop name="成田空港第1ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.764392, 140.384870" >
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
@@ -45,12 +45,12 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="Nagano snow shuttle 成田→白馬" type="other" available="2016/12/17~2017/03/12" apply-to="白馬">
-      <info>JHN 旅行社</info>
+    <transportation name="成田→白馬" type="highwayBus" available="2016/12/17~2017/03/12" apply-to="白馬">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Narita.aspx</source>
       <timetable>
         <route>
-          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773962, 140.387273" >
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.773962, 140.387273" >
           </stop>
           <stop name="JR神城駅"   tag="白馬>JR" gps="" >
             <interval from="成田空港第2ターミナル" fare="9200" km="0" />
@@ -85,7 +85,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="アルピコ交通 白馬→成田" type="other" available="2016/12/17~2017/03/05" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,東北市區,定山渓,二世古,キロロ,京都,名古屋,大阪,機場,台灣">
+    <transportation name="白馬→成田" type="highwayBus" available="2016/12/17~2017/03/05" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,東北市區,定山渓,二世古,キロロ,京都,名古屋,大阪,空港,台灣,ばんけい,ニセコ,ルスツ,東北の駅">
       <info>アルピコ交通
 </info>
       <source>http://www.alpico.co.jp/traffic/express/narita_hakuba/en/</source>
@@ -93,25 +93,25 @@
         <route>
           <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
           </stop>
-          <stop name="JR白馬駅" yahoo="true"  tag="白馬>白馬駅" gps="36.695598, 137.863203" >
+          <stop name="JR白馬駅" yahoo="true"  tag="白馬>JR" gps="36.695598, 137.863203" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="36.657743, 137.848211" >
             <interval from="八方info" fare="0" km="0" />
             <interval from="JR白馬駅" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.772737, 140.387756" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="35.772737, 140.387756" >
             <interval from="八方info" fare="9500" km="0" />
             <interval from="JR白馬駅" fare="9500" km="0" />
             <interval from="JR神城駅" fare="9500" km="0" />
           </stop>
-          <stop name="成田空港第1ターミナル"   tag="機場>成田空港" gps="35.764392, 140.384870" >
+          <stop name="成田空港第1ターミナル"   tag="空港>成田空港" gps="35.764392, 140.384870" >
             <interval from="八方info" fare="9500" km="0" />
             <interval from="JR白馬駅" fare="9500" km="0" />
             <interval from="JR神城駅" fare="9500" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第3ターミナル"   tag="機場>成田空港" gps="35.777154, 140.382641" >
+          <stop name="成田空港第3ターミナル"   tag="空港>成田空港" gps="35.777154, 140.382641" >
             <interval from="八方info" fare="9500" km="0" />
             <interval from="JR白馬駅" fare="9500" km="0" />
             <interval from="JR神城駅" fare="9500" km="0" />
@@ -129,8 +129,8 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="Nagano snow shuttle 白馬→成田" type="other" available="2016/12/17~2017/03/12" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,京都,名古屋,大阪,東北市區,台灣,機場,二世古,キロロ">
-      <info>JHN 旅行社</info>
+    <transportation name="白馬→成田" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,京都,名古屋,大阪,東北市區,台灣,空港,二世古,キロロ,ばんけい,ニセコ,ルスツ,東北の駅">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
       <timetable>
         <route>
@@ -143,7 +143,7 @@
             <interval from="八方info" fare="9200" km="0" />
             <interval from="JR神城駅" fare="9200" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル"   tag="機場>成田空港" gps="35.773962, 140.387273" >
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="35.773962, 140.387273" >
             <interval from="八方info" fare="9200" km="0" />
             <interval from="JR神城駅" fare="9200" km="0" />
             <interval from="JR新宿駅" fare="0" km="0" />

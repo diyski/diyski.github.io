@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="野澤" to="白馬">
   <outbound>
-    <transportation name="Nagano snow shuttle 野澤→白馬" type="other" available="2016/12/17~2017/03/12" apply-to=",白馬">
-      <info>JHN 旅行社</info>
+    <transportation name="野沢→白馬" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",白馬">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Nozawa.aspx</source>
       <timetable>
         <route>
-          <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
+          <stop name="中央ターミナル"   tag="野沢温泉>バス停" gps="36.922445, 138.446199" >
           </stop>
           <stop name="JR神城駅"   tag="白馬>JR" gps="" >
             <interval from="中央ターミナル" fare="5900" km="0" />
@@ -30,8 +30,8 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Nagano snow shuttle 白馬→野澤" type="other" available="2016/12/17~2017/03/12" apply-to=",野沢温泉">
-      <info>JHN 旅行社</info>
+    <transportation name="白馬→野沢" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",野沢温泉">
+      <info>Nagano snow shuttle </info>
       <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
       <timetable>
         <route>
@@ -40,7 +40,7 @@
           <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="" >
             <interval from="八方info" fare="0" km="0" />
           </stop>
-          <stop name="中央ターミナル"   tag="野沢温泉>巴士站" gps="36.922445, 138.446199" >
+          <stop name="中央ターミナル"   tag="野沢温泉>バス停" gps="36.922445, 138.446199" >
             <interval from="八方info" fare="5900" km="0" />
             <interval from="JR神城駅" fare="5900" km="0" />
           </stop>
