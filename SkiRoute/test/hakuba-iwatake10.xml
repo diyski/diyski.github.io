@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="八方循環巴士10" to="白馬八方尾根">
   <outbound>
-    <transportation name="10號Bus 岩岳 新田～八方ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
+    <transportation name="No.10Bus 岩岳 新田～八方ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
       <info>
       </info>
       <source>http://www.happo-one.jp/access/shuttle-bus</source>
@@ -29,7 +29,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="10號Bus 岩岳 新田～八方ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
+    <transportation name="No.10Bus 岩岳 新田～八方ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
       <info>
       </info>
       <source>http://www.happo-one.jp/access/shuttle-bus</source>

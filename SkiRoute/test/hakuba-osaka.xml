@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="大阪" to="白馬">
   <outbound>
-    <transportation name="Travex 大阪→白馬" type="highwayBus" available="2017/12/15~2017/12/16" apply-to="白馬">
+    <transportation name="大阪→白馬" type="highwayBus" available="2017/12/15~2017/12/16" apply-to="白馬">
       <info>
       </info>
       <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>
@@ -389,7 +389,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="白馬→名古屋" type="highwayBus" available="2017/12/15~2017/12/16" apply-to=",京都,名古屋,大阪,機場">
+    <transportation name="白馬→大阪" type="highwayBus" available="2017/12/15~2017/12/16" apply-to=",京都,名古屋,大阪,空港">
       <info>
       </info>
       <source>http://www.travex.co.jp/ski-bus/osaka/hakuba.html</source>

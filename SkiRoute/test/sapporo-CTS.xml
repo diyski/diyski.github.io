@@ -9,9 +9,9 @@ http://teikan.chuo-bus.co.jp/tw/
       <source>http://www.new-chitose-airport.jp/tw/access/bus/timebusc/</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
           </stop>
-          <stop name="ANA全日空酒店"   tag="札幌>飯店" gps="43.065739, 141.355124" >
+          <stop name="ANA全日空酒店"   tag="札幌>ホテル" gps="43.065739, 141.355124" >
             <interval from="新千歳空港国際線" fare="1030" km="0" />
           </stop>
         </route>
@@ -219,7 +219,7 @@ http://teikan.chuo-bus.co.jp/tw/
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="北海道中央巴士" type="bus" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,NASPA,湯沢高原,湯沢中里,舞子,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,戸狩温泉,石打丸,機場,台灣">
+    <transportation name="北海道中央巴士" type="bus" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,NASPA,湯沢高原,湯沢中里,舞子,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,戸狩温泉,石打丸,空港,台灣">
       <info>發車時間可能會因天候等因素而變更，出發前請先向下列服務單位查詢相關細節。
 北海道中央巴士(札幌) TEL:011-231-0500
 http://teikan.chuo-bus.co.jp/tw/
@@ -227,16 +227,16 @@ http://teikan.chuo-bus.co.jp/tw/
       <source>http://www.new-chitose-airport.jp/tw/access/bus/timebusc/</source>
       <timetable>
         <route>
-          <stop name="京王プラザホテル札幌"   tag="札幌>飯店" gps="43.066558, 141.344302" >
+          <stop name="京王プラザホテル札幌"   tag="札幌>ホテル" gps="43.066558, 141.344302" >
           </stop>
           <stop name="JR札幌駅" yahoo="true"  tag="札幌>JR" gps="43.067664, 141.352763" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
           </stop>
-          <stop name="大通公園"   tag="札幌>其他" gps="43.060775, 141.353589" >
+          <stop name="大通公園"   tag="札幌>その他" gps="43.060775, 141.353589" >
             <interval from="京王プラザホテル札幌" fare="0" km="0" />
             <interval from="JR札幌駅" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
             <interval from="京王プラザホテル札幌" fare="1030" km="0" />
             <interval from="JR札幌駅" fare="1030" km="0" />
             <interval from="大通公園" fare="1030" km="0" />

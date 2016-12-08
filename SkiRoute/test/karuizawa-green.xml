@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="綠線" to="軽井沢">
   <outbound>
-    <transportation name="南口→王子飯店" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="南口→王子ホテル" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>
       <timetable>
         <route>
-          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>綠線巴士" gps="36.341457, 138.634624" >
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>無料バス" gps="36.341457, 138.634624" >
           </stop>
-          <stop name="ショッピングプラザ ニューイースト(B22G2)"   tag="軽井沢>綠線巴士" gps="36.341669, 138.636877" >
+          <stop name="ショッピングプラザ ニューイースト(B22G2)"   tag="軽井沢>無料バス" gps="36.341669, 138.636877" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
           </stop>
-          <stop name="ホテル イースト(B20G4)"   tag="軽井沢>綠線巴士" gps="36.339930, 138.640171" >
+          <stop name="ホテル イースト(B20G4)"   tag="軽井沢>無料バス" gps="36.339930, 138.640171" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
           </stop>
-          <stop name="ショッピングプラザ イースト入口(B19G5)"   tag="軽井沢>綠線巴士" gps="36.340634, 138.638875" >
+          <stop name="ショッピングプラザ イースト入口(B19G5)"   tag="軽井沢>無料バス" gps="36.340634, 138.638875" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
           </stop>
-          <stop name="ザ・プリンス ヴィラ軽井沢(B18G6)"   tag="軽井沢>綠線巴士" gps="36.339758, 138.638784" >
+          <stop name="ザ・プリンス ヴィラ軽井沢(B18G6)"   tag="軽井沢>無料バス" gps="36.339758, 138.638784" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
             <interval from="ショッピングプラザ イースト入口(B19G5)" fare="0" km="0" />
           </stop>
-          <stop name="森のホットスプリング&amp;スパ(B17G7)"   tag="軽井沢>綠線巴士" gps="36.339082, 138.638973" >
+          <stop name="森のホットスプリング&amp;スパ(B17G7)"   tag="軽井沢>無料バス" gps="36.339082, 138.638973" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
             <interval from="ショッピングプラザ イースト入口(B19G5)" fare="0" km="0" />
             <interval from="ザ・プリンス ヴィラ軽井沢(B18G6)" fare="0" km="0" />
           </stop>
-          <stop name="B16G8"   tag="軽井沢>綠線巴士" gps="36.338882, 138.637996" >
+          <stop name="B16G8"   tag="軽井沢>無料バス" gps="36.338882, 138.637996" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -42,7 +42,7 @@
             <interval from="ザ・プリンス ヴィラ軽井沢(B18G6)" fare="0" km="0" />
             <interval from="森のホットスプリング&amp;スパ(B17G7)" fare="0" km="0" />
           </stop>
-          <stop name="B15G9"   tag="軽井沢>綠線巴士" gps="36.338009, 138.637363" >
+          <stop name="B15G9"   tag="軽井沢>無料バス" gps="36.338009, 138.637363" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -51,7 +51,7 @@
             <interval from="森のホットスプリング&amp;スパ(B17G7)" fare="0" km="0" />
             <interval from="B16G8" fare="0" km="0" />
           </stop>
-          <stop name="B14G10"   tag="軽井沢>綠線巴士" gps="36.336757, 138.636858" >
+          <stop name="B14G10"   tag="軽井沢>無料バス" gps="36.336757, 138.636858" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -61,7 +61,7 @@
             <interval from="B16G8" fare="0" km="0" />
             <interval from="B15G9" fare="0" km="0" />
           </stop>
-          <stop name="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)順"   tag="軽井沢>綠線巴士" gps="36.336981, 138.635482" >
+          <stop name="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)順"   tag="軽井沢>無料バス" gps="36.336981, 138.635482" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -72,7 +72,7 @@
             <interval from="B15G9" fare="0" km="0" />
             <interval from="B14G10" fare="0" km="0" />
           </stop>
-          <stop name="ホテル ウエスト 北玄関(B4G12)"   tag="軽井沢>綠線巴士" gps="36.337332, 138.633912" >
+          <stop name="ホテル ウエスト 北玄関(B4G12)"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -84,7 +84,7 @@
             <interval from="B14G10" fare="0" km="0" />
             <interval from="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)順" fare="0" km="0" />
           </stop>
-          <stop name="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)逆"   tag="軽井沢>綠線巴士" gps="36.336981, 138.635482" >
+          <stop name="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)逆"   tag="軽井沢>無料バス" gps="36.336981, 138.635482" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -97,7 +97,7 @@
             <interval from="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)順" fare="0" km="0" />
             <interval from="ホテル ウエスト 北玄関(B4G12)" fare="0" km="0" />
           </stop>
-          <stop name="B12G13"   tag="軽井沢>綠線巴士" gps="36.334730, 138.636420" >
+          <stop name="B12G13"   tag="軽井沢>無料バス" gps="36.334730, 138.636420" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -111,7 +111,7 @@
             <interval from="ホテル ウエスト 北玄関(B4G12)" fare="0" km="0" />
             <interval from="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)逆" fare="0" km="0" />
           </stop>
-          <stop name="B11G14"   tag="軽井沢>綠線巴士" gps="36.334060, 138.636425" >
+          <stop name="B11G14"   tag="軽井沢>無料バス" gps="36.334060, 138.636425" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -126,7 +126,7 @@
             <interval from="ホテル ウエスト スキーロッカ レンタルスキー(B13G11)逆" fare="0" km="0" />
             <interval from="B12G13" fare="0" km="0" />
           </stop>
-          <stop name="B10G15"   tag="軽井沢>綠線巴士" gps="36.333438, 138.636500" >
+          <stop name="B10G15"   tag="軽井沢>無料バス" gps="36.333438, 138.636500" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -142,7 +142,7 @@
             <interval from="B12G13" fare="0" km="0" />
             <interval from="B11G14" fare="0" km="0" />
           </stop>
-          <stop name="B9G16"   tag="軽井沢>綠線巴士" gps="36.332639, 138.636572" >
+          <stop name="B9G16"   tag="軽井沢>無料バス" gps="36.332639, 138.636572" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -159,7 +159,7 @@
             <interval from="B11G14" fare="0" km="0" />
             <interval from="B10G15" fare="0" km="0" />
           </stop>
-          <stop name="B8G17"   tag="軽井沢>綠線巴士" gps="36.331897, 138.636742" >
+          <stop name="B8G17"   tag="軽井沢>無料バス" gps="36.331897, 138.636742" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -177,7 +177,7 @@
             <interval from="B10G15" fare="0" km="0" />
             <interval from="B9G16" fare="0" km="0" />
           </stop>
-          <stop name="B7G18"   tag="軽井沢>綠線巴士" gps="36.331452, 138.636781" >
+          <stop name="B7G18"   tag="軽井沢>無料バス" gps="36.331452, 138.636781" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -196,7 +196,7 @@
             <interval from="B9G16" fare="0" km="0" />
             <interval from="B8G17" fare="0" km="0" />
           </stop>
-          <stop name="ザ・プリンス軽井沢(B6G19)"   tag="軽井沢>綠線巴士" gps="36.329401, 138.637645" >
+          <stop name="ザ・プリンス軽井沢(B6G19)"   tag="軽井沢>無料バス" gps="36.329401, 138.637645" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="ショッピングプラザ ニューイースト(B22G2)" fare="0" km="0" />
             <interval from="ホテル イースト(B20G4)" fare="0" km="0" />
@@ -788,33 +788,33 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="王子飯店→南口" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
+    <transportation name="王子ホテル→南口" type="bus" available="2016/10/11~2017/03/31" apply-to="軽井沢">
       <info>
       </info>
       <source>http://www.princehotels.co.jp/karuizawa/pickup_bus/time_table.pdf</source>
       <timetable>
         <route>
-          <stop name="ザ・プリンス軽井沢(B6G19)"   tag="軽井沢>綠線巴士" gps="36.329401, 138.637645" >
+          <stop name="ザ・プリンス軽井沢(B6G19)"   tag="軽井沢>無料バス" gps="36.329401, 138.637645" >
           </stop>
-          <stop name="フォレスターナ軽井沢(B5G20)"   tag="軽井沢>綠線巴士" gps="36.333455, 138.633321" >
+          <stop name="フォレスターナ軽井沢(B5G20)"   tag="軽井沢>無料バス" gps="36.333455, 138.633321" >
             <interval from="ザ・プリンス軽井沢(B6G19)" fare="0" km="0" />
           </stop>
-          <stop name="ホテル ウエスト 北玄関(B4G12)"   tag="軽井沢>綠線巴士" gps="36.337332, 138.633912" >
+          <stop name="ホテル ウエスト 北玄関(B4G12)"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
             <interval from="ザ・プリンス軽井沢(B6G19)" fare="0" km="0" />
             <interval from="フォレスターナ軽井沢(B5G20)" fare="0" km="0" />
           </stop>
-          <stop name="ショッピングプラザウエスト入口(B3)(G21)"   tag="軽井沢>綠線巴士" gps="36.338654, 138.632775" >
+          <stop name="ショッピングプラザウエスト入口(B3)(G21)"   tag="軽井沢>無料バス" gps="36.338654, 138.632775" >
             <interval from="ザ・プリンス軽井沢(B6G19)" fare="0" km="0" />
             <interval from="フォレスターナ軽井沢(B5G20)" fare="0" km="0" />
             <interval from="ホテル ウエスト 北玄関(B4G12)" fare="0" km="0" />
           </stop>
-          <stop name="ショッピングプラザ ツリーモール(G22)"   tag="軽井沢>綠線巴士" gps="36.339499, 138.632471" >
+          <stop name="ショッピングプラザ ツリーモール(G22)"   tag="軽井沢>無料バス" gps="36.339499, 138.632471" >
             <interval from="ザ・プリンス軽井沢(B6G19)" fare="0" km="0" />
             <interval from="フォレスターナ軽井沢(B5G20)" fare="0" km="0" />
             <interval from="ホテル ウエスト 北玄関(B4G12)" fare="0" km="0" />
             <interval from="ショッピングプラザウエスト入口(B3)(G21)" fare="0" km="0" />
           </stop>
-          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>綠線巴士" gps="36.341457, 138.634624" >
+          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>無料バス" gps="36.341457, 138.634624" >
             <interval from="ザ・プリンス軽井沢(B6G19)" fare="0" km="0" />
             <interval from="フォレスターナ軽井沢(B5G20)" fare="0" km="0" />
             <interval from="ホテル ウエスト 北玄関(B4G12)" fare="0" km="0" />

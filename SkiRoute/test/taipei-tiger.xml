@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="日本(虎航)" to="台灣">
+<accesspoint name="日本(Tiger)" to="台灣">
   <outbound>
-    <transportation name="虎航 關西→台灣" type="air" available="" apply-to=",台灣">
+    <transportation name="Tiger 関西→台灣" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
           </stop>
-          <stop name="小港機場"   tag="台灣>高雄" gps="" >
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
             <interval from="関西国際空港" fare="0" km="0" />
           </stop>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
             <interval from="関西国際空港" fare="0" km="0" />
-            <interval from="小港機場" fare="0" km="0" />
+            <interval from="小港空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -37,15 +37,15 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 函館→桃園" type="air" available="" apply-to=",台灣">
+    <transportation name="Tiger 函館→桃園" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="函館空港" yahoo="true"  tag="機場>函館空港" gps="" >
+          <stop name="函館空港" yahoo="true"  tag="空港>函館空港" gps="" >
           </stop>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
             <interval from="函館空港" fare="0" km="0" />
           </stop>
         </route>
@@ -55,15 +55,15 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 東北→桃園" type="air" available="" apply-to=",台灣">
+    <transportation name="Tiger 東北→桃園" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="仙台空港" yahoo="true"  tag="機場>仙台空港" gps="" >
+          <stop name="仙台空港" yahoo="true"  tag="空港>仙台空港" gps="" >
           </stop>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
             <interval from="仙台空港" fare="0" km="0" />
           </stop>
         </route>
@@ -73,25 +73,25 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 東京→台灣" type="air" available="" apply-to=",台灣">
+    <transportation name="Tiger 東京→台灣" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
+          <stop name="羽田国際線" yahoo="true"  tag="空港>羽田空港" gps="35.544312, 139.767589" >
           </stop>
-          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773835, 140.388533" >
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.773835, 140.388533" >
             <interval from="羽田国際線" fare="0" km="0" />
           </stop>
-          <stop name="小港機場"   tag="台灣>高雄" gps="" >
-            <interval from="羽田国際線" fare="0" km="0" />
-            <interval from="成田空港第2ターミナル" fare="0" km="0" />
-          </stop>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
             <interval from="羽田国際線" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
-            <interval from="小港機場" fare="0" km="0" />
+          </stop>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+            <interval from="羽田国際線" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+            <interval from="小港空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -130,20 +130,20 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="虎航 台灣→關西" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,湯沢高原,舞子,藏王,定山渓,安比,機場,キロロ,長野,盤溪,軽井沢,Gala,名古屋,東京,戸狩温泉,二世古,留壽都,越後湯沢,大阪,NASPA">
+    <transportation name="Tiger 台灣→関西" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,湯沢高原,舞子,藏王,定山渓,安比,空港,キロロ,長野,盤溪,軽井沢,Gala,名古屋,東京,戸狩温泉,二世古,留壽都,越後湯沢,大阪,NASPA">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
           </stop>
-          <stop name="小港機場"   tag="台灣>高雄" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
           </stop>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
-            <interval from="小港機場" fare="0" km="0" />
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
+            <interval from="小港空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -166,16 +166,16 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 桃園→函館" type="air" available="" apply-to="二世谷,留壽都,盤溪,札幌国際,朝里川,二世古,キロロ,富良野,定山渓">
+    <transportation name="Tiger 桃園→函館" type="air" available="" apply-to="二世谷,留壽都,盤溪,札幌国際,朝里川,二世古,キロロ,富良野,定山渓">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
           </stop>
-          <stop name="函館空港" yahoo="true"  tag="機場>函館空港" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
+          <stop name="函館空港" yahoo="true"  tag="空港>函館空港" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -184,16 +184,16 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 桃園→東北" type="air" available="" apply-to="藏王,安比,東北市區">
+    <transportation name="Tiger 桃園→東北" type="air" available="" apply-to="藏王,安比,東北市區">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
           </stop>
-          <stop name="仙台空港" yahoo="true"  tag="機場>仙台空港" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
+          <stop name="仙台空港" yahoo="true"  tag="空港>仙台空港" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -202,24 +202,24 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="虎航 台灣→東京" type="air" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,東北市區,長野,Gala,越後湯沢,東京,盤溪,富良野,石打丸,朝里川,札幌国際,機場,キロロ,湯沢中里,湯沢高原,安比,二世古,戸狩温泉,留壽都,NASPA,定山渓,舞子,藏王">
+    <transportation name="Tiger 台灣→東京" type="air" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,東北市區,長野,Gala,越後湯沢,東京,盤溪,富良野,石打丸,朝里川,札幌国際,空港,キロロ,湯沢中里,湯沢高原,安比,二世古,戸狩温泉,留壽都,NASPA,定山渓,舞子,藏王">
       <info>
       </info>
       <source>http://www.tigerair.com/tw/zh/</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
           </stop>
-          <stop name="小港機場"   tag="台灣>高雄" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
           </stop>
-          <stop name="成田空港第2ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.773835, 140.388533" >
-            <interval from="桃園機場" fare="0" km="0" />
-            <interval from="小港機場" fare="0" km="0" />
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.773835, 140.388533" >
+            <interval from="桃園空港" fare="0" km="0" />
+            <interval from="小港空港" fare="0" km="0" />
           </stop>
-          <stop name="羽田国際線" yahoo="true"  tag="機場>羽田空港" gps="35.544312, 139.767589" >
-            <interval from="桃園機場" fare="0" km="0" />
-            <interval from="小港機場" fare="0" km="0" />
+          <stop name="羽田国際線" yahoo="true"  tag="空港>羽田空港" gps="35.544312, 139.767589" >
+            <interval from="桃園空港" fare="0" km="0" />
+            <interval from="小港空港" fare="0" km="0" />
             <interval from="成田空港第2ターミナル" fare="0" km="0" />
           </stop>
         </route>

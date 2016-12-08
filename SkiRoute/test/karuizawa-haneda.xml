@@ -11,19 +11,19 @@
         <route>
           <stop name="JR横浜駅" yahoo="true"  tag="東京>JR" gps="35.465268, 139.625132" >
           </stop>
-          <stop name="羽田国際線"   tag="機場>羽田空港" gps="35.544848, 139.767470" >
+          <stop name="羽田国際線"   tag="空港>羽田空港" gps="35.544848, 139.767470" >
             <interval from="JR横浜駅" fare="0" km="0" />
           </stop>
-          <stop name="羽田空港第1ターミナル"   tag="機場>羽田空港" gps="35.549469, 139.784322" >
+          <stop name="羽田空港第1ターミナル"   tag="空港>羽田空港" gps="35.549469, 139.784322" >
             <interval from="JR横浜駅" fare="0" km="0" />
             <interval from="羽田国際線" fare="0" km="0" />
           </stop>
-          <stop name="羽田空港第2ターミナル"   tag="機場>羽田空港" gps="35.550319, 139.788561" >
+          <stop name="羽田空港第2ターミナル"   tag="空港>羽田空港" gps="35.550319, 139.788561" >
             <interval from="JR横浜駅" fare="0" km="0" />
             <interval from="羽田国際線" fare="0" km="0" />
             <interval from="羽田空港第1ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="品川プリンスホテル"   tag="東京>飯店" gps="35.627406, 139.737288" >
+          <stop name="品川プリンスホテル"   tag="東京>ホテル" gps="35.627406, 139.737288" >
             <interval from="JR横浜駅" fare="0" km="0" />
             <interval from="羽田国際線" fare="0" km="0" />
             <interval from="羽田空港第1ターミナル" fare="0" km="0" />
@@ -108,7 +108,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="軽井沢→横浜" type="highwayBus" available="2016/08/01~2017/03/31" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,名古屋,大阪,東北市區,台灣,機場,定山渓">
+    <transportation name="軽井沢→横浜" type="highwayBus" available="2016/08/01~2017/03/31" apply-to=",安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,名古屋,大阪,東北市區,台灣,空港,定山渓">
       <info>横浜駅 東口巴士站1樓18號
 羽田国際線 巴士站6號
 羽田第1、2航廈 1樓到着ロ13號
@@ -136,14 +136,14 @@
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
             <interval from="ショッピングプラザ前" fare="0" km="0" />
           </stop>
-          <stop name="品川プリンスホテル"   tag="東京>飯店" gps="35.627406, 139.737288" >
+          <stop name="品川プリンスホテル"   tag="東京>ホテル" gps="35.627406, 139.737288" >
             <interval from="B20G4 ホテル イースト" fare="2800" km="0" />
             <interval from="JR軽井沢駅" fare="2800" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="2800" km="0" />
             <interval from="ショッピングプラザ前" fare="2800" km="0" />
             <interval from="軽井沢７２ゴルフ" fare="2800" km="0" />
           </stop>
-          <stop name="羽田空港第2ターミナル"   tag="機場>羽田空港" gps="35.550319, 139.788561" >
+          <stop name="羽田空港第2ターミナル"   tag="空港>羽田空港" gps="35.550319, 139.788561" >
             <interval from="B20G4 ホテル イースト" fare="2800" km="0" />
             <interval from="JR軽井沢駅" fare="2800" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="2800" km="0" />
@@ -151,7 +151,7 @@
             <interval from="軽井沢７２ゴルフ" fare="2800" km="0" />
             <interval from="品川プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="羽田空港第1ターミナル"   tag="機場>羽田空港" gps="35.549469, 139.784322" >
+          <stop name="羽田空港第1ターミナル"   tag="空港>羽田空港" gps="35.549469, 139.784322" >
             <interval from="B20G4 ホテル イースト" fare="2800" km="0" />
             <interval from="JR軽井沢駅" fare="2800" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="2800" km="0" />
@@ -160,7 +160,7 @@
             <interval from="品川プリンスホテル" fare="0" km="0" />
             <interval from="羽田空港第2ターミナル" fare="0" km="0" />
           </stop>
-          <stop name="羽田国際線"   tag="機場>羽田空港" gps="35.544848, 139.767470" >
+          <stop name="羽田国際線"   tag="空港>羽田空港" gps="35.544848, 139.767470" >
             <interval from="B20G4 ホテル イースト" fare="2800" km="0" />
             <interval from="JR軽井沢駅" fare="2800" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="2800" km="0" />

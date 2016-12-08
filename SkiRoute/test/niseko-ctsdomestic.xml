@@ -8,27 +8,27 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
           </stop>
           <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
           </stop>
-          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>ホテル" gps="42.846530, 140.676081" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
           </stop>
-          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>ホテル" gps="42.846563, 140.685021" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>ホテル" gps="42.850302, 140.644390" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+          <stop name="ホテル甘露の森"   tag="二世古>ホテル" gps="42.846505, 140.622955" >
             <interval from="新千歳空港国内線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -91,27 +91,27 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
           </stop>
           <stop name="ヒラフ第一駐車場"   tag="二世古>Hirafu" gps="42.862853, 140.698885" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
           </stop>
-          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>ホテル" gps="42.846530, 140.676081" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
           </stop>
-          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>ホテル" gps="42.846563, 140.685021" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>ホテル" gps="42.850302, 140.644390" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+          <stop name="ホテル甘露の森"   tag="二世古>ホテル" gps="42.846505, 140.622955" >
             <interval from="新千歳空港国際線" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -131,22 +131,22 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko→新千歲国内" type="highwayBus" available="2016/12/12~2017/03/26" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,盤溪,石打丸,湯沢中里,台灣,機場,湯沢高原,舞子">
+    <transportation name="Niseko→新千歲国内" type="highwayBus" available="2016/12/12~2017/03/26" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,盤溪,石打丸,湯沢中里,台灣,空港,湯沢高原,舞子">
       <info>
       </info>
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+          <stop name="ホテル甘露の森"   tag="二世古>ホテル" gps="42.846505, 140.622955" >
           </stop>
-          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>ホテル" gps="42.850302, 140.644390" >
             <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
-          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>ホテル" gps="42.846530, 140.676081" >
             <interval from="ホテル甘露の森" fare="0" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
-          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>ホテル" gps="42.846563, 140.685021" >
             <interval from="ホテル甘露の森" fare="0" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -157,7 +157,7 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国内線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
             <interval from="ホテル甘露の森" fare="4000" km="110" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="110" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="110" />
@@ -229,16 +229,16 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
       <timetable>
         <route>
-          <stop name="ホテル甘露の森"   tag="二世古>飯店" gps="42.846505, 140.622955" >
+          <stop name="ホテル甘露の森"   tag="二世古>ホテル" gps="42.846505, 140.622955" >
           </stop>
-          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>飯店" gps="42.850302, 140.644390" >
+          <stop name="ニセコノーザンリゾート・アンヌプリ"   tag="二世古>ホテル" gps="42.850302, 140.644390" >
             <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
-          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>飯店" gps="42.846530, 140.676081" >
+          <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="二世古>ホテル" gps="42.846530, 140.676081" >
             <interval from="ホテル甘露の森" fare="0" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
           </stop>
-          <stop name="ヒルトンニセコビレッジ"   tag="二世古>飯店" gps="42.846563, 140.685021" >
+          <stop name="ヒルトンニセコビレッジ"   tag="二世古>ホテル" gps="42.846563, 140.685021" >
             <interval from="ホテル甘露の森" fare="0" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -249,7 +249,7 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="新千歳空港国際線" yahoo="true"  tag="機場>新千歲空港" gps="" >
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
             <interval from="ホテル甘露の森" fare="4000" km="0" />
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="4000" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />

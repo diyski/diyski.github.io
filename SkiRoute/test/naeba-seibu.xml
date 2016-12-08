@@ -7,16 +7,16 @@
       <source>https://www.kkday.com/zh-tw/product/10220</source>
       <timetable>
         <route>
-          <stop name="品川プリンスホテル" yahoo="true"  tag="東京>飯店" gps="35.627406, 139.737288" >
+          <stop name="品川プリンスホテル" yahoo="true"  tag="東京>ホテル" gps="35.627406, 139.737288" >
           </stop>
           <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="35.729595, 139.713420" >
             <interval from="品川プリンスホテル" fare="0" km="0" />
           </stop>
-          <stop name="苗場プリンスホテル4号館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
             <interval from="品川プリンスホテル" fare="3500" km="0" />
             <interval from="JR池袋駅" fare="3500" km="0" />
           </stop>
-          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
             <interval from="品川プリンスホテル" fare="0" km="0" />
             <interval from="JR池袋駅" fare="3000" km="0" />
             <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
@@ -112,10 +112,10 @@
         <route>
           <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>JR" gps="36.343034, 138.636872" >
           </stop>
-          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>循環巴士" gps="36.337332, 138.633912" >
+          <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
           </stop>
-          <stop name="苗場プリンスホテル4号館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
           </stop>
@@ -124,7 +124,7 @@
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="3000" km="0" />
             <interval from="苗場プリンスホテル4号館" fare="3500" km="0" />
           </stop>
-          <stop name="品川プリンスホテル" yahoo="true"  tag="東京>飯店" gps="35.627406, 139.737288" >
+          <stop name="品川プリンスホテル" yahoo="true"  tag="東京>ホテル" gps="35.627406, 139.737288" >
             <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
             <interval from="苗場プリンスホテル4号館" fare="3500" km="0" />

@@ -9,14 +9,14 @@
         <route>
           <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
           </stop>
-          <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
             <interval from="JR越後湯沢駅" fare="380" km="8" />
           </stop>
           <stop name="田代スキー場"   tag="苗場>田代" gps="" >
             <interval from="JR越後湯沢駅" fare="530" km="14" />
             <interval from="かぐらスキー場" fare="0" km="0" />
           </stop>
-          <stop name="苗場プリンスホテル4号館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
             <interval from="JR越後湯沢駅" fare="660" km="22" />
             <interval from="かぐらスキー場" fare="0" km="0" />
             <interval from="田代スキー場" fare="0" km="0" />
@@ -94,12 +94,12 @@
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
       <timetable>
         <route>
-          <stop name="苗場プリンスホテル4号館"   tag="苗場>王子飯店" gps="36.792064, 138.784836" >
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
           </stop>
           <stop name="田代スキー場"   tag="苗場>田代" gps="" >
             <interval from="苗場プリンスホテル4号館" fare="290" km="8" />
           </stop>
-          <stop name="かぐらスキー場"   tag="苗場>神樂" gps="" >
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
             <interval from="苗場プリンスホテル4号館" fare="460" km="14" />
             <interval from="田代スキー場" fare="0" km="0" />
           </stop>

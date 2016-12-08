@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<accesspoint name="日本(捷星)" to="台灣">
+<accesspoint name="日本(Jetstar)" to="台灣">
   <outbound>
-    <transportation name="捷星 關西→桃園" type="air" available="" apply-to=",台灣">
+    <transportation name="Jetstar 関西→桃園" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>
       <timetable>
         <route>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
           </stop>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
             <interval from="関西国際空港" fare="0" km="0" />
           </stop>
         </route>
@@ -23,15 +23,15 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="捷星 成田→桃園" type="air" available="" apply-to=",台灣">
+    <transportation name="Jetstar 成田→桃園" type="air" available="" apply-to=",台灣">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>
       <timetable>
         <route>
-          <stop name="成田空港第3ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.778881, 140.384743" >
+          <stop name="成田空港第3ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.778881, 140.384743" >
           </stop>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
             <interval from="成田空港第3ターミナル" fare="0" km="0" />
           </stop>
         </route>
@@ -43,16 +43,16 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="捷星 桃園→關西" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,京都,札幌,東北市區,苗場,石打丸,富良野,朝里川,札幌国際,湯沢中里,機場,キロロ,盤溪,軽井沢,長野,Gala,名古屋,東京,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,舞子,定山渓,藏王,留壽都,NASPA,大阪">
+    <transportation name="Jetstar 桃園→関西" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,京都,札幌,東北市區,苗場,石打丸,富良野,朝里川,札幌国際,湯沢中里,空港,キロロ,盤溪,軽井沢,長野,Gala,名古屋,東京,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,舞子,定山渓,藏王,留壽都,NASPA,大阪">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
           </stop>
-          <stop name="関西国際空港" yahoo="true"  tag="機場>関西国際空港" gps="" >
-            <interval from="桃園機場" fare="0" km="0" />
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -69,16 +69,16 @@
         </run>
       </timetable>
     </transportation>
-    <transportation name="捷星 桃園→成田" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,盤溪,東北市區,富良野,石打丸,朝里川,札幌国際,湯沢中里,機場,二世古,安比,キロロ,越後湯沢,東京,戸狩温泉,留壽都,NASPA,定山渓,湯沢高原,舞子,藏王">
+    <transportation name="Jetstar 桃園→成田" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,盤溪,東北市區,富良野,石打丸,朝里川,札幌国際,湯沢中里,空港,二世古,安比,キロロ,越後湯沢,東京,戸狩温泉,留壽都,NASPA,定山渓,湯沢高原,舞子,藏王">
       <info>
       </info>
       <source>http://www.jetstar.com/tw/zh/home</source>
       <timetable>
         <route>
-          <stop name="桃園機場"   tag="台灣>桃園" gps="" >
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
           </stop>
-          <stop name="成田空港第3ターミナル" yahoo="true"  tag="機場>成田空港" gps="35.778881, 140.384743" >
-            <interval from="桃園機場" fare="0" km="0" />
+          <stop name="成田空港第3ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.778881, 140.384743" >
+            <interval from="桃園空港" fare="0" km="0" />
           </stop>
         </route>
         <run >

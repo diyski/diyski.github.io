@@ -8,7 +8,7 @@
         <route>
           <stop name="JR山形駅" yahoo="true"  tag="東北市區>JR" gps="38.249675,140.326025" >
           </stop>
-          <stop name="蔵王温泉"   tag="藏王>藏王中央區" gps="" >
+          <stop name="蔵王温泉"   tag="藏王>藏王" gps="" >
             <interval from="JR山形駅" fare="1000" km="17" />
           </stop>
         </route>
@@ -77,7 +77,7 @@
       <source>http://www.zao-spa.or.jp/access/</source>
       <timetable>
         <route>
-          <stop name="蔵王温泉"   tag="藏王>藏王中央區" gps="" >
+          <stop name="蔵王温泉"   tag="藏王>藏王" gps="" >
           </stop>
           <stop name="JR山形駅" yahoo="true"  tag="東北市區>JR" gps="38.249675,140.326025" >
             <interval from="蔵王温泉" fare="1000" km="17" />

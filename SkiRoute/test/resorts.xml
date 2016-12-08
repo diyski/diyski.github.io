@@ -39,13 +39,13 @@
   <resort name="台灣">
     <accessPoint name="日本(香草航空)" filename="Taipei-NRT.xml">
     </accessPoint>
-    <accessPoint name="日本(酷航)" filename="taipei-scoot.xml">
+    <accessPoint name="日本(Scoot)" filename="taipei-scoot.xml">
     </accessPoint>
-    <accessPoint name="日本(樂桃)" filename="Taipei-peach.xml">
+    <accessPoint name="日本(Peach)" filename="Taipei-peach.xml">
     </accessPoint>
-    <accessPoint name="日本(捷星)" filename="taipei-jetstar.xml">
+    <accessPoint name="日本(Jetstar)" filename="taipei-jetstar.xml">
     </accessPoint>
-    <accessPoint name="日本(虎航)" filename="taipei-tiger.xml">
+    <accessPoint name="日本(Tiger)" filename="taipei-tiger.xml">
     </accessPoint>
   </resort>
   <resort name="白馬">
@@ -97,11 +97,11 @@
     </accessPoint>
   </resort>
   <resort name="富良野">
-    <accessPoint name="旭川機場" filename="furano-Aka.xml">
+    <accessPoint name="旭川空港" filename="furano-Aka.xml">
     </accessPoint>
     <accessPoint name="札幌市區" filename="furano-sapporo.xml">
     </accessPoint>
-    <accessPoint name="旭川機場(Access-n巴士)" filename="furano-Access.xml">
+    <accessPoint name="旭川空港(Access-n巴士)" filename="furano-Access.xml">
     </accessPoint>
     <accessPoint name="富良野市區巴士" filename="furano-tourism.xml">
     </accessPoint>
