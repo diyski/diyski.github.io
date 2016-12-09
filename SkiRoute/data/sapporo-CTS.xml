@@ -243,54 +243,6 @@ http://teikan.chuo-bus.co.jp/tw/
           </stop>
         </route>
         <run >
-          <time>06:55</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>07:55</time>
-        </run>
-        <run >
-          <time>07:55</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>08:55</time>
-        </run>
-        <run >
-          <time>08:55</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>09:55</time>
-        </run>
-        <run >
-          <time>09:40</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>10:40</time>
-        </run>
-        <run >
-          <time>10:25</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>11:25</time>
-        </run>
-        <run >
-          <time>11:10</time>
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>12:10</time>
-        </run>
-        <run >
           <time>
           </time>
           <time>05:20</time>
@@ -333,6 +285,22 @@ http://teikan.chuo-bus.co.jp/tw/
         <run >
           <time>
           </time>
+          <time>
+          </time>
+          <time>06:52</time>
+          <time>07:52</time>
+        </run>
+        <run >
+          <time>06:55</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>07:55</time>
+        </run>
+        <run >
+          <time>
+          </time>
           <time>07:00</time>
           <time>
           </time>
@@ -353,6 +321,22 @@ http://teikan.chuo-bus.co.jp/tw/
           <time>
           </time>
           <time>08:40</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>07:52</time>
+          <time>08:52</time>
+        </run>
+        <run >
+          <time>07:55</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>08:55</time>
         </run>
         <run >
           <time>
@@ -381,6 +365,22 @@ http://teikan.chuo-bus.co.jp/tw/
         <run >
           <time>
           </time>
+          <time>
+          </time>
+          <time>08:52</time>
+          <time>09:52</time>
+        </run>
+        <run >
+          <time>08:55</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>09:55</time>
+        </run>
+        <run >
+          <time>
+          </time>
           <time>09:00</time>
           <time>
           </time>
@@ -401,6 +401,22 @@ http://teikan.chuo-bus.co.jp/tw/
           <time>
           </time>
           <time>10:30</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>09:37</time>
+          <time>10:37</time>
+        </run>
+        <run >
+          <time>09:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>10:40</time>
         </run>
         <run >
           <time>
@@ -429,6 +445,22 @@ http://teikan.chuo-bus.co.jp/tw/
         <run >
           <time>
           </time>
+          <time>
+          </time>
+          <time>10:22</time>
+          <time>11:22</time>
+        </run>
+        <run >
+          <time>10:25</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>11:25</time>
+        </run>
+        <run >
+          <time>
+          </time>
           <time>10:30</time>
           <time>
           </time>
@@ -453,10 +485,18 @@ http://teikan.chuo-bus.co.jp/tw/
         <run >
           <time>
           </time>
-          <time>11:15</time>
           <time>
           </time>
-          <time>12:15</time>
+          <time>11:07</time>
+          <time>12:07</time>
+        </run>
+        <run >
+          <time>11:10</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>12:10</time>
         </run>
         <run >
           <time>
@@ -465,6 +505,14 @@ http://teikan.chuo-bus.co.jp/tw/
           <time>
           </time>
           <time>12:30</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>11:15</time>
+          <time>
+          </time>
+          <time>12:15</time>
         </run>
         <run >
           <time>
@@ -681,54 +729,6 @@ http://teikan.chuo-bus.co.jp/tw/
           <time>
           </time>
           <time>19:15</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>06:52</time>
-          <time>07:52</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>07:52</time>
-          <time>08:52</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>08:52</time>
-          <time>09:52</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>09:37</time>
-          <time>10:37</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>10:22</time>
-          <time>11:22</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>11:07</time>
-          <time>12:07</time>
         </run>
       </timetable>
     </transportation>
