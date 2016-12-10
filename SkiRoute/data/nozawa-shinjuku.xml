@@ -7,12 +7,12 @@
       <source>http://www.travex.co.jp/ski-bus/tokyo/togari.html</source>
       <timetable>
         <route>
-          <stop name="横浜天理ビル" yahoo="true"  tag="東京>JR" gps="35.467380, 139.619653" >
+          <stop name="横浜天理ビル" yahoo="true"  tag="東京>高速バス停" gps="35.467380, 139.619653" >
           </stop>
-          <stop name="チーバくん物産館" yahoo="true"  tag="東京>JR" gps="35.611689, 140.117951" >
+          <stop name="チーバくん物産館" yahoo="true"  tag="東京>高速バス停" gps="35.611689, 140.117951" >
             <interval from="横浜天理ビル" fare="0" km="0" />
           </stop>
-          <stop name="ソニックシティービル" yahoo="true"  tag="東京>JR" gps="35.904867, 139.619683" >
+          <stop name="ソニックシティービル" yahoo="true"  tag="東京>高速バス停" gps="35.904867, 139.619683" >
             <interval from="横浜天理ビル" fare="0" km="0" />
             <interval from="チーバくん物産館" fare="0" km="0" />
           </stop>
@@ -21,13 +21,13 @@
             <interval from="チーバくん物産館" fare="0" km="0" />
             <interval from="ソニックシティービル" fare="0" km="0" />
           </stop>
-          <stop name="新宿西口スバルビル店" yahoo="true"  tag="東京>JR" gps="35.691284, 139.697648" >
+          <stop name="新宿西口スバルビル店" yahoo="true"  tag="東京>高速バス停" gps="35.691284, 139.697648" >
             <interval from="横浜天理ビル" fare="0" km="0" />
             <interval from="チーバくん物産館" fare="0" km="0" />
             <interval from="ソニックシティービル" fare="0" km="0" />
             <interval from="東京駅" fare="0" km="0" />
           </stop>
-          <stop name="サンシャインシティ文化会館" yahoo="true"  tag="東京>JR" gps="35.728489, 139.720592" >
+          <stop name="サンシャインシティ文化会館" yahoo="true"  tag="東京>高速バス停" gps="35.728489, 139.720592" >
             <interval from="横浜天理ビル" fare="0" km="0" />
             <interval from="チーバくん物産館" fare="0" km="0" />
             <interval from="ソニックシティービル" fare="0" km="0" />
