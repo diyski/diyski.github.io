@@ -331,7 +331,7 @@
             <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
             <interval from="ホテル甘露の森" fare="0" km="0" />
           </stop>
-          <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>民宿" gps="42.838169, 140.620548" >
+          <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>みんしゅく" gps="42.838169, 140.620548" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
             <interval from="JRタワーホテル日航札幌" fare="4000" km="0" />
@@ -485,7 +485,7 @@
       <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>
         <route>
-          <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>民宿" gps="42.838169, 140.620548" >
+          <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>みんしゅく" gps="42.838169, 140.620548" >
           </stop>
           <stop name="ニセコグランドホテル"   tag="ニセコ>ホテル" gps="42.841287, 140.623011" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
