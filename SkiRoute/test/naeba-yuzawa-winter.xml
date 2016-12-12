@@ -257,7 +257,7 @@
             <interval from="西武クリスタル" fare="0" km="0" />
             <interval from="浅貝上" fare="0" km="0" />
           </stop>
-          <stop name="ドラゴンドラ6号館"   tag="苗場>苗場ｽｷｰ場" gps="36.795290, 138.786347" >
+          <stop name="苗場プリンスホテル6号館"   tag="苗場>プリンスホテル" gps="36.795316, 138.786224" >
             <interval from="西武クリスタル" fare="0" km="0" />
             <interval from="浅貝上" fare="0" km="0" />
             <interval from="西武ヴィラ入口" fare="0" km="0" />
@@ -266,20 +266,20 @@
             <interval from="西武クリスタル" fare="0" km="0" />
             <interval from="浅貝上" fare="0" km="0" />
             <interval from="西武ヴィラ入口" fare="0" km="0" />
-            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
           </stop>
           <stop name="田代スキー場"   tag="苗場>田代" gps="36.846149, 138.775810" >
             <interval from="西武クリスタル" fare="0" km="0" />
             <interval from="浅貝上" fare="0" km="0" />
             <interval from="西武ヴィラ入口" fare="0" km="0" />
-            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
             <interval from="白樺口" fare="0" km="0" />
           </stop>
           <stop name="貝掛温泉"   tag="苗場>貝掛温泉" gps="36.871346, 138.776396" >
             <interval from="西武クリスタル" fare="0" km="0" />
             <interval from="浅貝上" fare="0" km="0" />
             <interval from="西武ヴィラ入口" fare="0" km="0" />
-            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
             <interval from="白樺口" fare="0" km="0" />
             <interval from="田代スキー場" fare="0" km="0" />
           </stop>
@@ -287,7 +287,7 @@
             <interval from="西武クリスタル" fare="0" km="0" />
             <interval from="浅貝上" fare="0" km="0" />
             <interval from="西武ヴィラ入口" fare="0" km="0" />
-            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
             <interval from="白樺口" fare="0" km="0" />
             <interval from="田代スキー場" fare="0" km="0" />
             <interval from="貝掛温泉" fare="0" km="0" />
@@ -296,7 +296,7 @@
             <interval from="西武クリスタル" fare="660" km="0" />
             <interval from="浅貝上" fare="660" km="0" />
             <interval from="西武ヴィラ入口" fare="660" km="0" />
-            <interval from="ドラゴンドラ6号館" fare="660" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="660" km="0" />
             <interval from="白樺口" fare="640" km="0" />
             <interval from="田代スキー場" fare="5300" km="0" />
             <interval from="貝掛温泉" fare="430" km="0" />
