@@ -9,6 +9,8 @@
     </accessPoint>
     <accessPoint name="西武巴士苗場輕井澤" filename="naeba-seibu.xml">
     </accessPoint>
+    <accessPoint name="越後湯沢" filename="naeba-yuzawa-winter.xml">
+    </accessPoint>
   </resort>
   <resort name="Niseko">
     <accessPoint name="新千歳空港(札幌)" filename="niseko-ctsdomestic.xml">
