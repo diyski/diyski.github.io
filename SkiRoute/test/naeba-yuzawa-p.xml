@@ -14,7 +14,7 @@
           <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
             <interval from="JR越後湯沢駅" fare="380" km="8" />
           </stop>
-          <stop name="田代スキー場"   tag="苗場>田代" gps="" >
+          <stop name="田代スキー場"   tag="苗場>田代" gps="36.846149, 138.775810" >
             <interval from="JR越後湯沢駅" fare="530" km="14" />
             <interval from="かぐらスキー場" fare="0" km="6" />
           </stop>
@@ -113,7 +113,7 @@
           <stop name="苗場プリンスホテル6号館"   tag="苗場>プリンスホテル" gps="36.795316, 138.786224" >
             <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
           </stop>
-          <stop name="田代スキー場"   tag="苗場>田代" gps="" >
+          <stop name="田代スキー場"   tag="苗場>田代" gps="36.846149, 138.775810" >
             <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
             <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
           </stop>

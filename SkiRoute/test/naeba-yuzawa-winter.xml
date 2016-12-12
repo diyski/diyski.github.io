@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="越後湯沢" to="苗場">
+  <outbound>
+    <transportation name="越後湯沢→苗場" type="other" available="2016/12/17~2017/03/31" apply-to=",苗場">
+      <info>19:40巴士每周五六及例假日發車</info>
+      <source>http://www.minamiechigo.co.jp/pdf/jikoku-281217/muikamachi/crystal.pdf</source>
+      <timetable>
+        <route>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+          </stop>
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
+            <interval from="JR越後湯沢駅" fare="380" km="0" />
+          </stop>
+          <stop name="貝掛温泉"   tag="苗場>貝掛温泉" gps="36.871346, 138.776396" >
+            <interval from="JR越後湯沢駅" fare="430" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+          </stop>
+          <stop name="田代スキー場"   tag="苗場>田代" gps="36.846149, 138.775810" >
+            <interval from="JR越後湯沢駅" fare="5300" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="貝掛温泉" fare="0" km="0" />
+          </stop>
+          <stop name="白樺口"   tag="苗場>白樺口" gps="" >
+            <interval from="JR越後湯沢駅" fare="640" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="貝掛温泉" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="苗場プリンスホテル6号館"   tag="苗場>プリンスホテル" gps="36.795316, 138.786224" >
+            <interval from="JR越後湯沢駅" fare="660" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="貝掛温泉" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+            <interval from="白樺口" fare="0" km="0" />
+          </stop>
+          <stop name="西武ヴィラ入口"   tag="苗場>西武ヴィラ入口 " gps="36.790676, 138.789756" >
+            <interval from="JR越後湯沢駅" fare="660" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="貝掛温泉" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+            <interval from="白樺口" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
+          </stop>
+          <stop name="浅貝上"   tag="苗場>浅貝上" gps="36.789208, 138.793431" >
+            <interval from="JR越後湯沢駅" fare="660" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="貝掛温泉" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+            <interval from="白樺口" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
+            <interval from="西武ヴィラ入口" fare="0" km="0" />
+          </stop>
+          <stop name="西武クリスタル"   tag="苗場>西武クリスタル" gps="36.782685, 138.805924" >
+            <interval from="JR越後湯沢駅" fare="660" km="0" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="貝掛温泉" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+            <interval from="白樺口" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
+            <interval from="西武ヴィラ入口" fare="0" km="0" />
+            <interval from="浅貝上" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:10</time>
+          <time>06:28</time>
+          <time>06:33</time>
+          <time>06:38</time>
+          <time>06:47</time>
+          <time>
+          </time>
+          <time>06:49</time>
+          <time>06:50</time>
+          <time>06:59</time>
+        </run>
+        <run >
+          <time>07:40</time>
+          <time>07:58</time>
+          <time>08:03</time>
+          <time>08:08</time>
+          <time>08:17</time>
+          <time>08:19</time>
+          <time>08:21</time>
+          <time>08:22</time>
+          <time>08:30</time>
+        </run>
+        <run available="67h" >
+          <time>08:00</time>
+          <time>08:18</time>
+          <time>08:23</time>
+          <time>08:28</time>
+          <time>08:37</time>
+          <time>08:39</time>
+          <time>08:41</time>
+          <time>08:42</time>
+          <time>08:50</time>
+        </run>
+        <run >
+          <time>08:40</time>
+          <time>08:58</time>
+          <time>09:03</time>
+          <time>09:08</time>
+          <time>09:17</time>
+          <time>09:19</time>
+          <time>09:21</time>
+          <time>09:22</time>
+          <time>09:30</time>
+        </run>
+        <run >
+          <time>09:40</time>
+          <time>09:58</time>
+          <time>10:03</time>
+          <time>10:08</time>
+          <time>10:17</time>
+          <time>10:19</time>
+          <time>10:21</time>
+          <time>10:22</time>
+          <time>10:30</time>
+        </run>
+        <run >
+          <time>10:20</time>
+          <time>10:38</time>
+          <time>10:43</time>
+          <time>10:48</time>
+          <time>10:57</time>
+          <time>10:59</time>
+          <time>11:01</time>
+          <time>11:02</time>
+          <time>11:10</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>11:48</time>
+          <time>11:53</time>
+          <time>11:58</time>
+          <time>12:07</time>
+          <time>12:09</time>
+          <time>12:11</time>
+          <time>12:12</time>
+          <time>12:20</time>
+        </run>
+        <run >
+          <time>12:15</time>
+          <time>12:33</time>
+          <time>12:38</time>
+          <time>12:43</time>
+          <time>12:52</time>
+          <time>12:54</time>
+          <time>12:56</time>
+          <time>12:57</time>
+          <time>13:05</time>
+        </run>
+        <run >
+          <time>12:50</time>
+          <time>13:08</time>
+          <time>13:13</time>
+          <time>13:18</time>
+          <time>13:27</time>
+          <time>13:29</time>
+          <time>13:31</time>
+          <time>13:32</time>
+          <time>13:40</time>
+        </run>
+        <run >
+          <time>13:45</time>
+          <time>14:03</time>
+          <time>14:08</time>
+          <time>14:13</time>
+          <time>14:22</time>
+          <time>14:24</time>
+          <time>14:26</time>
+          <time>14:27</time>
+          <time>14:35</time>
+        </run>
+        <run >
+          <time>14:50</time>
+          <time>15:08</time>
+          <time>15:13</time>
+          <time>15:18</time>
+          <time>15:27</time>
+          <time>15:29</time>
+          <time>15:31</time>
+          <time>15:32</time>
+          <time>15:40</time>
+        </run>
+        <run >
+          <time>16:00</time>
+          <time>16:18</time>
+          <time>16:23</time>
+          <time>16:28</time>
+          <time>16:37</time>
+          <time>16:39</time>
+          <time>16:41</time>
+          <time>16:42</time>
+          <time>16:50</time>
+        </run>
+        <run >
+          <time>16:55</time>
+          <time>17:13</time>
+          <time>17:18</time>
+          <time>17:23</time>
+          <time>17:32</time>
+          <time>17:34</time>
+          <time>17:36</time>
+          <time>17:37</time>
+          <time>17:45</time>
+        </run>
+        <run >
+          <time>17:45</time>
+          <time>18:03</time>
+          <time>18:08</time>
+          <time>18:13</time>
+          <time>18:22</time>
+          <time>18:24</time>
+          <time>18:26</time>
+          <time>18:27</time>
+          <time>18:35</time>
+        </run>
+        <run >
+          <time>18:40</time>
+          <time>18:58</time>
+          <time>19:03</time>
+          <time>19:08</time>
+          <time>19:17</time>
+          <time>19:19</time>
+          <time>19:21</time>
+          <time>19:22</time>
+          <time>19:30</time>
+        </run>
+        <run available="56" >
+          <time>19:40</time>
+          <time>19:58</time>
+          <time>20:03</time>
+          <time>20:08</time>
+          <time>20:17</time>
+          <time>20:19</time>
+          <time>20:21</time>
+          <time>20:22</time>
+          <time>20:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="苗場→越後湯沢" type="other" available="2016/12/17~2017/03/31" apply-to=",越後湯沢,富良野,東京,京都,札幌,軽井沢,東北の駅,ルスツ,安比,朝里川,札幌国際,妙高,湯沢中里,台灣,石打丸,キロロ,ばんけい,ニセコ,名古屋,長野,Gala,白馬,大阪,NASPA,戸狩温泉,野沢温泉,定山渓,空港,湯沢高原,舞子,志賀,藏王">
+      <info>
+      </info>
+      <source>http://www.minamiechigo.co.jp/pdf/jikoku-281217/muikamachi/crystal.pdf</source>
+      <timetable>
+        <route>
+          <stop name="西武クリスタル"   tag="苗場>西武クリスタル" gps="36.782685, 138.805924" >
+          </stop>
+          <stop name="浅貝上"   tag="苗場>浅貝上" gps="36.789208, 138.793431" >
+            <interval from="西武クリスタル" fare="0" km="0" />
+          </stop>
+          <stop name="西武ヴィラ入口"   tag="苗場>西武ヴィラ入口 " gps="36.790676, 138.789756" >
+            <interval from="西武クリスタル" fare="0" km="0" />
+            <interval from="浅貝上" fare="0" km="0" />
+          </stop>
+          <stop name="ドラゴンドラ6号館"   tag="苗場>苗場ｽｷｰ場" gps="36.795290, 138.786347" >
+            <interval from="西武クリスタル" fare="0" km="0" />
+            <interval from="浅貝上" fare="0" km="0" />
+            <interval from="西武ヴィラ入口" fare="0" km="0" />
+          </stop>
+          <stop name="白樺口"   tag="苗場>白樺口" gps="" >
+            <interval from="西武クリスタル" fare="0" km="0" />
+            <interval from="浅貝上" fare="0" km="0" />
+            <interval from="西武ヴィラ入口" fare="0" km="0" />
+            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+          </stop>
+          <stop name="田代スキー場"   tag="苗場>田代" gps="36.846149, 138.775810" >
+            <interval from="西武クリスタル" fare="0" km="0" />
+            <interval from="浅貝上" fare="0" km="0" />
+            <interval from="西武ヴィラ入口" fare="0" km="0" />
+            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+            <interval from="白樺口" fare="0" km="0" />
+          </stop>
+          <stop name="貝掛温泉"   tag="苗場>貝掛温泉" gps="36.871346, 138.776396" >
+            <interval from="西武クリスタル" fare="0" km="0" />
+            <interval from="浅貝上" fare="0" km="0" />
+            <interval from="西武ヴィラ入口" fare="0" km="0" />
+            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+            <interval from="白樺口" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
+            <interval from="西武クリスタル" fare="0" km="0" />
+            <interval from="浅貝上" fare="0" km="0" />
+            <interval from="西武ヴィラ入口" fare="0" km="0" />
+            <interval from="ドラゴンドラ6号館" fare="0" km="0" />
+            <interval from="白樺口" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+            <interval from="貝掛温泉" fare="0" km="0" />
+          </stop>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+            <interval from="西武クリスタル" fare="660" km="0" />
+            <interval from="浅貝上" fare="660" km="0" />
+            <interval from="西武ヴィラ入口" fare="660" km="0" />
+            <interval from="ドラゴンドラ6号館" fare="660" km="0" />
+            <interval from="白樺口" fare="640" km="0" />
+            <interval from="田代スキー場" fare="5300" km="0" />
+            <interval from="貝掛温泉" fare="430" km="0" />
+            <interval from="かぐらスキー場" fare="380" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:05</time>
+          <time>07:06</time>
+          <time>07:08</time>
+          <time>
+          </time>
+          <time>07:09</time>
+          <time>07:17</time>
+          <time>07:22</time>
+          <time>07:26</time>
+          <time>07:51</time>
+        </run>
+        <run >
+          <time>08:40</time>
+          <time>08:41</time>
+          <time>08:43</time>
+          <time>08:45</time>
+          <time>08:47</time>
+          <time>08:55</time>
+          <time>09:00</time>
+          <time>09:04</time>
+          <time>09:29</time>
+        </run>
+        <run >
+          <time>09:40</time>
+          <time>09:41</time>
+          <time>09:43</time>
+          <time>09:45</time>
+          <time>09:47</time>
+          <time>09:55</time>
+          <time>10:00</time>
+          <time>10:04</time>
+          <time>10:29</time>
+        </run>
+        <run >
+          <time>10:40</time>
+          <time>10:41</time>
+          <time>10:43</time>
+          <time>10:45</time>
+          <time>10:47</time>
+          <time>10:55</time>
+          <time>11:00</time>
+          <time>11:04</time>
+          <time>11:29</time>
+        </run>
+        <run >
+          <time>11:20</time>
+          <time>11:21</time>
+          <time>11:23</time>
+          <time>11:25</time>
+          <time>11:27</time>
+          <time>11:35</time>
+          <time>11:40</time>
+          <time>11:44</time>
+          <time>12:08</time>
+        </run>
+        <run >
+          <time>12:35</time>
+          <time>12:36</time>
+          <time>12:38</time>
+          <time>12:40</time>
+          <time>12:42</time>
+          <time>12:50</time>
+          <time>12:55</time>
+          <time>12:59</time>
+          <time>13:23</time>
+        </run>
+        <run >
+          <time>13:15</time>
+          <time>13:16</time>
+          <time>13:18</time>
+          <time>13:20</time>
+          <time>13:22</time>
+          <time>13:30</time>
+          <time>13:35</time>
+          <time>13:39</time>
+          <time>14:03</time>
+        </run>
+        <run >
+          <time>13:50</time>
+          <time>13:51</time>
+          <time>13:53</time>
+          <time>13:55</time>
+          <time>13:57</time>
+          <time>14:05</time>
+          <time>14:10</time>
+          <time>14:14</time>
+          <time>14:38</time>
+        </run>
+        <run >
+          <time>14:45</time>
+          <time>14:46</time>
+          <time>14:48</time>
+          <time>14:50</time>
+          <time>14:52</time>
+          <time>15:00</time>
+          <time>15:05</time>
+          <time>15:09</time>
+          <time>15:33</time>
+        </run>
+        <run >
+          <time>15:50</time>
+          <time>15:51</time>
+          <time>15:53</time>
+          <time>15:55</time>
+          <time>15:57</time>
+          <time>16:05</time>
+          <time>16:10</time>
+          <time>16:14</time>
+          <time>16:38</time>
+        </run>
+        <run >
+          <time>17:00</time>
+          <time>17:01</time>
+          <time>17:03</time>
+          <time>17:05</time>
+          <time>17:07</time>
+          <time>17:15</time>
+          <time>17:20</time>
+          <time>17:24</time>
+          <time>17:48</time>
+        </run>
+        <run >
+          <time>17:55</time>
+          <time>17:56</time>
+          <time>17:58</time>
+          <time>18:00</time>
+          <time>18:02</time>
+          <time>18:10</time>
+          <time>18:15</time>
+          <time>18:19</time>
+          <time>18:43</time>
+        </run>
+        <run >
+          <time>18:45</time>
+          <time>18:46</time>
+          <time>18:48</time>
+          <time>18:50</time>
+          <time>18:52</time>
+          <time>19:00</time>
+          <time>19:05</time>
+          <time>19:09</time>
+          <time>19:33</time>
+        </run>
+        <run >
+          <time>19:35</time>
+          <time>19:36</time>
+          <time>19:38</time>
+          <time>19:40</time>
+          <time>19:42</time>
+          <time>19:50</time>
+          <time>19:55</time>
+          <time>19:59</time>
+          <time>20:23</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>
