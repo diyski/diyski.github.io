@@ -12,25 +12,42 @@
           <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="新富良野プリンスホテル" fare="300" km="0" />
           </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="新富良野プリンスホテル" fare="300" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
+            <interval from="新富良野プリンスホテル" fare="300" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+          </stop>
           <stop name="kisen"   tag="富良野>その他" gps="43.343404, 142.367589" >
             <interval from="新富良野プリンスホテル" fare="300" km="0" />
             <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
           </stop>
           <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="43.347091, 142.391741" >
             <interval from="新富良野プリンスホテル" fare="300" km="0" />
             <interval from="富良野プリンスホテル" fare="300" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="300" km="0" />
+            <interval from="ホテルベルヒルズ" fare="300" km="0" />
             <interval from="kisen" fare="300" km="0" />
           </stop>
         </route>
         <run >
           <time>17:30</time>
           <time>17:36</time>
+          <time>17:38</time>
+          <time>17:39</time>
           <time>17:41</time>
           <time>17:52</time>
         </run>
         <run >
           <time>18:30</time>
           <time>18:36</time>
+          <time>18:38</time>
+          <time>18:39</time>
           <time>18:41</time>
           <time>18:52</time>
         </run>
@@ -49,25 +66,42 @@
           <stop name="kisen"   tag="富良野>その他" gps="43.343404, 142.367589" >
             <interval from="富良野駅" fare="300" km="0" />
           </stop>
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
+            <interval from="富良野駅" fare="300" km="0" />
+            <interval from="kisen" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="富良野駅" fare="300" km="0" />
+            <interval from="kisen" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+          </stop>
           <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
             <interval from="富良野駅" fare="300" km="0" />
             <interval from="kisen" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
           </stop>
           <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
             <interval from="富良野駅" fare="300" km="0" />
             <interval from="kisen" fare="300" km="0" />
+            <interval from="ホテルベルヒルズ" fare="300" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="300" km="0" />
             <interval from="富良野プリンスホテル" fare="300" km="0" />
           </stop>
         </route>
         <run >
           <time>18:00</time>
           <time>18:11</time>
+          <time>18:13</time>
+          <time>18:14</time>
           <time>18:16</time>
           <time>18:22</time>
         </run>
         <run >
           <time>19:45</time>
           <time>19:56</time>
+          <time>19:58</time>
+          <time>19:59</time>
           <time>20:01</time>
           <time>20:07</time>
         </run>
