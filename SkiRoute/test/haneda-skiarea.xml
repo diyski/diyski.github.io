@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="雪場" to="羽田">
+  <outbound>
+  </outbound>
+  <inbound>
+    <transportation name="羽田→リゾート" type="other" available="2017/12/26~2018/02/25" apply-to=",野沢温泉,妙高,志賀,白馬,空港">
+      <info>
+      </info>
+      <source>https://naganosnowshuttle.com/C_Route_Haneda.aspx</source>
+      <timetable>
+        <route>
+          <stop name="羽田国際線"   tag="空港>羽田空港" gps="35.544312, 139.767589" >
+          </stop>
+          <stop name="JR長野駅"   tag="長野>JR" gps="" >
+            <interval from="羽田国際線" fare="0" km="0" />
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="羽田国際線" fare="9500" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+          </stop>
+          <stop name="中央ターミナル"   tag="野沢温泉>バス停" gps="36.922445, 138.446199" >
+            <interval from="羽田国際線" fare="11000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+          <stop name="斑尾高原飯店n"   tag="" gps="" >
+            <interval from="羽田国際線" fare="12000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="Tangram飯店n"   tag="" gps="" >
+            <interval from="羽田国際線" fare="12000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+          </stop>
+          <stop name="赤倉バス停"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
+            <interval from="羽田国際線" fare="12000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+            <interval from="Tangram飯店n" fare="0" km="0" />
+          </stop>
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
+            <interval from="羽田国際線" fare="13000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+            <interval from="Tangram飯店n" fare="0" km="0" />
+            <interval from="赤倉バス停" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:30</time>
+          <time>11:30</time>
+          <time>12:45</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>07:30</time>
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>12:45</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>07:30</time>
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>12:30</time>
+          <time>12:40</time>
+          <time>13:00</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>07:30</time>
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>13:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

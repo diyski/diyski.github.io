@@ -61,7 +61,7 @@
             <interval from="ぴー坊" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
           </stop>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
             <interval from="オークフォレスト" fare="0" km="0" />
             <interval from="チェリーパブ" fare="0" km="0" />
             <interval from="トロイメライ" fare="0" km="0" />
@@ -82,7 +82,7 @@
             <interval from="ぴー坊" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -149,34 +149,34 @@
         <route>
           <stop name="岩岳ゴンドラ"   tag="白馬>岩岳" gps="36.716878, 137.858722" >
           </stop>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
           </stop>
           <stop name="ホテル白馬"   tag="白馬>八方" gps="36.697095, 137.853575" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="呼雲荘"   tag="白馬>八方" gps="36.695359, 137.849898" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
           </stop>
           <stop name="ぴー坊"   tag="白馬>八方" gps="36.695049, 137.848991" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
           </stop>
           <stop name="アルパインシャレー"   tag="白馬>八方" gps="36.691383, 137.849568" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
           </stop>
           <stop name="流星花園"   tag="白馬>八方" gps="36.683308, 137.851175" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -184,7 +184,7 @@
           </stop>
           <stop name="カルチャード"   tag="白馬>八方" gps="36.684030, 137.847238" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -193,7 +193,7 @@
           </stop>
           <stop name="トロイメライ"   tag="白馬>八方" gps="36.687186, 137.846733" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -203,7 +203,7 @@
           </stop>
           <stop name="チェリーパブ"   tag="白馬>八方" gps="36.689421, 137.845375" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -214,7 +214,7 @@
           </stop>
           <stop name="オークフォレスト"   tag="白馬>八方" gps="36.691167, 137.833648" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />

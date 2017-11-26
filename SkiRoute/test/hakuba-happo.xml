@@ -7,35 +7,35 @@
       <source>http://www.happo-one.jp/access/shuttle-bus</source>
       <timetable>
         <route>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
           </stop>
           <stop name="マウント"   tag="白馬>八方" gps="36.701635, 137.843710" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="咲花ゲレンデ"   tag="白馬>八方" gps="36.711134, 137.831353" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
           </stop>
           <stop name="和田野駐車場"   tag="白馬>八方" gps="36.709493, 137.836102" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="岳都"   tag="白馬>八方" gps="36.708478, 137.836949" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
           </stop>
           <stop name="白馬東急ホテル"   tag="白馬>八方" gps="36.706190, 137.839263" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
             <interval from="岳都" fare="0" km="0" />
           </stop>
           <stop name="白馬樅の木ホテル"   tag="白馬>八方" gps="36.684410, 137.847382" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
@@ -43,7 +43,7 @@
             <interval from="白馬東急ホテル" fare="0" km="0" />
           </stop>
           <stop name="国際ゲレンデ"   tag="白馬>八方" gps="36.705829, 137.833108" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
@@ -52,7 +52,7 @@
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
           </stop>
           <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
@@ -62,7 +62,7 @@
             <interval from="国際ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
@@ -73,7 +73,7 @@
             <interval from="八方ゴンドラ" fare="0" km="0" />
           </stop>
           <stop name="八方第3駐車場"   tag="白馬>八方" gps="36.699576, 137.844120" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
@@ -85,7 +85,7 @@
             <interval from="名木山ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="マウント"   tag="白馬>八方" gps="36.701635, 137.843710" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
@@ -97,8 +97,8 @@
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
           </stop>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="和田野駐車場" fare="0" km="0" />
@@ -422,35 +422,35 @@
       <source>http://www.happo-one.jp/access/shuttle-bus</source>
       <timetable>
         <route>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
           </stop>
           <stop name="マウント"   tag="白馬>八方" gps="36.701635, 137.843710" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="八方第3駐車場"   tag="白馬>八方" gps="36.699576, 137.844120" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
           </stop>
           <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
           </stop>
           <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="国際ゲレンデ"   tag="白馬>八方" gps="36.705829, 137.833108" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="八方ゴンドラ" fare="0" km="0" />
           </stop>
           <stop name="白馬樅の木ホテル"   tag="白馬>八方" gps="36.684410, 137.847382" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
@@ -458,7 +458,7 @@
             <interval from="国際ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="白馬東急ホテル"   tag="白馬>八方" gps="36.706190, 137.839263" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
@@ -467,7 +467,7 @@
             <interval from="白馬樅の木ホテル" fare="0" km="0" />
           </stop>
           <stop name="岳都"   tag="白馬>八方" gps="36.708478, 137.836949" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
@@ -477,7 +477,7 @@
             <interval from="白馬東急ホテル" fare="0" km="0" />
           </stop>
           <stop name="和田野駐車場"   tag="白馬>八方" gps="36.709493, 137.836102" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
@@ -488,7 +488,7 @@
             <interval from="岳都" fare="0" km="0" />
           </stop>
           <stop name="咲花ゲレンデ"   tag="白馬>八方" gps="36.711134, 137.831353" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
@@ -500,7 +500,7 @@
             <interval from="和田野駐車場" fare="0" km="0" />
           </stop>
           <stop name="マウント"   tag="白馬>八方" gps="36.701635, 137.843710" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
@@ -512,8 +512,8 @@
             <interval from="和田野駐車場" fare="0" km="0" />
             <interval from="咲花ゲレンデ" fare="0" km="0" />
           </stop>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
-            <interval from="白馬八方BT" fare="0" km="0" />
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="八方info" fare="0" km="0" />
             <interval from="マウント" fare="0" km="0" />
             <interval from="八方第3駐車場" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />

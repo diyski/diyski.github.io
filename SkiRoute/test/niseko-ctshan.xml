@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲(HAN)" to="Niseko">
   <outbound>
-    <transportation name="新千歲国内→ルスツ→Niseko" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="二世谷,ルスツ,ニセコ">
+    <transportation name="新千歲国内→ルスツ→Niseko" type="highwayBus" available="2017/12/01~2018/04/06" apply-to="二世谷,ルスツ,ニセコ">
       <info>國內線集合地點在JAL到着口A、B之間，Hokkaido resort liner櫃台
 
 JAL到着口AとBの間，Hokkaido resort liner</info>
-      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/1_1.html#000005</source>
       <timetable>
         <route>
           <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
@@ -196,9 +196,9 @@ JAL到着口AとBの間，Hokkaido resort liner</info>
         </run>
       </timetable>
     </transportation>
-    <transportation name="新千歲国際→ルスツ→二世谷" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="二世谷,ルスツ,ニセコ">
+    <transportation name="新千歲国際→ルスツ→二世谷" type="highwayBus" available="2017/12/01~2018/04/06" apply-to="二世谷,ルスツ,ニセコ">
       <info>國內線集合地點在JAL到着口A、B之間，Hokkaido resort liner櫃台      </info>
-      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/1_1.html#000005</source>
       <timetable>
         <route>
           <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
@@ -331,10 +331,10 @@ JAL到着口AとBの間，Hokkaido resort liner</info>
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko→ルスツ→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,東北市區,長野,東京,名古屋,大阪,越後湯沢,NASPA,戸狩温泉,空港,石打丸,台灣,湯沢高原,舞子,湯沢中里,東北の駅">
+    <transportation name="Niseko→ルスツ→新千歲国内" type="highwayBus" available="2017/12/03~2018/04/08" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,東北市區,長野,東京,名古屋,大阪,越後湯沢,NASPA,戸狩温泉,空港,石打丸,台灣,湯沢高原,舞子,湯沢中里,東北の駅">
       <info>
       </info>
-      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/1_1.html#000005</source>
       <timetable>
         <route>
           <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>みんしゅく" gps="42.838169, 140.620548" >
@@ -501,10 +501,10 @@ JAL到着口AとBの間，Hokkaido resort liner</info>
         </run>
       </timetable>
     </transportation>
-    <transportation name="二世谷→ルスツ→新千歲国際" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",湯澤,台灣">
+    <transportation name="二世谷→ルスツ→新千歲国際" type="highwayBus" available="2017/12/03~2018/04/08" apply-to=",湯澤,台灣">
       <info>
       </info>
-      <source>http://www.access-n.jp/winter2016/skibus/detail/post_9.html</source>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/1_1.html#000005</source>
       <timetable>
         <route>
           <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>みんしゅく" gps="42.838169, 140.620548" >

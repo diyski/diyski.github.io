@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="長野雪場" to="志賀">
+  <outbound>
+  </outbound>
+  <inbound>
+    <transportation name="志賀→長野雪場" type="other" available="2017/12/21~2018/03/11" apply-to=",野沢温泉,妙高,志賀,東京,白馬">
+      <info>10:00班次運行日期：
+2017/12/21 ~ 2018/03/11
+其餘班次：
+2017/12/26 ~ 2018/02/25</info>
+      <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
+      <timetable>
+        <route>
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
+          </stop>
+          <stop name="JR長野駅"   tag="長野>JR" gps="" >
+            <interval from="志賀高原宿泊施設" fare="0" km="0" />
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="志賀高原宿泊施設" fare="6600" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+          </stop>
+          <stop name="斑尾高原飯店n"   tag="" gps="" >
+            <interval from="志賀高原宿泊施設" fare="6600" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+          <stop name="Tangram飯店n"   tag="" gps="" >
+            <interval from="志賀高原宿泊施設" fare="6600" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+          </stop>
+          <stop name="赤倉バス停"   tag="妙高>赤倉" gps="36.890756, 138.177245" >
+            <interval from="志賀高原宿泊施設" fare="6600" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+            <interval from="Tangram飯店n" fare="0" km="0" />
+          </stop>
+          <stop name="中央ターミナル"   tag="野沢温泉>バス停" gps="36.922445, 138.446199" >
+            <interval from="志賀高原宿泊施設" fare="6600" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+            <interval from="Tangram飯店n" fare="0" km="0" />
+            <interval from="赤倉バス停" fare="0" km="0" />
+          </stop>
+          <stop name="JR新宿駅"   tag="東京>JR" gps="" >
+            <interval from="志賀高原宿泊施設" fare="13000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+            <interval from="Tangram飯店n" fare="0" km="0" />
+            <interval from="赤倉バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="成田空港第2ターミナル"   tag="空港>成田空港" gps="35.773962, 140.387273" >
+            <interval from="志賀高原宿泊施設" fare="13000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+            <interval from="Tangram飯店n" fare="0" km="0" />
+            <interval from="赤倉バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="JR新宿駅" fare="0" km="0" />
+          </stop>
+          <stop name="羽田国際線"   tag="空港>羽田空港" gps="35.544312, 139.767589" >
+            <interval from="志賀高原宿泊施設" fare="13000" km="0" />
+            <interval from="JR長野駅" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="斑尾高原飯店n" fare="0" km="0" />
+            <interval from="Tangram飯店n" fare="0" km="0" />
+            <interval from="赤倉バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="JR新宿駅" fare="0" km="0" />
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>10:00</time>
+          <time>11:30</time>
+          <time>12:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>12:30</time>
+          <time>12:40</time>
+          <time>13:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>12:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>11:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>15:30</time>
+          <time>16:45</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>12:45</time>
+          <time>14:00</time>
+          <time>15:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>12:45</time>
+          <time>14:00</time>
+          <time>
+          </time>
+          <time>15:00</time>
+          <time>15:10</time>
+          <time>15:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>12:45</time>
+          <time>14:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>15:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>12:45</time>
+          <time>14:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>18:00</time>
+          <time>
+          </time>
+          <time>18:45</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>16:30</time>
+          <time>17:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>16:30</time>
+          <time>
+          </time>
+          <time>17:30</time>
+          <time>17:40</time>
+          <time>18:00</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>16:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>17:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>16:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>20:30</time>
+          <time>22:00</time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

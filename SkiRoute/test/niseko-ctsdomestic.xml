@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歳空港(札幌)" to="Niseko">
   <outbound>
-    <transportation name="新千歲国内→Niseko" type="highwayBus" available="2016/12/12~2017/03/26" apply-to="二世谷,ニセコ">
+    <transportation name="新千歲国内→Niseko" type="highwayBus" available="2017/12/09~2018/03/31" apply-to="二世谷,ニセコ">
       <info>集合地點在JAL到着口A、B之間，JTB櫃台旁的goodsports櫃台
 
 JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カウンター      </info>
@@ -86,7 +86,7 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
         </run>
       </timetable>
     </transportation>
-    <transportation name="新千歲國際→Niseko" type="highwayBus" available="2016/12/12~2017/03/26" apply-to="二世谷,ニセコ">
+    <transportation name="新千歲國際→Niseko" type="highwayBus" available="2017/12/09~2018/03/31" apply-to="二世谷,ニセコ">
       <info>國際線2樓集合地點請至網站觀看      </info>
       <source>http://www.goodsports.co.jp/white/ski-bus/niseko-chitose/</source>
       <timetable>
@@ -131,7 +131,7 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko→新千歲国内" type="highwayBus" available="2016/12/12~2017/03/26" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,盤溪,石打丸,湯沢中里,台灣,空港,湯沢高原,舞子,東北の駅">
+    <transportation name="Niseko→新千歲国内" type="highwayBus" available="2017/12/15~2018/04/01" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,NASPA,戸狩温泉,盤溪,石打丸,湯沢中里,台灣,空港,湯沢高原,舞子,東北の駅">
       <info>
       </info>
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
@@ -223,7 +223,7 @@ JAL到着口AとBの間，グッドスポーツ・ホワイトライナー号カ
         </run>
       </timetable>
     </transportation>
-    <transportation name="Niseko→新千歲國際" type="highwayBus" available="2016/12/12~2017/03/26" apply-to=",湯澤,台灣">
+    <transportation name="Niseko→新千歲國際" type="highwayBus" available="2017/12/15~2018/04/01" apply-to=",湯澤,台灣">
       <info>
       </info>
       <source>http://www.goodsports.co.jp/white_eng/ski-bus-niseko/niseko-chitose/</source>
