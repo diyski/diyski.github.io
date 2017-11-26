@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌市(travelpal)" to="Niseko">
   <outbound>
-    <transportation name="札幌→Niseko" type="bus" available="2017/12/02~2018/04/08" apply-to="二世谷,ニセコ">
+    <transportation name="札幌→Niseko" type="bus" available="2016/12/02~2017/04/02" apply-to="二世谷,ニセコ">
       <info>
       </info>
-      <source>http://www.access-n.jp/winter2017/skibus/detail/post.html</source>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>
         <route>
           <stop name="ホテルクラビーサッポロ"   tag="札幌>ホテル" gps="" >
@@ -196,47 +196,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
           </stop>
-          <stop name="ルスツリゾートホテルN&amp;S"   tag="ルスツ>ホテル" gps="42.751866, 140.902954" >
-            <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ札幌" fare="0" km="0" />
-            <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
-            <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
-            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
-            <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="ＡＮＡホリデイ・イン札幌すすきの" fare="0" km="0" />
-            <interval from="札幌東武ホテル" fare="0" km="0" />
-            <interval from="札幌全日空ホテル" fare="0" km="0" />
-            <interval from="ニューオータニイン札幌" fare="0" km="0" />
-            <interval from="札幌グランドホテル" fare="0" km="0" />
-            <interval from="ロイトン札幌" fare="0" km="0" />
-            <interval from="ホテルマイステイズプレミア札幌パーク" fare="0" km="0" />
-            <interval from="札幌エクセルホテル東急" fare="0" km="0" />
-            <interval from="札幌東急REIホテル" fare="0" km="0" />
-            <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
-            <interval from="東京ドームホテル 札幌" fare="0" km="0" />
-            <interval from="札幌プリンスホテル" fare="0" km="0" />
-          </stop>
-          <stop name="ウェスティンルスツリゾート"   tag="ルスツ>ホテル" gps="42.747823, 140.904380" >
-            <interval from="ホテルクラビーサッポロ" fare="0" km="0" />
-            <interval from="ホテルモントレ札幌" fare="0" km="0" />
-            <interval from="JRタワーホテル日航札幌" fare="0" km="0" />
-            <interval from="ホテルマイステイズ札幌アスペン" fare="0" km="0" />
-            <interval from="センチュリーロイヤルホテル" fare="0" km="0" />
-            <interval from="京王プラザホテル札幌" fare="0" km="0" />
-            <interval from="ＡＮＡホリデイ・イン札幌すすきの" fare="0" km="0" />
-            <interval from="札幌東武ホテル" fare="0" km="0" />
-            <interval from="札幌全日空ホテル" fare="0" km="0" />
-            <interval from="ニューオータニイン札幌" fare="0" km="0" />
-            <interval from="札幌グランドホテル" fare="0" km="0" />
-            <interval from="ロイトン札幌" fare="0" km="0" />
-            <interval from="ホテルマイステイズプレミア札幌パーク" fare="0" km="0" />
-            <interval from="札幌エクセルホテル東急" fare="0" km="0" />
-            <interval from="札幌東急REIホテル" fare="0" km="0" />
-            <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
-            <interval from="東京ドームホテル 札幌" fare="0" km="0" />
-            <interval from="札幌プリンスホテル" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-          </stop>
           <stop name="ヒラフ第一駐車場"   tag="ニセコ>Hirafu" gps="42.862853, 140.698885" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
             <interval from="ホテルモントレ札幌" fare="4000" km="0" />
@@ -256,8 +215,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="4000" km="0" />
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
           </stop>
           <stop name="ヒルトンニセコビレッジ"   tag="ニセコ>ホテル" gps="42.846563, 140.685021" >
             <interval from="ホテルクラビーサッポロ" fare="4000" km="0" />
@@ -278,8 +235,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="4000" km="0" />
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
           </stop>
           <stop name="ザ・グリーンリーフ・ニセコビレッジ"   tag="ニセコ>ホテル" gps="42.846530, 140.676081" >
@@ -301,8 +256,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="4000" km="0" />
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
@@ -325,8 +278,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="4000" km="0" />
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -350,8 +301,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="4000" km="0" />
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -376,8 +325,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="4000" km="0" />
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -403,8 +350,6 @@
             <interval from="ホテルサンルートニュー札幌" fare="4000" km="0" />
             <interval from="東京ドームホテル 札幌" fare="4000" km="0" />
             <interval from="札幌プリンスホテル" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
@@ -444,8 +389,6 @@
           </time>
           <time>
           </time>
-          <time>10:15</time>
-          <time>10:20</time>
           <time>11:00</time>
           <time>11:20</time>
           <time>11:25</time>
@@ -485,8 +428,6 @@
           </time>
           <time>
           </time>
-          <time>10:15</time>
-          <time>10:20</time>
           <time>11:00</time>
           <time>11:20</time>
           <time>11:25</time>
@@ -526,8 +467,6 @@
           <time>08:15</time>
           <time>08:25</time>
           <time>08:35</time>
-          <time>10:15</time>
-          <time>10:20</time>
           <time>11:00</time>
           <time>11:20</time>
           <time>11:25</time>
@@ -540,10 +479,10 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Niseko→札幌" type="bus" available="2017/11/02~2018/04/08" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,ルスツ,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓,東北の駅,ばんけい">
+    <transportation name="Niseko→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,ルスツ,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子,戸狩温泉,東京,長野,Gala,名古屋,大阪,越後湯沢,NASPA,定山渓,東北の駅,ばんけい">
       <info>
       </info>
-      <source>http://www.access-n.jp/winter2017/skibus/detail/post.html</source>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post.html</source>
       <timetable>
         <route>
           <stop name="鶴雅別荘 杢の抄"   tag="ニセコ>みんしゅく" gps="42.838169, 140.620548" >
@@ -581,25 +520,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
           </stop>
-          <stop name="ルスツリゾートホテルN&amp;S"   tag="ルスツ>ホテル" gps="42.751866, 140.902954" >
-            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
-            <interval from="ニセコグランドホテル" fare="0" km="0" />
-            <interval from="ホテル甘露の森" fare="0" km="0" />
-            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
-            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
-            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
-            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-          </stop>
-          <stop name="ウェスティンルスツリゾート"   tag="ルスツ>ホテル" gps="42.747823, 140.904380" >
-            <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
-            <interval from="ニセコグランドホテル" fare="0" km="0" />
-            <interval from="ホテル甘露の森" fare="0" km="0" />
-            <interval from="ニセコノーザンリゾート・アンヌプリ" fare="0" km="0" />
-            <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
-            <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
-            <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-          </stop>
           <stop name="札幌プリンスホテル"   tag="札幌>ホテル" gps="" >
             <interval from="鶴雅別荘 杢の抄" fare="4000" km="0" />
             <interval from="ニセコグランドホテル" fare="4000" km="0" />
@@ -608,8 +528,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="4000" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="4000" km="0" />
             <interval from="ヒラフ第一駐車場" fare="4000" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
           </stop>
           <stop name="東京ドームホテル 札幌"   tag="札幌>ホテル" gps="" >
             <interval from="鶴雅別荘 杢の抄" fare="0" km="0" />
@@ -619,8 +537,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="ホテルサンルートニュー札幌"   tag="札幌>ホテル" gps="" >
@@ -631,8 +547,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
           </stop>
@@ -644,8 +558,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -658,8 +570,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -673,8 +583,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -689,8 +597,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -706,8 +612,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -724,8 +628,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -743,8 +645,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -763,8 +663,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -784,8 +682,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -806,8 +702,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -829,8 +723,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -853,8 +745,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -878,8 +768,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -904,8 +792,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -931,8 +817,6 @@
             <interval from="ザ・グリーンリーフ・ニセコビレッジ" fare="0" km="0" />
             <interval from="ヒルトンニセコビレッジ" fare="0" km="0" />
             <interval from="ヒラフ第一駐車場" fare="0" km="0" />
-            <interval from="ルスツリゾートホテルN&amp;S" fare="0" km="0" />
-            <interval from="ウェスティンルスツリゾート" fare="0" km="0" />
             <interval from="札幌プリンスホテル" fare="0" km="0" />
             <interval from="東京ドームホテル 札幌" fare="0" km="0" />
             <interval from="ホテルサンルートニュー札幌" fare="0" km="0" />
@@ -960,8 +844,6 @@
           <time>09:35</time>
           <time>09:40</time>
           <time>10:00</time>
-          <time>10:45</time>
-          <time>10:50</time>
           <time>12:30</time>
           <time>12:34</time>
           <time>12:38</time>
@@ -989,8 +871,6 @@
           <time>14:35</time>
           <time>14:40</time>
           <time>15:00</time>
-          <time>15:45</time>
-          <time>15:50</time>
           <time>17:30</time>
           <time>17:34</time>
           <time>17:38</time>
@@ -1018,8 +898,6 @@
           <time>16:35</time>
           <time>16:40</time>
           <time>17:00</time>
-          <time>17:45</time>
-          <time>17:50</time>
           <time>19:30</time>
           <time>19:34</time>
           <time>19:38</time>

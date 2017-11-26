@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅" to="湯沢中里">
   <outbound>
-    <transportation name="越後湯沢駅→湯沢中里" type="bus" available="2016/12/17~2017/04/02" apply-to="湯沢中里,越後湯沢">
+    <transportation name="越後湯沢駅→湯沢中里" type="bus" available="2017/12/16~2018/04/01" apply-to="湯沢中里,越後湯沢">
       <info>
       </info>
       <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
@@ -60,7 +60,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="[複製]越後湯沢駅→湯沢中里" type="bus" available="2016/12/17~2017/04/02" apply-to=",越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,石打丸,キロロ,盤溪,東北市區,東京,軽井沢,Gala,戸狩温泉,長野,白馬,名古屋,NASPA,留壽都,二世古,機場,湯沢高原,舞子,志賀,定山渓,野沢温泉,藏王,東北の駅,ばんけい,ニセコ,ルスツ,空港">
+    <transportation name="湯沢中里→越後湯沢駅" type="bus" available="2017/12/16~2018/04/01" apply-to=",越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,石打丸,キロロ,盤溪,東北市區,東京,軽井沢,Gala,戸狩温泉,長野,白馬,名古屋,NASPA,留壽都,二世古,機場,湯沢高原,舞子,志賀,定山渓,野沢温泉,藏王,東北の駅,ばんけい,ニセコ,ルスツ,空港">
       <info>
       </info>
       <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>

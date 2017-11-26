@@ -21,7 +21,7 @@
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
           </stop>
-          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
@@ -32,7 +32,7 @@
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -73,7 +73,7 @@
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
           </stop>
-          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="白馬ハイランドホテル" fare="0" km="0" />
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
@@ -84,7 +84,7 @@
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -115,27 +115,27 @@
         <route>
           <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
           </stop>
-          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
           </stop>
           <stop name="大洋ハイツ"   tag="白馬>八方" gps="" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
           <stop name="白馬山麓ツアーズ"   tag="白馬>八方" gps="36.696236, 137.862255" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
           </stop>
           <stop name="白馬ロイヤルホテル"   tag="白馬>八方" gps="36.694700, 137.860792" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
           </stop>
           <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
             <interval from="八方ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />
@@ -167,27 +167,27 @@
         <route>
           <stop name="岩岳ゴンドラ"   tag="白馬>岩岳" gps="36.716878, 137.858722" >
           </stop>
-          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
           </stop>
           <stop name="大洋ハイツ"   tag="白馬>八方" gps="" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
           <stop name="白馬山麓ツアーズ"   tag="白馬>八方" gps="36.696236, 137.862255" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
           </stop>
           <stop name="白馬ロイヤルホテル"   tag="白馬>八方" gps="36.694700, 137.860792" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
           </stop>
           <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="大洋ハイツ" fare="0" km="0" />
             <interval from="白馬山麓ツアーズ" fare="0" km="0" />
             <interval from="白馬ロイヤルホテル" fare="0" km="0" />

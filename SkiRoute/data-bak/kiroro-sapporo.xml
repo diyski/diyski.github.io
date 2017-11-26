@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="札幌" to="キロロ">
   <outbound>
-    <transportation name="札幌→キロロ" type="bus" available="2017/12/02~2018/04/08" apply-to="キロロ,札幌">
-      <info>
-      </info>
-      <source>http://www.access-n.jp/winter2017/skibus/detail/post_4.html#000041</source>
+    <transportation name="札幌→キロロ" type="bus" available="2016/12/02~2017/04/02" apply-to="キロロ,札幌">
+      <info>市區會沿路停靠各ホテル預計1小時</info>
+      <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
           <stop name="ホテルクラビーサッポロ"   tag="札幌>ホテル" gps="" >
@@ -344,9 +343,9 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="キロロ→札幌" type="bus" available="2017/12/02~2018/04/08" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,NASPA,戸狩温泉,二世古,石打丸,湯沢高原,舞子,湯沢中里,京都,東北市區,長野,名古屋,越後湯沢,東京,大阪,台灣,空港,定山渓,ルスツ,ニセコ,ばんけい,東北の駅">
+    <transportation name="キロロ→札幌" type="bus" available="2016/12/02~2017/04/02" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,Gala,NASPA,戸狩温泉,二世古,石打丸,湯沢高原,舞子,湯沢中里,京都,東北市區,長野,名古屋,越後湯沢,東京,大阪,台灣,空港,定山渓,ルスツ,ニセコ,ばんけい,東北の駅">
       <info>市區會沿路停靠各ホテル預計1小時</info>
-      <source>http://www.access-n.jp/winter2017/skibus/detail/post_4.html#000041</source>
+      <source>http://www.tokyotravelpal.com/busliners-ski-resort.htm</source>
       <timetable>
         <route>
           <stop name="キロロマウンテンセンター"   tag="キロロ>キロロ" gps="43.067995, 140.989328" >
@@ -584,45 +583,79 @@
           <time>15:00</time>
           <time>15:10</time>
           <time>16:40</time>
-          <time>16:43</time>
-          <time>16:47</time>
-          <time>16:50</time>
-          <time>16:54</time>
-          <time>16:58</time>
-          <time>17:02</time>
-          <time>17:05</time>
-          <time>17:08</time>
-          <time>17:11</time>
-          <time>17:14</time>
-          <time>17:18</time>
-          <time>17:22</time>
-          <time>17:26</time>
-          <time>17:30</time>
-          <time>17:34</time>
-          <time>17:37</time>
-          <time>17:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
         </run>
         <run >
           <time>16:50</time>
           <time>17:00</time>
           <time>18:30</time>
-          <time>18:33</time>
-          <time>18:37</time>
-          <time>18:40</time>
-          <time>18:44</time>
-          <time>18:48</time>
-          <time>18:52</time>
-          <time>18:55</time>
-          <time>18:58</time>
-          <time>19:01</time>
-          <time>19:04</time>
-          <time>19:08</time>
-          <time>19:12</time>
-          <time>19:16</time>
-          <time>19:20</time>
-          <time>19:24</time>
-          <time>19:27</time>
-          <time>19:30</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
         </run>
       </timetable>
     </transportation>

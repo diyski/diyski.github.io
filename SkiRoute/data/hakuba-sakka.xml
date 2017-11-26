@@ -34,7 +34,7 @@
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
           </stop>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
             <interval from="オークフォレスト" fare="0" km="0" />
             <interval from="ホテル ラフォーレ白馬八方" fare="0" km="0" />
             <interval from="ぴー坊" fare="0" km="0" />
@@ -49,7 +49,7 @@
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="咲花ゲレンデ"   tag="白馬>八方" gps="36.711134, 137.831353" >
             <interval from="オークフォレスト" fare="0" km="0" />
@@ -58,7 +58,7 @@
             <interval from="呼雲荘" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
           </stop>
         </route>
@@ -136,32 +136,32 @@
           <stop name="けやきの樹"   tag="白馬>八方" gps="" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
           </stop>
-          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
           </stop>
           <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
           </stop>
           <stop name="ホテル白馬"   tag="白馬>八方" gps="36.697095, 137.853575" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="呼雲荘"   tag="白馬>八方" gps="36.695359, 137.849898" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
           </stop>
           <stop name="ぴー坊"   tag="白馬>八方" gps="36.695049, 137.848991" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
@@ -169,7 +169,7 @@
           <stop name="ホテル ラフォーレ白馬八方"   tag="白馬>八方" gps="" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />
@@ -178,7 +178,7 @@
           <stop name="オークフォレスト"   tag="白馬>八方" gps="36.691167, 137.833648" >
             <interval from="咲花ゲレンデ" fare="0" km="0" />
             <interval from="けやきの樹" fare="0" km="0" />
-            <interval from="白馬八方BT" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="ホテル白馬" fare="0" km="0" />
             <interval from="呼雲荘" fare="0" km="0" />

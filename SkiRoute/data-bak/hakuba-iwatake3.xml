@@ -84,7 +84,7 @@
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
           </stop>
-          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="流星花園" fare="0" km="0" />
             <interval from="カルチャード" fare="0" km="0" />
             <interval from="南十字星" fare="0" km="0" />
@@ -109,7 +109,7 @@
             <interval from="スパイシーレンタル" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
         </route>
         <run >
@@ -199,34 +199,34 @@
         <route>
           <stop name="岩岳ゴンドラ"   tag="白馬>岩岳" gps="36.716878, 137.858722" >
           </stop>
-          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+          <stop name="白馬八方BT"   tag="白馬>八方" gps="36.701526, 137.845761" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
           </stop>
           <stop name="名木山ゲレンデ"   tag="白馬>八方" gps="36.699032, 137.838524" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
           </stop>
           <stop name="スノーラインズロッジ"   tag="白馬>八方" gps="36.695031, 137.845812" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
           </stop>
           <stop name="スパイシーレンタル"   tag="白馬>八方" gps="36.692485, 137.844965" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
           </stop>
           <stop name="シェイクスピア"   tag="白馬>八方" gps="36.690895, 137.843950" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
           </stop>
           <stop name="ベアーズカフェ"   tag="白馬>八方" gps="" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
@@ -234,7 +234,7 @@
           </stop>
           <stop name="みそら野 ロータリー"   tag="白馬>八方" gps="" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
@@ -243,7 +243,7 @@
           </stop>
           <stop name="ハッピーベル"   tag="白馬>ハッピーベル" gps="36.689289, 137.834601" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
@@ -253,7 +253,7 @@
           </stop>
           <stop name="みそら野 大通5丁目"   tag="白馬>八方" gps="36.691063, 137.834742" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
@@ -264,7 +264,7 @@
           </stop>
           <stop name="南十字星"   tag="白馬>八方" gps="36.685865, 137.842581" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
@@ -276,7 +276,7 @@
           </stop>
           <stop name="カルチャード"   tag="白馬>八方" gps="36.684030, 137.847238" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />
@@ -289,7 +289,7 @@
           </stop>
           <stop name="流星花園"   tag="白馬>八方" gps="36.683308, 137.851175" >
             <interval from="岩岳ゴンドラ" fare="0" km="0" />
-            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬八方BT" fare="0" km="0" />
             <interval from="名木山ゲレンデ" fare="0" km="0" />
             <interval from="スノーラインズロッジ" fare="0" km="0" />
             <interval from="スパイシーレンタル" fare="0" km="0" />

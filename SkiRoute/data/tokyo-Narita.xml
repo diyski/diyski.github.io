@@ -2,7 +2,8 @@
 <accesspoint name="AccessNarita" to="東京">
   <outbound>
     <transportation name="AccessNarita深夜巴士" type="highwayBus" available="" apply-to="安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,京都,東北市區,名古屋,大阪,空港,定山渓,台灣,東北の駅,ばんけい,ニセコ">
-      <info>搭乘處請看gps定位</info>
+      <info>搭乘處請看gps定位
+※銀座站 1:05 發車該總線已成為女性專用車廂（除學齡前兒童）。</info>
       <source>http://accessnarita.jp/cn1/home/</source>
       <timetable>
         <route>
@@ -31,7 +32,7 @@
           <time>01:05</time>
           <time>01:10</time>
           <time>02:20</time>
-          <time>20:25</time>
+          <time>02:25</time>
           <time>02:30</time>
         </run>
         <run >
