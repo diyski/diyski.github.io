@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新宿" to="白馬">
+  <outbound>
+    <transportation name="東京→白馬 skiski" type="other" available="2017/12/16~2018/03/24" apply-to="">
+      <info>1/8-26無班次
+</info>
+      <source>https://skiski.jp/bus/shinjuku_morning_tsugaike.html</source>
+      <timetable>
+        <route>
+          <stop name="新宿"   tag="" gps="" >
+          </stop>
+          <stop name="池袋"   tag="" gps="" >
+            <interval from="新宿" fare="0" km="0" />
+          </stop>
+          <stop name="五竜・とおみ"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+          </stop>
+          <stop name="五竜・飯森ゲレンデ"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+          </stop>
+          <stop name="瑞穂"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="八方・細野"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳・新田"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳・切久保"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+          </stop>
+          <stop name="栂池・落倉Ｂ"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+          </stop>
+          <stop name="栂池高原"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬乗鞍"   tag="" gps="" >
+            <interval from="新宿" fare="4750" km="0" />
+            <interval from="池袋" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:30</time>
+          <time>07:00</time>
+          <time>11:30</time>
+          <time>11:35</time>
+          <time>11:50</time>
+          <time>11:55</time>
+          <time>12:05</time>
+          <time>12:10</time>
+          <time>12:20</time>
+          <time>12:25</time>
+          <time>12:30</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="新宿→白馬 夜行" type="highwayBus" available="2016/12/22~2017/03/03" apply-to=",白馬">
+      <info>1月幾乎沒開，請至官網查詢</info>
+      <source>http://www.travex.co.jp/ski-bus/tokyo/hakuba_b.html</source>
+      <timetable>
+        <route>
+          <stop name="横浜天理ビル" yahoo="true"  tag="東京>高速バス停" gps="35.467380, 139.619653" >
+          </stop>
+          <stop name="チーバくん物産館" yahoo="true"  tag="東京>高速バス停" gps="35.611689, 140.117951" >
+            <interval from="横浜天理ビル" fare="0" km="0" />
+          </stop>
+          <stop name="ソニックシティービル" yahoo="true"  tag="東京>高速バス停" gps="35.904867, 139.619683" >
+            <interval from="横浜天理ビル" fare="0" km="0" />
+            <interval from="チーバくん物産館" fare="0" km="0" />
+          </stop>
+          <stop name="東京駅" yahoo="true"  tag="東京>JR" gps="35.679896, 139.769148" >
+            <interval from="横浜天理ビル" fare="0" km="0" />
+            <interval from="チーバくん物産館" fare="0" km="0" />
+            <interval from="ソニックシティービル" fare="0" km="0" />
+          </stop>
+          <stop name="新宿西口スバルビル店" yahoo="true"  tag="東京>高速バス停" gps="35.691284, 139.697648" >
+            <interval from="横浜天理ビル" fare="0" km="0" />
+            <interval from="チーバくん物産館" fare="0" km="0" />
+            <interval from="ソニックシティービル" fare="0" km="0" />
+            <interval from="東京駅" fare="0" km="0" />
+          </stop>
+          <stop name="サンシャインシティ文化会館" yahoo="true"  tag="東京>高速バス停" gps="35.728489, 139.720592" >
+            <interval from="横浜天理ビル" fare="0" km="0" />
+            <interval from="チーバくん物産館" fare="0" km="0" />
+            <interval from="ソニックシティービル" fare="0" km="0" />
+            <interval from="東京駅" fare="0" km="0" />
+            <interval from="新宿西口スバルビル店" fare="0" km="0" />
+          </stop>
+          <stop name="鹿島槍スキー場"   tag="白馬>鹿島槍" gps="" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+          </stop>
+          <stop name="ドライブインくろべ路"   tag="" gps="36.527462, 137.812106" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="さのさか第一駐車場"   tag="" gps="36.629472, 137.843858" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+          </stop>
+          <stop name="エスカルプラザ前"   tag="白馬>五竜＆47" gps="36.662763, 137.836833" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="サンバレーホテル前"   tag="白馬>五竜＆47" gps="36.668954, 137.839240" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+          </stop>
+          <stop name="ベースセンターユークリッド前"   tag="白馬>五竜＆47" gps="36.685157, 137.828321" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ロイヤルホテル内待合所"   tag="白馬>八方" gps="36.694686, 137.860755" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+          <stop name="ゴンドラ前ロータリー"   tag="白馬>岩岳" gps="36.716750, 137.859259" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+          </stop>
+          <stop name="松本電鉄栂池バス停前"   tag="白馬>姆池" gps="36.748125, 137.871335" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="10000" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+          </stop>
+          <stop name="白馬アルプスホテルロビー"   tag="白馬>乘鞍" gps="36.763546, 137.876792" >
+            <interval from="横浜天理ビル" fare="10000" km="0" />
+            <interval from="チーバくん物産館" fare="10000" km="0" />
+            <interval from="ソニックシティービル" fare="10000" km="0" />
+            <interval from="東京駅" fare="0" km="0" />
+            <interval from="新宿西口スバルビル店" fare="10000" km="0" />
+            <interval from="サンシャインシティ文化会館" fare="10000" km="0" />
+            <interval from="鹿島槍スキー場" fare="0" km="0" />
+            <interval from="ドライブインくろべ路" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>21:10</time>
+          <time>21:10</time>
+          <time>21:30</time>
+          <time>22:10</time>
+          <time>22:20</time>
+          <time>23:00</time>
+          <time>05:00</time>
+          <time>05:30</time>
+          <time>06:05</time>
+          <time>06:15</time>
+          <time>06:20</time>
+          <time>06:30</time>
+          <time>06:50</time>
+          <time>07:00</time>
+          <time>07:25</time>
+          <time>07:45</time>
+          <time>07:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="白馬→東京 skiski" type="other" available="2017/12/16~2018/03/24" apply-to="">
+      <info>1/8-26無班次
+</info>
+      <source>https://skiski.jp/bus/shinjuku_morning_tsugaike.html</source>
+      <timetable>
+        <route>
+          <stop name="白馬乗鞍"   tag="" gps="" >
+          </stop>
+          <stop name="栂池高原"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+          </stop>
+          <stop name="栂池・落倉Ｂ"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳・切久保"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳・新田"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+          </stop>
+          <stop name="八方・細野"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+          </stop>
+          <stop name="瑞穂"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+          </stop>
+          <stop name="五竜・飯森ゲレンデ"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+          </stop>
+          <stop name="五竜・とおみ"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="新宿"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="4750" km="0" />
+            <interval from="栂池高原" fare="4750" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="4750" km="0" />
+            <interval from="岩岳・切久保" fare="4750" km="0" />
+            <interval from="岩岳・新田" fare="4750" km="0" />
+            <interval from="八方・細野" fare="4750" km="0" />
+            <interval from="瑞穂" fare="4750" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="4750" km="0" />
+          </stop>
+          <stop name="池袋"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="4750" km="0" />
+            <interval from="栂池高原" fare="4750" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="4750" km="0" />
+            <interval from="岩岳・切久保" fare="4750" km="0" />
+            <interval from="岩岳・新田" fare="4750" km="0" />
+            <interval from="八方・細野" fare="4750" km="0" />
+            <interval from="瑞穂" fare="4750" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="4750" km="0" />
+            <interval from="五竜・とおみ" fare="4750" km="0" />
+            <interval from="新宿" fare="0" km="0" />
+          </stop>
+          <stop name="町田駅"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="新宿" fare="0" km="0" />
+            <interval from="池袋" fare="0" km="0" />
+          </stop>
+          <stop name="横浜駅"   tag="" gps="" >
+            <interval from="白馬乗鞍" fare="0" km="0" />
+            <interval from="栂池高原" fare="0" km="0" />
+            <interval from="栂池・落倉Ｂ" fare="0" km="0" />
+            <interval from="岩岳・切久保" fare="0" km="0" />
+            <interval from="岩岳・新田" fare="0" km="0" />
+            <interval from="八方・細野" fare="0" km="0" />
+            <interval from="瑞穂" fare="0" km="0" />
+            <interval from="五竜・飯森ゲレンデ" fare="0" km="0" />
+            <interval from="五竜・とおみ" fare="0" km="0" />
+            <interval from="新宿" fare="0" km="0" />
+            <interval from="池袋" fare="0" km="0" />
+            <interval from="町田駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run available="12345" >
+          <time>15:35</time>
+          <time>15:40</time>
+          <time>15:45</time>
+          <time>15:55</time>
+          <time>16:00</time>
+          <time>16:25</time>
+          <time>16:35</time>
+          <time>17:00</time>
+          <time>17:05</time>
+          <time>21:30</time>
+          <time>21:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run available="7" >
+          <time>15:05</time>
+          <time>15:10</time>
+          <time>15:15</time>
+          <time>15:25</time>
+          <time>15:30</time>
+          <time>15:55</time>
+          <time>16:05</time>
+          <time>16:30</time>
+          <time>16:35</time>
+          <time>21:30</time>
+          <time>21:50</time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="白馬→新宿 夜行" type="highwayBus" available="2016/12/22~2017/03/03" apply-to=",白馬,札幌,京都,東北の駅,名古屋,大阪,東京,富良野,ばんけい,ルスツ,キロロ,ニセコ,安比,空港,朝里川,台灣,藏王,札幌国際,定山渓">
+      <info>1月幾乎沒開，請至官網查詢</info>
+      <source>http://www.travex.co.jp/ski-bus/tokyo/hakuba_b.html</source>
+      <timetable>
+        <route>
+          <stop name="白馬アルプスホテルロビー"   tag="白馬>乘鞍" gps="36.763546, 137.876792" >
+          </stop>
+          <stop name="松本電鉄栂池バス停前"   tag="白馬>姆池" gps="36.748125, 137.871335" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+          </stop>
+          <stop name="ゴンドラ前ロータリー"   tag="白馬>岩岳" gps="36.716750, 137.859259" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ロイヤルホテル内待合所"   tag="白馬>八方" gps="36.694686, 137.860755" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+          </stop>
+          <stop name="ベースセンターユークリッド前"   tag="白馬>五竜＆47" gps="36.685157, 137.828321" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+          <stop name="サンバレーホテル前"   tag="白馬>五竜＆47" gps="36.668954, 137.839240" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+          </stop>
+          <stop name="エスカルプラザ前"   tag="白馬>五竜＆47" gps="36.662763, 137.836833" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+          </stop>
+          <stop name="さのさか第一駐車場"   tag="" gps="36.629472, 137.843858" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+          </stop>
+          <stop name="ドライブインくろべ路"   tag="" gps="36.527462, 137.812106" >
+            <interval from="白馬アルプスホテルロビー" fare="0" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="0" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="0" km="0" />
+            <interval from="サンバレーホテル前" fare="0" km="0" />
+            <interval from="エスカルプラザ前" fare="0" km="0" />
+            <interval from="さのさか第一駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="JR新宿駅" yahoo="true"  tag="東京>JR" gps="" >
+            <interval from="白馬アルプスホテルロビー" fare="5500" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="5500" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="5500" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="5500" km="0" />
+            <interval from="八方info" fare="5500" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="5500" km="0" />
+            <interval from="サンバレーホテル前" fare="5500" km="0" />
+            <interval from="エスカルプラザ前" fare="5500" km="0" />
+            <interval from="さのさか第一駐車場" fare="5500" km="0" />
+            <interval from="ドライブインくろべ路" fare="5500" km="0" />
+          </stop>
+          <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="" >
+            <interval from="白馬アルプスホテルロビー" fare="5500" km="0" />
+            <interval from="松本電鉄栂池バス停前" fare="5500" km="0" />
+            <interval from="ゴンドラ前ロータリー" fare="5500" km="0" />
+            <interval from="白馬ロイヤルホテル内待合所" fare="5500" km="0" />
+            <interval from="八方info" fare="5500" km="0" />
+            <interval from="ベースセンターユークリッド前" fare="5500" km="0" />
+            <interval from="サンバレーホテル前" fare="5500" km="0" />
+            <interval from="エスカルプラザ前" fare="5500" km="0" />
+            <interval from="さのさか第一駐車場" fare="5500" km="0" />
+            <interval from="ドライブインくろべ路" fare="5500" km="0" />
+            <interval from="JR新宿駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run available="12345" >
+          <time>15:50</time>
+          <time>16:00</time>
+          <time>16:20</time>
+          <time>16:25</time>
+          <time>16:30</time>
+          <time>16:45</time>
+          <time>16:55</time>
+          <time>17:00</time>
+          <time>17:10</time>
+          <time>17:45</time>
+          <time>21:30</time>
+          <time>21:50</time>
+        </run>
+        <run available="7" >
+          <time>15:20</time>
+          <time>15:30</time>
+          <time>15:50</time>
+          <time>15:55</time>
+          <time>16:00</time>
+          <time>16:15</time>
+          <time>16:25</time>
+          <time>16:30</time>
+          <time>16:40</time>
+          <time>17:15</time>
+          <time>21:30</time>
+          <time>21:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

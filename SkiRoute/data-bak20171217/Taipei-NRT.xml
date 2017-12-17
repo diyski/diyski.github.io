@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="日本(香草航空)" to="台灣">
+  <outbound>
+    <transportation name="香草 成田→台灣" type="air" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>https://www.vanilla-air.com/tw/</source>
+      <timetable>
+        <route>
+          <stop name="成田空港第3ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.778881, 140.384743" >
+          </stop>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+            <interval from="成田空港第3ターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
+            <interval from="成田空港第3ターミナル" fare="0" km="0" />
+            <interval from="桃園空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:00</time>
+          <time>12:15</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>12:50</time>
+          <time>16:05</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>17:50</time>
+          <time>21:05</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>22:00</time>
+          <time>01:15</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>19:00</time>
+          <time>
+          </time>
+          <time>22:40</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草 関西→桃園" type="air" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>https://www.vanilla-air.com/tw/</source>
+      <timetable>
+        <route>
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+          </stop>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>03:15</time>
+          <time>05:20</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="香草 台灣→成田" type="air" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,Gala,長野,東北市區,富良野,石打丸,朝里川,札幌国際,湯沢中里,空港,キロロ,盤溪,東京,越後湯沢,NASPA,留壽都,戸狩温泉,二世古,安比,定山渓,湯沢高原,舞子,藏王,東北の駅,ばんけい,ニセコ,ルスツ">
+      <info>
+      </info>
+      <source>https://www.vanilla-air.com/tw/</source>
+      <timetable>
+        <route>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
+          </stop>
+          <stop name="成田空港第3ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.778881, 140.384743" >
+            <interval from="桃園空港" fare="0" km="0" />
+            <interval from="小港空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>02:05</time>
+          <time>
+          </time>
+          <time>06:05</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>06:50</time>
+          <time>11:15</time>
+        </run>
+        <run >
+          <time>07:30</time>
+          <time>
+          </time>
+          <time>11:35</time>
+        </run>
+        <run >
+          <time>13:05</time>
+          <time>
+          </time>
+          <time>17:10</time>
+        </run>
+        <run >
+          <time>16:55</time>
+          <time>
+          </time>
+          <time>21:00</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="香草 桃園→関西" type="air" available="" apply-to=",妙高,志賀,野沢温泉,白馬,Gala,軽井沢,札幌,京都,長野,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,空港,キロロ,盤溪,東京,名古屋,大阪,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,定山渓,舞子,藏王,留壽都,NASPA,東北の駅,ばんけい,ニセコ,ルスツ">
+      <info>
+      </info>
+      <source>https://www.vanilla-air.com/tw/</source>
+      <timetable>
+        <route>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>22:45</time>
+          <time>02:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

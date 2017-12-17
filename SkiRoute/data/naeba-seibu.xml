@@ -1,214 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="西武巴士苗場輕井澤" to="苗場">
   <outbound>
-    <transportation name="品川→苗場→軽井沢" type="highwayBus" available="" apply-to="苗場,軽井沢">
+    <transportation name="品川→苗場→軽井沢" type="highwayBus" available="2017/12/12~2018/03/31" apply-to="苗場,軽井沢">
       <info>
       </info>
       <source>https://www.kkday.com/zh-tw/product/10220</source>
       <timetable>
         <route>
-          <stop name="品川プリンスホテル" yahoo="true"  tag="東京>ホテル" gps="35.627406, 139.737288" >
+          <stop name="JR橫濱駅" yahoo="true"  tag="東京>JR" gps="" >
+          </stop>
+          <stop name="品川プリンスホテル"   tag="東京>ホ" gps="35.627406, 139.737288" >
+            <interval from="JR橫濱駅" fare="0" km="0" />
           </stop>
           <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="35.729595, 139.713420" >
+            <interval from="JR橫濱駅" fare="0" km="0" />
             <interval from="品川プリンスホテル" fare="0" km="0" />
           </stop>
           <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
-            <interval from="品川プリンスホテル" fare="3500" km="0" />
+            <interval from="JR橫濱駅" fare="3500" km="0" />
+            <interval from="品川プリンスホテル" fare="0" km="0" />
             <interval from="JR池袋駅" fare="3500" km="0" />
           </stop>
           <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
+            <interval from="JR橫濱駅" fare="0" km="0" />
             <interval from="品川プリンスホテル" fare="0" km="0" />
             <interval from="JR池袋駅" fare="3000" km="0" />
             <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
-          </stop>
-          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>JR" gps="36.343034, 138.636872" >
-            <interval from="品川プリンスホテル" fare="0" km="0" />
-            <interval from="JR池袋駅" fare="3000" km="0" />
-            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
-            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
           </stop>
         </route>
         <run >
-          <time>23:20</time>
-          <time>00:00</time>
-          <time>03:57</time>
+          <time>07:25</time>
+          <time>08:15</time>
           <time>
           </time>
           <time>
           </time>
+          <time>11:15</time>
         </run>
         <run >
           <time>
           </time>
-          <time>07:15</time>
-          <time>
-          </time>
-          <time>10:02</time>
-          <time>10:07</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>08:10</time>
-          <time>
-          </time>
-          <time>10:57</time>
-          <time>11:02</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>08:45</time>
-          <time>
-          </time>
-          <time>11:32</time>
-          <time>11:37</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>09:10</time>
-          <time>
-          </time>
-          <time>11:57</time>
-          <time>12:02</time>
-        </run>
-        <run >
           <time>09:10</time>
           <time>09:50</time>
           <time>13:05</time>
           <time>
           </time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>12:10</time>
-          <time>
-          </time>
-          <time>14:57</time>
-          <time>15:02</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>13:10</time>
-          <time>
-          </time>
-          <time>15:57</time>
-          <time>16:02</time>
         </run>
       </timetable>
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="軽井沢→苗場→品川" type="highwayBus" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,戸狩温泉,越後湯沢,東京,名古屋,長野,Gala,大阪,NASPA,ルスツ,ばんけい,ニセコ,空港,東北の駅">
+    <transportation name="軽井沢→苗場→品川" type="highwayBus" available="2017/12/12~2018/03/31" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,戸狩温泉,越後湯沢,東京,名古屋,長野,Gala,大阪,NASPA,ルスツ,ばんけい,ニセコ,空港,東北の駅">
       <info>
       </info>
       <source>https://www.kkday.com/zh-tw/product/10220</source>
       <timetable>
         <route>
-          <stop name="JR軽井沢駅" yahoo="true"  tag="軽井沢>JR" gps="36.343034, 138.636872" >
-          </stop>
           <stop name="B4G12 ホテル ウエスト 北玄関"   tag="軽井沢>無料バス" gps="36.337332, 138.633912" >
-            <interval from="JR軽井沢駅" fare="0" km="0" />
           </stop>
           <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
-            <interval from="JR軽井沢駅" fare="0" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
           </stop>
           <stop name="JR池袋駅" yahoo="true"  tag="東京>JR" gps="35.729595, 139.713420" >
-            <interval from="JR軽井沢駅" fare="3000" km="0" />
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="3000" km="0" />
             <interval from="苗場プリンスホテル4号館" fare="3500" km="0" />
           </stop>
-          <stop name="品川プリンスホテル" yahoo="true"  tag="東京>ホテル" gps="35.627406, 139.737288" >
-            <interval from="JR軽井沢駅" fare="0" km="0" />
+          <stop name="太陽城プリンスホテル"   tag="東京>ホテル" gps="" >
             <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
             <interval from="苗場プリンスホテル4号館" fare="3500" km="0" />
             <interval from="JR池袋駅" fare="0" km="0" />
           </stop>
+          <stop name="品川プリンスホテル"   tag="東京>ホテル" gps="35.627406, 139.737288" >
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
+            <interval from="JR池袋駅" fare="0" km="0" />
+            <interval from="太陽城プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="JR橫濱駅" yahoo="true"  tag="東京>JR" gps="" >
+            <interval from="B4G12 ホテル ウエスト 北玄関" fare="0" km="0" />
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
+            <interval from="JR池袋駅" fare="0" km="0" />
+            <interval from="太陽城プリンスホテル" fare="0" km="0" />
+            <interval from="品川プリンスホテル" fare="0" km="0" />
+          </stop>
         </route>
         <run >
-          <time>08:00</time>
-          <time>08:05</time>
+          <time>16:15</time>
           <time>
           </time>
-          <time>10:52</time>
           <time>
           </time>
+          <time>
+          </time>
+          <time>19:35</time>
+          <time>20:20</time>
         </run>
         <run >
-          <time>10:00</time>
-          <time>10:05</time>
-          <time>
-          </time>
-          <time>12:52</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>14:00</time>
-          <time>14:05</time>
-          <time>
-          </time>
-          <time>16:52</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>15:00</time>
-          <time>15:05</time>
-          <time>
-          </time>
-          <time>17:52</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>
-          </time>
-          <time>15:00</time>
-          <time>18:23</time>
-          <time>19:03</time>
-        </run>
-        <run >
-          <time>16:00</time>
-          <time>16:05</time>
-          <time>
-          </time>
-          <time>18:52</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>
-          </time>
           <time>
           </time>
           <time>16:00</time>
-          <time>19:23</time>
-          <time>20:03</time>
-        </run>
-        <run >
-          <time>17:00</time>
-          <time>17:05</time>
+          <time>19:28</time>
+          <time>19:33</time>
           <time>
           </time>
-          <time>19:52</time>
-          <time>
-          </time>
-        </run>
-        <run >
-          <time>18:00</time>
-          <time>18:05</time>
-          <time>
-          </time>
-          <time>20:52</time>
           <time>
           </time>
         </run>

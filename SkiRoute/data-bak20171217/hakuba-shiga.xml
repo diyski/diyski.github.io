@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="志賀" to="白馬">
+  <outbound>
+    <transportation name="志賀→白馬" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",白馬">
+      <info>Nagano snow shuttle 
+
+</info>
+      <source>https://naganosnowshuttle.com/C_Route_Shiga.aspx</source>
+      <timetable>
+        <route>
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
+          </stop>
+          <stop name="JR神城駅"   tag="白馬>JR" gps="" >
+            <interval from="志賀高原宿泊施設" fare="6400" km="0" />
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="志賀高原宿泊施設" fare="6400" km="0" />
+            <interval from="JR神城駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>10:30</time>
+          <time>12:30</time>
+          <time>12:45</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>17:30</time>
+          <time>17:45</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="白馬→志賀" type="highwayBus" available="2016/12/17~2017/03/12" apply-to=",志賀">
+      <info>Nagano snow shuttle </info>
+      <source>https://naganosnowshuttle.com/C_Route_Hakuba.aspx</source>
+      <timetable>
+        <route>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+          </stop>
+          <stop name="JR神城駅" yahoo="true"  tag="白馬>JR" gps="" >
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+          <stop name="志賀高原宿泊施設"   tag="志賀>その他" gps="" >
+            <interval from="八方info" fare="6400" km="0" />
+            <interval from="JR神城駅" fare="6400" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>7:30</time>
+          <time>7:45</time>
+          <time>09:40</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:45</time>
+          <time>12:45</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>15:45</time>
+          <time>17:45</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

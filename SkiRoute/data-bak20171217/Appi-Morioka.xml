@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="盛岡駅" to="安比">
+  <outbound>
+    <transportation name="盛岡駅→安比" type="bus" available="2016/12/19~2017/03/27" apply-to="安比">
+      <info>2150和2240巴士費用1340 僅週五晚上有開車
+※ 安比高原休館時無運行巴士
+※ 新幹線的時間如有變更時刻表也有變更的可能</info>
+      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <timetable>
+        <route>
+          <stop name="JR盛岡駅" yahoo="true"  tag="東北の駅>JR" gps="" >
+          </stop>
+          <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
+            <interval from="JR盛岡駅" fare="1130" km="46" />
+          </stop>
+          <stop name="安比高原スキー場"   tag="安比>安比高原" gps="" >
+            <interval from="JR盛岡駅" fare="1130" km="0" />
+            <interval from="ホテル安比グランド" fare="0" km="0" />
+          </stop>
+        </route>
+        <run available="67h" >
+          <time>07:40</time>
+          <time>08:26</time>
+          <time>08:28</time>
+        </run>
+        <run >
+          <time>09:00</time>
+          <time>09:46</time>
+          <time>09:48</time>
+        </run>
+        <run >
+          <time>10:05</time>
+          <time>10:51</time>
+          <time>10:53</time>
+        </run>
+        <run available="6" >
+          <time>10:45</time>
+          <time>11:31</time>
+          <time>11:33</time>
+        </run>
+        <run >
+          <time>11:15</time>
+          <time>12:01</time>
+          <time>12:03</time>
+        </run>
+        <run >
+          <time>12:45</time>
+          <time>13:31</time>
+          <time>13:33</time>
+        </run>
+        <run >
+          <time>13:45</time>
+          <time>14:31</time>
+          <time>14:33</time>
+        </run>
+        <run >
+          <time>21:50</time>
+          <time>22:36</time>
+          <time>22:38</time>
+        </run>
+        <run >
+          <time>22:40</time>
+          <time>23:26</time>
+          <time>23:28</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="安比→盛岡駅" type="bus" available="2016/12/19~2017/03/27" apply-to=",朝里川,札幌国際,妙高,富良野,苗場,大阪,京都,軽井沢,東北の駅,東京,盤溪,キロロ,石打丸,台灣,湯沢中里,湯沢高原,空港,戸狩温泉,越後湯沢,長野,Gala,白馬,名古屋,NASPA,留壽都,二世古,定山渓,野沢温泉,志賀,舞子,藏王,ニセコ,ばんけい,ルスツ">
+      <info>
+      </info>
+      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <timetable>
+        <route>
+          <stop name="安比高原スキー場"   tag="安比>安比高原" gps="" >
+          </stop>
+          <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
+            <interval from="安比高原スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="JR盛岡駅" yahoo="true"  tag="東北の駅>JR" gps="" >
+            <interval from="安比高原スキー場" fare="1130" km="0" />
+            <interval from="ホテル安比グランド" fare="1130" km="46" />
+          </stop>
+        </route>
+        <run available="67h" >
+          <time>09:25</time>
+          <time>09:30</time>
+          <time>10:20</time>
+        </run>
+        <run >
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>12:10</time>
+        </run>
+        <run available="67h" >
+          <time>13:05</time>
+          <time>13:10</time>
+          <time>14:00</time>
+        </run>
+        <run >
+          <time>14:05</time>
+          <time>14:15</time>
+          <time>15:05</time>
+        </run>
+        <run >
+          <time>15:05</time>
+          <time>15:15</time>
+          <time>16:05</time>
+        </run>
+        <run >
+          <time>16:05</time>
+          <time>16:15</time>
+          <time>17:05</time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>17:20</time>
+          <time>18:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

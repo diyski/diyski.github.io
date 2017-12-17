@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="新千歲空港" to="札幌國際">
   <outbound>
-    <transportation name="新千歳→札幌國際．朝里川" type="highwayBus" available="2016/12/16~2017/03/20" apply-to=",朝里川,札幌国際">
+    <transportation name="新千歳→札幌國際．朝里川" type="highwayBus" available="2017/12/16~2018/03/08" apply-to=",朝里川,札幌国際">
       <info>新千歳→札幌國際</info>
-      <source>http://www.access-n.jp/winter2016/skibus/detail/post_18.html</source>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/post_18.html#000055</source>
       <timetable>
         <route>
           <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="42.786336, 141.681323" >
@@ -65,10 +65,10 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="札幌國際．朝里川→新千歳" type="highwayBus" available="2016/12/16~2017/03/20" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,Gala,NASPA,戸狩温泉,湯沢高原,湯沢中里,舞子,石打丸,京都,長野,名古屋,大阪,東北市區,東京,空港,台灣,越後湯沢,東北の駅">
+    <transportation name="札幌國際．朝里川→新千歳" type="highwayBus" available="2017/12/16~2018/03/08" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,Gala,NASPA,戸狩温泉,湯沢高原,湯沢中里,舞子,石打丸,京都,長野,名古屋,大阪,東北市區,東京,空港,台灣,越後湯沢,東北の駅">
       <info>
       </info>
-      <source>http://www.access-n.jp/winter2016/skibus/detail/post_18.html</source>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/post_18.html#000055</source>
       <timetable>
         <route>
           <stop name="朝里川温泉スキー場"   tag="朝里川>朝里川温泉スキー場" gps="43.145373, 141.040901" >

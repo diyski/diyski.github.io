@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="溫泉街" to="野澤溫泉">
+  <outbound>
+    <transportation name="野沢村内スキー場無料バス" type="bus" available="2016/12/17~2017/04/02" apply-to="野沢温泉">
+      <info>
+      </info>
+      <source>http://www.nozawaski.com/winter/access/bus.php</source>
+      <timetable>
+        <route>
+          <stop name="シヤトル長坂バスターミナル"   tag="野沢温泉>無料バス" gps="36.919754, 138.451885" >
+          </stop>
+          <stop name="スバリーナ上"   tag="野沢温泉>無料バス" gps="" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="柄沢ゲレンデ"   tag="野沢温泉>無料バス" gps="36.918521, 138.447602" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+          </stop>
+          <stop name="第3駐車場"   tag="野沢温泉>無料バス" gps="36.916319, 138.444033" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="中尾駐車場"   tag="野沢温泉>無料バス" gps="36.914474, 138.437534" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="中尾バス停"   tag="野沢温泉>無料バス" gps="36.917320, 138.441969" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="新田バス停"   tag="野沢温泉>無料バス" gps="36.920868, 138.444766" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+          </stop>
+          <stop name="中央ターミナル"   tag="野沢温泉>無料バス" gps="36.922444, 138.446171" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+          </stop>
+          <stop name="橫落民宿街"   tag="野沢温泉>無料バス" gps="" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+          </stop>
+          <stop name="橫落下"   tag="野沢温泉>無料バス" gps="" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="橫落民宿街" fare="0" km="0" />
+          </stop>
+          <stop name="中尾バス停"   tag="野沢温泉>無料バス" gps="36.917320, 138.441969" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="橫落民宿街" fare="0" km="0" />
+            <interval from="橫落下" fare="0" km="0" />
+          </stop>
+          <stop name="第3駐車場"   tag="野沢温泉>無料バス" gps="36.916319, 138.444033" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="橫落民宿街" fare="0" km="0" />
+            <interval from="橫落下" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+          </stop>
+          <stop name="柄沢ゲレンデ"   tag="野沢温泉>無料バス" gps="36.918521, 138.447602" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="橫落民宿街" fare="0" km="0" />
+            <interval from="橫落下" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+          </stop>
+          <stop name="スバリーナ上"   tag="野沢温泉>無料バス" gps="" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="橫落民宿街" fare="0" km="0" />
+            <interval from="橫落下" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+          </stop>
+          <stop name="シヤトル長坂バスターミナル"   tag="野沢温泉>無料バス" gps="36.919754, 138.451885" >
+            <interval from="シヤトル長坂バスターミナル" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="中尾駐車場" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="新田バス停" fare="0" km="0" />
+            <interval from="中央ターミナル" fare="0" km="0" />
+            <interval from="橫落民宿街" fare="0" km="0" />
+            <interval from="橫落下" fare="0" km="0" />
+            <interval from="中尾バス停" fare="0" km="0" />
+            <interval from="第3駐車場" fare="0" km="0" />
+            <interval from="柄沢ゲレンデ" fare="0" km="0" />
+            <interval from="スバリーナ上" fare="0" km="0" />
+          </stop>
+        </route>
+        <run available="67h" >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>07:45</time>
+          <time>07:46</time>
+          <time>07:48</time>
+          <time>07:49</time>
+          <time>07:50</time>
+          <time>07:51</time>
+          <time>07:52</time>
+          <time>07:53</time>
+          <time>07:54</time>
+          <time>07:55</time>
+        </run>
+        <run >
+          <time>08:05</time>
+          <time>08:06</time>
+          <time>08:07</time>
+          <time>08:08</time>
+          <time>08:09</time>
+          <time>08:10</time>
+          <time>08:11</time>
+          <time>08:13</time>
+          <time>08:14</time>
+          <time>08:15</time>
+          <time>18:16</time>
+          <time>08:17</time>
+          <time>08:18</time>
+          <time>08:19</time>
+          <time>08:20</time>
+        </run>
+        <run available="67h" >
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>08:25</time>
+          <time>08:26</time>
+          <time>08:28</time>
+          <time>08:29</time>
+          <time>08:30</time>
+          <time>08:31</time>
+          <time>08:32</time>
+          <time>08:33</time>
+          <time>08:34</time>
+          <time>08:35</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>08:31</time>
+          <time>08:32</time>
+          <time>08:33</time>
+          <time>08:34</time>
+          <time>08:35</time>
+          <time>08:36</time>
+          <time>08:38</time>
+          <time>08:39</time>
+          <time>08:40</time>
+          <time>08:41</time>
+          <time>08:42</time>
+          <time>08:43</time>
+          <time>08:44</time>
+          <time>08:45</time>
+        </run>
+        <run available="67h" >
+          <time>08:45</time>
+          <time>08:46</time>
+          <time>08:47</time>
+          <time>08:48</time>
+          <time>08:49</time>
+          <time>08:50</time>
+          <time>08:51</time>
+          <time>08:53</time>
+          <time>08:54</time>
+          <time>08:55</time>
+          <time>08:56</time>
+          <time>08:57</time>
+          <time>08:58</time>
+          <time>08:59</time>
+          <time>09:00</time>
+        </run>
+        <run available="12345" >
+          <time>08:50</time>
+          <time>08:51</time>
+          <time>08:52</time>
+          <time>08:53</time>
+          <time>08:54</time>
+          <time>08:55</time>
+          <time>08:56</time>
+          <time>08:58</time>
+          <time>08:59</time>
+          <time>09:00</time>
+          <time>09:01</time>
+          <time>09:02</time>
+          <time>09:03</time>
+          <time>09:04</time>
+          <time>09:05</time>
+        </run>
+        <run available="67h" >
+          <time>08:55</time>
+          <time>08:56</time>
+          <time>08:57</time>
+          <time>08:58</time>
+          <time>08:59</time>
+          <time>09:00</time>
+          <time>09:01</time>
+          <time>09:03</time>
+          <time>09:04</time>
+          <time>09:05</time>
+          <time>09:06</time>
+          <time>09:07</time>
+          <time>09:08</time>
+          <time>09:09</time>
+          <time>09:10</time>
+        </run>
+        <run >
+          <time>09:10</time>
+          <time>09:11</time>
+          <time>09:12</time>
+          <time>09:13</time>
+          <time>09:14</time>
+          <time>09:15</time>
+          <time>09:16</time>
+          <time>09:18</time>
+          <time>09:19</time>
+          <time>09:20</time>
+          <time>09:21</time>
+          <time>09:22</time>
+          <time>09:23</time>
+          <time>09:24</time>
+          <time>09:25</time>
+        </run>
+        <run available="67h" >
+          <time>09:20</time>
+          <time>09:21</time>
+          <time>09:22</time>
+          <time>09:23</time>
+          <time>09:24</time>
+          <time>09:25</time>
+          <time>09:26</time>
+          <time>09:28</time>
+          <time>09:29</time>
+          <time>09:30</time>
+          <time>09:31</time>
+          <time>09:32</time>
+          <time>09:33</time>
+          <time>09:34</time>
+          <time>09:35</time>
+        </run>
+        <run available="12345" >
+          <time>09:30</time>
+          <time>09:31</time>
+          <time>09:32</time>
+          <time>09:33</time>
+          <time>09:34</time>
+          <time>09:35</time>
+          <time>09:36</time>
+          <time>09:38</time>
+          <time>09:39</time>
+          <time>09:40</time>
+          <time>09:41</time>
+          <time>09:42</time>
+          <time>09:43</time>
+          <time>09:44</time>
+          <time>09:45</time>
+        </run>
+        <run available="67h" >
+          <time>09:35</time>
+          <time>09:36</time>
+          <time>09:37</time>
+          <time>09:38</time>
+          <time>09:39</time>
+          <time>09:40</time>
+          <time>09:41</time>
+          <time>09:43</time>
+          <time>09:44</time>
+          <time>09:45</time>
+          <time>09:46</time>
+          <time>09:47</time>
+          <time>09:48</time>
+          <time>09:49</time>
+          <time>09:50</time>
+        </run>
+        <run available="67h" >
+          <time>09:45</time>
+          <time>09:46</time>
+          <time>09:47</time>
+          <time>09:48</time>
+          <time>09:49</time>
+          <time>09:50</time>
+          <time>09:51</time>
+          <time>09:53</time>
+          <time>09:54</time>
+          <time>09:55</time>
+          <time>09:56</time>
+          <time>09:57</time>
+          <time>09:58</time>
+          <time>09:59</time>
+          <time>10:00</time>
+        </run>
+        <run available="12345" >
+          <time>09:50</time>
+          <time>09:51</time>
+          <time>09:52</time>
+          <time>09:53</time>
+          <time>09:54</time>
+          <time>09:55</time>
+          <time>09:56</time>
+          <time>09:58</time>
+          <time>09:59</time>
+          <time>10:00</time>
+          <time>10:01</time>
+          <time>10:02</time>
+          <time>10:03</time>
+          <time>10:04</time>
+          <time>10:05</time>
+        </run>
+        <run available="67h" >
+          <time>10:00</time>
+          <time>10:01</time>
+          <time>10:02</time>
+          <time>10:03</time>
+          <time>10:04</time>
+          <time>10:05</time>
+          <time>10:06</time>
+          <time>10:08</time>
+          <time>10:09</time>
+          <time>10:10</time>
+          <time>10:11</time>
+          <time>10:12</time>
+          <time>10:13</time>
+          <time>10:14</time>
+          <time>10:15</time>
+        </run>
+        <run available="67h" >
+          <time>10:10</time>
+          <time>10:11</time>
+          <time>10:12</time>
+          <time>10:13</time>
+          <time>10:14</time>
+          <time>10:15</time>
+          <time>10:16</time>
+          <time>10:18</time>
+          <time>10:19</time>
+          <time>10:20</time>
+          <time>10:21</time>
+          <time>10:22</time>
+          <time>10:23</time>
+          <time>10:24</time>
+          <time>10:25</time>
+        </run>
+        <run available="12345" >
+          <time>10:15</time>
+          <time>10:16</time>
+          <time>10:17</time>
+          <time>10:18</time>
+          <time>10:19</time>
+          <time>10:20</time>
+          <time>10:21</time>
+          <time>10:23</time>
+          <time>10:24</time>
+          <time>10:25</time>
+          <time>10:26</time>
+          <time>10:27</time>
+          <time>10:28</time>
+          <time>10:29</time>
+          <time>10:30</time>
+        </run>
+        <run available="67h" >
+          <time>10:25</time>
+          <time>10:26</time>
+          <time>10:27</time>
+          <time>10:28</time>
+          <time>10:29</time>
+          <time>10:30</time>
+          <time>10:36</time>
+          <time>10:38</time>
+          <time>10:39</time>
+          <time>10:40</time>
+          <time>10:41</time>
+          <time>10:42</time>
+          <time>10:43</time>
+          <time>10:44</time>
+          <time>10:45</time>
+        </run>
+        <run available="67h" >
+          <time>10:40</time>
+          <time>10:41</time>
+          <time>10:42</time>
+          <time>10:43</time>
+          <time>10:44</time>
+          <time>10:45</time>
+          <time>10:46</time>
+          <time>10:48</time>
+          <time>10:49</time>
+          <time>10:50</time>
+          <time>10:51</time>
+          <time>10:52</time>
+          <time>10:53</time>
+          <time>10:54</time>
+          <time>10:55</time>
+        </run>
+        <run available="12345" >
+          <time>10:50</time>
+          <time>10:51</time>
+          <time>10:52</time>
+          <time>10:53</time>
+          <time>10:54</time>
+          <time>10:55</time>
+          <time>10:56</time>
+          <time>10:58</time>
+          <time>10:59</time>
+          <time>11:00</time>
+          <time>11:01</time>
+          <time>11:02</time>
+          <time>11:03</time>
+          <time>11:04</time>
+          <time>11:05</time>
+        </run>
+        <run available="67h" >
+          <time>11:00</time>
+          <time>11:01</time>
+          <time>11:02</time>
+          <time>11:03</time>
+          <time>11:04</time>
+          <time>11:05</time>
+          <time>11:06</time>
+          <time>11:08</time>
+          <time>11:09</time>
+          <time>11:10</time>
+          <time>11:11</time>
+          <time>11:12</time>
+          <time>11:13</time>
+          <time>11:14</time>
+          <time>11:15</time>
+        </run>
+        <run available="67h" >
+          <time>11:20</time>
+          <time>11:21</time>
+          <time>11:22</time>
+          <time>11:23</time>
+          <time>11:24</time>
+          <time>11:25</time>
+          <time>11:21</time>
+          <time>11:23</time>
+          <time>11:24</time>
+          <time>11:25</time>
+          <time>11:26</time>
+          <time>11:27</time>
+          <time>11:28</time>
+          <time>11:29</time>
+          <time>11:30</time>
+        </run>
+        <run available="12345" >
+          <time>11:40</time>
+          <time>11:41</time>
+          <time>11:42</time>
+          <time>11:43</time>
+          <time>11:44</time>
+          <time>11:45</time>
+          <time>11:46</time>
+          <time>11:48</time>
+          <time>11:49</time>
+          <time>11:50</time>
+          <time>11:51</time>
+          <time>11:52</time>
+          <time>11:53</time>
+          <time>11:54</time>
+          <time>11:55</time>
+        </run>
+        <run available="67h" >
+          <time>11:45</time>
+          <time>11:46</time>
+          <time>11:47</time>
+          <time>11:48</time>
+          <time>11:49</time>
+          <time>11:50</time>
+          <time>11:51</time>
+          <time>11:53</time>
+          <time>11:54</time>
+          <time>11:55</time>
+          <time>11:56</time>
+          <time>11:57</time>
+          <time>11:58</time>
+          <time>11:59</time>
+          <time>12:00</time>
+        </run>
+        <run available="67h" >
+          <time>12:10</time>
+          <time>12:11</time>
+          <time>12:12</time>
+          <time>12:13</time>
+          <time>12:14</time>
+          <time>12:15</time>
+          <time>12:11</time>
+          <time>12:13</time>
+          <time>12:14</time>
+          <time>12:15</time>
+          <time>12:16</time>
+          <time>12:17</time>
+          <time>12:18</time>
+          <time>12:19</time>
+          <time>12:20</time>
+        </run>
+        <run available="12345" >
+          <time>12:30</time>
+          <time>12:31</time>
+          <time>12:32</time>
+          <time>12:33</time>
+          <time>12:34</time>
+          <time>12:35</time>
+          <time>12:36</time>
+          <time>12:38</time>
+          <time>12:39</time>
+          <time>12:40</time>
+          <time>12:41</time>
+          <time>12:42</time>
+          <time>12:43</time>
+          <time>12:44</time>
+          <time>12:45</time>
+        </run>
+        <run available="67h" >
+          <time>12:35</time>
+          <time>12:36</time>
+          <time>12:37</time>
+          <time>12:38</time>
+          <time>12:39</time>
+          <time>12:40</time>
+          <time>12:41</time>
+          <time>12:43</time>
+          <time>12:44</time>
+          <time>12:45</time>
+          <time>12:46</time>
+          <time>12:47</time>
+          <time>12:48</time>
+          <time>12:49</time>
+          <time>12:50</time>
+        </run>
+        <run available="67h" >
+          <time>13:00</time>
+          <time>13:01</time>
+          <time>13:02</time>
+          <time>13:03</time>
+          <time>13:04</time>
+          <time>13:05</time>
+          <time>13:06</time>
+          <time>13:08</time>
+          <time>13:09</time>
+          <time>13:10</time>
+          <time>13:11</time>
+          <time>13:12</time>
+          <time>13:13</time>
+          <time>13:14</time>
+          <time>13:15</time>
+        </run>
+        <run available="12345" >
+          <time>13:10</time>
+          <time>13:11</time>
+          <time>13:12</time>
+          <time>13:13</time>
+          <time>13:14</time>
+          <time>13:15</time>
+          <time>13:16</time>
+          <time>13:18</time>
+          <time>13:19</time>
+          <time>13:20</time>
+          <time>13:21</time>
+          <time>13:22</time>
+          <time>13:23</time>
+          <time>13:24</time>
+          <time>13:25</time>
+        </run>
+        <run available="67h" >
+          <time>13:25</time>
+          <time>13:26</time>
+          <time>13:27</time>
+          <time>13:28</time>
+          <time>13:29</time>
+          <time>13:30</time>
+          <time>13:31</time>
+          <time>13:33</time>
+          <time>13:34</time>
+          <time>13:35</time>
+          <time>13:36</time>
+          <time>13:37</time>
+          <time>13:38</time>
+          <time>13:39</time>
+          <time>13:40</time>
+        </run>
+        <run >
+          <time>13:50</time>
+          <time>13:51</time>
+          <time>13:52</time>
+          <time>13:53</time>
+          <time>13:54</time>
+          <time>13:55</time>
+          <time>13:56</time>
+          <time>13:58</time>
+          <time>13:59</time>
+          <time>14:00</time>
+          <time>14:01</time>
+          <time>14:02</time>
+          <time>14:03</time>
+          <time>14:04</time>
+          <time>14:05</time>
+        </run>
+        <run available="67h" >
+          <time>14:10</time>
+          <time>14:11</time>
+          <time>14:12</time>
+          <time>14:13</time>
+          <time>14:14</time>
+          <time>14:15</time>
+          <time>14:16</time>
+          <time>14:18</time>
+          <time>14:19</time>
+          <time>14:20</time>
+          <time>14:21</time>
+          <time>14:22</time>
+          <time>14:23</time>
+          <time>14:24</time>
+          <time>14:25</time>
+        </run>
+        <run available="67h" >
+          <time>14:30</time>
+          <time>14:31</time>
+          <time>14:32</time>
+          <time>14:33</time>
+          <time>14:34</time>
+          <time>14:35</time>
+          <time>14:36</time>
+          <time>14:38</time>
+          <time>14:39</time>
+          <time>14:40</time>
+          <time>14:41</time>
+          <time>14:42</time>
+          <time>14:43</time>
+          <time>14:44</time>
+          <time>14:45</time>
+        </run>
+        <run available="12345" >
+          <time>14:40</time>
+          <time>14:41</time>
+          <time>14:42</time>
+          <time>14:43</time>
+          <time>14:44</time>
+          <time>14:45</time>
+          <time>14:46</time>
+          <time>14:48</time>
+          <time>14:49</time>
+          <time>14:50</time>
+          <time>14:51</time>
+          <time>14:52</time>
+          <time>14:53</time>
+          <time>14:54</time>
+          <time>14:55</time>
+        </run>
+        <run available="67h" >
+          <time>14:45</time>
+          <time>14:46</time>
+          <time>14:47</time>
+          <time>14:48</time>
+          <time>14:49</time>
+          <time>14:50</time>
+          <time>14:51</time>
+          <time>14:53</time>
+          <time>14:54</time>
+          <time>14:55</time>
+          <time>14:56</time>
+          <time>14:57</time>
+          <time>14:58</time>
+          <time>14:59</time>
+          <time>15:00</time>
+        </run>
+        <run available="67h" >
+          <time>15:00</time>
+          <time>15:01</time>
+          <time>15:02</time>
+          <time>15:03</time>
+          <time>15:04</time>
+          <time>15:05</time>
+          <time>15:06</time>
+          <time>15:08</time>
+          <time>15:09</time>
+          <time>15:10</time>
+          <time>15:11</time>
+          <time>15:12</time>
+          <time>15:13</time>
+          <time>15:14</time>
+          <time>15:15</time>
+        </run>
+        <run available="67h" >
+          <time>15:15</time>
+          <time>15:16</time>
+          <time>15:17</time>
+          <time>15:18</time>
+          <time>15:19</time>
+          <time>15:20</time>
+          <time>15:21</time>
+          <time>15:23</time>
+          <time>15:24</time>
+          <time>15:25</time>
+          <time>15:26</time>
+          <time>15:27</time>
+          <time>15:28</time>
+          <time>15:29</time>
+          <time>15:30</time>
+        </run>
+        <run available="12345" >
+          <time>15:20</time>
+          <time>15:21</time>
+          <time>15:22</time>
+          <time>15:23</time>
+          <time>15:24</time>
+          <time>15:25</time>
+          <time>15:26</time>
+          <time>15:28</time>
+          <time>15:29</time>
+          <time>15:30</time>
+          <time>15:31</time>
+          <time>15:32</time>
+          <time>15:33</time>
+          <time>15:34</time>
+          <time>15:35</time>
+        </run>
+        <run available="67h" >
+          <time>15:25</time>
+          <time>15:26</time>
+          <time>15:27</time>
+          <time>15:28</time>
+          <time>15:29</time>
+          <time>15:30</time>
+          <time>15:31</time>
+          <time>15:33</time>
+          <time>15:34</time>
+          <time>15:35</time>
+          <time>15:36</time>
+          <time>15:37</time>
+          <time>15:38</time>
+          <time>15:39</time>
+          <time>15:40</time>
+        </run>
+        <run available="67h" >
+          <time>15:40</time>
+          <time>15:41</time>
+          <time>15:42</time>
+          <time>15:43</time>
+          <time>15:44</time>
+          <time>15:45</time>
+          <time>15:46</time>
+          <time>15:48</time>
+          <time>15:49</time>
+          <time>15:50</time>
+          <time>15:51</time>
+          <time>15:52</time>
+          <time>15:53</time>
+          <time>15:54</time>
+          <time>15:55</time>
+        </run>
+        <run >
+          <time>15:50</time>
+          <time>15:51</time>
+          <time>15:52</time>
+          <time>15:53</time>
+          <time>15:54</time>
+          <time>15:55</time>
+          <time>15:56</time>
+          <time>15:58</time>
+          <time>15:59</time>
+          <time>16:00</time>
+          <time>16:01</time>
+          <time>16:02</time>
+          <time>16:03</time>
+          <time>16:04</time>
+          <time>16:05</time>
+        </run>
+        <run available="67h" >
+          <time>16:05</time>
+          <time>16:06</time>
+          <time>16:07</time>
+          <time>16:08</time>
+          <time>16:09</time>
+          <time>16:10</time>
+          <time>16:11</time>
+          <time>16:13</time>
+          <time>16:14</time>
+          <time>16:15</time>
+          <time>16:16</time>
+          <time>16:17</time>
+          <time>16:18</time>
+          <time>16:19</time>
+          <time>16:20</time>
+        </run>
+        <run available="12345" >
+          <time>16:10</time>
+          <time>16:11</time>
+          <time>16:12</time>
+          <time>16:13</time>
+          <time>16:14</time>
+          <time>16:15</time>
+          <time>16:16</time>
+          <time>16:18</time>
+          <time>16:19</time>
+          <time>16:20</time>
+          <time>16:21</time>
+          <time>16:22</time>
+          <time>16:23</time>
+          <time>16:24</time>
+          <time>16:25</time>
+        </run>
+        <run available="67h" >
+          <time>16:15</time>
+          <time>16:16</time>
+          <time>16:17</time>
+          <time>16:18</time>
+          <time>16:19</time>
+          <time>16:20</time>
+          <time>16:26</time>
+          <time>16:28</time>
+          <time>16:29</time>
+          <time>16:30</time>
+          <time>16:31</time>
+          <time>16:32</time>
+          <time>16:33</time>
+          <time>16:34</time>
+          <time>16:35</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>16:31</time>
+          <time>16:32</time>
+          <time>16:33</time>
+          <time>16:34</time>
+          <time>16:35</time>
+          <time>16:36</time>
+          <time>16:38</time>
+          <time>16:39</time>
+          <time>16:40</time>
+          <time>16:41</time>
+          <time>16:42</time>
+          <time>16:43</time>
+          <time>16:44</time>
+          <time>16:45</time>
+        </run>
+        <run available="67h" >
+          <time>16:40</time>
+          <time>16:41</time>
+          <time>16:42</time>
+          <time>16:43</time>
+          <time>16:44</time>
+          <time>16:45</time>
+          <time>16:46</time>
+          <time>16:48</time>
+          <time>16:49</time>
+          <time>16:50</time>
+          <time>16:51</time>
+          <time>16:52</time>
+          <time>16:53</time>
+          <time>16:54</time>
+          <time>16:55</time>
+        </run>
+        <run available="12345" >
+          <time>16:50</time>
+          <time>16:51</time>
+          <time>16:52</time>
+          <time>16:53</time>
+          <time>16:54</time>
+          <time>16:55</time>
+          <time>16:56</time>
+          <time>16:58</time>
+          <time>16:59</time>
+          <time>17:00</time>
+          <time>17:01</time>
+          <time>17:02</time>
+          <time>17:03</time>
+          <time>17:04</time>
+          <time>17:05</time>
+        </run>
+        <run available="67h" >
+          <time>16:55</time>
+          <time>16:56</time>
+          <time>16:57</time>
+          <time>16:58</time>
+          <time>16:59</time>
+          <time>17:00</time>
+          <time>17:01</time>
+          <time>17:03</time>
+          <time>17:04</time>
+          <time>17:05</time>
+          <time>17:06</time>
+          <time>17:07</time>
+          <time>17:08</time>
+          <time>17:09</time>
+          <time>17:10</time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>17:11</time>
+          <time>17:12</time>
+          <time>17:13</time>
+          <time>17:14</time>
+          <time>17:15</time>
+          <time>17:16</time>
+          <time>17:18</time>
+          <time>17:19</time>
+          <time>17:20</time>
+          <time>17:21</time>
+          <time>17:22</time>
+          <time>17:23</time>
+          <time>17:24</time>
+          <time>17:25</time>
+        </run>
+        <run available="67h" >
+          <time>17:20</time>
+          <time>17:21</time>
+          <time>17:22</time>
+          <time>17:23</time>
+          <time>17:24</time>
+          <time>17:25</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>17:35</time>
+          <time>17:36</time>
+          <time>17:37</time>
+          <time>17:38</time>
+          <time>17:39</time>
+          <time>17:40</time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+          <time>
+          </time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+  </inbound>
+</accesspoint>

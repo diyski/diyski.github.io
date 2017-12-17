@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歲" to="富良野">
+  <outbound>
+    <transportation name="新千歲国内→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+          </stop>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+          </stop>
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+          </stop>
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+          </stop>
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>11:45</time>
+          <time>11:55</time>
+          <time>12:00</time>
+          <time>12:05</time>
+          <time>12:10</time>
+          <time>12:15</time>
+          <time>12:30</time>
+        </run>
+        <run >
+          <time>10:50</time>
+          <time>13:05</time>
+          <time>13:15</time>
+          <time>13:20</time>
+          <time>13:25</time>
+          <time>13:30</time>
+          <time>13:35</time>
+          <time>13:50</time>
+        </run>
+        <run >
+          <time>12:05</time>
+          <time>14:20</time>
+          <time>14:30</time>
+          <time>14:35</time>
+          <time>14:40</time>
+          <time>14:45</time>
+          <time>14:50</time>
+          <time>15:05</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>16:25</time>
+          <time>16:35</time>
+          <time>16:40</time>
+          <time>16:45</time>
+          <time>16:50</time>
+          <time>16:55</time>
+          <time>17:10</time>
+        </run>
+        <run >
+          <time>15:55</time>
+          <time>18:20</time>
+          <time>18:30</time>
+          <time>18:35</time>
+          <time>18:40</time>
+          <time>18:45</time>
+          <time>18:50</time>
+          <time>19:05</time>
+        </run>
+        <run >
+          <time>17:55</time>
+          <time>20:20</time>
+          <time>20:30</time>
+          <time>20:35</time>
+          <time>20:40</time>
+          <time>20:45</time>
+          <time>20:50</time>
+          <time>21:05</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="新千歲国際→富良野" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="富良野">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+          </stop>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+          </stop>
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+          </stop>
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+          </stop>
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>14:10</time>
+          <time>16:25</time>
+          <time>16:35</time>
+          <time>16:40</time>
+          <time>16:45</time>
+          <time>16:50</time>
+          <time>16:55</time>
+          <time>17:10</time>
+        </run>
+        <run >
+          <time>16:05</time>
+          <time>18:20</time>
+          <time>18:30</time>
+          <time>18:35</time>
+          <time>18:40</time>
+          <time>18:45</time>
+          <time>18:50</time>
+          <time>19:05</time>
+        </run>
+        <run >
+          <time>18:05</time>
+          <time>20:20</time>
+          <time>20:30</time>
+          <time>20:35</time>
+          <time>20:40</time>
+          <time>20:45</time>
+          <time>20:50</time>
+          <time>21:05</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="富良野→新千歲国内" type="highwayBus" available="2016/12/01~2017/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,長野,名古屋,大阪,越後湯沢,東京,東北市區,NASPA,石打丸,空港,台灣,湯沢高原,湯沢中里,舞子,東北の駅">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
+      <timetable>
+        <route>
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
+          </stop>
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+          </stop>
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+            <interval from="ナチュラクスホテル" fare="4000" km="0" />
+            <interval from="エーデルヴェルメ" fare="4000" km="0" />
+            <interval from="ホテルベルヒルズ" fare="4000" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="4000" km="0" />
+            <interval from="富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="リゾートインノースカントリー" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="4000" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:25</time>
+          <time>07:40</time>
+          <time>07:45</time>
+          <time>07:50</time>
+          <time>07:55</time>
+          <time>08:00</time>
+          <time>08:10</time>
+          <time>10:35</time>
+        </run>
+        <run >
+          <time>08:55</time>
+          <time>09:10</time>
+          <time>09:15</time>
+          <time>09:20</time>
+          <time>09:25</time>
+          <time>09:30</time>
+          <time>09:40</time>
+          <time>12:05</time>
+        </run>
+        <run >
+          <time>10:55</time>
+          <time>11:10</time>
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>11:25</time>
+          <time>11:30</time>
+          <time>11:40</time>
+          <time>14:05</time>
+        </run>
+        <run >
+          <time>12:55</time>
+          <time>13:10</time>
+          <time>13:15</time>
+          <time>13:20</time>
+          <time>13:25</time>
+          <time>13:30</time>
+          <time>13:40</time>
+          <time>16:05</time>
+        </run>
+        <run >
+          <time>14:55</time>
+          <time>15:10</time>
+          <time>15:15</time>
+          <time>15:20</time>
+          <time>15:25</time>
+          <time>15:30</time>
+          <time>15:40</time>
+          <time>18:05</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="富良野→新千歲国際" type="highwayBus" available="2016/12/01~2017/03/31" apply-to=",湯澤,台灣">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2016/skibus/detail/post_5.html</source>
+      <timetable>
+        <route>
+          <stop name="ナチュラクスホテル"   tag="富良野>ホテル" gps="43.347563, 142.390176" >
+          </stop>
+          <stop name="エーデルヴェルメ"   tag="富良野>ホテル" gps="43.342902, 142.365348" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルベルヒルズ"   tag="富良野>ホテル" gps="43.343720, 142.361424" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+          </stop>
+          <stop name="リゾートインノースカントリー"   tag="富良野>ホテル" gps="43.335530, 142.367928" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+            <interval from="ナチュラクスホテル" fare="0" km="0" />
+            <interval from="エーデルヴェルメ" fare="0" km="0" />
+            <interval from="ホテルベルヒルズ" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="リゾートインノースカントリー" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+            <interval from="ナチュラクスホテル" fare="4000" km="0" />
+            <interval from="エーデルヴェルメ" fare="4000" km="0" />
+            <interval from="ホテルベルヒルズ" fare="4000" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="4000" km="0" />
+            <interval from="富良野プリンスホテル" fare="4000" km="0" />
+            <interval from="リゾートインノースカントリー" fare="4000" km="0" />
+            <interval from="新富良野プリンスホテル" fare="40000" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:25</time>
+          <time>07:40</time>
+          <time>07:45</time>
+          <time>07:50</time>
+          <time>07:55</time>
+          <time>08:00</time>
+          <time>08:10</time>
+          <time>10:30</time>
+        </run>
+        <run >
+          <time>08:55</time>
+          <time>09:10</time>
+          <time>09:15</time>
+          <time>09:20</time>
+          <time>09:25</time>
+          <time>09:30</time>
+          <time>09:40</time>
+          <time>12:00</time>
+        </run>
+        <run >
+          <time>10:55</time>
+          <time>11:10</time>
+          <time>11:15</time>
+          <time>11:20</time>
+          <time>11:25</time>
+          <time>11:30</time>
+          <time>11:40</time>
+          <time>14:00</time>
+        </run>
+        <run >
+          <time>12:55</time>
+          <time>13:10</time>
+          <time>13:15</time>
+          <time>13:20</time>
+          <time>13:25</time>
+          <time>13:30</time>
+          <time>13:40</time>
+          <time>16:00</time>
+        </run>
+        <run >
+          <time>14:55</time>
+          <time>15:10</time>
+          <time>15:15</time>
+          <time>15:20</time>
+          <time>15:25</time>
+          <time>15:30</time>
+          <time>15:40</time>
+          <time>18:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

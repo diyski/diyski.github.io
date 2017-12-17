@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="飯山" to="野澤溫泉">
+  <outbound>
+    <transportation name="飯山→野沢" type="bus" available="2016/12/17~2017/03/15" apply-to="野沢温泉">
+      <info>
+      </info>
+      <source>http://www.nozawaonsen.info/%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/</source>
+      <timetable>
+        <route>
+          <stop name="飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+          </stop>
+          <stop name="北飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+            <interval from="飯山駅" fare="200" km="0" />
+          </stop>
+          <stop name="前坂"   tag="野沢温泉>その他" gps="" >
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
+          </stop>
+          <stop name="中尾駐車場"   tag="野沢温泉>バス停" gps="36.914035, 138.436709" >
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
+            <interval from="前坂" fare="200" km="0" />
+          </stop>
+          <stop name="新田バス停"   tag="野沢温泉>バス停" gps="36.920868, 138.444766" >
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
+            <interval from="前坂" fare="200" km="0" />
+            <interval from="中尾駐車場" fare="200" km="0" />
+          </stop>
+          <stop name="中央ターミナル"   tag="野沢温泉>バス停" gps="36.922445, 138.446199" >
+            <interval from="飯山駅" fare="600" km="0" />
+            <interval from="北飯山駅" fare="600" km="0" />
+            <interval from="前坂" fare="200" km="0" />
+            <interval from="中尾駐車場" fare="200" km="0" />
+            <interval from="新田バス停" fare="200" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:45</time>
+          <time>08:48</time>
+          <time>09:06</time>
+          <time>09:07</time>
+          <time>09:08</time>
+          <time>09:10</time>
+        </run>
+        <run >
+          <time>10:00</time>
+          <time>10:03</time>
+          <time>10:21</time>
+          <time>10:22</time>
+          <time>10:23</time>
+          <time>10:25</time>
+        </run>
+        <run >
+          <time>10:50</time>
+          <time>10:53</time>
+          <time>11:11</time>
+          <time>11:12</time>
+          <time>11:13</time>
+          <time>11:15</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:33</time>
+          <time>12:51</time>
+          <time>12:52</time>
+          <time>12:53</time>
+          <time>12:55</time>
+        </run>
+        <run >
+          <time>14:25</time>
+          <time>14:28</time>
+          <time>14:46</time>
+          <time>14:47</time>
+          <time>14:48</time>
+          <time>14:50</time>
+        </run>
+        <run >
+          <time>16:25</time>
+          <time>16:28</time>
+          <time>16:46</time>
+          <time>16:47</time>
+          <time>16:48</time>
+          <time>16:50</time>
+        </run>
+        <run >
+          <time>18:55</time>
+          <time>18:58</time>
+          <time>19:16</time>
+          <time>19:17</time>
+          <time>19:18</time>
+          <time>19:20</time>
+        </run>
+        <run >
+          <time>20:15</time>
+          <time>20:18</time>
+          <time>20:36</time>
+          <time>20:37</time>
+          <time>20:38</time>
+          <time>20:40</time>
+        </run>
+        <run >
+          <time>21:15</time>
+          <time>21:18</time>
+          <time>21:36</time>
+          <time>21:37</time>
+          <time>21:38</time>
+          <time>21:40</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="野沢→飯山" type="bus" available="2016/12/17~2017/03/15" apply-to="白馬,妙高,志賀,湯澤,苗場,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,京都,東北市區,石打丸,空港,台灣,舞子,湯沢高原,湯沢中里,定山渓,二世古,キロロ,戸狩温泉,東京,長野,名古屋,Gala,大阪,越後湯沢,NASPA,東北の駅,ばんけい,ニセコ,ルスツ">
+      <info>
+      </info>
+      <source>http://www.nozawaonsen.info/%E9%87%8E%E6%B2%A2%E6%B8%A9%E6%B3%89%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC/</source>
+      <timetable>
+        <route>
+          <stop name="中央ターミナル"   tag="野沢温泉>バス停" gps="36.922445, 138.446199" >
+          </stop>
+          <stop name="新田バス停"   tag="野沢温泉>バス停" gps="36.920868, 138.444766" >
+            <interval from="中央ターミナル" fare="200" km="0" />
+          </stop>
+          <stop name="中尾駐車場"   tag="野沢温泉>バス停" gps="36.914035, 138.436709" >
+            <interval from="中央ターミナル" fare="200" km="0" />
+            <interval from="新田バス停" fare="200" km="0" />
+          </stop>
+          <stop name="前坂"   tag="野沢温泉>その他" gps="" >
+            <interval from="中央ターミナル" fare="200" km="0" />
+            <interval from="新田バス停" fare="200" km="0" />
+            <interval from="中尾駐車場" fare="200" km="0" />
+          </stop>
+          <stop name="北飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+            <interval from="中央ターミナル" fare="600" km="0" />
+            <interval from="新田バス停" fare="600" km="0" />
+            <interval from="中尾駐車場" fare="600" km="0" />
+            <interval from="前坂" fare="600" km="0" />
+          </stop>
+          <stop name="飯山駅" yahoo="true"  tag="長野>JR" gps="" >
+            <interval from="中央ターミナル" fare="600" km="0" />
+            <interval from="新田バス停" fare="600" km="0" />
+            <interval from="中尾駐車場" fare="600" km="0" />
+            <interval from="前坂" fare="600" km="0" />
+            <interval from="北飯山駅" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:30</time>
+          <time>06:31</time>
+          <time>06:32</time>
+          <time>06:33</time>
+          <time>06:49</time>
+          <time>06:55</time>
+        </run>
+        <run >
+          <time>07:30</time>
+          <time>07:31</time>
+          <time>07:32</time>
+          <time>07:33</time>
+          <time>07:49</time>
+          <time>07:55</time>
+        </run>
+        <run >
+          <time>08:30</time>
+          <time>08:31</time>
+          <time>08:32</time>
+          <time>08:33</time>
+          <time>08:49</time>
+          <time>08:55</time>
+        </run>
+        <run >
+          <time>09:30</time>
+          <time>09:31</time>
+          <time>09:32</time>
+          <time>09:33</time>
+          <time>09:49</time>
+          <time>09:55</time>
+        </run>
+        <run >
+          <time>11:00</time>
+          <time>11:01</time>
+          <time>11:02</time>
+          <time>11:03</time>
+          <time>11:19</time>
+          <time>11:25</time>
+        </run>
+        <run >
+          <time>13:10</time>
+          <time>13:11</time>
+          <time>13:12</time>
+          <time>13:13</time>
+          <time>13:29</time>
+          <time>13:35</time>
+        </run>
+        <run >
+          <time>15:10</time>
+          <time>15:11</time>
+          <time>15:12</time>
+          <time>15:13</time>
+          <time>15:29</time>
+          <time>15:35</time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>17:11</time>
+          <time>17:12</time>
+          <time>17:13</time>
+          <time>17:29</time>
+          <time>17:35</time>
+        </run>
+        <run >
+          <time>18:30</time>
+          <time>18:31</time>
+          <time>18:32</time>
+          <time>18:33</time>
+          <time>18:49</time>
+          <time>18:55</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

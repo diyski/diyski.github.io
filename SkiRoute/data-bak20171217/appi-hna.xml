@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="花巻空港" to="安比">
+  <outbound>
+    <transportation name="花巻空港→安比" type="highwayBus" available="2016/12/10~2017/03/26" apply-to=",安比">
+      <info>
+      </info>
+      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <timetable>
+        <route>
+          <stop name="花巻空港"   tag="空港>花巻空港" gps="" >
+          </stop>
+          <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
+            <interval from="花巻空港" fare="2260" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:00</time>
+          <time>10:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="安比→花巻空港" type="highwayBus" available="2016/12/10~2017/03/26" apply-to=",空港,札幌,軽井沢,Gala,白馬,名古屋,長野,京都,大阪,東京,越後湯沢,NASPA,留壽都,戸狩温泉,盤溪,苗場,富良野,石打丸,朝里川,札幌国際,妙高,舞子,志賀,定山渓,野沢温泉,二世古,キロロ,藏王,湯沢高原,台灣,湯沢中里,ニセコ,ばんけい,東北の駅,安比">
+      <info>
+      </info>
+      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <timetable>
+        <route>
+          <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
+          </stop>
+          <stop name="花巻空港"   tag="空港>花巻空港" gps="" >
+            <interval from="ホテル安比グランド" fare="2260" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>16:00</time>
+          <time>17:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

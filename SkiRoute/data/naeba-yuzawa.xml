@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯澤" to="苗場">
   <outbound>
-    <transportation name="越後湯沢→苗場" type="bus" available="2016/04/01~2016/12/16" apply-to="苗場">
+    <transportation name="越後湯沢→苗場" type="bus" available="2017/12/09~2018/04/01" apply-to="苗場">
       <info>
       </info>
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
@@ -23,72 +23,67 @@
           </stop>
         </route>
         <run >
-          <time>06:10</time>
-          <time>06:28</time>
-          <time>06:38</time>
-          <time>
-          </time>
-        </run>
-        <run >
+          <time>07:35</time>
+          <time>07:55</time>
+          <time>08:05</time>
           <time>08:20</time>
-          <time>08:38</time>
-          <time>08:48</time>
-          <time>08:57</time>
         </run>
         <run >
-          <time>09:15</time>
-          <time>09:33</time>
-          <time>09:43</time>
-          <time>09:52</time>
+          <time>08:35</time>
+          <time>08:55</time>
+          <time>09:05</time>
+          <time>09:20</time>
         </run>
         <run available="67h" >
-          <time>10:10</time>
-          <time>10:28</time>
-          <time>10:38</time>
-          <time>10:47</time>
+          <time>08:50</time>
+          <time>09:10</time>
+          <time>09:20</time>
+          <time>09:35</time>
         </run>
         <run >
-          <time>11:40</time>
-          <time>11:58</time>
-          <time>12:08</time>
-          <time>12:17</time>
+          <time>09:35</time>
+          <time>09:55</time>
+          <time>10:05</time>
+          <time>10:20</time>
         </run>
         <run >
-          <time>13:00</time>
-          <time>13:18</time>
-          <time>13:28</time>
-          <time>13:37</time>
+          <time>10:45</time>
+          <time>11:05</time>
+          <time>11:15</time>
+          <time>11:30</time>
         </run>
-        <run >
-          <time>14:50</time>
-          <time>15:08</time>
-          <time>15:18</time>
-          <time>15:27</time>
+        <run available="67h" >
+          <time>11:15</time>
+          <time>11:35</time>
+          <time>11:45</time>
+          <time>12:00</time>
         </run>
-        <run >
-          <time>16:10</time>
-          <time>16:28</time>
-          <time>16:38</time>
-          <time>16:47</time>
-        </run>
-        <run >
-          <time>18:00</time>
-          <time>18:18</time>
-          <time>18:28</time>
-          <time>18:37</time>
-        </run>
-        <run >
-          <time>18:45</time>
-          <time>19:03</time>
-          <time>19:13</time>
+        <run available="67h" >
           <time>
           </time>
+          <time>15:35</time>
+          <time>15:45</time>
+          <time>16:00</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>16:00</time>
+          <time>16:10</time>
+          <time>16:25</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>16:40</time>
+          <time>16:50</time>
+          <time>17:05</time>
         </run>
       </timetable>
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="苗場→越後湯沢" type="bus" available="2016/04/01~2016/12/16" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,Gala,越後湯沢,東京,長野,東北市區,NASPA,湯沢高原,湯沢中里,舞子,石打丸,機場,戸狩温泉,二世古,定山渓,大阪,名古屋,京都,台灣,ニセコ,ばんけい,ルスツ,東北の駅,空港">
+    <transportation name="苗場→越後湯沢" type="bus" available="2017/12/09~2018/04/01" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,Gala,越後湯沢,東京,長野,東北市區,NASPA,湯沢高原,湯沢中里,舞子,石打丸,機場,戸狩温泉,二世古,定山渓,大阪,名古屋,京都,台灣,ニセコ,ばんけい,ルスツ,東北の駅,空港">
       <info>
       </info>
       <source>http://www.minamiechigo.co.jp/pdf/jikoku-280401/muikamachi/0401/crystal2.pdf</source>
@@ -110,66 +105,71 @@
           </stop>
         </route>
         <run >
-          <time>
-          </time>
-          <time>07:11</time>
-          <time>07:21</time>
-          <time>07:42</time>
+          <time>08:25</time>
+          <time>08:40</time>
+          <time>08:50</time>
+          <time>09:10</time>
         </run>
         <run >
-          <time>09:20</time>
-          <time>09:30</time>
+          <time>09:25</time>
           <time>09:40</time>
-          <time>10:02</time>
-        </run>
-        <run >
-          <time>10:15</time>
-          <time>10:25</time>
-          <time>10:35</time>
-          <time>10:57</time>
+          <time>09:50</time>
+          <time>10:10</time>
         </run>
         <run available="67h" >
-          <time>11:10</time>
-          <time>11:20</time>
-          <time>11:30</time>
-          <time>11:52</time>
+          <time>10:10</time>
+          <time>10:15</time>
+          <time>10:25</time>
+          <time>10:45</time>
         </run>
         <run >
+          <time>10:30</time>
+          <time>10:45</time>
+          <time>10:55</time>
+          <time>11:15</time>
+        </run>
+        <run >
+          <time>11:50</time>
+          <time>12:05</time>
+          <time>12:15</time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>12:15</time>
+          <time>12:30</time>
           <time>12:40</time>
-          <time>12:50</time>
-          <time>13:00</time>
-          <time>13:22</time>
-        </run>
-        <run >
-          <time>14:00</time>
-          <time>14:10</time>
-          <time>14:20</time>
-          <time>14:42</time>
-        </run>
-        <run >
-          <time>15:50</time>
-          <time>16:00</time>
-          <time>16:10</time>
           <time>16:32</time>
         </run>
         <run >
-          <time>17:10</time>
+          <time>14:30</time>
+          <time>14:45</time>
+          <time>14:55</time>
+          <time>15:15</time>
+        </run>
+        <run >
+          <time>15:20</time>
+          <time>15:35</time>
+          <time>15:45</time>
+          <time>16:05</time>
+        </run>
+        <run available="67h" >
+          <time>16:15</time>
+          <time>16:30</time>
+          <time>16:40</time>
+          <time>17:05</time>
+        </run>
+        <run >
+          <time>16:40</time>
+          <time>16:55</time>
+          <time>17:05</time>
+          <time>17:25</time>
+        </run>
+        <run >
           <time>17:20</time>
-          <time>17:30</time>
-          <time>17:52</time>
-        </run>
-        <run >
-          <time>19:00</time>
-          <time>19:10</time>
-          <time>19:20</time>
-          <time>19:42</time>
-        </run>
-        <run >
-          <time>
-          </time>
-          <time>19:46</time>
-          <time>19:56</time>
-          <time>20:17</time>
+          <time>17:35</time>
+          <time>17:45</time>
+          <time>18:05</time>
         </run>
       </timetable>
     </transportation>

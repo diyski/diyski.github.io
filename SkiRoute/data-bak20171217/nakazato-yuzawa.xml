@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="越後湯沢駅" to="湯沢中里">
+  <outbound>
+    <transportation name="越後湯沢駅→湯沢中里" type="bus" available="2017/12/16~2018/04/01" apply-to="湯沢中里,越後湯沢">
+      <info>
+      </info>
+      <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
+      <timetable>
+        <route>
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>ホテル" gps="36.933038, 138.812436" >
+          </stop>
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>その他" gps="36.933050, 138.809171" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="6.5" />
+          </stop>
+          <stop name="いなもと"   tag="越後湯沢>みんしゅく" gps="36.936224, 138.807907" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+          </stop>
+          <stop name="雪国館"   tag="越後湯沢>その他" gps="36.938971, 138.805608" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+            <interval from="いなもと" fare="0" km="0" />
+          </stop>
+          <stop name="湯沢中里"   tag="湯沢中里>湯沢中里" gps="36.909762, 138.849008" >
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+            <interval from="いなもと" fare="0" km="0" />
+            <interval from="雪国館" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:58</time>
+          <time>07:59</time>
+          <time>08:00</time>
+          <time>08:02</time>
+          <time>08:20</time>
+        </run>
+        <run >
+          <time>08:38</time>
+          <time>08:39</time>
+          <time>08:40</time>
+          <time>08:42</time>
+          <time>09:00</time>
+        </run>
+        <run >
+          <time>09:28</time>
+          <time>09:29</time>
+          <time>09:30</time>
+          <time>09:32</time>
+          <time>09:50</time>
+        </run>
+        <run >
+          <time>10:38</time>
+          <time>10:39</time>
+          <time>10:40</time>
+          <time>10:42</time>
+          <time>11:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="湯沢中里→越後湯沢駅" type="bus" available="2017/12/16~2018/04/01" apply-to=",越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,石打丸,キロロ,盤溪,東北市區,東京,軽井沢,Gala,戸狩温泉,長野,白馬,名古屋,NASPA,留壽都,二世古,機場,湯沢高原,舞子,志賀,定山渓,野沢温泉,藏王,東北の駅,ばんけい,ニセコ,ルスツ,空港">
+      <info>
+      </info>
+      <source>http://www.yuzawa-nakazato.com/winter/access/index.html</source>
+      <timetable>
+        <route>
+          <stop name="湯沢中里"   tag="湯沢中里>湯沢中里" gps="36.909762, 138.849008" >
+          </stop>
+          <stop name="ホテルスポーリア湯沢"   tag="越後湯沢>ホテル" gps="36.933038, 138.812436" >
+            <interval from="湯沢中里" fare="0" km="0" />
+          </stop>
+          <stop name="ライオンズマンション第3"   tag="越後湯沢>その他" gps="36.933050, 138.809171" >
+            <interval from="湯沢中里" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+          </stop>
+          <stop name="いなもと"   tag="越後湯沢>みんしゅく" gps="36.936224, 138.807907" >
+            <interval from="湯沢中里" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+          </stop>
+          <stop name="雪国館"   tag="越後湯沢>その他" gps="36.938971, 138.805608" >
+            <interval from="湯沢中里" fare="0" km="0" />
+            <interval from="ホテルスポーリア湯沢" fare="0" km="0" />
+            <interval from="ライオンズマンション第3" fare="0" km="0" />
+            <interval from="いなもと" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>14:20</time>
+          <time>14:37</time>
+          <time>14:38</time>
+          <time>14:40</time>
+          <time>14:41</time>
+        </run>
+        <run >
+          <time>15:00</time>
+          <time>15:17</time>
+          <time>15:19</time>
+          <time>15:20</time>
+          <time>15:21</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:57</time>
+          <time>15:59</time>
+          <time>16:00</time>
+          <time>16:01</time>
+        </run>
+        <run available="12345" >
+          <time>16:50</time>
+          <time>17:07</time>
+          <time>17:09</time>
+          <time>17:10</time>
+          <time>17:11</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="プリンスホテル免費巴士" to="苗場">
+  <outbound>
+    <transportation name="越後湯沢→苗場 宿泊者専用" type="bus" available="2017/12/15~2018/03/31" apply-to="苗場">
+      <info>0820和1520只開周六及日本年假
+2210只開週五
+
+8:20 土曜日と12/23、1/8、3/19、年末年始（12/29～1/3）のみ運行。
+
+15:20 土曜日と年末年始（12/29～1/3）のみ運行。
+
+22:10 金曜日のみ運行
+</info>
+      <source>http://www.princehotels.co.jp/naeba/access/</source>
+      <timetable>
+        <route>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+          </stop>
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
+            <interval from="JR越後湯沢駅" fare="0" km="22" />
+          </stop>
+        </route>
+        <run available="6" >
+          <time>08:20</time>
+          <time>09:00</time>
+        </run>
+        <run >
+          <time>09:20</time>
+          <time>10:00</time>
+        </run>
+        <run >
+          <time>10:20</time>
+          <time>11:00</time>
+        </run>
+        <run >
+          <time>11:20</time>
+          <time>12:00</time>
+        </run>
+        <run >
+          <time>12:20</time>
+          <time>13:00</time>
+        </run>
+        <run >
+          <time>14:20</time>
+          <time>15:00</time>
+        </run>
+        <run available="6" >
+          <time>15:20</time>
+          <time>16:00</time>
+        </run>
+        <run >
+          <time>16:20</time>
+          <time>17:00</time>
+        </run>
+        <run >
+          <time>17:20</time>
+          <time>18:00</time>
+        </run>
+        <run >
+          <time>19:40</time>
+          <time>20:20</time>
+        </run>
+        <run available="56" >
+          <time>22:10</time>
+          <time>22:50</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="苗場→越後湯沢 宿泊者専用" type="bus" available="2017/12/15~2018/03/31" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,石打丸,東北市區,京都,長野,名古屋,Gala,大阪,越後湯沢,東京,戸狩温泉,機場,台灣,湯沢中里,湯沢高原,舞子,定山渓,二世古,NASPA,東北の駅,ルスツ,ニセコ,ばんけい,空港">
+      <info>1230和1530只開週日及日本年假
+
+12:30、15:30 日曜日、祝日、年末年始（12/29～1/3）のみ運行。
+      </info>
+      <source>http://www.princehotels.co.jp/naeba/access/</source>
+      <timetable>
+        <route>
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
+          </stop>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+            <interval from="苗場プリンスホテル4号館" fare="0" km="22" />
+          </stop>
+        </route>
+        <run >
+          <time>10:30</time>
+          <time>11:10</time>
+        </run>
+        <run >
+          <time>11:30</time>
+          <time>12:10</time>
+        </run>
+        <run available="7" >
+          <time>12:30</time>
+          <time>13:10</time>
+        </run>
+        <run >
+          <time>13:30</time>
+          <time>14:10</time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>15:10</time>
+        </run>
+        <run >
+          <time>15:30</time>
+          <time>16:10</time>
+        </run>
+        <run >
+          <time>16:30</time>
+          <time>17:10</time>
+        </run>
+        <run available="7" >
+          <time>17:30</time>
+          <time>18:10</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

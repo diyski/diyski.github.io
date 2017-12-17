@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="越後湯沢駅(藍)" to="Gala">
   <outbound>
-    <transportation name="NASPA→越後湯沢駅→Gala" type="bus" available="2016/12/22~2017/04/02" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
+    <transportation name="NASPA→越後湯沢駅→Gala" type="bus" available="2017/12/22~2018/04/01" apply-to="Gala,湯沢高原,NASPA,越後湯沢">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>
@@ -191,7 +191,7 @@
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="Gala→越後湯沢駅→NASPA" type="bus" available="2016/12/22~2017/04/02" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,湯沢中里,石打丸,キロロ,盤溪,東京,軽井沢,東北市區,白馬,長野,戸狩温泉,空港,二世古,留壽都,野沢温泉,名古屋,志賀,舞子,定山渓,藏王,東北の駅,ばんけい,ニセコ,ルスツ">
+    <transportation name="Gala→越後湯沢駅→NASPA" type="bus" available="2017/12/22~2018/04/01" apply-to=",湯沢高原,NASPA,越後湯沢,札幌,京都,大阪,苗場,富良野,安比,朝里川,札幌国際,妙高,台灣,湯沢中里,石打丸,キロロ,盤溪,東京,軽井沢,東北市區,白馬,長野,戸狩温泉,空港,二世古,留壽都,野沢温泉,名古屋,志賀,舞子,定山渓,藏王,東北の駅,ばんけい,ニセコ,ルスツ">
       <info>
       </info>
       <source>https://gala.co.jp/winter/access_bus.html</source>

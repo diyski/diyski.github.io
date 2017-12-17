@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="日本(Jetstar)" to="台灣">
+  <outbound>
+    <transportation name="Jetstar 関西→桃園" type="air" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.jetstar.com/tw/zh/home</source>
+      <timetable>
+        <route>
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+          </stop>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>11:30</time>
+          <time>13:50</time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>19:30</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Jetstar 成田→桃園" type="air" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.jetstar.com/tw/zh/home</source>
+      <timetable>
+        <route>
+          <stop name="成田空港第3ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.778881, 140.384743" >
+          </stop>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+            <interval from="成田空港第3ターミナル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>21:35</time>
+          <time>00:45</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="Jetstar 桃園→関西" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,京都,札幌,東北市區,苗場,石打丸,富良野,朝里川,札幌国際,湯沢中里,空港,キロロ,盤溪,軽井沢,長野,Gala,名古屋,東京,越後湯沢,戸狩温泉,二世古,安比,湯沢高原,舞子,定山渓,藏王,留壽都,NASPA,大阪,東北の駅,ルスツ,ばんけい,ニセコ">
+      <info>
+      </info>
+      <source>http://www.jetstar.com/tw/zh/home</source>
+      <timetable>
+        <route>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>02:40</time>
+          <time>06:15</time>
+        </run>
+        <run >
+          <time>07:00</time>
+          <time>10:30</time>
+        </run>
+        <run >
+          <time>12:45</time>
+          <time>16:15</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Jetstar 桃園→成田" type="air" available="" apply-to=",白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,長野,Gala,盤溪,東北市區,富良野,石打丸,朝里川,札幌国際,湯沢中里,空港,二世古,安比,キロロ,越後湯沢,東京,戸狩温泉,留壽都,NASPA,定山渓,湯沢高原,舞子,藏王,東北の駅,ルスツ,ばんけい,ニセコ">
+      <info>
+      </info>
+      <source>http://www.jetstar.com/tw/zh/home</source>
+      <timetable>
+        <route>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="成田空港第3ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.778881, 140.384743" >
+            <interval from="桃園空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>02:05</time>
+          <time>06:10</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

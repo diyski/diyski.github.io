@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skiResorts>
+  <resort name="苗場">
+    <accessPoint name="越後湯澤" filename="naeba-yuzawa.xml">
+    </accessPoint>
+    <accessPoint name="プリンスホテル免費巴士" filename="naeba-yuzawa-f.xml">
+    </accessPoint>
+    <accessPoint name="越後湯澤(付)" filename="naeba-yuzawa-p.xml">
+    </accessPoint>
+    <accessPoint name="西武巴士苗場輕井澤" filename="naeba-seibu.xml">
+    </accessPoint>
+    <accessPoint name="越後湯沢" filename="naeba-yuzawa-winter.xml">
+    </accessPoint>
+  </resort>
+  <resort name="Niseko">
+    <accessPoint name="新千歳空港(札幌)" filename="niseko-ctsdomestic.xml">
+    </accessPoint>
+    <accessPoint name="札幌市(travelpal)" filename="niseko-sapporo.xml">
+    </accessPoint>
+    <accessPoint name="新千歲(HAN)" filename="niseko-ctshan.xml">
+    </accessPoint>
+  </resort>
+  <resort name="野澤溫泉">
+    <accessPoint name="飯山" filename="nozawa-iiyama.xml">
+    </accessPoint>
+    <accessPoint name="名古屋" filename="nozawa-tokai.xml">
+    </accessPoint>
+    <accessPoint name="溫泉街" filename="nozawa-access.xml">
+    </accessPoint>
+    <accessPoint name="新宿" filename="nozawa-shinjuku.xml">
+    </accessPoint>
+    <accessPoint name="長野雪場" filename="nozawa-naganoskiarea.xml">
+    </accessPoint>
+  </resort>
+  <resort name="台灣">
+    <accessPoint name="日本(香草航空)" filename="Taipei-NRT.xml">
+    </accessPoint>
+    <accessPoint name="日本(Scoot)" filename="taipei-scoot.xml">
+    </accessPoint>
+    <accessPoint name="日本(Peach)" filename="Taipei-peach.xml">
+    </accessPoint>
+    <accessPoint name="日本(Jetstar)" filename="taipei-jetstar.xml">
+    </accessPoint>
+    <accessPoint name="日本(Tiger)" filename="taipei-tiger.xml">
+    </accessPoint>
+  </resort>
+  <resort name="白馬">
+    <accessPoint name="成田空港" filename="hakuba-narita.xml">
+    </accessPoint>
+    <accessPoint name="大阪" filename="hakuba-osaka.xml">
+    </accessPoint>
+    <accessPoint name="新宿" filename="hakuba-shinjuku.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士1、2" filename="hakuba-happo.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士3" filename="hakuba-iwatake3.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士4" filename="hakuba-gondola.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士5" filename="hakuba-iwatake5.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士6" filename="hakuba-sakka.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士7" filename="hakuba-iwatake7.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士8、9" filename="hakuba-happo8.xml">
+    </accessPoint>
+    <accessPoint name="八方循環巴士10" filename="hakuba-iwatake10.xml">
+    </accessPoint>
+    <accessPoint name="長野雪場" filename="hakuba-naganoskiarea.xml">
+    </accessPoint>
+  </resort>
+  <resort name="妙高">
+    <accessPoint name="長野雪場" filename="myoko-naganoskiarea.xml">
+    </accessPoint>
+  </resort>
+  <resort name="志賀">
+    <accessPoint name="長野" filename="shiga-nagano.xml">
+    </accessPoint>
+    <accessPoint name="長野雪場" filename="shiga-naganoskiarea.xml">
+    </accessPoint>
+  </resort>
+  <resort name="富良野">
+    <accessPoint name="旭川空港" filename="furano-Aka.xml">
+    </accessPoint>
+    <accessPoint name="札幌市區" filename="furano-sapporo.xml">
+    </accessPoint>
+    <accessPoint name="旭川空港(Access-n巴士)" filename="furano-Access.xml">
+    </accessPoint>
+    <accessPoint name="富良野市區巴士" filename="furano-tourism.xml">
+    </accessPoint>
+    <accessPoint name="新千歲" filename="furano-CTS.xml">
+    </accessPoint>
+  </resort>
+  <resort name="留壽都">
+    <accessPoint name="新千歲(access)" filename="Rusutsu-CTS.xml">
+    </accessPoint>
+    <accessPoint name="札幌" filename="Rusutsu-sapporo.xml">
+    </accessPoint>
+  </resort>
+  <resort name="藏王">
+    <accessPoint name="山形車站" filename="Zao-yamagata.xml">
+    </accessPoint>
+    <accessPoint name="仙台機場" filename="Zao-SDJ.xml">
+    </accessPoint>
+    <accessPoint name="東京市區" filename="Zao-tokoyo.xml">
+    </accessPoint>
+    <accessPoint name="仙台駅" filename="Zao-sendai.xml">
+    </accessPoint>
+  </resort>
+  <resort name="安比">
+    <accessPoint name="盛岡駅" filename="appi-morioka.xml">
+    </accessPoint>
+    <accessPoint name="花巻空港" filename="appi-hna.xml">
+    </accessPoint>
+    <accessPoint name="青森空港" filename="appi-aomori.xml">
+    </accessPoint>
+    <accessPoint name="仙台空港" filename="appi-sdj.xml">
+    </accessPoint>
+    <accessPoint name="仙台駅" filename="appi-sendai.xml">
+    </accessPoint>
+  </resort>
+  <resort name="Gala">
+    <accessPoint name="越後湯沢駅(藍)" filename="gala-blue.xml">
+    </accessPoint>
+    <accessPoint name="越後湯沢駅(黃)" filename="gala-yellow.xml">
+    </accessPoint>
+    <accessPoint name="NASPA(紫)" filename="gala-purple.xml">
+    </accessPoint>
+    <accessPoint name="中里地区(紅)" filename="gala-red.xml">
+    </accessPoint>
+  </resort>
+  <resort name="湯澤中里">
+    <accessPoint name="越後湯沢駅" filename="nakazato-yuzawa.xml">
+    </accessPoint>
+  </resort>
+  <resort name="石打丸">
+    <accessPoint name="越後湯沢駅(中央口)" filename="ishiuchi-yuzawa-c.xml">
+    </accessPoint>
+    <accessPoint name="越後湯沢駅(石口)" filename="ishiuchi-yuzawa-h.xml">
+    </accessPoint>
+    <accessPoint name="越後湯沢駅(三口)" filename="ishiuchi-yuzawa-k.xml">
+    </accessPoint>
+    <accessPoint name="Gala" filename="ishiuchi-gala.xml">
+    </accessPoint>
+  </resort>
+  <resort name="舞子高原">
+    <accessPoint name="越後湯沢駅" filename="maiko-yuzawa.xml">
+    </accessPoint>
+  </resort>
+  <resort name="東京">
+    <accessPoint name="西武巴士" filename="seibubus.xml">
+    </accessPoint>
+    <accessPoint name="AccessNarita" filename="tokyo-Narita.xml">
+    </accessPoint>
+  </resort>
+  <resort name="北海道市區">
+    <accessPoint name="北海道市區(中央巴士)" filename="sapporo-CTS.xml">
+    </accessPoint>
+  </resort>
+  <resort name="盤溪">
+    <accessPoint name="札幌市區" filename="bankei-sapporo.xml">
+    </accessPoint>
+  </resort>
+  <resort name="札幌國際">
+    <accessPoint name="札幌市區" filename="kokusai-sapporo.xml">
+    </accessPoint>
+    <accessPoint name="新千歲空港" filename="kokusai-chitose.xml">
+    </accessPoint>
+  </resort>
+  <resort name="キロロ">
+    <accessPoint name="札幌" filename="kiroro-sapporo.xml">
+    </accessPoint>
+    <accessPoint name="新千歲" filename="kiroro-CTS.xml">
+    </accessPoint>
+  </resort>
+  <resort name="軽井沢">
+    <accessPoint name="棕線" filename="karuizawa-brown.xml">
+    </accessPoint>
+    <accessPoint name="羽田空港" filename="karuizawa-haneda.xml">
+    </accessPoint>
+  </resort>
+  <resort name="成田">
+    <accessPoint name="雪場" filename="narita-skiarea.xml">
+    </accessPoint>
+  </resort>
+  <resort name="羽田">
+    <accessPoint name="雪場" filename="haneda-skiarea.xml">
+    </accessPoint>
+  </resort>
+</skiResorts>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="新千歲" to="キロロ">
+  <outbound>
+    <transportation name="新千歲国内→キロロ" type="highwayBus" available="2017/12/01~2018/04/06" apply-to="キロロ">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/post_3.html#000040</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+          </stop>
+          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>ホテル" gps="43.075428, 140.982905" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+          </stop>
+          <stop name="キロロマウンテンセンター"   tag="キロロ>キロロ" gps="43.067995, 140.989328" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="トリビュートポートフォリオホテル" fare="0" km="0" />
+          </stop>
+          <stop name="シェラトン北海道キロロリブート"   tag="キロロ>ホテル" gps="" >
+            <interval from="新千歳空港国内線" fare="4000" km="0" />
+            <interval from="トリビュートポートフォリオホテル" fare="0" km="0" />
+            <interval from="キロロマウンテンセンター" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>09:30</time>
+          <time>11:30</time>
+          <time>11:35</time>
+          <time>11:40</time>
+        </run>
+        <run >
+          <time>10:50</time>
+          <time>12:50</time>
+          <time>12:55</time>
+          <time>13:00</time>
+        </run>
+        <run >
+          <time>12:05</time>
+          <time>14:05</time>
+          <time>14:10</time>
+          <time>14:15</time>
+        </run>
+        <run >
+          <time>14:00</time>
+          <time>16:10</time>
+          <time>16:15</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>15:55</time>
+          <time>18:05</time>
+          <time>18:10</time>
+          <time>18:15</time>
+        </run>
+        <run >
+          <time>17:55</time>
+          <time>20:05</time>
+          <time>20:10</time>
+          <time>20:15</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="新千歲国際→キロロ" type="highwayBus" available="2017/12/01~2018/04/06" apply-to="キロロ">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/post_3.html#000040</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+          </stop>
+          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>ホテル" gps="43.075428, 140.982905" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+          </stop>
+          <stop name="キロロマウンテンセンター"   tag="キロロ>キロロ" gps="43.067995, 140.989328" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="トリビュートポートフォリオホテル" fare="0" km="0" />
+          </stop>
+          <stop name="シェラトン北海道キロロリブート"   tag="キロロ>ホテル" gps="" >
+            <interval from="新千歳空港国際線" fare="4000" km="0" />
+            <interval from="トリビュートポートフォリオホテル" fare="0" km="0" />
+            <interval from="キロロマウンテンセンター" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>14:10</time>
+          <time>16:10</time>
+          <time>16:15</time>
+          <time>16:20</time>
+        </run>
+        <run >
+          <time>16:05</time>
+          <time>18:05</time>
+          <time>18:10</time>
+          <time>18:15</time>
+        </run>
+        <run >
+          <time>18:05</time>
+          <time>20:05</time>
+          <time>20:10</time>
+          <time>20:15</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="キロロ→新千歲国内" type="highwayBus" available="2017/12/01~2018/04/06" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,NASPA,戸狩温泉,石打丸,湯沢中里,舞子,湯沢高原,京都,長野,名古屋,大阪,東北市區,東京,越後湯沢,空港,台灣,東北の駅">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/post_3.html#000040</source>
+      <timetable>
+        <route>
+          <stop name="キロロマウンテンセンター"   tag="キロロ>キロロ" gps="43.067995, 140.989328" >
+          </stop>
+          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>ホテル" gps="43.075428, 140.982905" >
+            <interval from="キロロマウンテンセンター" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国内線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+            <interval from="キロロマウンテンセンター" fare="4000" km="0" />
+            <interval from="トリビュートポートフォリオホテル" fare="4000" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:30</time>
+          <time>08:40</time>
+          <time>10:50</time>
+        </run>
+        <run >
+          <time>10:40</time>
+          <time>10:50</time>
+          <time>13:00</time>
+        </run>
+        <run >
+          <time>12:40</time>
+          <time>12:50</time>
+          <time>15:00</time>
+        </run>
+        <run >
+          <time>14:10</time>
+          <time>14:20</time>
+          <time>16:30</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:50</time>
+          <time>18:00</time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>17:20</time>
+          <time>19:30</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="キロロ→新千歲国際" type="highwayBus" available="2017/12/01~2018/04/06" apply-to=",湯澤,東北市區,台灣">
+      <info>
+      </info>
+      <source>http://www.access-n.jp/winter2017/skibus/detail/post_3.html#000040</source>
+      <timetable>
+        <route>
+          <stop name="キロロマウンテンセンター"   tag="キロロ>キロロ" gps="43.067995, 140.989328" >
+          </stop>
+          <stop name="トリビュートポートフォリオホテル"   tag="キロロ>ホテル" gps="43.075428, 140.982905" >
+            <interval from="キロロマウンテンセンター" fare="0" km="0" />
+          </stop>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+            <interval from="キロロマウンテンセンター" fare="4000" km="0" />
+            <interval from="トリビュートポートフォリオホテル" fare="4000" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:30</time>
+          <time>08:40</time>
+          <time>10:55</time>
+        </run>
+        <run >
+          <time>10:40</time>
+          <time>10:50</time>
+          <time>13:05</time>
+        </run>
+        <run >
+          <time>12:40</time>
+          <time>12:50</time>
+          <time>15:05</time>
+        </run>
+        <run >
+          <time>14:10</time>
+          <time>14:20</time>
+          <time>16:35</time>
+        </run>
+        <run >
+          <time>15:40</time>
+          <time>15:50</time>
+          <time>18:05</time>
+        </run>
+        <run >
+          <time>17:10</time>
+          <time>17:20</time>
+          <time>19:35</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

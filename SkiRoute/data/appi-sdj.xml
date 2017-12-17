@@ -1,57 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accesspoint name="仙台空港" to="安比">
   <outbound>
-    <transportation name="仙台空港→安比" type="highwayBus" available="2016/12/16~2017/03/26" apply-to=",安比">
+    <transportation name="仙台空港→安比" type="highwayBus" available="2017/12/15~2018/03/25" apply-to=",安比">
       <info>*需要提前預約（2周前）
 *巴士會經過盛岡站</info>
-      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <source>https://www.appi.co.jp/access-winter</source>
       <timetable>
         <route>
           <stop name="仙台空港"   tag="空港>仙台空港" gps="" >
           </stop>
+          <stop name="JR盛岡駅" yahoo="true"  tag="東北の駅>JR" gps="" >
+            <interval from="仙台空港" fare="3200" km="0" />
+          </stop>
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
             <interval from="仙台空港" fare="4000" km="0" />
+            <interval from="JR盛岡駅" fare="0" km="0" />
+          </stop>
+          <stop name="安比高原スキー場"   tag="安比>安比高原" gps="" >
+            <interval from="仙台空港" fare="4000" km="0" />
+            <interval from="JR盛岡駅" fare="0" km="0" />
+            <interval from="ホテル安比グランド" fare="0" km="0" />
+          </stop>
+          <stop name="安比ヒルズ白樺の森3"   tag="安比>安比高原" gps="" >
+            <interval from="仙台空港" fare="4000" km="0" />
+            <interval from="JR盛岡駅" fare="0" km="0" />
+            <interval from="ホテル安比グランド" fare="0" km="0" />
+            <interval from="安比高原スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="安比高原温泉ホテル"   tag="安比>安比高原" gps="" >
+            <interval from="仙台空港" fare="4000" km="0" />
+            <interval from="JR盛岡駅" fare="0" km="0" />
+            <interval from="ホテル安比グランド" fare="0" km="0" />
+            <interval from="安比高原スキー場" fare="0" km="0" />
+            <interval from="安比ヒルズ白樺の森3" fare="0" km="0" />
           </stop>
         </route>
         <run >
           <time>10:20</time>
+          <time>13:10</time>
           <time>14:05</time>
-        </run>
-        <run >
-          <time>13:00</time>
-          <time>16:45</time>
-        </run>
-        <run >
-          <time>16:00</time>
-          <time>19:45</time>
+          <time>14:15</time>
+          <time>14:19</time>
+          <time>14:20</time>
         </run>
       </timetable>
     </transportation>
   </outbound>
   <inbound>
-    <transportation name="安比→仙台空港" type="highwayBus" available="2016/12/16~2017/03/26" apply-to=",札幌,京都,大阪,苗場,富良野,石打丸,朝里川,札幌国際,妙高,湯沢中里,台灣,空港,キロロ,盤溪,東京,東北の駅,軽井沢,Gala,長野,越後湯沢,戸狩温泉,二世古,湯沢高原,舞子,志賀,藏王,野沢温泉,留壽都,NASPA,名古屋,白馬,定山渓,ばんけい,ニセコ,ルスツ">
+    <transportation name="安比→仙台空港" type="highwayBus" available="2017/12/15~2018/03/25" apply-to=",札幌,軽井沢,Gala,白馬,京都,東京,富良野,ルスツ,朝里川,札幌国際,妙高,湯沢中里,台灣,キロロ,石打丸,苗場,越後湯沢,東北の駅,長野,NASPA,大阪,名古屋,ばんけい,ニセコ,空港,湯沢高原,志賀,定山渓,野沢温泉,戸狩温泉,舞子">
       <info>*需要提前預約（2周前）
 *巴士會經過盛岡站</info>
-      <source>http://tc.appi-japan.com/welcome-to-appi/howto-gethere.html</source>
+      <source>https://www.appi.co.jp/access-winter</source>
       <timetable>
         <route>
+          <stop name="安比高原温泉ホテル"   tag="安比>安比高原" gps="" >
+          </stop>
+          <stop name="安比ヒルズ白樺の森3"   tag="安比>安比高原" gps="" >
+            <interval from="安比高原温泉ホテル" fare="0" km="0" />
+          </stop>
+          <stop name="安比高原スキー場"   tag="安比>安比高原" gps="" >
+            <interval from="安比高原温泉ホテル" fare="0" km="0" />
+            <interval from="安比ヒルズ白樺の森3" fare="0" km="0" />
+          </stop>
           <stop name="ホテル安比グランド"   tag="安比>安比高原" gps="" >
+            <interval from="安比高原温泉ホテル" fare="0" km="0" />
+            <interval from="安比ヒルズ白樺の森3" fare="0" km="0" />
+            <interval from="安比高原スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="JR盛岡駅" yahoo="true"  tag="東北の駅>JR" gps="" >
+            <interval from="安比高原温泉ホテル" fare="0" km="0" />
+            <interval from="安比ヒルズ白樺の森3" fare="0" km="0" />
+            <interval from="安比高原スキー場" fare="0" km="0" />
+            <interval from="ホテル安比グランド" fare="0" km="0" />
           </stop>
           <stop name="仙台空港"   tag="空港>仙台空港" gps="" >
+            <interval from="安比高原温泉ホテル" fare="4000" km="0" />
+            <interval from="安比ヒルズ白樺の森3" fare="4000" km="0" />
+            <interval from="安比高原スキー場" fare="4000" km="0" />
             <interval from="ホテル安比グランド" fare="4000" km="0" />
+            <interval from="JR盛岡駅" fare="3200" km="0" />
           </stop>
         </route>
         <run >
-          <time>09:15</time>
           <time>13:00</time>
-        </run>
-        <run >
-          <time>11:30</time>
-          <time>15:15</time>
-        </run>
-        <run >
-          <time>13:45</time>
-          <time>17:30</time>
+          <time>13:01</time>
+          <time>13:05</time>
+          <time>13:15</time>
+          <time>14:05</time>
+          <time>17:00</time>
         </run>
       </timetable>
     </transportation>

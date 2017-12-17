@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="日本(Scoot)" to="台灣">
+  <outbound>
+    <transportation name="Scoot 関西→小港" type="air" available="" apply-to=",台灣">
+      <info>高雄飛大阪每周二四六</info>
+      <source>http://www.flyscoot.com/zhtw/</source>
+      <timetable>
+        <route>
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+          </stop>
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
+            <interval from="関西国際空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>17:05</time>
+          <time>19:40</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Scoot 北海道→桃園" type="air" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.flyscoot.com/zhtw/</source>
+      <timetable>
+        <route>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+          </stop>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+            <interval from="新千歳空港国際線" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>17:25</time>
+          <time>20:55</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Scoot 成田→桃園" type="air" available="" apply-to=",台灣">
+      <info>
+      </info>
+      <source>http://www.flyscoot.com/zhtw/</source>
+      <timetable>
+        <route>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.773835, 140.388533" >
+          </stop>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+            <interval from="成田空港第2ターミナル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>11:45</time>
+          <time>14:55</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="Scoot 小港→関西" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,札幌,京都,東北市區,苗場,富良野,石打丸,朝里川,札幌国際,湯沢中里,空港,キロロ,盤溪,長野,軽井沢,Gala,名古屋,東京,戸狩温泉,越後湯沢,大阪,NASPA,留壽都,二世古,定山渓,安比,湯沢高原,舞子,藏王,ばんけい,東北の駅,ルスツ,ニセコ">
+      <info>高雄飛大阪每周二四六</info>
+      <source>http://www.flyscoot.com/zhtw/</source>
+      <timetable>
+        <route>
+          <stop name="小港空港"   tag="台灣>高雄" gps="" >
+          </stop>
+          <stop name="関西国際空港" yahoo="true"  tag="空港>関西国際空港" gps="" >
+            <interval from="小港空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>12:10</time>
+          <time>15:55</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Scoot 桃園→北海道" type="air" available="" apply-to="二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,二世古,定山渓,ばんけい,ニセコ,ルスツ">
+      <info>
+      </info>
+      <source>http://www.flyscoot.com/zhtw/</source>
+      <timetable>
+        <route>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="新千歳空港国際線" yahoo="true"  tag="空港>新千歲空港" gps="" >
+            <interval from="桃園空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>11:30</time>
+          <time>15:55</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="Scoot 桃園→成田" type="air" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,札幌,Gala,長野,東北市區,東京,越後湯沢,NASPA,留壽都,戸狩温泉,盤溪,富良野,石打丸,朝里川,札幌国際,湯沢中里,空港,キロロ,二世古,安比,定山渓,湯沢高原,舞子,藏王,ばんけい,ニセコ,ルスツ,東北の駅">
+      <info>
+      </info>
+      <source>http://www.flyscoot.com/zhtw/</source>
+      <timetable>
+        <route>
+          <stop name="桃園空港"   tag="台灣>桃園" gps="" >
+          </stop>
+          <stop name="成田空港第2ターミナル" yahoo="true"  tag="空港>成田空港" gps="35.773835, 140.388533" >
+            <interval from="桃園空港" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>06:40</time>
+          <time>10:35</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

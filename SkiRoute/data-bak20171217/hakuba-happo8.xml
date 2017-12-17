@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="八方循環巴士8、9" to="八方、岩岳">
+  <outbound>
+    <transportation name="No.8Bus 白馬ハイランドホテル～岩岳ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
+          </stop>
+          <stop name="白馬ロイヤルホテル"   tag="白馬>八方" gps="36.694700, 137.860792" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+          </stop>
+          <stop name="白馬山麓ツアーズ"   tag="白馬>八方" gps="36.696236, 137.862255" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+          </stop>
+          <stop name="大洋ハイツ"   tag="白馬>八方" gps="" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+          </stop>
+          <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:20</time>
+          <time>07:25</time>
+          <time>07:28</time>
+          <time>07:30</time>
+          <time>07:34</time>
+          <time>07:39</time>
+        </run>
+        <run >
+          <time>08:50</time>
+          <time>08:55</time>
+          <time>08:58</time>
+          <time>09:00</time>
+          <time>09:04</time>
+          <time>09:09</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="No.9Bus 白馬ハイランドホテル～岩岳ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
+          </stop>
+          <stop name="白馬ロイヤルホテル"   tag="白馬>八方" gps="36.694700, 137.860792" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+          </stop>
+          <stop name="白馬山麓ツアーズ"   tag="白馬>八方" gps="36.696236, 137.862255" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+          </stop>
+          <stop name="大洋ハイツ"   tag="白馬>八方" gps="" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+          </stop>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳" gps="36.716878, 137.858722" >
+            <interval from="白馬ハイランドホテル" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>08:05</time>
+          <time>08:10</time>
+          <time>08:13</time>
+          <time>08:15</time>
+          <time>08:19</time>
+          <time>08:25</time>
+        </run>
+        <run >
+          <time>09:35</time>
+          <time>09:40</time>
+          <time>09:43</time>
+          <time>09:45</time>
+          <time>09:49</time>
+          <time>09:55</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="No.8Bus 白馬ハイランドホテル～岩岳ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="八方ゴンドラ"   tag="白馬>八方" gps="36.701865, 137.837313" >
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="大洋ハイツ"   tag="白馬>八方" gps="" >
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+          <stop name="白馬山麓ツアーズ"   tag="白馬>八方" gps="36.696236, 137.862255" >
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ロイヤルホテル"   tag="白馬>八方" gps="36.694700, 137.860792" >
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
+            <interval from="八方ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>14:30</time>
+          <time>14:35</time>
+          <time>14:39</time>
+          <time>14:41</time>
+          <time>14:44</time>
+          <time>14:49</time>
+        </run>
+        <run >
+          <time>16:50</time>
+          <time>16:55</time>
+          <time>16:59</time>
+          <time>17:01</time>
+          <time>17:04</time>
+          <time>17:09</time>
+        </run>
+      </timetable>
+    </transportation>
+    <transportation name="No.9Bus 白馬ハイランドホテル～岩岳ゴンドラ" type="bus" available="2016/12/17~2017/03/26" apply-to="白馬">
+      <info>
+      </info>
+      <source>http://www.happo-one.jp/access/shuttle-bus</source>
+      <timetable>
+        <route>
+          <stop name="岩岳ゴンドラ"   tag="白馬>岩岳" gps="36.716878, 137.858722" >
+          </stop>
+          <stop name="八方info"   tag="白馬>八方" gps="36.701490, 137.845731" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+          </stop>
+          <stop name="大洋ハイツ"   tag="白馬>八方" gps="" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+          </stop>
+          <stop name="白馬山麓ツアーズ"   tag="白馬>八方" gps="36.696236, 137.862255" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ロイヤルホテル"   tag="白馬>八方" gps="36.694700, 137.860792" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+          </stop>
+          <stop name="白馬ハイランドホテル"   tag="白馬>八方" gps="36.690602, 137.866721" >
+            <interval from="岩岳ゴンドラ" fare="0" km="0" />
+            <interval from="八方info" fare="0" km="0" />
+            <interval from="大洋ハイツ" fare="0" km="0" />
+            <interval from="白馬山麓ツアーズ" fare="0" km="0" />
+            <interval from="白馬ロイヤルホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>13:10</time>
+          <time>13:16</time>
+          <time>13:20</time>
+          <time>13:22</time>
+          <time>13:25</time>
+          <time>13:30</time>
+        </run>
+        <run >
+          <time>15:50</time>
+          <time>15:56</time>
+          <time>16:00</time>
+          <time>16:02</time>
+          <time>16:05</time>
+          <time>16:10</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

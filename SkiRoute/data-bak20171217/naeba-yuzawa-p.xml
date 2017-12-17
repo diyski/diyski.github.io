@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="越後湯澤(付)" to="苗場">
+  <outbound>
+    <transportation name="越後湯沢→苗場" type="bus" available="2017/12/09~2018/04/01" apply-to="苗場">
+      <info>※大型行李或雪具一件+100日幣運費，有全山共通票免費
+
+※ご利用日当日のMt.Naeba共通リフト券をお持ちの方は＜かぐら－苗場エリア間＞の乗車料金が無料となります。
+　ただし、手荷物（スキー・スノーボード・大型バック等）の持込料金￥100が必要となります。</info>
+      <source>http://www.princehotels.co.jp/naeba/access/</source>
+      <timetable>
+        <route>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+          </stop>
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
+            <interval from="JR越後湯沢駅" fare="380" km="8" />
+          </stop>
+          <stop name="田代スキー場"   tag="苗場>田代" gps="36.846149, 138.775810" >
+            <interval from="JR越後湯沢駅" fare="530" km="14" />
+            <interval from="かぐらスキー場" fare="0" km="6" />
+          </stop>
+          <stop name="苗場プリンスホテル6号館"   tag="苗場>プリンスホテル" gps="36.795316, 138.786224" >
+            <interval from="JR越後湯沢駅" fare="660" km="21.5" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+          </stop>
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
+            <interval from="JR越後湯沢駅" fare="670" km="22" />
+            <interval from="かぐらスキー場" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>07:35</time>
+          <time>07:55</time>
+          <time>08:05</time>
+          <time>08:15</time>
+          <time>08:20</time>
+        </run>
+        <run >
+          <time>08:35</time>
+          <time>08:55</time>
+          <time>09:05</time>
+          <time>09:15</time>
+          <time>09:20</time>
+        </run>
+        <run available="67h" >
+          <time>08:50</time>
+          <time>09:10</time>
+          <time>09:25</time>
+          <time>09:30</time>
+          <time>09:35</time>
+        </run>
+        <run >
+          <time>09:35</time>
+          <time>09:55</time>
+          <time>10:05</time>
+          <time>10:15</time>
+          <time>10:20</time>
+        </run>
+        <run >
+          <time>10:45</time>
+          <time>11:05</time>
+          <time>11:15</time>
+          <time>11:25</time>
+          <time>11:40</time>
+        </run>
+        <run available="67h" >
+          <time>11:15</time>
+          <time>11:35</time>
+          <time>11:45</time>
+          <time>11:55</time>
+          <time>12:00</time>
+        </run>
+        <run available="67h" >
+          <time>
+          </time>
+          <time>15:35</time>
+          <time>15:45</time>
+          <time>15:55</time>
+          <time>16:00</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>16:00</time>
+          <time>16:10</time>
+          <time>16:20</time>
+          <time>16:25</time>
+        </run>
+        <run >
+          <time>
+          </time>
+          <time>16:40</time>
+          <time>16:50</time>
+          <time>17:10</time>
+          <time>17:05</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="苗場→越後湯沢" type="bus" available="2017/12/09~2018/04/01" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,軽井沢,安比,藏王,二世谷,留壽都,富良野,盤溪,札幌国際,朝里川,キロロ,京都,東北市區,石打丸,機場,湯沢中里,台灣,湯沢高原,定山渓,舞子,二世古,戸狩温泉,東京,長野,名古屋,Gala,大阪,越後湯沢,NASPA,ルスツ,東北の駅,ばんけい,ニセコ,空港">
+      <info>※大型行李或雪具一件+100日幣運費，有全山共通票免費
+
+※ご利用日当日のMt.Naeba共通リフト券をお持ちの方は＜かぐら－苗場エリア間＞の乗車料金が無料となります。
+　ただし、手荷物（スキー・スノーボード・大型バック等）の持込料金￥100が必要となります。</info>
+      <source>http://www.princehotels.co.jp/naeba/access/</source>
+      <timetable>
+        <route>
+          <stop name="苗場プリンスホテル4号館"   tag="苗場>プリンスホテル" gps="36.792064, 138.784836" >
+          </stop>
+          <stop name="苗場プリンスホテル6号館"   tag="苗場>プリンスホテル" gps="36.795316, 138.786224" >
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
+          </stop>
+          <stop name="田代スキー場"   tag="苗場>田代" gps="36.846149, 138.775810" >
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
+          </stop>
+          <stop name="かぐらスキー場"   tag="苗場>かぐら" gps="" >
+            <interval from="苗場プリンスホテル4号館" fare="0" km="0" />
+            <interval from="苗場プリンスホテル6号館" fare="0" km="0" />
+            <interval from="田代スキー場" fare="0" km="6" />
+          </stop>
+          <stop name="JR越後湯沢駅" yahoo="true"  tag="越後湯沢>JR" gps="36.936324, 138.810523" >
+            <interval from="苗場プリンスホテル4号館" fare="670" km="22" />
+            <interval from="苗場プリンスホテル6号館" fare="660" km="21.5" />
+            <interval from="田代スキー場" fare="530" km="14" />
+            <interval from="かぐらスキー場" fare="380" km="8" />
+          </stop>
+        </route>
+        <run >
+          <time>08:25</time>
+          <time>08:30</time>
+          <time>08:40</time>
+          <time>08:50</time>
+          <time>09:10</time>
+        </run>
+        <run >
+          <time>09:25</time>
+          <time>09:30</time>
+          <time>09:40</time>
+          <time>09:50</time>
+          <time>10:10</time>
+        </run>
+        <run available="67h" >
+          <time>10:00</time>
+          <time>10:05</time>
+          <time>10:15</time>
+          <time>10:25</time>
+          <time>10:45</time>
+        </run>
+        <run >
+          <time>10:30</time>
+          <time>10:35</time>
+          <time>10:45</time>
+          <time>10:55</time>
+          <time>11:15</time>
+        </run>
+        <run >
+          <time>11:50</time>
+          <time>11:55</time>
+          <time>12:05</time>
+          <time>12:15</time>
+          <time>
+          </time>
+        </run>
+        <run available="67h" >
+          <time>12:15</time>
+          <time>12:20</time>
+          <time>12:30</time>
+          <time>12:40</time>
+          <time>
+          </time>
+        </run>
+        <run >
+          <time>14:30</time>
+          <time>14:35</time>
+          <time>14:45</time>
+          <time>14:55</time>
+          <time>15:15</time>
+        </run>
+        <run >
+          <time>15:20</time>
+          <time>15:25</time>
+          <time>15:35</time>
+          <time>15:45</time>
+          <time>16:05</time>
+        </run>
+        <run available="67h" >
+          <time>16:15</time>
+          <time>16:20</time>
+          <time>16:30</time>
+          <time>16:40</time>
+          <time>17:00</time>
+        </run>
+        <run >
+          <time>16:40</time>
+          <time>16:45</time>
+          <time>16:55</time>
+          <time>17:05</time>
+          <time>17:25</time>
+        </run>
+        <run >
+          <time>17:20</time>
+          <time>17:25</time>
+          <time>17:35</time>
+          <time>17:45</time>
+          <time>18:05</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>

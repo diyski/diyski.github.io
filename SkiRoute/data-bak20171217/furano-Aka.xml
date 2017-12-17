@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accesspoint name="旭川空港" to="富良野">
+  <outbound>
+    <transportation name="旭川空港→富良野" type="highwayBus" available="" apply-to="富良野">
+      <info>
+      </info>
+      <source>http://www.furanobus.jp/lavender/</source>
+      <timetable>
+        <route>
+          <stop name="旭川空港" yahoo="true"  tag="空港>旭川空港" gps="" >
+          </stop>
+          <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="" >
+            <interval from="旭川空港" fare="770" km="60" />
+          </stop>
+          <stop name="kisen"   tag="富良野>その他" gps="43.343404, 142.367589" >
+            <interval from="旭川空港" fare="820" km="60" />
+            <interval from="富良野駅" fare="160" km="0" />
+          </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="旭川空港" fare="820" km="60" />
+            <interval from="富良野駅" fare="160" km="0" />
+            <interval from="kisen" fare="0" km="0" />
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="旭川空港" fare="930" km="60" />
+            <interval from="富良野駅" fare="260" km="0" />
+            <interval from="kisen" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+          </stop>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+            <interval from="旭川空港" fare="0" km="0" />
+            <interval from="富良野駅" fare="0" km="0" />
+            <interval from="kisen" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+        </route>
+        <run >
+          <time>10:10</time>
+          <time>11:12</time>
+          <time>11:20</time>
+          <time>11:21</time>
+          <time>11:22</time>
+          <time>11:30</time>
+        </run>
+      </timetable>
+    </transportation>
+  </outbound>
+  <inbound>
+    <transportation name="富良野→旭川空港" type="highwayBus" available="" apply-to="白馬,妙高,志賀,野沢温泉,湯澤,苗場,軽井沢,安比,藏王,Gala,京都,名古屋,大阪,長野,東北市區,越後湯沢,東京,NASPA,定山渓,石打丸,台灣,空港,湯沢高原,湯沢中里,舞子">
+      <info>
+      </info>
+      <source>http://www.furanobus.jp/lavender/</source>
+      <timetable>
+        <route>
+          <stop name="新富良野プリンスホテル"   tag="富良野>ホテル" gps="43.323216, 142.354501" >
+          </stop>
+          <stop name="富良野プリンスホテル"   tag="富良野>ホテル" gps="43.340518, 142.358168" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="ホテルナトゥールヴァルト富良野"   tag="富良野>ホテル" gps="43.342493, 142.360789" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+          </stop>
+          <stop name="kisen"   tag="富良野>その他" gps="43.343404, 142.367589" >
+            <interval from="新富良野プリンスホテル" fare="0" km="0" />
+            <interval from="富良野プリンスホテル" fare="0" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+          </stop>
+          <stop name="富良野駅" yahoo="true"  tag="富良野>富良野駅" gps="" >
+            <interval from="新富良野プリンスホテル" fare="260" km="0" />
+            <interval from="富良野プリンスホテル" fare="160" km="0" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="kisen" fare="160" km="0" />
+          </stop>
+          <stop name="旭川空港" yahoo="true"  tag="空港>旭川空港" gps="" >
+            <interval from="新富良野プリンスホテル" fare="930" km="60" />
+            <interval from="富良野プリンスホテル" fare="820" km="60" />
+            <interval from="ホテルナトゥールヴァルト富良野" fare="0" km="0" />
+            <interval from="kisen" fare="820" km="60" />
+            <interval from="富良野駅" fare="770" km="60" />
+          </stop>
+        </route>
+        <run >
+          <time>06:30</time>
+          <time>06:38</time>
+          <time>06:39</time>
+          <time>06:40</time>
+          <time>06:50</time>
+          <time>07:50</time>
+        </run>
+        <run >
+          <time>08:00</time>
+          <time>08:08</time>
+          <time>08:09</time>
+          <time>08:10</time>
+          <time>08:20</time>
+          <time>09:20</time>
+        </run>
+        <run >
+          <time>09:15</time>
+          <time>09:23</time>
+          <time>09:24</time>
+          <time>09:25</time>
+          <time>09:35</time>
+          <time>10:35</time>
+        </run>
+        <run >
+          <time>10:40</time>
+          <time>10:48</time>
+          <time>10:49</time>
+          <time>10:50</time>
+          <time>11:00</time>
+          <time>12:00</time>
+        </run>
+        <run >
+          <time>12:30</time>
+          <time>12:38</time>
+          <time>12:39</time>
+          <time>12:40</time>
+          <time>12:50</time>
+          <time>13:50</time>
+        </run>
+        <run >
+          <time>14:15</time>
+          <time>14:23</time>
+          <time>14:24</time>
+          <time>14:25</time>
+          <time>14:35</time>
+          <time>15:35</time>
+        </run>
+        <run >
+          <time>15:15</time>
+          <time>15:23</time>
+          <time>15:24</time>
+          <time>15:25</time>
+          <time>15:35</time>
+          <time>16:35</time>
+        </run>
+        <run >
+          <time>16:40</time>
+          <time>16:48</time>
+          <time>16:49</time>
+          <time>16:50</time>
+          <time>17:00</time>
+          <time>18:00</time>
+        </run>
+      </timetable>
+    </transportation>
+  </inbound>
+</accesspoint>
